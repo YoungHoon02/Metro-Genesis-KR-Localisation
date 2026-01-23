@@ -1,0 +1,157 @@
+﻿l_korean:
+ satellite_domestics_focus_1:0 "내부 개선"
+ satellite_domestics_focus_1_desc:0 "우리 역에는 대대적인 청소가 필요합니다. 사람들이 도랑과 인도에 널브러진 고철과 쓰레기에 걸려 넘어지지 않게 된 후에야, 개만한 쥐새끼들에게 집중할 수 있을 것입니다."
+
+ satellite_domestics_focus_2:0 "안식처 집중"
+ satellite_domestics_focus_2_desc:0 "우리 민중은 불결함 속에서 빈약한 배급으로 연명하고 있습니다. 우리 정당이 일주일 더 버티고 굶주린 폭도들의 먹잇감이 되지 않으려면 그들의 필요를 최우선으로 고려해야 합니다."
+
+ satellite_arsenal_focus_1:0 "군비 개선"
+ satellite_arsenal_focus_1_desc:0 ""
+
+ satellite_arsenal_focus_2:0 "군비 집중"
+ satellite_arsenal_focus_2_desc:0 ""
+
+ satellite_trade_focus_1:0 "수출 집중"
+ satellite_trade_focus_1_desc:0 ""
+
+ satellite_trade_focus_2:0 "수출 우선순위"
+ satellite_trade_focus_2_desc:0 ""
+
+ satellite_cp_gain:0 "개선된 참모부 사무실"
+ satellite_cp_gain_desc:0 ""
+
+ satellite_military_efforts:0 "군 조직 개편"
+ satellite_military_efforts_desc:0 ""
+
+ satellite_localized_command:0 "현지 지휘 분대"
+ satellite_localized_command_desc:0 ""
+
+ satellite_improve_staff:0 "개선된 군 지휘관"
+ satellite_improve_staff_desc:0 ""
+
+ satellite_doctrine_cost_reduction:0 "과거의 교리"
+ satellite_doctrine_cost_reduction_desc:0 ""
+
+ satellite_organized_containment_strategy:0 "조직된 격리 전략"
+ satellite_organized_containment_strategy_desc:0 ""
+
+ satellite_organized_training_drills_force:0 "훈련 연습"
+ satellite_organized_training_drills_force_desc:0 ""
+
+ satellite_standing_military_force:0 "상비군"
+ satellite_standing_military_force_desc:0 ""
+
+ satellite_organization_effort_1:0 "군사 조직"
+ satellite_organization_effort_1_desc:0 ""
+
+ satellite_organization_effort_2:0 "군사 역량"
+ satellite_organization_effort_2_desc:0 ""
+
+ satellite_standing_army:0 "국가군"
+ satellite_standing_army_desc:0 ""
+
+ satellite_defensive_army:0 "방어군"
+ satellite_defensive_army_desc:0 ""
+
+ satellite_station_garrison:0 "역 수비대"
+ satellite_station_garrison_desc:0 ""
+
+ satellite_mandatory_service_idea:0 "병역 의무"
+ satellite_mandatory_service_idea_desc:0 ""
+
+ satellite_military_A_idea: "최대 계획"
+ satellite_military_B_idea: "계획 속도"
+
+ satellite_establish_library:0 "도서관 설립"
+ satellite_establish_library_desc:0 ""
+
+ satellite_defensive_barricades:0 "방어 바리케이드"
+ satellite_defensive_barricades_desc:0 ""
+
+ satellite_defensive_barricades2:0 "종심 방어"
+ satellite_defensive_barricades2_desc:0 ""
+
+ satellite_technical_application:0 "기술적 응용"
+ satellite_technical_application_desc:0 ""
+
+ satellite_stout_labour:0 "집단 노동력"
+ satellite_stout_labour_desc:0 "우리의 노동력이 하나로 합쳐진다면 누구도 대적할 수 없을 것입니다"
+
+ satellite_specops_bonus:0 "특수부대 숙련도"
+ satellite_specops_bonus_desc:0 ""
+
+ satellite_railcart_bonus:0 "레일 드라이진 숙련도"
+ satellite_railcart_bonus_desc:0 ""
+
+ satellite_construction_civilian_1:0 "민간 건설"
+ satellite_construction_civilian_1_desc:0 ""
+
+ satellite_construction_civilian_2:0 "민간 프로젝트"
+ satellite_construction_civilian_2_desc:0 ""
+
+ satellite_construction_civilian_3:0 "민간 장려금"
+ satellite_construction_civilian_3_desc:0 ""
+
+ satellite_construction_military_1:0 "총기 제작소 건설"
+ satellite_construction_military_1_desc:0 "지상에서 AK와 다른 총기들을 모아올 수 있겠지만, 수거량이 줄어들면 어떻게 되겠습니까? 설마 적들에게 돌이나 창을 던질 생각은 아니시겠죠?"
+
+ satellite_construction_military_2:0 "화기 제작 프로젝트"
+ satellite_construction_military_2_desc:0 "총열 두 개를 겹쳐서 덕트 테이프로 칭칭 감는 것도 확실한 방법이긴 하지만, 이고르의 손가락이 화염 속에서 날아가 버리면 어떡할 겁니까? 우리 병사들이 손가락을 온전히 보존하고 싶다면 더 신뢰할 수 있는 무기가 필요합니다."
+
+ satellite_construction_military_3:0 "화기 제작자 장려금"
+ satellite_construction_military_3_desc:0 "화기 제작자들에게 생산량 기준이 아닌 개인별로 보수를 지급한다면, 우리를 위해 더 열심히 일할 의지가 생길 것입니다."
+
+ satellite_self_reliance_autarky:0 "자급자족"
+ satellite_self_reliance_autarky_desc:0 "역으로서 계속 번영하려면 자립해야 합니다. 우리가 곤경에 처했을 때 도와줄지 말지도 모르는 외부 세력에 의존할 수는 없습니다. 강해지기 위해서는 독립적이어야 합니다."
+
+ satellite_specialized_technical_production:0 "전문화된 기술 생산"
+ satellite_specialized_technical_production_desc:0 ""
+
+ satellite_technical_infantry_bonus:0 "보병 장비 제작 능력"
+ satellite_technical_infantry_bonus_desc:0 "쿠즈네츠키 모스트가 메트로에서 가장 훌륭한 급조 총기들을 생산할지는 몰라도, 충분한 양을 생산할 수 있을지는 의문입니다."
+
+ satellite_technical_draisine_bonus:0 "철도 차량 제조"
+ satellite_technical_draisine_bonus_desc:0 "전방으로 더 가까이 몰아라, 내 칼로 놈들을 직접 베어주마."
+
+ satellite_technical_support_weapons_bonus:0 "중화기 조달"
+ satellite_technical_support_weapons_bonus_desc:0 "총은 많을수록 좋습니다. 총은 문제를 해결하기도 하지만 만들기도 하죠."
+
+ satellite_technical_specops_bonus:0 "특수부대 장비 개조"
+ satellite_technical_specops_bonus_desc:0 "스파르타의 장비와 비교할 수는 없겠지만, 놈들이 자기 케블라 방편복이 열차 측면 패널로 만들어졌다는 말을 할 수 있을까요? 하, 절대 아니지!"
+
+ satellite_redline_support:0 "붉은 라인의 지원"
+ satellite_redline_support_desc:0 "소콜에서 직접 공급되는 지원입니다. 순수한 이타주의라기보다는 홍보 활동의 일환일 가능성이 큽니다."
+
+ _satellite_expunged_merchants:0 "추방된 상인들"
+ _satellite_expunged_merchants_desc:0 "어쨌든 그 비싼 물건들은 마음에 들지 않았습니다. 하지만 버섯차는 좀 그립군요."
+
+ satellite_tunnel_supply:0 "전선에 더 많은 총기를"
+ satellite_tunnel_supply_desc:0 "전쟁이 다시 메트로를 집어삼키고 있는 지금, 우리 군이 적절한 장비를 갖추도록 해야 합니다. 우리는 야만인이 아닙니다."
+
+ satellite_stake_our_claim_in_the_world:0 "지하 세계의 우리 자리"
+ satellite_stake_our_claim_in_the_world_desc:0 "수많은 장소들이 있지만, 그중 집 냄새가 나는 곳은 없습니다. 무너진 세상의 이 조각은 우리의 것이며, 우리는 목숨을 걸고 이를 지켜낼 것입니다."
+ 
+ satellite_stand_firm_against_fascism:0 "파시즘에 맞선 단결"
+ satellite_stand_firm_against_fascism_desc:0 "뭉치면 서고 흩어지면 죽는다"
+
+ satellite_rapid_production: "속성 생산"
+ satellite_rapid_production_desc: "좀 조잡할 수는 있겠지만, 조잡한 총이라도 없는 것보다는 낫다, 이고르."
+ satellite_our_own_way: "우리의 길"
+ satellite_our_own_way_desc: ""
+ satellite_no_retreat: "후퇴는 없다!"
+ satellite_no_surrender: "항복은 없다!"
+
+ 
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+

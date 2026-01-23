@@ -1,0 +1,65 @@
+﻿l_english:
+
+ ### Immigrant Collective and Council ###
+  
+ EUR_immigrant_collective: "Immigrant Collective"
+ EUR_immigrant_collective_desc: "Most of the population of Europe is devised of immigrants. The general population come together to vote on political decisions"
+
+ EUR_elective_council: "Elective Council"
+ EUR_elective_council_desc: "Europe formed an elective council, this council works like electoral governments before the war e.g. British Parliament. Representatives from each city come together to vote in matters of the nation."
+
+ ### Neutral Ministers and Advisors ###
+ 
+ _head_chancellor: "Head Chancellor"
+ 
+ EUR_head_chancellor_schulz: "Head Chancellor Schulz"
+ 
+ EUR_luca_bianachi: "Luca Bianachi"
+ EUR_luca_bianachi_desc: "A very strong willed individual who found himself a military advisor in the Commonwealth. He often disagrees with the councils tactics due to their failure to recognise the Great Worm cult for the threat they are to Europe. He is often very egotistical and has referred to himself as the Augustus of Europe"
+
+ EUR_council_of_generals: "Council of Generals"
+
+ EUR_amsel: "Alita Amsel"
+ EUR_AMSEL_DESC: "Born to a unremarkable §YStaatssicherheit§! apparatchik operating in the late §YGDR§!. To many reunification of East and West was seen as a fruitful beginning, but for Amsel's family it only brought hardship. With her father left utterly baffled and defeated with losing his post following the collapse of the Berlin Wall; his purpose to Socialism ultimately all for naught. With difficulty finding work he eventually succumbed to vices; never attaining any modicum of triumph ever.\n\nAlita, on the other hand through steadfast determination and an iron resolve shares the same vision of her late father to uphold true socialist ideals, Amsel looks towards the bleak future as the past paroxysmally rears itself into the present. There is hope for the new §YEuropa Workers Republic§! yet underneath her strategic, uncompromising and frankly ruthless command."
+ EUR_amsel_trait: "Sehnsucht"
+ EUR_amsel_trait_2: "Sehnsucht"
+ 
+ EUR_marshal: "Marshal Bathelt"
+ EUR_MARSHAL_DESC: "An aloof bureaucrat during the days of East Germany. Marshal Bathelt uncovered a side to his personality that no one knew whats there. Now he inspires unmitigated devotion and fear among his followers."
+ EUR_marshal_trait: "Stalwart to the Revolution"
+
+ # Minister
+  EUR_minister_military_oligarch_4: "Sagacious Logistician"
+	EUR_minister_military_oligarch_3: "Cruel Leader"
+	EUR_minister_military_oligarch_2: "Minister of the Troops"
+	EUR_minister_military_oligarch_1: "Shrewd Officer"
+	EUR_minister_military_5: "Charismatic Staffer"
+	EUR_minister_military_4: "Militia Drill Instructor"
+	EUR_minister_military_3: "Entrenchment Expert"
+	EUR_minister_military_2: "Tunnel Custodian"
+	EUR_minister_military_1: "Experienced Stalker"
+	EUR_minister_theorist_2: "Military Theorist"
+	EUR_minister_theorist_1: "Former Officer Staff"
+	EUR_minister_industrialist_oligarch_trait: "Relentless Industrialist"
+	EUR_minister_industrialist_council: "Shrewd Entrepreneur"
+	EUR_minister_industrialist_2: "Machinist"
+	EUR_minister_industrialist_1: "Budding Chemist"
+	EUR_minister_manufacturer_3: "Accountant Turned Comptroller"
+	EUR_minister_manufacturer_2: "Retired Foreman"
+	EUR_minister_manufacturer_1: "Gunsmith"
+	EUR_minister_dictatorial_align: "Chauvinist Sycophant"
+	EUR_minister_oligarch_align: "Neoteric Organizer"
+	EUR_minister_council_align: "Perfidious Trader"
+	EUR_minister_3: "Soapbox Speaker"
+	EUR_minister_2: "Head Scrapper"
+	EUR_minister_1: "Station Executive"
+
+
+
+
+
+
+
+
+
+

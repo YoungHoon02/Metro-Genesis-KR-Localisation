@@ -1,0 +1,323 @@
+﻿l_korean:
+
+ HNZ_decentralized_commonwealth_fake: "$HNZ_decentralized_commonwealth$"
+ HNZ_decentralized_commonwealth_fake_desc: "$HNZ_decentralized_commonwealth_desc$"
+ HNZ_trade_economy_fake: "$HNZ_trade_economy$"
+ HNZ_trade_economy_fake_desc: "$HNZ_trade_economy_desc$"
+ HNZ_board_versus_council_fake: "$HNZ_board_versus_council$"
+ HNZ_board_versus_council_fake_desc: "$HNZ_board_versus_council_desc$"
+ HNZ_defense_doctrine_fake: "$HNZ_defense_doctrine$"
+ HNZ_defense_doctrine_fake_desc: "$HNZ_defense_doctrine_desc$"
+
+ HNZ_decentralized_commonwealth: "분권형 연맹"
+ HNZ_decentralized_commonwealth_desc: "한자 연맹의 본질은 각 역들이 개별적인 자치권을 가진 공동체들의 집합이라는 점에 있습니다. 이로 인해 연맹 차원의 단일한 조직력을 발휘하는 데 어려움이 있으며, 주요 의사 결정은 각 역의 지역 역장들에 의해 좌우됩니다."
+ HNZ_trade_economy: "통상 경제 체제"
+ HNZ_trade_economy_desc: "연맹의 생존과 번영은 오직 무역에 달려 있습니다. 우리는 메트로 전역의 물자가 환상선으로 모이게 함으로써 막대한 이익을 창출합니다."
+ HNZ_board_versus_council: "권력의 이분법"
+ HNZ_board_versus_council_desc: "실무를 담당하는 '이사(Board)' 그룹과 노련한 역장들의 집단인 '평의회(Council)' 사이의 권력 균형은 연맹 정치의 핵심입니다."
+ HNZ_defense_doctrine: "강철의 환상선 교리"
+ HNZ_defense_doctrine_desc: "환상선(Koltsevaya)의 봉쇄는 곧 연맹의 멸망을 의미합니다. 우리는 그 어떤 대가를 치르더라도 모든 터널 입구와 환승역의 안보를 지켜내야 합니다."
+
+ HNZ_decentralized_commonwealth_modify_tt: "§Y$HNZ_decentralized_commonwealth$§! 수정 사항:"
+ HNZ_trade_economy_modify_tt: "§Y$HNZ_trade_economy$§! 수정 사항:"
+ HNZ_board_versus_council_modify_tt: "§Y$HNZ_board_versus_council$§! 수정 사항:"
+ HNZ_defense_doctrine_modify_tt: "§Y$HNZ_defense_doctrine$§! 수정 사항:"
+
+ HNZ_ring_line_secured: "환상선 보안 확보"
+ HNZ_ring_line_secured_desc: "환상선(Koltsevaya Line)은 메트로의 근간이자 연맹의 생명선입니다. 한자는 이 선로를 완벽히 장악함으로써 메트로의 경제적 패권을 거머쥐고 있습니다.\n\n주의: 만약 §Y환상선§!의 역 중 하나라도 점령당한다면, 이 국가 정신을 잃게 될 것입니다."
+
+ HNZ_bunker_efforts: "벙커 시설 복구"
+ HNZ_ZKP_taganskaya_directorate: "ZKP 타간스카야 사령부"
+ HNZ_prepare_conflict_resolutions: "분쟁 해결 준비"
+ HNZ_secret_rearmament_schemes: "비밀 재무장 계획"
+ HNZ_mobilize_station_guard: "역사 수비대 동원"
+ HNZ_stalker_techniques: "스토커 보강"
+ HNZ_rail_cart_improvement_modifier: "드레진 엔진 개량"
+ HNZ_rail_car_improvement_modifier: "정예 기동 대응팀"
+ HNZ_OVMSB_modifier: "OVMSB (특수 목적 내무군)"
+ HNZ_army_centralization_modifier_1: "군 중앙집권화 (단계 1)"
+ HNZ_army_centralization_modifier_2: "군 중앙집권화 (단계 2)"
+ HNZ_army_centralization_modifier_3: "군 중앙집권화 (완료)"
+ HNZ_mercenary_army_modifier: "고용된 용병단"
+ HNZ_world_tension_leand_lease: "영향력 투사"
+ HNZ_volunteer_foreign_corps: "외국인 의용군"
+ HNZ_command_roster: "신규 지휘관 명단"
+ HNZ_doctrine_cost_reduction: "전술적 집행"
+ HNZ_tinkering: "표준 장비 개량"
+ HNZ_defence_of_moscow: "모스크바 수호"
+ HNZ_combined_operations: "합동 작전"
+ HNZ_mandated_mobilization_idea: "칙령에 의한 동원"
+ HNZ_diplomatic_grants_idea: "외교적 지원금"
+ HNZ_planning_war_within_bonus: "내부 치안 유지"
+ HNZ_planning_war_without_bonus: "외부 위협 대비"
+
+ HNZ_inner_politics: "이사회의 정치질"
+ HNZ_materiel_manufacturers: "군수물자 생산본부"
+ HNZ_institute_no_begging: "구걸 금지법"
+ HNZ_no_vagrancy_laws: "부랑자 단속 및 추방령"
+
+ hanseatic_league: "환상선 역 연맹 (한자)"
+ hanseatic_league_desc: "'한자 연맹'이라 불리는 이 세력은 환상선(Ring Line)의 역들이 자본주의적 무역 동맹을 맺어 결성한 공화국입니다. 이들은 메트로 내에서 막대한 권력을 행사하며, 과거 미국의 자유 시장 경제 체제를 모방하여 규제가 거의 없는 철저한 실리 중심의 경제 정책을 고수합니다."
+
+ hanza_red_war_victor: "동맹 전쟁의 승리자"
+ hanza_red_war_victor_desc: "엄밀히 말해 완전한 군사적 압승은 아니었으나, 한자는 붉은 라인을 상대로 한 전쟁에서 연맹의 주도권을 지켜내는 데 성공했습니다. 하지만 그 전쟁의 상흔은 여전히 깊게 남아 있으며, 많은 생존자가 당시의 공포를 잊지 못하고 있습니다."
+
+ trade_economy: "통상 경제"
+
+ HNZ_stalker_techniques: "스토커 훈련 방식"
+
+ HNZ_decentralized_commonwealth_3: "완전한 지방 분권"
+ HNZ_decentralized_commonwealth_2: "부분적 행정 분권"
+ HNZ_decentralized_commonwealth_1: "제한적 중앙 통제"
+ 
+ HNZ_poor_high_command: "낙후된 지휘 구조"
+ HNZ_poor_high_command_desc: "붉은 라인과의 전쟁이 끝난 지 상당한 시간이 흘렀음에도 불구하고, 연맹의 지휘 체계는 여전히 비효율적이고 관료주의적인 초기 형태에 머물러 있습니다."
+
+ HNZ_exhausted_economy: "피폐해진 경제"
+ HNZ_exhausted_economy_desc: "연맹 경제의 상당 부분이 지난 전쟁을 치르며 소모되었습니다. 서서히 회복하고는 있지만, 전쟁의 여파로 인해 성장은 정체되어 있습니다."
+
+ ##   Laws   ## 
+ 
+ civics_border_HNZ_1: "무제한 통행권"
+ civics_border_HNZ_1_desc: "연맹의 역들을 통과하는 데 어떤 제한도 두지 않습니다. 자유로운 무역은 우리의 자산입니다."
+ civics_border_HNZ_2: "통행 여권 요구"
+ civics_border_HNZ_2_desc: "연맹의 이익 보호와 무역로의 철저한 관제를 위해, 외부 역 시민들이 연맹 관할 구간에 진입할 때 반드시 공인된 여권을 소지하도록 합니다."
+
+ HNZ_economy_law_1: "팽창주의 체제"
+ HNZ_economy_law_1_desc: ""
+ HNZ_economy_law_2: "실권 장악"
+ HNZ_economy_law_2_desc: ""
+ HNZ_economy_law_3: "전시 경제"
+ HNZ_economy_law_3_desc: ""
+ HNZ_economy_law_4: "성장하는 패권"
+ HNZ_economy_law_4_desc: "연맹은 주변의 작은 역들에 대해 표면적으로는 무관심해 보일 수 있으나, 우리의 경제적 실리에 위협이 되는 모든 요소를 철저히 배제할 준비가 되어 있습니다."
+ HNZ_economy_law_5: "방관하는 권위"
+ HNZ_economy_law_5_desc: "엄격한 규제와 선별적인 사업 허가를 통해 메트로의 경제적 균형을 우리에게 유리한 방향으로 조절합니다. 거대한 경제력을 행사하는 것은 큰 대가가 따르기에, 신중하면서도 강력하게 휘두릅니다."
+ HNZ_economy_law_6: "잠재적 초강대국"
+ HNZ_economy_law_6_desc: "한자는 잠재적인 위협을 군사력이 아닌 경제력으로 제압하는 것을 선호합니다. 경제적 제재는 우리의 지배력을 유지하기 위한 가장 강력한 언어입니다. '문 앞에서 소란 피우지 마라'가 우리의 불문율이며, 무력 정복보다는 경제적 종속을 지향합니다."
+
+ HNZ_mobilization_mercenary_law_1: "기회의 군대"
+ HNZ_mobilization_mercenary_law_1_desc: ""
+ HNZ_mobilization_mercenary_law_2: "정예 용병 계약"
+ HNZ_mobilization_mercenary_law_2_desc: ""
+ HNZ_mobilization_mercenary_law_3: "무장 상인단"
+ HNZ_mobilization_mercenary_law_3_desc: ""
+
+ HNZ_mobilization_law_1: "대규모 동원령"
+ HNZ_mobilization_law_1_desc: ""
+ HNZ_mobilization_law_2: "강제 노역 동원"
+ HNZ_mobilization_law_2_desc: ""
+ HNZ_mobilization_law_3: "광범위한 징집"
+ HNZ_mobilization_law_3_desc: ""
+ HNZ_mobilization_law_4: "범국민 동원 운동"
+ HNZ_mobilization_law_4_desc: ""
+ HNZ_mobilization_law_5: "역별 계약 기반 징병"
+ HNZ_mobilization_law_5_desc: ""
+ HNZ_mobilization_law_6: "역사 요새화 전략"
+ HNZ_mobilization_law_6_desc: ""
+
+ HNZ_gateway_to_the_metro: "메트로의 관문"
+
+ #  Eco   #
+
+ #HNZ_slumbering_giant: "Slumbering Giant"
+ #HNZ_slumbering_giant_desc: "The great wealth of the Hanza is kept freely flowing throughout the stations and the Commonwealth. A myriad of trade carts and merchants pass by #into Hanseatic Jurisdiction on a daily basis. The league maintains neutrality between the petty politicking of the metro. Keeping clear of others' affairs. However, one day #the economic giant may rise, and this shall have consequences for the entire metro."
+ #HNZ_aloof_authority: "Aloof Authority"
+ #HNZ_aloof_authority_desc: "The Hanza has pursued stricter regulations on who and what can trade within their Commonwealth, however they maintain a largely free market system. #A moderate amount of economic power has been dedicated towards military production and the maintenance of their authority, but the floodgates of wealth remain largely open."
+ #HNZ_peaceful_cooperation: "Peaceful Cooperation"
+ #HNZ_peaceful_cooperation_desc: "The Hanza has relaxed its regulations on the stations under its Commonwealth, as well as trade in general. It has put full force into economic #growth and inner stability, but has largely abandoned militarist economical matters outside of what can be sold on the market."
+ #HNZ_subversive_hegemony: "Subversive Hegemony"
+ #HNZ_subversive_hegemony_desc: "The Hanza has put full force into its military industry and its expansionist dreams, however this has caused economic ripples throughout the #metro, and the great flood of wealth that once saw the Hanza thrive is slowly draining."
+ #HNZ_restless_imperium: "Restless Imperium"
+ #HNZ_restless_imperium_desc: "Russia itself has arisen from the ashes. A new world dawns. The Citizens of the Metro live under mother Russia itself, and shall return to the #fold, kicking and screaming if they must."
+
+ ## ## ## ## ## ## ## ## ## ##
+
+ HNZ_reclamation_bureau: "지구 재건청(SRB)"
+ HNZ_reclamation_bureau_desc: "환상선 인근의 폐쇄된 터널들을 정리하고 지도를 제작하여 무역로의 안전을 확보하기 위한 특수 기관입니다."
+
+ HNZ_reclamation_bureau_2: "지구 재건청(SRB)"
+ HNZ_reclamation_bureau_2_desc: "환상선 전 구간의 안정적인 무역과 여행을 보장하기 위해 인프라를 상시 관리하고 위협 요소를 제거합니다."
+
+ HNZ_neutral: "중립성 유지"
+ HNZ_neutral_desc: "연맹은 다른 세력들의 사소한 다툼에 끼어들지 않고 중립을 지킴으로써 경제적 실리를 극대화합니다."
+
+ HNZ_import_tariffs: "수입 관세 적용"
+ HNZ_import_tariffs_desc: "연맹으로 유입되는 물자에 관세를 부과하여 국고를 확보하고 내부 시장을 보호합니다."
+
+ HNZ_adam_smith: "아담 스미스의 유산"
+ HNZ_adam_smith_desc: "우리는 보이지 않는 손이 메트로를 이끌어갈 것임을 믿습니다. 물론 그 손은 한자의 손이어야 하겠지만요."
+
+ HNZ_political_reinvention: "정치 체제 재정립"
+ HNZ_political_reinvention_desc: "변화하는 메트로의 정세에 맞춰 연맹의 정치 구조를 현대화하고 효율적으로 재편합니다."
+
+ HNZ_tunnel_cleansers: "터널 소탕 부대"
+ HNZ_tunnel_cleansers_desc: "터널 내의 돌연변이와 위협 요소를 제거하여 안전한 무역로를 확보하는 전문 병력입니다."
+
+ HNZ_tunnel_cleansers_2: "베테랑 터널 소탕대"
+ HNZ_tunnel_cleansers_2_desc: "수많은 실전을 거친 노련한 소탕대입니다. 이들은 어둠 속에서 마주치는 그 어떤 괴물도 두려워하지 않습니다."
+
+ HNZ_engineering_academy_idea: "공학 아카데미" 
+ HNZ_engineering_academy_idea_desc: "기술적 우위를 유지하기 위해 숙련된 엔지니어들을 양성하고 연구를 지원합니다."
+
+ HNZ_rail_cart_boost: "레일 카트 성능 개선"
+ HNZ_rail_cart_boost_desc: "엔진 출력과 장갑을 보강하여 드레진의 기동성과 방호력을 동시에 높입니다."
+
+ HNZ_stalker_expeditions: "지상 탐사 임무"
+ HNZ_stalker_expeditions_desc: "지상의 위험한 폐허로 스토커들을 파견하여 귀중한 자원과 기술을 회수합니다."
+
+ HNZ_stalker_expeditions_2: "대규모 지상 탐사"
+ HNZ_stalker_expeditions_2_desc: "더 체계적이고 광범위한 지상 탐사를 통해 대재앙 이전의 유산들을 발굴합니다."
+
+ HNZ_stalker_called_for_service: "소집된 스토커들"
+ HNZ_stalker_called_for_service_desc: "연맹의 위기를 해결하기 위해 베테랑 스토커들이 군에 협력하기로 했습니다."
+
+ HNZ_upgrade_arsenal: "조병창 현대화"
+ HNZ_upgrade_arsenal_desc: "무기 생산 시설을 확충하고 최신 공정을 도입하여 장비 보급률을 높입니다."
+
+ HNZ_high_command_planning: "고위 사령부 작전 계획"
+ HNZ_high_command_planning_desc: "전략적 수준에서의 치밀한 계획 수립을 통해 작전 성공 가능성을 극대화합니다."
+
+ HNZ_high_command_logistics: "고위 사령부 병참 관리" 
+ HNZ_high_command_logistics_desc: "복잡한 터널망을 통한 효율적인 물자 수송을 위해 병참 시스템을 개선합니다."
+
+ HNZ_planning: "작전 기획 우선순위"
+ HNZ_planning_desc: "모든 군사 활동에 있어 철저한 사전 계획과 분석을 우선시합니다."
+
+ HNZ_logistics: "보급망 관리 우선순위"
+ HNZ_logistics_desc: "전선의 병사들에게 물자가 끊기지 않도록 하는 것을 최우선 과제로 삼습니다."
+
+ HNZ_satanist_fuel: "사탄주의 연료"
+ HNZ_satanist_fuel_desc: "사탄주의자들의 기지에서 탈취한 연료입니다. 그 출처는 불경할지 몰라도 드레진을 움직이는 데는 문제 없습니다."
+
+ HNZ_station_jurisdiction: "역별 독자 관할권"
+ HNZ_station_jurisdiction_desc: "각 역의 자치권을 강화하여 지역적 특색에 맞는 유연한 통치를 가능하게 합니다."
+
+ HNZ_war_committee: "전쟁 위원회"
+ HNZ_war_committee_desc: "전시 상황을 효율적으로 통제하고 승리를 쟁취하기 위해 구성된 통합 지휘 기구입니다."
+
+ HNZ_go_big_or_go_home: "통 큰 결단"
+ HNZ_go_big_or_go_home_desc: "소극적인 대응보다는 과감한 투자를 통해 확실한 성과를 거두기로 했습니다."
+
+ HNZ_shock_and_awe: "충격과 공포 전술"
+ HNZ_shock_and_awe_desc: "압도적인 화력과 기동력으로 적의 사기를 꺾고 단숨에 제압합니다."
+
+ HNZ_regimental_drills_idea: "연대급 훈련 프로그램"
+ HNZ_regimental_drills_idea_desc: "각 부대의 조직력과 전투 숙련도를 높이기 위해 표준화된 훈련 프로그램을 시행합니다."
+
+ HNZ_mobilization_law: "동원 체계 개혁"
+ HNZ_mobilization_law_desc: "위기 시 인력을 신속하게 징집하고 배치할 수 있도록 법적 기반을 정비합니다."
+
+ HNZ_recruitment_surge: "신규 모집 급증"
+ HNZ_recruitment_surge_desc: "애국심 혹은 경제적 보상에 이끌린 많은 시민이 연맹의 수호자가 되기 위해 입대하고 있습니다."
+
+ HNZ_war_bonds_idea: "전쟁 채권 발행"
+ HNZ_war_bonds_idea_desc: "시민들에게 채권을 발행하여 전쟁 수행을 위한 막대한 자금을 조달합니다."
+
+ HNZ_armament_production: "무기 생산 증대"
+ HNZ_armament_production_desc: "공장의 가동률을 높이고 자원 배분을 최적화하여 무기 생산량을 늘립니다."
+
+ HNZ_lessons_of_conflict: "전투의 교훈"
+ HNZ_lessons_of_conflict_desc: "지난 교전의 경험을 분석하여 전술과 장비를 개선하는 밑거름으로 삼습니다."
+
+ HNZ_conscription_reforms: "병역 제도 개혁"
+ HNZ_conscription_reforms_desc: "효율적이고 공정한 병역 이행을 위해 징병 체계를 전면적으로 개편합니다."
+
+ HNZ_elite_forces: "정예 충격군"
+ HNZ_elite_forces_desc: "최고의 장비와 훈련을 받은 정예 병력들이 연맹의 창 역할을 수행합니다."
+
+ HNZ_shooting_range: "사설 사격장 운영"
+ HNZ_shooting_range_desc: "시민들에게 사격 훈련 기회를 제공하여 예비 전력의 질을 높입니다."
+
+ HNZ_explosive_boost: "폭발물 생산 공정 개선"
+ HNZ_explosive_boost_desc: "더 높은 위력을 가진 화약과 폭발물을 안정적으로 대량 생산합니다."
+
+ HNZ_gatling_boost: "개틀링 기관총 보급"
+ HNZ_gatling_boost_desc: "막강한 화력을 자랑하는 개틀링 기관총을 일선 부대에 보급하여 방어력을 강화합니다."
+
+ HNZ_trade_with_neighbours: "주변국 선린 관계"
+ HNZ_trade_with_neighbours_desc: "인접한 중립 세력들과 우호적인 관계를 맺고 무역을 장려합니다."
+
+ HNZ_minigun_support: "미니건 지원 화력"
+ HNZ_minigun_support_desc: "보병 지원을 위해 최신형 미니건을 대거 도입합니다."
+
+ HNZ_gun_improvement: "보급형 총기 양산"
+ HNZ_gun_improvement_desc: "구조를 단순화하여 저렴하면서도 신뢰성 있는 총기를 대량으로 생산합니다."
+
+ HNZ_gun_improvement_2: "정밀 맞춤형 총기"
+ HNZ_gun_improvement_2_desc: "최고급 소재와 정밀 공정을 사용하여 뛰어난 성능을 발휘하는 총기를 생산합니다."
+
+ HNZ_war_plan_GWC: "전략 목표: 녹색 라인"
+ HNZ_war_plan_GWC_desc: "야만적인 녹색 전선 세력의 위협을 무력화하기 위한 구체적인 작전 계획입니다."
+
+ HNZ_war_plan_RED: "전략 목표: 붉은 라인"
+ HNZ_war_plan_RED_desc: "영원한 라이벌인 붉은 라인과의 전면전에서 승리하기 위한 대응 전략입니다."
+
+ HNZ_war_plan_RCH: "전략 목표: 제 4제국"
+ HNZ_war_plan_RCH_desc: "극단주의적인 제국 놈들의 야욕을 꺾기 위한 방어 및 반격 계획입니다."
+
+ HNZ_war_plan_SCA: "전략 목표: 무법 지대"
+ HNZ_war_plan_SCA_desc: "메트로의 질서를 어지럽히는 범죄 조직들을 소탕하기 위한 전투 계획입니다."
+
+ HNZ_chief_doubt: "지도자에 대한 의구심"
+ HNZ_chief_doubt_desc: "최근의 결정들로 인해 일선 지휘관들 사이에서 지도부에 대한 불만이 싹트고 있습니다."
+
+ HNZ_scavenged_tooling: "회수된 선반 도구"
+ HNZ_scavenged_tooling_desc: "폐허에서 회수한 구시대의 정밀 도구들 덕분에 생산 효율이 소폭 상승했습니다."
+
+ HNZ_better_resource_effort: "자원 확보 집중"
+ HNZ_better_resource_effort_desc: "메트로 곳곳에서 기초 자원을 더 효율적으로 수집하기 위한 노력을 기울입니다."
+
+ HNZ_subversion: "경제적 패권 정적화"
+ HNZ_subversion_desc: "우리는 붉은 라인이나 제국처럼 직접적인 영토 확장을 추구하지는 않지만, 막대한 경제력을 이용해 적국의 체제를 내부에서부터 무너뜨릴 수 있습니다. 인명 피해 없이도 우리의 영향력은 적들을 질식시킬 것입니다."
+
+ HNZ_subversive_activities: "한자 연맹의 첩보 공작"
+ HNZ_subversive_activities_desc: "연맹의 요원들이 적대 역들 내에서 불신과 혼란을 조장하고 있습니다."
+
+ HNZ_military_armament_prestige: "군사적 기술 우위"
+ HNZ_military_armament_prestige_desc: "우리의 뛰어난 무기 체계는 적들에게 공포심을 심어주고 아군에게는 자부심을 줍니다."
+
+ HNZ_purge_the_unclean: "부패 세력 정화"
+ HNZ_purge_the_unclean_desc: "연맹 내부의 부패한 관리들과 불합리한 규제들을 철저히 정화합니다."
+
+ HNZ_equipment_reliability: "장비 신뢰성 개선"
+ HNZ_equipment_reliability_desc: "가혹한 터널 환경에서도 장비들이 고장 없이 작동하도록 설계를 개선했습니다."
+
+ HNZ_railcar_baumansky_deal: "바우만 무역 협정"
+ HNZ_railcar_baumansky_deal_desc: "바우만 역과의 성공적인 협상을 통해 드레진 생산에 필요한 핵심 부품들을 공급받기로 했습니다."
+
+ HNZ_military_priority_completion_reward: "군사적 우선과제 달성"
+ HNZ_military_priority_completion_reward_desc: "군사적 목표를 성공적으로 달성함으로써 얻은 연맹의 전리품과 경험입니다."
+
+ HNZ_reclamation_reward: "개척의 결실"
+ HNZ_reclamation_reward_desc: "버려진 터널을 재건하고 안전을 확보함으로써 얻은 경제적, 지리적 이득입니다."
+
+ HNZ_research_reward: "학술적 성과"
+ HNZ_research_reward_desc: "지속적인 연구와 개발을 통해 새로운 기술적 도약을 이뤄냈습니다."
+
+ HNZ_draisine_reward: "드레진 전력 보강"
+ HNZ_draisine_reward_desc: "효율적인 생산 관리의 결과로 다수의 드레진이 연맹의 수송대와 기갑군에 추가 배치되었습니다."
+
+ HNZ_generals_reward_idea: "장군들의 자치권 강화"
+ HNZ_generals_reward_idea_desc: "현장 지휘관들에게 더 많은 권한을 부여하여 작전의 유연성을 높였습니다."
+
+ HNZ_containment_protocols: "격리 조치 규정"
+ HNZ_containment_protocols_desc: "전염병이나 돌연변이의 위협으로부터 연맹의 역들을 보호하기 위한 엄격한 격리 매뉴얼입니다."
+
+ HNZ_sat_fuel: "사탄주의 노획 연료" 
+ HNZ_sat_fuel_desc: "사탄주의자들에게서 빼앗은 연료는 불길한 기운이 감돌지만, 그 화력만큼은 확실합니다."
+
+ HNZ_SAV_flamethrower_help: "화염방사 지원 부대"
+ HNZ_SAV_flamethrower_help_desc: "인접 역들로부터 화염방사기 장비와 인력을 지원받아 돌연변이 정화 효율을 높입니다."
+
+ HNZ_ARB_GWC_cleanse_help: "야만인 소탕 협조"
+ HNZ_ARB_GWC_cleanse_help_desc: "아르바트 연합과 협력하여 주변의 무분별한 야만인 집단들을 통제하고 지원을 받습니다."
+
+ HNZ_encroachment: "한자의 영향력 잠식"
+ HNZ_encroachment_desc: "우리의 자본과 상품이 적의 심장부까지 흘러 들어가 그들의 자립 의지를 꺾고 있습니다."
+
+ HNZ_mushroom_tea: "명품 버섯차 수출"
+ HNZ_mushroom_tea_desc: "연맹 특산품인 버섯차는 메트로 전역에서 고가에 거래되는 고급 기호품입니다."
+
+ HNZ_purge_ratfolk: "오물 정화"
+ HNZ_purge_ratfolk_desc: "그것이 인간의 탈을 쓴 쥐이든 무엇이든 상관없다. 자연의 섭리를 거스르는 흉물들은 모두 제거되어야 한다!"

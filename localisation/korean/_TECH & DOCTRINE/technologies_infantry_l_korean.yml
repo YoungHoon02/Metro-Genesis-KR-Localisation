@@ -1,0 +1,237 @@
+﻿l_korean:
+ ## ## Technology Tooltips ## ##
+  tech_tooltip_entrench: "전술"
+  tech_tooltip_armor: "복장"
+  tech_tooltip_weapons: "무장"
+
+ ### Gas Masks ###
+  increase_scavenge_odds_5: "수색 임무 성공률 §G+5%§!"
+
+  gas_mask_2013: "기본형 방독면"
+  gas_mask_2013_desc: "전쟁 전 민간용으로 제작된 방독면입니다. 일부 오염된 환경에서는 착용자를 보호해주지만, 메트로의 가혹한 터널과 지층에서 마주하게 될 위험에 대처하기에는 역부족입니다."
+  gas_mask_2029: "개량형 방독면"
+  gas_mask_2029_desc: "기존 모델을 개선한 방독면으로, 스토커와 군인들이 더 위험한 구역까지 진입할 수 있게 해줍니다."
+  gas_mask_2030: "군용 규격 방독면"
+  gas_mask_2030_desc: "군용으로 특수 제작된 방독면입니다. 전장의 고농도 화학 및 생물학적 작용제뿐만 아니라 방사성 낙진 입자로부터 병사들을 보호하도록 설계되었습니다."
+  gas_mask_2031: "냉전기 방독면"
+  gas_mask_2031_desc: "냉전 시대에 사용되던 구식 방독면입니다. 비록 오래되었지만 터널 내의 평범한 독소로부터는 여전히 신뢰할 만한 방어력을 제공합니다."
+  gas_mask_2033: "특수부대용 방독면"
+  gas_mask_2033_desc: "화학 및 생물학적 작용제, 산업용 독성 화학 물질, 그리고 핵 낙진에 대해 탁월한 보호 성능을 제공하는 방독면입니다. 시야 확보가 용이하며, 오염된 환경에서도 정화통을 교체할 수 있도록 자가 밀폐형 정화통 장착부가 포함되어 있습니다."
+  gas_mask_2034: "스파르타 등급 방독면"
+  gas_mask_2034_desc: "이전 세대의 방독면과 유사한 구조를 가지고 있으나, 내구성이 대폭 강화되었습니다. 치열한 전투 중에도 쉽게 파손되지 않으며, 장시간 사용 시의 신뢰성이 보장됩니다."
+  gas_mask_2036: "공업용 방독면"
+  gas_mask_2036_desc: "전쟁 직전, 러시아 정부는 충돌이 임박했음을 직감하고 미국에 대한 기술적 우위를 점하기 위해 기상 조건과 고방사능 환경에 완벽히 저항하는 신형 방독면을 개발했습니다. 핵전쟁 발발 시 러시아 영토 내에서의 작전을 상정하고 제작된 최후의 장비였습니다. 프로토타입 단계에서 전쟁이 터지는 바람에 시베리아나 북극권 등 극소수의 전략 지역에만 보급되었으며, 현재는 메트로 깊은 곳의 비밀 보관소에서나 찾아볼 수 있는 전설적인 장비가 되었습니다."
+  
+  filter_tech_2029: "활성탄 정화통"
+  filter_tech_2029_desc: "대기 중의 입자와 가벼운 독소를 걸러내는 기본적인 활성탄 기반 정화통입니다."
+  filter_tech_2031: "여과 정화통"
+  filter_tech_2031_desc: "더 미세한 입자와 방사성 낙진을 효과적으로 걸러낼 수 있도록 개량된 여과 시스템입니다."
+  filter_tech_2033: "전쟁 전 규격 정화통"
+  filter_tech_2033_desc: "전쟁 전 정예 부대만 사용하던 고사양 정화통입니다. 극심한 화학적 오염 환경에서도 장시간 생존을 보장합니다."
+
+  gas_mask_military: "군용 규격 방독면"
+  gas_mask_military_desc: "군사 작전 시 최전방 병사들에게 보급되는 표준적인 보호구입니다."
+  gas_mask_scientific: "연구용 방독면"
+  gas_mask_scientific_desc: "과학자와 기술자들의 고위험군 조사 활동을 위해 제작된 고성능 여과 장비입니다."
+  gas_mask_futuristic: "최첨단 방독면"
+  gas_mask_futuristic_desc: "메트로의 기술력으로는 복제조차 불가능한, 전쟁 전의 최첨단 기술이 집약된 보호구입니다."
+
+ ## Weapon ##
+  scrap_infantry_equipment_tech_1: "배스타드 건"
+  scrap_infantry_equipment_tech_2: "방열핀 총열"
+  scrap_infantry_equipment_tech_2_desc: "배스타드 건에 방열핀이 달린 총열을 부착하여 냉각 효율을 높입니다. 이는 연사 시 발생하는 과열로 인한 총기 손상을 방지해 줍니다."
+  
+  shotgun_infantry_equipment_tech_1: "듀플렛"
+  shotgun_infantry_equipment_tech_2: "개량형 개머리판"
+  shotgun_infantry_equipment_tech_2_desc: "총기의 개머리판을 개선하여 반동 제어 능력을 향상시키고, 병사들이 더 빠르고 정확하게 목표를 조준할 수 있도록 돕습니다."
+  
+  conventional_infantry_equipment_tech_2: "확장 탄창"
+  conventional_infantry_equipment_tech_2_desc: "탄창 용량을 늘려 병사들이 재장전 없이 더 많은 사격을 할 수 있게 합니다. 이는 지속적인 화력 투사와 제압 사격에 큰 도움이 됩니다."
+
+  conventional_infantry_equipment_tech_3: "AK-74M"
+  conventional_infantry_equipment_tech_4: "홀로그래픽 조준경"
+  conventional_infantry_equipment_tech_4_desc: "홀로그래픽 조준경은 기계식 조준기보다 구조는 복잡하지만, 사수에게 더 명확한 시야와 넓은 주변 시야를 제공하여 전투 효율을 높여줍니다."
+  conventional_infantry_equipment_tech_6: "군용 탄환"
+  conventional_infantry_equipment_tech_6_desc: "메트로에서 화폐로 통용되는 귀한 물건이지만, 생존이 달린 전장에서는 그 무엇보다 강력한 살상 수단이 됩니다."
+
+  pneumatic_infantry_equipment_tech_1: "티하르"
+  pneumatic_infantry_equipment_tech_2: "강철 합금 볼트"
+  pneumatic_infantry_equipment_tech_2_desc: "헬싱 개발의 초석으로서, 방탄복과 강화유리조차 뚫을 수 있는 고강도 강화 강철 볼트를 제작합니다."
+  pneumatic_infantry_equipment_tech_4: "폭발 화살"
+  pneumatic_infantry_equipment_tech_4_desc: "화살촉에 폭발물을 결합하여 화력을 극대화했습니다. 케블라 방탄복을 관통하지 못하더라도, 강력한 폭발로 적을 산산조각 낼 수 있습니다."
+ 
+ ## Army Training ## 
+  entrench_kits_2027: "민병대 기초 훈련"
+  entrench_kits_2027_desc: "현대 메트로 병사에게 가장 중요한 덕목은 군기입니다. 돌연변이의 습격에도 대열을 유지하고, 공포를 이겨내며 응사하며, 명령에 절대복종하는 군기야말로 군대의 근간입니다."
+  entrench_kits_2028: "민병대 제식 훈련"
+  entrench_kits_2028_desc: "협동심은 저절로 생기지 않습니다. 병사들은 지휘관의 명령을 정확히 이해하고, 필요한 순간에만 소통하며, 소대 단위로 일사불란하게 움직이는 법을 익혀야 합니다."
+  entrench_kits_2029: "민병대 숙련 훈련"
+  entrench_kits_2029_desc: "비전문적인 민병대원들이라도 장거리 터널 정찰이나 중량물이 실린 궤도차 운용을 감당할 수 있도록 체계적인 체력 증진 프로그램을 실시합니다."
+  entrench_kits_2030: "군대 기본 훈련"
+  entrench_kits_2030_desc: "민병대에서 정규군으로 거듭나기 위한 첫 단계는 표준화입니다. 제각각이던 장비를 회수하고 규격화된 군복과 헬멧, 군화를 보급하여 군대의 일체감을 조성합니다."
+  entrench_kits_2031: "군대 야전 훈련"
+  entrench_kits_2031_desc: "메트로의 방어 작전에서 야전 축성과 참호 구축은 필수적입니다. 공병 부대가 없더라도 모든 병사는 바리케이드를 설치하고, 모래주머니를 쌓으며, 철조망을 가설하는 법을 숙지해야 합니다."
+  entrench_kits_2032: "군대 종합 훈련"
+  entrench_kits_2032_desc: "병사들은 자신의 장비를 스스로 관리할 수 있어야 합니다. 소총 정비, 의료 물품 보충, 찢어진 군복 수선 등의 교육을 통해 모든 병사가 최상의 컨디션으로 전투에 임하도록 합니다."
+  entrench_kits_2033: "특수부대 기초 훈련"
+  entrench_kits_2033_desc: "새로운 훈련 체계에 선발된 병사들은 인간 한계에 도전하게 됩니다. 버려진 터널에서의 장거리 행군과 고강도 근력 훈련을 통해 진정한 '메트로의 철인'으로 거듭납니다."
+  entrench_kits_2034: "특수부대 전술 연습"
+  entrench_kits_2034_desc: "군사 수준이 높아짐에 따라 병사들에게 더 많은 책임과 현장 자율권이 부여됩니다. 이전에는 명령만 기다리던 분대장과 팀 리더들이 이제 스스로 판단하여 목표를 달성할 수 있게 됩니다."
+  entrench_kits_2035: "특수부대 실전 훈련"
+  entrench_kits_2035_desc: "좁은 터널에서의 근접 격투(CQC)는 메트로 전투의 핵심입니다. 수십 명이 뒤엉키는 난전 속에서 대검과 둔기, 혹은 맨손으로 적을 제압하는 기술은 병사들에게 귀중한 생존 자산이 될 것입니다."
+
+ ## Clothes ##  
+  clothing_kits_2027: "방한복"
+  clothing_kits_2027_desc: "메트로의 추위는 적군만큼이나 위협적입니다. 특히 겨울철에 대비해 병사들에게 두터운 겹옷과 울 장갑, 방한모를 보급하여 체온 유지 능력을 확보합니다."
+  clothing_kits_2029: "패딩 방탄복"
+  clothing_kits_2029_desc: "완벽한 방탄 성능은 없지만, 충격 완화 패딩은 늑골이 부러지는 치명상을 막아줍니다. 또한 방한 성능도 뛰어나 일석이조의 효과를 거둘 수 있습니다."
+  clothing_kits_2031: "표준형 방탄복"
+  clothing_kits_2031_desc: "급조된 캐리어에 얇은 강철판을 삽입한 형태입니다. 근접 공격이나 저위력 탄환으로부터 흉부를 보호해 줍니다. 다소 무겁고 거추장스럽지만, 전장에서 생사를 결정짓는 중요한 장비입니다."
+  clothing_kits_2033: "개량형 방탄복"
+  clothing_kits_2033_desc: "전쟁 전 방탄복에서 수거한 케블라와 재활용 헬멧을 결합한 장비입니다. 소총 탄환을 완벽히 막지는 못해도, 권총 탄환이나 벅샷으로부터는 매우 우수한 보호 성능을 보여줍니다."
+  clothing_kits_2035: "중장갑 방호복"
+  clothing_kits_2035_desc: "세라믹 또는 강철 판으로 온몸을 감싸는 전신 방호복입니다. 동력이 없는 수동형 장갑이기에 무게가 상당하여, 장기 작전 시 병사들의 피로도가 급격히 상승한다는 단점이 있습니다."
+
+ ## Special Forces ##
+  special_forces_equipment_1_tech:0 "기본 특수부대 장비"
+
+  special_forces_cap_1:0 "특수부대 정원 증대 I"
+  special_forces_cap_1_desc:0 "군 행정 체계의 개선을 통해 더 많은 수의 특수 작전 부대를 운용할 수 있게 되었습니다."
+ 
+  special_forces_support_role:0 "적극 지원 역할"
+  special_forces_support_role_desc:0 "보급로 확보와 보병 부대의 공세를 지원하기 위해 투입되는 특수부대의 가치는 돈으로 환산할 수 없을 만큼 거대합니다."
+ 
+  special_forces_bulwark:0 "침략을 막는 보루"
+  special_forces_bulwark_desc:0 "특수부대는 자신들이 적의 위협으로부터 인민을 보호하는 최후의 방어선임을 명확히 인식해야 합니다."
+ 
+  special_forces_organised_detachments:0 "조직화된 파견대"
+  special_forces_organised_detachments_desc:0 "스토커 출신이 많은 특수부대원들은 독립적인 '외로운 늑대'처럼 행동하는 경향이 있습니다. 이러한 성향은 자율성을 주지만 협동심을 저해할 수 있으므로, 체계적인 팀워크 훈련이 병행되어야 합니다."
+ 
+  special_forces_tunnel_training:0 "지하 전술 훈련"
+  special_forces_tunnel_training_desc:0 "복잡한 터널을 효율적으로 이동하고 폐쇄된 환경에서 주도권을 장악하는 능력은 특수부대원들에게 필수적인 기술입니다."
+ 
+  special_forces_main_attack:0 "주력 공세 역할"
+  special_forces_main_attack_desc:0 "특수부대의 주된 역할은 기갑 장비를 대신하여 보병의 선봉에 서는 것입니다. 이들을 단순히 후방 초소나 지키게 하는 것은 소중한 재능을 낭비하는 일입니다."
+ 
+  special_forces_ready_and_willing:0 "충성스러운 투사들"
+  special_forces_ready_and_willing_desc:0 "강철 같은 의지와 변치 않는 충성심은 타고나는 이들도 있지만, 훈련을 통해 길러지기도 합니다."
+ 
+  special_forces_front_of_the_fray:0 "전장의 선봉"
+  special_forces_front_of_the_fray_desc:0 "아무리 뛰어난 장비와 두터운 장갑을 갖추었더라도, 치열한 총격전 속에서 냉정함을 유지하지 못한다면 아무런 의미가 없습니다."
+ 
+  special_forces_former_spetsnaz:0 "구 스페츠나츠 대원"
+  special_forces_former_spetsnaz_desc:0 "메트로에는 아직 과거 체첸이나 조지아 전장을 누볐던 구소련 시절 스페츠나츠 생존자들이 남아 있습니다. 그들의 풍부한 실전 경험은 우리 군에 귀중한 자산이 됩니다."
+ 
+  special_forces_equipment_2_tech:0 "개량형 특수부대 장비"
+ 
+  special_forces_cap_2:0 "특수부대 정원 증대 II"
+  special_forces_cap_2_desc:0 "추가 예산 편성을 통해 더 많은 특수 작전 인원을 확보하고 체계적으로 관리할 수 있게 되었습니다."
+ 
+  special_forces_equipment_heavy_tech:0 "중장갑 특수부대 장비"
+ 
+  special_forces_plated_armor:0 "플레이트 아머"
+  special_forces_plated_armor_desc:0 "방탄복과 전술 조끼에 금속 또는 세라믹 판을 삽입하여 방호력을 극대화합니다."
+ 
+  special_forces_all_eyes_on_me:0 "총탄을 막는 방패"
+  special_forces_all_eyes_on_me_desc:0 "중장갑으로 무장한 특수부대원들이 적의 화력을 집중적으로 받아내는 동안, 일반 보병 부대는 안전하게 위치를 확보하고 적을 격멸할 수 있습니다."
+ 
+  special_forces_equipment_light_tech:0 "과학용 특수부대 장비"
+ 
+  special_forces_subversive_activities:0 "교란 및 정보 수집"
+  special_forces_subversive_activities_desc:0 "고도의 훈련을 받은 특수부대원들은 적진 깊숙이 침투하여 일반 병사들은 결코 얻을 수 없는 가치 있는 전장 정보를 수집해 옵니다."
+ 
+  special_forces_skulking_darkness:0 "어둠 속의 추적자"
+  special_forces_skulking_darkness_desc:0 "생존 지식과 은신 기술을 연마함으로써 보급 의존도를 줄이고, 장비의 마모나 파손 가능성을 최소화합니다."
+ 
+  special_forces_cap_3:0 "특수부대 정원 증대 III"
+  special_forces_cap_3_desc:0 "특수부대 운용에 대한 강력한 정치적 지지를 바탕으로, 이제 유례없는 규모의 정예 병력을 전장에 투입할 수 있습니다."
+ 
+  special_forces_equipment_light_tech_2:0 "개량형 경량 특수부대 장비"
+ 
+  special_forces_war_redefined:0 "전쟁의 재정의"
+  special_forces_war_redefined_desc:0 "우리 스토커들의 압도적인 기동력은 보병전의 양상을 근본적으로 뒤바꾸어 놓을 것입니다."
+ 
+  special_forces_equipment_heavy_tech_2:0 "개량형 중장갑 특수부대 장비"
+ 
+  special_forces_the_heavy:0 "중화기 사수"
+  special_forces_the_heavy_desc:0 "중화기 사수들의 지구력 훈련을 강화하여, 치열한 교전 후에도 빠르게 체력을 회복하고 전선에 복귀할 수 있도록 합니다."
+ 
+  special_forces_cold_training_3:0 "혹한 생존 훈련 III"
+  special_forces_cold_training_3_desc:0 "특수부대 정식 임명을 앞둔 후보생들은 가장 추운 터널에서 일주일간 전술 생존 시험을 거쳐야 합니다. 이 지옥 같은 한 주를 버티지 못하는 자들은 즉시 일반 보병 부대로 복귀 조치됩니다."
+ 
+  special_forces_cold_training_2:0 "혹한 생존 훈련 II"
+  special_forces_cold_training_2_desc:0 "훈련 도중 지상으로의 짧은 출격을 반복함으로써, 특수부대원들이 영하의 극저온 환경에서도 당황하지 않고 작전을 수행할 수 있는 경험을 쌓게 합니다."
+ 
+  special_forces_cold_training_1:0 "혹한 생존 훈련 I"
+  special_forces_cold_training_1_desc:0 "병사들에게 장비를 건조하게 유지하는 요령을 교육하여, 혹독한 추위 속에서도 전투력을 상실하지 않고 신속하게 적응할 수 있도록 돕습니다."
+
+  nkvd_equipment:0 "NKVD 특수 장비"
+  nkvd_equipment_desc:0 "국가의 정당한 권력을 집행하는 칼날이자 방패인 이들에게 보급되는 최정예 보호구 및 장비입니다."
+
+  spec_ops_equipment_2_tech:0 "세라믹 방탄판"
+  spec_ops_equipment_2_tech_desc:0 "강철판에 비해 세라믹판은 탄환의 도탄 위험을 획기적으로 줄여줍니다. 또한 무게가 훨씬 가벼워 특수부대원들의 기동성을 저해하지 않으며, 직접적인 타격 시에도 파편 비산 위험이 적습니다."
+
+  spec_ops_equipment_3_tech:0 "군용 웨빙"
+  spec_ops_equipment_3_tech_desc:0 "탄약, 의료품, 그리고 전장에서 필요한 온갖 잡동사니를 효율적으로 휴대할 수 있도록 설계된 어깨 하네스와 파우치 세트입니다. 병사들이 최상의 전투 효율을 유지할 수 있도록 뒷받침합니다."
+
+  spec_ops_equipment_5_tech:0 "가이거 계수기"
+  spec_ops_equipment_5_tech_desc:0 "방사능 오염이 일상인 메트로에서 가이거 계수기는 생존을 위한 필수품임에도 불구하고, 이제야 특수부대원들에게 우선적으로 보급되기 시작했습니다. 정찰 및 방사능 위험 지역 식별에 큰 도움이 될 것입니다."
+
+  spec_ops_equipment_6_tech:0 "폴리머 직물"
+  spec_ops_equipment_6_tech_desc:0 "기존 직물보다 마찰과 찢어짐에 훨씬 강한 신소재입니다. 방수 기능이 뛰어나 보관용 주머니로 활용하거나 장갑의 안감으로 사용하여 착용감을 개선하고 무게 부담을 줄일 수 있습니다."
+
+  spec_ops_equipment_8_tech:0 "자동 주사기"
+  spec_ops_equipment_8_tech_desc:0 "전쟁 전 러시아군이 병사들의 생체 신호를 실시간으로 감시하고 전투 능력을 연장하기 위해 개발하던 첨단 의료 장비의 프로토타입입니다. 부상 시 자동으로 모르핀 등 약물을 투여하여 한계 상황에서도 전투를 지속하게 해줍니다. 비록 전쟁으로 인해 기술이 소실되고 예산이 끊겼지만, 남아있는 초기 모델만으로도 충분한 위력을 발휘합니다."
+
+  spec_ops_equipment_9_tech:0 "전투 시뮬레이션"
+  spec_ops_equipment_9_tech_desc:0 "제3차 세계 대전 직전의 최첨단 기술인 가상 현실(VR)을 활용한 훈련 방식입니다. 병사들은 안전한 가상 세계에서 실제 전장과 흡사한 시나리오를 경험하며, 인명 피해 없이도 고도의 전투 감각을 익힐 수 있습니다."
+
+ ##  ##
+  human_mutant_infantry_unlock_tech: "변종 보병"
+  cultist_infantry_unlock_tech: "숭배자 보병"
+  regular_infantry_unlock_tech: "정규 보병"
+  regulars_unlock_tt: "§Y정규 보병§!은 게임 시작 시 이미 잠금 해제되어 있습니다."
+
+ ## Tooltips ##
+ 
+  has_unlocked_required_schematics: "\n이 기술을 연구하려면 먼저 해당 설계도를 획득해야 합니다!\n"
+
+  unlock_shotgun_infantry_equipment_tech_4: "설계도 보유 중: §Y$shotgun_infantry_equipment_tech_4$§"
+  unlock_shotgun_infantry_equipment_4: "연구 가능: §Y$shotgun_infantry_equipment_tech_4$§"
+
+  unlock_shotgun_infantry_equipment_tech_5: "설계도 보유 중: §Y$shotgun_infantry_equipment_tech_5$§"
+  unlock_shotgun_infantry_equipment_5: "연구 가능: §Y$shotgun_infantry_equipment_tech_5$§"
+
+  unlock_conventional_infantry_equipment_tech_7: "설계도 보유 중: §Y$conventional_infantry_equipment_tech_7$§"
+  unlock_conventional_infantry_equipment_7: "연구 가능: §Y$conventional_infantry_equipment_tech_7$§\n"
+
+  unlock_laser_infantry_equipment_1_tech: "설계도 보유 중: §Y$laser_infantry_equipment_1_tech$§"
+  unlock_laser_infantry_equipment_1: "연구 가능: §Y$laser_infantry_equipment_1_tech$§\n"
+
+  unlock_special_forces_heavy_equipment_tech: "설계도 보유 중: §Y$special_forces_equipment_heavy$§"
+  unlock_special_forces_heavy_equipment: "연구 가능: §Y$special_forces_equipment_heavy$§\n\n"
+
+  unlock_special_forces_spartan_equipment_tech: "설계도 보유 중: §Y$special_forces_spartan_equipment_tech$§"
+  unlock_special_forces_spartan_equipment: "연구 가능: §Y$special_forces_spartan_equipment_tech$§\n"
+
+  unlock_special_forces_spetsnaz_equipment_tech: "설계도 보유 중: §Y$special_forces_equipment_spetsnaz$§"
+  unlock_special_forces_spetsnaz_equipment: "연구 가능: §Y$special_forces_equipment_spetsnaz$§\n"
+
+  unlock_special_forces_riot_equipment_tech: "설계도 보유 중: §Y$special_forces_equipment_riot$§"
+  unlock_special_forces_riot_equipment: "연구 가능: §Y$special_forces_equipment_riot$§\n"
+
+  unlock_gas_mask_military_tech: "설계도 보유 중: §Y$gas_mask_military$§"
+  unlock_gas_mask_military: "연구 가능: §Y$gas_mask_military$§"
+
+  unlock_gas_mask_scientific_tech: "설계도 보유 중: §Y$gas_mask_scientific$§"
+  unlock_gas_mask_scientific: "연구 가능: §Y$gas_mask_scientific$§"
+
+  unlock_gas_mask_futuristic_tech: "설계도 보유 중: §Y$gas_mask_futuristic$§"
+  unlock_gas_mask_futuristic: "연구 가능: §Y$gas_mask_futuristic$§"
+
+ ## Unique Weapons ##
+
+  shotgun_infantry_equipment_tech_4: "사이가-12 자동 산탄총"
+  shotgun_infantry_equipment_tech_5: "중형 자동 산탄총"
+  conventional_infantry_equipment_tech_7: "칼라시니코프 RPK-74"
+  laser_infantry_equipment_1_tech: "볼트 건 (가우스 건)"

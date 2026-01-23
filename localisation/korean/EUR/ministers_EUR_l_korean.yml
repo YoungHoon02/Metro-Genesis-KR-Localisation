@@ -1,0 +1,55 @@
+﻿l_korean:
+
+ ### Immigrant Collective and Council ###
+  
+ EUR_immigrant_collective: "이민자 집단"
+ EUR_immigrant_collective_desc: "유로파 인구의 대부분은 이민자들로 구성되어 있습니다. 일반 대중이 한데 모여 정치적 결정 사항에 대해 투표를 진행합니다."
+
+ EUR_elective_council: "선출직 의회"
+ EUR_elective_council_desc: "유로파는 선출직 의회를 구성했습니다. 이 의회는 영국 의회와 같은 전쟁 전의 선거 정부들처럼 운영됩니다. 각 역의 대표들이 모여 국가 중대사에 대해 투표합니다."
+
+ ### Neutral Ministers and Advisors ###
+ 
+ _head_chancellor: "수석 대변인"
+ 
+ EUR_head_chancellor_schulz: "수석 대변인 슐츠"
+ 
+ EUR_luca_bianachi: "루카 비아나치"
+ EUR_luca_bianachi_desc: "유로파 연맹의 군사 고문으로 활동 중인 매우 강한 의지를 가진 인물입니다. 그는 의회가 '큰 벌레' 신봉자들을 유로파의 위협으로 인식하지 못하는 전략적 무능을 자주 비판합니다. 매우 자기중심적이며, 스스로를 '유로파의 아우구스투스'라고 부르기도 합니다."
+
+ EUR_council_of_generals: "장군 의회"
+
+ EUR_amsel: "알리타 암젤"
+ EUR_AMSEL_DESC: "과거 §Y동독§! 시절 활동하던 평범한 국가안보국(§YStaatssicherheit§!) 요원의 딸로 태어났습니다. 많은 이들에게 동서독 통일은 결실 있는 시작이었지만, 암젤의 가족에게는 고난만을 가져다주었습니다. 베를린 장벽 붕괴 후 직위를 잃은 그녀의 아버지는 극심한 혼란과 패배감에 빠졌고, 사회주의를 향한 그의 목적의식은 결국 수포로 돌아갔습니다. 일자리를 구하는 데 난항을 겪던 그는 결국 술과 도박에 빠졌고, 끝내 어떠한 성공도 거두지 못한 채 생을 마감했습니다.\n\n반면, 알리타는 흔들리지 않는 결단력과 강철 같은 의지를 통해 진정한 사회주의 이상을 유지하려 했던 아버지의 비전을 이어받았습니다. 암젤은 과거의 격동이 현재로 되살아나는 암담한 미래를 내다보고 있습니다. 그녀의 전략적이고 타협 없으며 냉혹한 지휘 아래, 새로운 §Y유로파 노동자 공화국§!의 희망이 싹트고 있습니다."
+ EUR_amsel_trait: "젠슈트(동경)"
+ EUR_amsel_trait_2: "젠슈트(동경)"
+ 
+ EUR_marshal: "마셜 바스텔트"
+ EUR_MARSHAL_DESC: "동독 시절에는 냉담한 관료에 불과했으나, 바스텔트는 자신도 몰랐던 새로운 인격의 측면을 드러냈습니다. 이제 그는 추종자들에게 절대적인 헌신과 공포를 동시에 불러일으키는 존재가 되었습니다."
+ EUR_marshal_trait: "혁명의 충복"
+
+ # Minister
+  EUR_minister_military_oligarch_4: "영리한 병참장교"
+EUR_minister_military_oligarch_3: "냉혹한 지도자"
+EUR_minister_military_oligarch_2: "군부 장관"
+EUR_minister_military_oligarch_1: "기민한 장교"
+EUR_minister_military_5: "카리스마 있는 참모"
+EUR_minister_military_4: "민병대 훈련 교관"
+EUR_minister_military_3: "참호 전문가"
+EUR_minister_military_2: "터널 관리인"
+EUR_minister_military_1: "노련한 스토커"
+EUR_minister_theorist_2: "군사 이론가"
+EUR_minister_theorist_1: "전직 참모진"
+EUR_minister_industrialist_oligarch_trait: "불굴의 산업주의자"
+EUR_minister_industrialist_council: "기민한 사업가"
+EUR_minister_industrialist_2: "기계공"
+EUR_minister_industrialist_1: "신예 화학자"
+EUR_minister_manufacturer_3: "회계 출신 감사관"
+EUR_minister_manufacturer_2: "은퇴한 공장장"
+EUR_minister_manufacturer_1: "총기 제작자"
+EUR_minister_dictatorial_align: "광신적 추종자"
+EUR_minister_oligarch_align: "진취적 조직가"
+EUR_minister_council_align: "신의 없는 무역상"
+EUR_minister_3: "노상 연설가"
+EUR_minister_2: "고철 수집 대장"
+EUR_minister_1: "역 임원"

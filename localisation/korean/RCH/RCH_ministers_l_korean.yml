@@ -1,0 +1,166 @@
+﻿l_korean:
+  ### Country Leaders ###
+  RCH_fuhrer:0 "퓌러"
+  RCH_FUHRER_DESC:0 "§9«제4제국을 이끄는 퓌러는 예순에 가까운 나이였으며, 그 세월의 흔적이 외모에 고스란히 남아 있습니다. 머리카락은 희끗희끗하고 주름진 얼굴에 윤곽은 다소 흐려졌지만, 그의 움직임은 여전히 날카롭고 단호합니다. 차가운 푸른 눈동자에서는 타오르는 열정과 에너지가 뿜어져 나옵니다.»§!\n\n그는 제국의 절대적인 독재자로, 전임자로부터 퓌러의 지위를 계승했습니다. 아리아 인종을 통치하려는 그의 계획은 경이로울 정도로 공격적이며, 제국의 네오나치 세력을 정교한 전쟁 기계로 재편하고 있습니다. 이는 메트로의 모든 이들과 '돌연변이 종자'들에게 극심한 공포를 심어주고 있습니다."
+
+  RCH_danila_kreipp:0 "다닐라 크라이프"
+  RCH_KREIPP_DESC:0 "한때는 준수했던 외모였으나, 이제는 기괴하게 뒤틀린 아리아인의 특징만을 남기고 부패해버린 남자입니다. 그는 과거 퓌러에 대한 반역 혐의로 표면으로 추방당했으나, 놀랍게도 살아 돌아왔습니다. 얼굴에는 끔찍한 흉터가 가득하지만 그의 의지는 더욱 강철같이 단련되었습니다.\n이제 그의 권위에 의문을 제기하는 자는 없으며, 그는 신비주의와 과학을 결합하여 초자연적인 힘과의 교감을 시도하고 있습니다."
+  
+  RCH_vadim_tulpanov:0 "바딤 툴판프"
+  RCH_TULPANOV_DESC:0 "퓌러의 부재 시 지휘 계통에 따라 명령을 수행합니다. 처음에는 제국을 이끄는 것을 주저했으나, 현재는 잃어버린 영토를 수복하고 분열된 국가를 하나로 통합하는 것을 목표로 삼고 있습니다."
+  RCH_vadim:0 "바딤"
+  RCH_vadim_tulpanov_trait:0 "바딤 툴판프"
+
+  RCH_roman_orlov:0 "로만 오로프"
+  RCH_roman_orlov_desc:0 "게슈타포와 형사경찰(Kripo)의 수장을 겸임하고 있습니다. 그는 당 내외의 모든 반대 세력을 침묵시키는 중책을 맡고 있으며, 이를 매우 엄격히 수행합니다. 제국의 이상에 투철하며 퓌러에게만 충성하는 광신적인 인물입니다."
+  RCH_ORLOV_DESC:0 "제국 내부에서 막강한 권력을 행사했으나, 퓌러의 실종 이후 그의 영향력은 더욱 비대해졌습니다. 그는 전쟁 이후 빈곤한 환경에서 자란 청년이었으나, 아버지가 한자 동맹에 의해 반역죄로 처수용소에서 사망한 뒤 복수심을 품게 되었습니다. 그는 제국을 위협하는 모든 세력을 말살하려 합니다."
+
+  ### Semi Important Advisors ###
+
+  RCH_chairman_of_ministry:0 "게오르기 다비도프"
+  RCH_chairman_of_ministry_desc:0 ""
+  _RCH_industry_minister:0 "산업부 장관"
+
+  RCH_volkov:0 "가울라이터 볼코프"
+  RCH_volkov_desc:0 "일명 '늑대'라고 불리는 그는 퓌러의 가장 신임받는 인물 중 하나입니다. 그는 푸시킨스카야 역의 모든 활동을 감독하며, 그의 지휘 없이는 아무것도 이루어지지 않습니다."
+  
+  RCH_kommandant:0 "커맨단트"
+  RCH_kommandant_desc:0 "'슬라브족' 외모 덕분에 역경을 딛고 정치적 지위를 확보한 수완가이며, 현재 트베르스카야 역을 관리하고 있습니다."
+
+  RCH_taras_bannyi:0 "타라스 반니"
+  RCH_taras_bannyi_desc:0 "체홉스카야 역의 가울라이터입니다. 우크라이나 서부 출신으로 열렬한 파시즘 지지자이며, 공포 정치를 통해 역을 확고히 통제하고 있습니다."
+
+  RCH_propaganda_minister:0 "비탈리 로굴스키"
+  RCH_propaganda_minister_desc:0 "비탈리 로굴스키는 제국의 선전 장관으로서, 대중의 충성심을 유지하고 안정시키는 중책을 맡고 있습니다. 그는 유능한 연설가이며, 퓌러에 대한 흔들림 없는 충성심을 바탕으로 제국의 사상을 전파합니다."
+
+  RCH_karl_krainer:0 "카를 크라이너"
+  RCH_karl_krainer_desc:0 "카를 크라이너는 핵전쟁 직전에 태어난 세대로, 부모님은 발트해 연안에서 이주한 이민자였습니다. 전쟁 초기 부모님을 잃고 홀로 살아남은 그는, 강자가 약자를 보호하기 위해서는 무자비한 질서가 필요하다고 믿게 되었습니다. 그는 제국 초기 멤버로서 탁월한 지능과 대담함으로 빠르게 지휘 계통을 올랐으며, '도살자'라는 별명이 붙을 정도로 효율적이고 잔인하게 적들을 소탕해 왔습니다."
+  RCH_KRAINER_DESC:0 "카를 크라이너"
+
+  RCH_dorian:0 "도리안 도로셴코"
+  RCH_dorian_desc:0 ""
+
+  RCH_commander_2:0 "--" ### 미래에 추가될 캐릭터들입니다.
+  RCH_commander_2_desc:0 ""
+
+  RCH_commander_3:0 "울리히'" 
+  RCH_commander_3_desc:0 ""
+
+  RCH_commander_4:0 "--" ### 미래에 추가될 인물들입니다.
+  RCH_commander_4_desc:0 ""
+  _RCH_commander_4:0 ""
+
+  RCH_commander_5:0 "-"
+  RCH_commander_5_desc:0 ""
+  _RCH_commander_5:0 ""
+
+  RCH_commander_6:0 "보한 도브리이베치르" 
+  RCH_commander_6_desc:0 ""
+
+  RCH_commander_7:0 "루돌프"
+  RCH_commander_7_desc:0 ""
+
+  RCH_commander_8:0 "미샤"
+  RCH_commander_8_desc:0 ""
+
+  RCH_unamed_1:0 "자이거" 
+  RCH_unamed_1_desc:0 ""
+
+  RCH_unamed_2:0 "슬라바"
+  RCH_unamed_2_desc:0 ""
+
+  RCH_unamed_3:0 "헤겔"
+  RCH_unamed_3_desc:0 ""
+
+  RCH_SS_1: "마리안 호프만"
+  RCH_SS_2: "도끼"
+  _RCH_SS_2: "하프트엔커"
+
+  RCH_unamed_4:0 "페트로 베레후라이크"
+  RCH_unamed_4_desc:0 ""
+  _RCH_unamed_4:0 "스토커 장군"
+
+  RCH_stortbeker:0 "스톨트베커 장군"
+  RCH_stortbeker_desc:0 "그것이 제국에 대한 질서와 무자비한 변형 동물이나 공산주의자들의 무리 사이를 구분하는 것은 그들이 충성의 대상이 있는 곳이다. 심지어 제국의 계급 중 많은 사람들, 그의 이름을 언급할 때 비린내 나는 침과 맹세를 하며. 스톡터베커는 그의 재능과 성과로 유명하다. 한 마디로 두려운 사령관은 그가 지휘하는 더 잔인한 병사보다 더 잔인한 사람이다. 제국에 의해 형벌을 받은 범죄자들, 또는 메트로막트의 전직 군인들이 스톡터베커 부대에 보내져 생존할 것으로 예상되지 않지만. 그러나 스톡터베커는 그들을 기호화하거나, 아니면 오히려 더 악랄하고 더 나쁜 것을 불러일으켰다. 그것은 навіть 선전부의 교훈에서 coined된 것보다."
+
+  RCH_stalker_captain:0 "스토크어 장군"
+  RCH_stalker_captain_desc:0 ""
+
+  RCH_adler:0 "아들러" 
+  RCH_adler_desc:0 ""
+
+  RCH_occultist1:0 "충성한 종교인"
+  RCH_occultist1_desc:0 ""
+  RCH_occultist2:0 "충성한 종교인"
+  RCH_occultist2_desc:0 ""
+  RCH_occultist3:0 "충성한 종교인"
+  RCH_occultist3_desc:0 ""
+
+  ### T R A I T S ###
+
+  RCH_natural_orator:0 "자연스러운 설교자"
+  RCH_unquestioned_fuhrer:0 "무조건적인 지도자"
+  RCH_position_questioned:0 "지위에 대한 질문"
+  RCH_cowardly:0 "겁쟁이"
+  RCH_mutant_child_rumours:0 "변이 아동 소문"
+  RCH_the_fuhrer: "더 후허"
+
+  RCH_cultist1:0 "무조건적인 종교인"
+  RCH_cultist2:0 "종교 서적 관리인"
+  RCH_cultist3:0 "종교 설교자"
+
+  ### ORLOV ###
+  RCH_roman_orlov_trait:0 "크리미널폴리스의 수장"
+  RCH_roman_orlov_trait_improved:0 "크리미널폴리스의 수장"
+  ### GAULEITERS
+  _RCH_kommandant:0 "트베르스카야의 가우레이터"
+  _RCH_kommandant_pp:0 "트베르스카야의 가우레이터"
+  _RCH_kommandant_drift:0 "트베르스카야의 가우레이터"
+  _RCH_volkov:0 "푸시킨스카야의 가우레이터"
+  _RCH_volkov_pp:0 "푸시킨스카야의 가우레이터"
+  _RCH_volkov_drift:0 "푸시킨스카야의 가우레이터"
+  _RCH_taras_bannyi:0 "체호프스카야의 가우레이터"
+  _RCH_taras_bannyi_pp:0 "체호프스카야의 가우레이터"
+  _RCH_taras_bannyi_drift:0 "체호프스카야의 가우레이터"
+  ### CoM
+  RCH_chairman_of_ministry_1:0 "행정부 장관"
+  RCH_chairman_of_ministry_2:0 "행정부 장관"
+  RCH_chairman_of_ministry_3:0 "행정부 장관"
+  RCH_chairman_of_ministry_4:0 "행정부 장관"
+  ### PM
+  _RCH_propaganda_minister:0 "선전부 장관"
+  _RCH_propaganda_minister_2:0 "선전부 장관"
+  ###
+  _RCH_krainer:0 "살인자"
+  _RCH_dorian:0 "스투름아비테일룽"
+  _RCH_commander_3:0 "붉은 살인자"
+
+  _RCH_commander_6:0 "SS-브리기데푸히르"
+  _RCH_commander_6_2:0 "SS-하우프슈트름후이르"
+
+  _RCH_commander_7:0 "후커의 개인 경호원"
+
+  _RCH_commander_8:0 "실용적인 수비자"
+
+  _RCH_adler:0 "스탈라그 장군"
+  _RCH_adler_mines:0 "스탈라그 장군"
+  _RCH_adler_forges:0 "스탈라그 장군"
+
+  _RCH_unamed_1:0 "열정적인 스토커"
+  _RCH_unamed_1_2:0 "능숙한 스토커"
+
+  _RCH_unamed_2:0 "질서에 대한 무조건적인 충성"
+
+  _RCH_unamed_3:0 "비정상 과학자"
+
+  _RCH_stortbeker:0 "스톨트베커 부대"
+
+  _RCH_stalker_captain:0 "스토크어 지휘관"
+
+  ### Generic Advisors ###
+  
+  _reich_logistician_overseer:0 "물류 관리관"
+  _reich_loyal_yesman:0 "충성한 군인"
+  _reich_former_paramilitary:0 "전 파라군인"
+  _reich_quartermaster_chief:0 "수송 장교"
+  _reich_armament_engineer:0 "무기 조직관"

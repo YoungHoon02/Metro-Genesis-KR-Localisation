@@ -1,0 +1,272 @@
+﻿l_korean:
+  category_rail_vehicles: "철도 차량"
+  category_rail_cart: "철도 카트"
+  category_rail_car: "철도 객차"
+  category_rail_panzer: "철도 전차"
+  category_gatling: "개틀링 장비"
+  category_flamethrower: "화염방사기 장비"
+  category_explosive: "폭발물 장비"
+  category_piercing: "대물 장비"
+  category_sentries: "경비대"
+  flamethrower_support: "화염방사기 팀"
+  explosive_support: "폭발물 팀"
+  gatling_support: "중화기 사수"
+  piercing_support: "저격 팀"
+
+  ### Units ###
+  inf_recon: "정찰대"
+  nkvd_support: "NKVD 분대"
+  nkvd_support_desc: "전선에 배치된 NKVD 요원들. 우리 군의 사기를 '독려'하기 위해 배치되었습니다."
+  
+  riot_shields: "전투 방패병"
+  riot_shields_desc: "날아오는 탄환으로부터 선두를 지키기 위해 무거운 장갑과 대형 방패를 든 병사들입니다."
+
+  regulars: "정규 보병"
+  regulars_desc: "상비군"
+
+  irregulars: "비정규 보병"
+  irregulars_desc: "고기 분쇄기 같은 사지로 내몰린 열악한 징집병들입니다."
+
+  cultist_infantry: "광신도 보병"
+  cultist_infantry_desc: "신앙에 눈이 먼 이들은 이제 전장 너머의 진정한 목적을 찾았습니다."
+
+  sentries: "터널 파수꾼"
+  sentries_desc: "비록 장비는 형편없을지 모르나, 정거장을 지키려는 의지만은 스파르탄 못지않습니다."
+
+  ## Savage ## 
+
+  category_underzealots: "악마 신봉자"
+	category_savage: "야만인"
+	category_savage_support: "야만인 장비 팀"
+
+  underzealot_support_team: "악마 신봉자 지원팀"
+  underzealot_support_team_desc: "메트로 심연에서 제작된 원시적인 투척 무기는 무시 못 할 치명적인 위력을 발휘합니다."
+
+  underzealot_special_forces: "악마 신봉자 정예병"
+  underzealot_special_forces_desc: "진정으로 세뇌된 것인지 아니면 광기인지 알 수 없으나, 이들은 압도적인 힘과 맹목적인 충성심으로 유명합니다."
+
+  underzealots: "악마 신봉자"
+  underzealots_desc: "규율의 빈자리를 억제되지 않는 야만적인 흉포함으로 채운 자들입니다."
+
+  underzealot_support_cultist: "고위 광신도"
+  underzealot_support_cultist_desc: "기괴한 장신구로 치장한 이들은 신자들에게 용기를 주고, 불신자들의 심장엔 공포를 심어줍니다."
+
+  mutant_infantry: "돌연변이 보병"
+  mutant_infantry_desc: "운명의 장난인지 혹은 보이지 않는 업보인지, 이 저주받은 영혼들은 방사능 속에서 태어나 살아남았습니다. 죽음조차 거두길 잊은 듯한 허약하고 창백한 몰골입니다."
+
+  ## Support Squad Variants
+
+  special_forces_flamethrower: "화염방사 특수부대"
+  special_forces_flamethrower_desc: "메트로의 가장 숙련된 스토커들로 구성된 화염방사 분대입니다. 지표면의 혹독한 환경과 지하의 폐쇄된 공간 모두에서 적들을 불태워버릴 준비가 되어 있습니다."
+
+  special_forces_gatling: "화력팀 특수부대"
+  special_forces_gatling_desc: "최정예 중화기 사수들입니다. 개틀링의 엄청난 무게와 반동을 견뎌내며, 정밀하면서도 압도적인 화력을 투사하여 적의 진격을 저지합니다."
+
+  special_forces_explosive: "폭파 특수부대"
+  special_forces_explosive_desc: "특수 훈련을 받은 폭파 전문가들입니다. 적의 요새나 철도 장갑차량을 무력화하기 위해 가장 위험한 전선에 투입됩니다."
+
+  regulars_explosive:  "폭파 정규 보병"
+  regulars_flamethrower: "화염방사 정규 보병"
+  regulars_gatling: "화력팀 정규 보병"
+
+  irregulars_flamethrower: "화염방사 비정규 보병"
+  irregulars_explosives: "폭파 비정규 보병"
+
+  modifier_army_sub_unit_irregulars_attack_factor: "§Y비정규군§! 공격"
+  modifier_army_sub_unit_irregulars_defence_factor: "§Y비정규군§! 방어"
+  modifier_army_sub_unit_irregulars_speed_factor: "§Y비정규군§! 속도"
+  modifier_army_sub_unit_irregulars_max_org_factor: "§Y비정규군§! 최고 조직력"
+  modifier_experience_gain_irregulars_combat_factor: "§Y비정규군§! 전투 경험치 획득"
+
+  modifier_army_sub_unit_regulars_attack_factor: "§Y정규군§! 공격"
+  modifier_army_sub_unit_regulars_defence_factor: "§Y정규군§! 방어"
+  modifier_army_sub_unit_regulars_speed_factor: "§Y정규군§! 속도"
+  modifier_army_sub_unit_regulars_max_org_factor: "§Y정규군§! 최고 조직력"
+  modifier_experience_gain_regulars_combat_factor: "§Y정규군§! 전투 경험치 획득"
+
+  modifier_army_sub_unit_special_forces_attack_factor: "§Y특수부대§! 공격"
+	modifier_army_sub_unit_special_forces_defence_factor: "§Y특수부대§! 방어"
+	modifier_army_sub_unit_special_forces_speed_factor: "§Y특수부대§! 속도"
+	modifier_army_sub_unit_special_forces_max_org_factor: "§Y특수부대§! 최고 조직력"
+  modifier_experience_gain_special_forces_combat_factor: "§Y특수부대§! 전투 경험치 획득"
+
+  modifier_army_sub_unit_rail_panzer_attack_factor: "§Y철도 전차§! 공격"
+  modifier_army_sub_unit_rail_panzer_defence_factor: "§Y철도 전차§! 방어"
+  modifier_army_sub_unit_rail_panzer_speed_factor: "§Y철도 전차§! 속도"
+  modifier_army_sub_unit_rail_panzer_max_org_factor: "§Y철도 전차§! 최고 조직"
+  modifier_experience_gain_rail_panzer_combat_factor: "§Y철도 전차§! 전투 경험치 획득"
+
+  modifier_army_sub_unit_rail_cart_attack_factor: "§Y철도 카트§! 공격"
+  modifier_army_sub_unit_rail_cart_defence_factor: "§Y철도 카트§! 방어"
+  modifier_army_sub_unit_rail_cart_speed_factor: "§Y철도 카트§! 속도"
+  modifier_army_sub_unit_rail_cart_max_org_factor: "§Y철도 카트§! 최고 조직"
+  modifier_experience_gain_rail_cart_combat_factor: "§Y철도 카트§! 전투 경험치 획득"
+
+  modifier_army_sub_unit_rail_car_attack_factor: "§Y철도 객차§! 공격"
+  modifier_army_sub_unit_rail_car_defence_factor: "§Y철도 객차§! 방어"
+  modifier_army_sub_unit_rail_car_speed_factor: "§Y철도 객차§! 속도"
+  modifier_army_sub_unit_rail_car_max_org_factor: "§Y철도 객차§! 최고 조직력"
+  modifier_experience_gain_rail_car_combat_factor: "§Y철도 객차§! 전투 경험치 획득"
+
+  modifier_army_sub_unit_nkvd_support_attack_factor: "§YNKVD 지원§! 공격"
+  modifier_army_sub_unit_nkvd_support_defence_factor: "§YNKVD 지원§! 방어"
+  modifier_army_sub_unit_nkvd_support_speed_factor: "§YNKVD 지원§! 속도"
+  modifier_army_sub_unit_nkvd_support_max_org_factor: "§YNKVD 지원§! 최고 조직력"
+  modifier_experience_gain_nkvd_support_combat_factor: "§YNKVD 지원§! 전투 경험치 획득"
+
+  modifier_army_sub_unit_riot_shields_attack_factor: "§Y폭동 방패§! 공격"
+  modifier_army_sub_unit_riot_shields_defence_factor: "§Y폭동 방패§! 방어"
+  modifier_army_sub_unit_riot_shields_speed_factor: "§Y폭동 방패§! 속도"
+  modifier_army_sub_unit_riot_shields_max_org_factor: "§Y폭동 방패§! 최고 조직력"
+  modifier_experience_gain_riot_shields_combat_factor: "§Y폭동 방패§! 전투 경험치 획득"
+
+  modifier_army_sub_unit_underzealots_attack_factor: "§Y악마 신봉자§! 공격"
+  modifier_army_sub_unit_underzealots_defence_factor: "§Y악마 신봉자§! 방어"
+  modifier_army_sub_unit_underzealots_speed_factor: "§Y악마 신봉자§! 속도"
+  modifier_army_sub_unit_underzealots_max_org_factor: "§Y악마 신봉자§! 최고 조직력"
+  modifier_experience_gain_underzealots_combat_factor: "§Y악마 신봉자§! 경험치 획득"
+
+  modifier_army_sub_unit_underzealot_special_forces_attack_factor: "§Y악마 신봉자 특수부대§! 공격"
+  modifier_army_sub_unit_underzealot_special_forces_defence_factor: "§Y악마 신봉자 특수부대§! 방어"
+  modifier_army_sub_unit_underzealot_special_forces_speed_factor: "§Y악마 신봉자 특수부대§! 속도"
+  modifier_army_sub_unit_underzealot_special_forces_max_org_factor: "§Y악마 신봉자 특수부대§! 최고 조직력"
+  modifier_experience_gain_underzealot_special_forces_combat_factor: "§Y악마 신봉자 특수부대§! 전투 경험치 획득"
+
+  modifier_army_sub_unit_underzealot_support_team_attack_factor: "§Y악마 신봉자 지원 팀§! 공격"
+  modifier_army_sub_unit_underzealot_support_team_defence_factor: "§Y악마 신봉자 지원 팀§! 방어"
+  modifier_army_sub_unit_underzealot_support_team_speed_factor: "§Y악마 신봉자 지원 팀§! 속도"
+  modifier_army_sub_unit_underzealot_support_team_max_org_factor: "§Y악마 신봉자 지원 팀§! 최대 조직력"
+  modifier_experience_gain_underzealot_support_team_combat_factor: "§Y악마 신봉자 지원 팀§! 전투 경험치 획득"
+
+  modifier_army_sub_unit_underzealot_support_cultist_attack_factor: "§Y지원 광신도§! 공격"
+  modifier_army_sub_unit_underzealot_support_cultist_defence_factor: "§Y지원 광신도§! 방어"
+  modifier_army_sub_unit_underzealot_support_cultist_speed_factor: "§Y지원 광신도§! 속도"
+  modifier_army_sub_unit_underzealot_support_cultist_max_org_factor: "§Y지원 광신도§! 최대 조직력"
+  modifier_experience_gain_underzealot_support_cultist_combat_factor: "§Y지원 광신도§! 전투 경험치 획득"
+
+  modifier_army_sub_unit_flamethrower_support_attack_factor: "§Y화염방사기 지원§! 공격"
+  modifier_army_sub_unit_flamethrower_support_defence_factor: "§Y화염방사기 지원§! 방어"
+  modifier_army_sub_unit_flamethrower_support_speed_factor: "§Y화염방사기 지원§! 속도"
+  modifier_army_sub_unit_flamethrower_support_max_org_factor: "§Y화염방사기 지원§! 최고 조직력"
+
+  modifier_army_sub_unit_gatling_support_attack_factor: "§Y개틀링 지원§! 공격"
+  modifier_army_sub_unit_gatling_support_defence_factor: "§Y개틀링 지원§! 방어"
+  modifier_army_sub_unit_gatling_support_speed_factor: "§Y개틀링 지원§! 속도"
+  modifier_army_sub_unit_gatling_support_max_org_factor: "§Y개틀링 지원§! 최고 조직력"
+
+  modifier_army_sub_unit_explosive_support_attack_factor: "§Y폭발 지원§! 공격"
+  modifier_army_sub_unit_explosive_support_defence_factor: "§Y폭발 지원§! 방어"
+  modifier_army_sub_unit_explosive_support_speed_factor: "§Y폭발 지원§! 속도"
+  modifier_army_sub_unit_explosive_support_max_org_factor: "§Y폭발 지원§! 최고 조직력"
+
+  modifier_army_sub_unit_piercing_support_attack_factor: "§Y대물 지원§! 공격"
+  modifier_army_sub_unit_piercing_support_defence_factor: "§Y대물 지원§! 방어"
+  modifier_army_sub_unit_piercing_support_speed_factor: "§Y대물 지원§! 속도"
+  modifier_army_sub_unit_piercing_support_max_org_factor: "§Y대물 지원§! 최고 조직력"
+
+  modifier_army_sub_unit_category_rail_vehicles_attack_factor: "§Y모든 철도 차량§! 공격"
+  modifier_army_sub_unit_category_rail_vehicles_defence_factor: "§Y모든 철도 차량§! 방어"
+  modifier_army_sub_unit_category_rail_vehicles_speed_factor: "§Y모든 철도 차량§! 속도"
+  modifier_army_sub_unit_category_rail_vehicles_max_org_factor: "§Y모든 철도 차량§! 최고 조직력"
+
+  modifier_army_sub_unit_category_rail_cart_attack_factor: "§Y모든 철도 차량§! 공격"
+  modifier_army_sub_unit_category_rail_cart_defence_factor: "§Y모든 철도 차량§! 방어"
+  modifier_army_sub_unit_category_rail_cart_speed_factor: "§Y모든 철도 차량§! 속도"
+  modifier_army_sub_unit_category_rail_cart_max_org_factor: "§Y모든 철도 차량§! 최고 조직력"
+
+  modifier_army_sub_unit_category_rail_car_attack_factor: "§Y모든 철도 차량§! 공격"
+  modifier_army_sub_unit_category_rail_car_defence_factor: "§Y모든 철도 차량§! 방어"
+  modifier_army_sub_unit_category_rail_car_speed_factor: "§Y모든 철도 차량§! 속도"
+  modifier_army_sub_unit_category_rail_car_max_org_factor: "§Y모든 철도 차량§! 최고 조직력"
+
+  modifier_army_sub_unit_category_rail_panzer_attack_factor: "§Y모든 철도 전차§! 공격"
+  modifier_army_sub_unit_category_rail_panzer_defence_factor: "§Y모든 철도 전차§! 방어"
+  modifier_army_sub_unit_category_rail_panzer_speed_factor: "§Y모든 철도 전차§! 속도"
+  modifier_army_sub_unit_category_rail_panzer_max_org_factor: "§Y모든 철도 전차§! 최고 조직력"
+
+  modifier_army_sub_unit_category_gatling_attack_factor: "§Y모든 개틀링 팀§! 공격"
+  modifier_army_sub_unit_category_gatling_defence_factor: "§Y모든 개틀링 팀§! 방어"
+  modifier_army_sub_unit_category_gatling_speed_factor: "§Y모든 개틀링 팀§! 속도"
+  modifier_army_sub_unit_category_gatling_max_org_factor: "§Y모든 개틀링 팀§! 최고 조직력"
+
+  modifier_army_sub_unit_category_flamethrower_attack_factor: "§Y모든 화염방사기 팀§! 공격"
+  modifier_army_sub_unit_category_flamethrower_defence_factor: "§Y모든 화염방사기 팀§! 방어"
+  modifier_army_sub_unit_category_flamethrower_speed_factor: "§Y모든 화염방사기 팀§! 속도"
+  modifier_army_sub_unit_category_flamethrower_max_org_factor: "§Y모든 화염방사기 팀§! 최고 조직력"
+
+  modifier_army_sub_unit_category_explosive_attack_factor: "§Y모든 폭발 팀§! 공격"
+  modifier_army_sub_unit_category_explosive_defence_factor: "§Y모든 폭발 팀§! 방어"
+  modifier_army_sub_unit_category_explosive_speed_factor: "§Y모든 폭발 팀§! 속도"
+  modifier_army_sub_unit_category_explosive_max_org_factor: "§Y모든 폭발 팀§! 최고 조직력"
+
+  modifier_army_sub_unit_category_irregulars_attack_factor: "§Y모든 비정규부대§! 공격"
+  modifier_army_sub_unit_category_irregulars_defence_factor: "§Y모든 비정규부대§! 방어"
+  modifier_army_sub_unit_category_irregulars_speed_factor: "§Y모든 비정규부대§! 속도"
+  modifier_army_sub_unit_category_irregulars_max_org_factor: "§Y모든 비정규부대§! 최고 조직력"
+
+  modifier_army_sub_unit_category_regulars_attack_factor: "§Y모든 정규 부대§! 공격"
+  modifier_army_sub_unit_category_regulars_defence_factor: "§Y모든 정규 부대§! 방어"
+  modifier_army_sub_unit_category_regulars_speed_factor: "§Y모든 정규 부대§! 속도"
+  modifier_army_sub_unit_category_regulars_max_org_factor: "§Y모든 정규 부대§! 최고 조직력"
+
+  modifier_army_sub_unit_category_nkvd_attack_factor: "§YNKVD 사단§! 공격"
+  modifier_army_sub_unit_category_nkvd_defence_factor: "§YNKVD 사단§! 방어"
+  modifier_army_sub_unit_category_nkvd_speed_factor: "§YNKVD 사단§! 속도"
+  modifier_army_sub_unit_category_nkvd_max_org_factor: "§YNKVD 사단§! 최고 조직력"
+
+  modifier_army_sub_unit_category_underzealots_attack_factor: "§Y모든 사탄주의자 부대§! 공격"
+  modifier_army_sub_unit_category_underzealots_defence_factor: "§Y모든 사탄주의자 부대§! 방어"
+  modifier_army_sub_unit_category_underzealots_speed_factor: "§Y모든 사탄주의자 부대§! 속도"
+  modifier_army_sub_unit_category_underzealots_max_org_factor: "§Y모든 사탄주의자 부대§! 최고 조직력"
+
+  modifier_army_sub_unit_category_savage_attack_factor: "§Y모든 야만인 부대§! 공격"
+  modifier_army_sub_unit_category_savage_defence_factor: "§Y모든 야만인 부대§! 방어"
+  modifier_army_sub_unit_category_savage_speed_factor: "§Y모든 야만인 부대§! 속도"
+  modifier_army_sub_unit_category_savage_max_org_factor: "§Y모든 야만인 부대§! 최고 조직"
+
+  modifier_army_sub_unit_category_savage_support_attack_factor: "§Y모든 야만인 지원§! 공격"
+  modifier_army_sub_unit_category_savage_support_defence_factor: "§Y모든 야만인 지원§! 방어"
+  modifier_army_sub_unit_category_savage_support_speed_factor: "§Y모든 야만인 지원§! 속도"
+  modifier_army_sub_unit_category_savage_support_max_org_factor: "§Y모든 야만인 지원§! 최고 조직"
+
+  modifier_army_sub_unit_category_cultist_support_attack_factor: "§Y모든 광신도 지원§! 공격"
+  modifier_army_sub_unit_category_cultist_support_defence_factor: "§Y모든 광신도 지원§! 방어"
+  modifier_army_sub_unit_category_cultist_support_speed_factor: "§Y모든 광신도 지원§! 속도"
+  modifier_army_sub_unit_category_cultist_support_max_org_factor: "§Y모든 광신도 지원§! 최대 조직"
+
+  modifier_army_sub_unit_category_mutant_attack_factor: "§Y모든 변이체§! 공격"
+  modifier_army_sub_unit_category_mutant_support_defence_factor: "§Y모든 변이체§! 방어"
+  modifier_army_sub_unit_category_mutant_support_speed_factor: "§Y모든 변이체§! 속도"
+  modifier_army_sub_unit_category_mutant_support_max_org_factor: "§Y모든 변이체§! 최고 조직력"
+
+	modifier_army_sub_unit_mutant_infantry_attack_factor: "§Y변이체 보병§! 공격"
+	modifier_army_sub_unit_mutant_infantry_defence_factor: "§Y변이체 보병§! 방어"
+	modifier_army_sub_unit_mutant_infantry_speed_factor: "§Y변이체 보병§! 속도"
+	modifier_army_sub_unit_mutant_infantry_max_org_factor: "§Y변이체 보병§! 최고 조직"
+
+	modifier_army_sub_unit_cultist_infantry_attack_factor: "§Y광신도 보병§! 공격"
+	modifier_army_sub_unit_cultist_infantry_defence_factor: "§Y광신도 보병§! 방어"
+	modifier_army_sub_unit_cultist_infantry_speed_factor: "§Y광신도 보병§! 속도"
+	modifier_army_sub_unit_cultist_infantry_max_org_factor: "§Y광신도 보병§! 최고 조직력"
+
+  modifier_army_sub_unit_special_forces_flamethrower_attack_factor: "§Y화염방사 특수부대§! 공격"
+  modifier_army_sub_unit_special_forces_flamethrower_defence_factor: "§Y화염방사 특수부대§! 방어"
+  modifier_army_sub_unit_special_forces_flamethrower_speed_factor: "§Y화염방사 특수부대§! 속도"
+  modifier_army_sub_unit_special_forces_flamethrower_max_org_factor: "§Y화염방사 특수부대§! 최고 조직력"
+
+  modifier_army_sub_unit_special_forces_gatling_attack_factor: "§Y화력팀 특수부대§! 공격"
+  modifier_army_sub_unit_special_forces_gatling_defence_factor: "§Y화력팀 특수부대§! 방어"
+  modifier_army_sub_unit_special_forces_gatling_speed_factor: "§Y화력팀 특수부대§! 속도"
+  modifier_army_sub_unit_special_forces_gatling_max_org_factor: "§Y화력팀 특수부대§! 최고 조직"
+
+  modifier_army_sub_unit_special_forces_explosive_attack_factor: "§Y폭발 특수부대§! 공격"
+  modifier_army_sub_unit_special_forces_explosive_defence_factor: "§Y폭발 특수부대§! 방어"
+  modifier_army_sub_unit_special_forces_explosive_speed_factor: "§Y폭발 특수부대§! 속도"
+  modifier_army_sub_unit_special_forces_explosive_max_org_factor: "§Y폭발 특수부대§! 최고 조직력"
+
+  modifier_army_sub_unit_sentries_attack_factor: "§Y터널 경비병§! 공격"
+  modifier_army_sub_unit_sentries_defence_factor: "§Y터널 경비병§! 방어"
+  modifier_army_sub_unit_sentries_speed_factor: "§Y터널 경비병§! 속도"
+  modifier_army_sub_unit_sentries_max_org_factor: "§Y터널 경비병§! 최고 조직력"
+  modifier_experience_gain_sentries_combat_factor: "§Y터널 경비병§! 전투 경험치 획득"
+

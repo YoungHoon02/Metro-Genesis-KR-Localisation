@@ -1,0 +1,431 @@
+﻿l_english:
+  infantry_gear_equipment: "Infantry Gear"
+  infantry_gear_equipment_1: "Basic Infantry Gear"
+  infantry_gear_equipment_1_desc: "Although rudimentary even by our own standards, these assorted gear and attire should serve our armed forces well. Far better than the likes of our conscripts, who have to eek out their own ramshackled gear."
+  infantry_gear_equipment_1_short: "Basic Gear"
+
+  infantry_gear_equipment_2: "Improved Infantry Gear"
+  infantry_gear_equipment_2_desc: "Standardized kit, for a standard army. Matching boots, gloves and even socks as a matter of fact this is considered more than adequate - professional even, in the Metro."
+  infantry_gear_equipment_2_short: "Improved Gear"
+
+  infantry_gear_equipment_3: "Advanced Infantry Gear"
+  infantry_gear_equipment_3_desc: "Proper military gear, webbing and assorted kit that any proper Metro fighting force would need to conduct their missions effectively, whether home or away."
+  infantry_gear_equipment_3_short: "Advanced Gear"
+
+  flamethrower_equipment_0:0 "Flamethrower Equipment"
+  flamethrower_equipment_0_desc:0 "Equipment which uses Flamethrowers"
+  flamethrower_equipment_0_short:0 "Flamethrowers"
+
+  explosive_equipment_0:0 "Explosive Equipment"
+  explosive_equipment_0_desc:0 "Equipment which uses Explosives"
+  explosive_equipment_0_short:0 "Explosives"
+
+  gatling_equipment_0:0 "Machinegun Equipment"
+  gatling_equipment_0_desc:0 "Equipment which uses LMGs or mounted Machineguns"
+  gatling_equipment_0_short:0 "Gatling"
+
+  piercing_equipment_0:0 "Piercing Equipment"
+  piercing_equipment_desc:0 "Equipment which is effective at penetration armor"
+  piercing_equipment_short:0 "Piercing"
+
+  basic_infantry_equipment: "Revolver"
+  basic_infantry_equipment_desc: "A simple, accurate, and reliable weapon manufactured in the Metro. It has excellent stopping power, but is characterized by strong recoil, and is loaded with .44 caliber bullets. Although the revolver has enough stopping power to put a mutant down on the spot with one accurate shot, due to the slow reload speed and relatively small number of rounds, it is not very suitable for situations when a whole group of opponents attacks."
+  basic_infantry_equipment_short: "Revolver"
+
+  scrap_infantry_equipment_1: "Bastard Gun"
+  scrap_infantry_equipment_1_desc: "A 5.45 calibre submachine gun. Poor accuracy and overheats like hell. The Bastard Gun was created sometime after the bombs dropped. Considerably cheaper than conventional firearms, and much simpler to maintain. Its high rate of fire and decent magazine capacity is really the only thing going for this weapon. Jamming and overheating constantly - a real bastard to use."
+  scrap_infantry_equipment_1_short: "Bastard Gun"
+
+  scrap_infantry_equipment_2: "Heavy Bastard Gun"
+  scrap_infantry_equipment_2_desc: "Whilst its crude design, and being prone to overheating puts any conventional firearm above the bastard gun. The fact that it is easily modifiable and with attachments makes it an uncommon and practical use in metro warfare. An improved bumper stock, a heavy durable barrel and large magazine; You have a weapon with enough firepower that even the Kshatriya would feel uneasy over."
+  scrap_infantry_equipment_2_short: "Heavy Bastard Gun"
+
+  shotgun_infantry_equipment_1: "Duplet"
+  shotgun_infantry_equipment_1_desc: "A rather crude double-barreled shotgun which fires 12 gauge rounds. A limited ammo capacity makes up for its lethality in close ranges. Able to sear through targets at close range with ease. An effective weapon when going up against soft targets; mutant or otherwise."
+  shotgun_infantry_equipment_1_short: "Duplet"
+
+  shotgun_infantry_equipment_2: "Ubonik"
+  shotgun_infantry_equipment_2_desc: "A 6-chamber cylinder, fed into the chamber for firing. The Ubonik is much more lethal than its predecessor. A very reliable firearm, and especially dangerous in close range combat. Whilst a slow reload process, since each shell has to be loaded in separately. It does however, pack a decent enough punch against mid-range targets."
+  shotgun_infantry_equipment_2_short: "Ubonik"
+
+  conventional_infantry_equipment_1: "AKS-74U"
+  conventional_infantry_equipment_1_desc: "Shorter than its contemporary brethren of the Kalash family. Likewise with a high rate of fire but not having the accuracy or range shared by its siblings. The AKS-74U is a much more compact variation of the iconic firearm; with a shorter barrel and reduced fire range. A necessary given considering the functionality it now serves, its handguards cut down and side rail mount. Modified to become a perfect fit for claustrophobic engagements."
+  conventional_infantry_equipment_1_short: "AKS-74U"
+
+  conventional_infantry_equipment_2: "AK-74M"
+  conventional_infantry_equipment_2_desc: "A Legendary assault rifle. Its proven combat effectiveness over the years prompts pride in its owner, and respect among its opponents. With exceptional reliability, simplicity of design and ability to work in the most terrible of conditions is a value that cannot be overstated enough in a world after the apocalypse. Its versatility similarly cannot be stressed enough."
+  conventional_infantry_equipment_2_short: "AK-74M"
+
+  conventional_infantry_equipment_3: "VSK-94"
+  conventional_infantry_equipment_3_desc: "An accurate and powerful assault rifle which saw limited usage by law enforcement in the final days of humanities dying breath. Its low muzzle velocity makes it a discrete killer, and paired with the fact it is a perfect weapon for stealth and reconnaissance missions makes it a useful ally when behind enemy lines, or dealing with adversaries from afar."
+  conventional_infantry_equipment_3_short: "VSK-94"
+
+  pneumatic_infantry_equipment_1: "«Tihar»"
+  pneumatic_infantry_equipment_1_desc: "A makeshift, and rather unconventional firearm. Firing ball-bearings instead of actual rounds. Propelled through the usage of compressed air, placed inside the stock of the gun. Pressurized by a hand-pump located by the end of the handgun. Whilst its pneumatic firing mechanism requires constant pumping and attention, it can fire rapidly in emergency situations; paired with its wide variety and versatility in uses."
+  pneumatic_infantry_equipment_1_short: "Tihar"
+
+  pneumatic_infantry_equipment_2: "«Helsing»"
+  pneumatic_infantry_equipment_2_desc: "Building upon its predecessor, the Tihar, the Helsing fires bolts instead of ball bearings. Silent and powerful, and works the same way as it counterpart does. The Helsing reusable ammunition, coupled with its effectiveness in the hands of a skilled marksman makes it a surprisingly effective killing machine."
+  pneumatic_infantry_equipment_2_short: "Helsing"
+
+  basic_flamethrower_equipment: "Molotov Cocktail"
+  basic_flamethrower_equipment_desc: "Little more than a bottle filled with gasoline. Despite its crudeness, its still a dangerous weapon in the hands of a skilled combatant."
+  basic_flamethrower_equipment_short: "Molotov"
+
+  flamethrower_equipment_1: "Hand-Held Flamethrower"
+  flamethrower_equipment_1_desc: "Highly revered within the metro, and for good reason. The narrow, claustrophobic state of the metro makes a flamethrower an extremely lethal and devastating weapon. Able burn and purge mutant and human foes alike. Despite its crude design, prone to overheating over sustained usage. It still is an effective killing machine."
+  flamethrower_equipment_1_short: "Flamethrower"
+
+  flamethrower_equipment_2: "Improved Flamethrower"
+  flamethrower_equipment_2_desc: "Carrying a liquid propellant, stored nearby. When fired, the liquid is fed through a pipe to a nozzle, where it ignites and can set fire to anything within its radius of action. The fact that its propellant and not actually fire, it cannot be extinguished. Terrifying in the metro not for its searing temperatures, but the fact the burning fuel will starve the oxygen out of an area. Most likely suffocating more than it directly burns.\nConsidered such a cruel weapon, even by the Nazis and Reds. Only used as a last resort, or against Mutant foes. "
+  flamethrower_equipment_2_short: "Flamethrower MK2"
+
+  basic_explosive_equipment: "Nail Grenade"
+  basic_explosive_equipment_desc: "An improvised explosive Device. Many military-grade grenades were heavily sought after and used up during the Coalition wars, and so most folks had to improvise."
+  basic_explosive_equipment_short: "Grenade"
+
+  explosive_equipment_1: "Medved"
+  explosive_equipment_1_desc: "A rudimentary-produced grenade launcher which can fire pills in close succession. Ideal for taking on groups of targets, or light armor. Consisting of 3 pieces of pipe with a spring mechanism to fling grenades. "
+  explosive_equipment_1_short: "Medved"
+
+  explosive_equipment_2: "Grenade Launcher"
+  explosive_equipment_2_desc: "Firing bespoke projectiles, consisting of grenade cartridges."
+  explosive_equipment_2_short: "Grenade Launcher"
+
+  basic_gatling_equipment: "Hand-Held Minigun"
+  basic_gatling_equipment_desc: "Using  12.7x108mm rounds, and needing to be wound up to fire. It uses a makeshift rotating mechanism capable of long sustained fire barrages. Can be absolutely devastating against soft targets, especially suited for the claustrophobic nature of the metro."
+  basic_gatling_equipment_short: "Hand-Held Minigun"
+
+  gatling_equipment_1: "Improved Minigun"
+  gatling_equipment_1_desc: "Improving upon the initial designs,"
+  gatling_equipment_1_short: "Improved Minigun"
+
+  gatling_equipment_2: "DShK 12.7mm Machinegun"
+  gatling_equipment_2_desc: "Incredibly powerful, despite situational weapon emplacement. Having a limited amount of ammunition and can overheat rapidly when continuously firing. It packs a serious punch however, despite its large cone of firing, making it rather inaccurate."
+  gatling_equipment_2_short: "DShK Machinegun"
+
+  basic_piercing_equipment: "Scrap Anti-Material Rifle"
+  basic_piercing_equipment_desc: "Based on the KSVK "Degtyarev sniper rifle, the Preved is one of the most powerful sniper-rifles currently produced in the Moscow Underground. Chambered to use 12.7x108mm ammo, what it lacks in fire rate surely makes up in raw penetrative power."
+  basic_piercing_equipment_short: "Preved"
+
+  piercing_equipment_1: "Improved Anti-Material Rifle"
+  piercing_equipment_1_desc: "After the war, the availability of sniper rifles became extremely scarce. Especially those in working condition. Even in the dingy depths of the Metro the need to send chunks of lead hurdling hundreds of meters away still persists, so those competent enough technicians and engineers went to work. Characterized by high accuracy and even higher stopping power, the Valve is powerful enough to cope against both armoured and unarmored targets alike."
+  piercing_equipment_1_short: "Valve"
+
+  gatling_equipment: "Machinegun Equipment"
+  explosive_equipment: "Explosive Equipment"
+  flamethrower_equipment: "Flamethrower Equipment"
+  piercing_equipment: "Piercing Equipment"
+
+  nkvd_equipment_1: "NKVD Equipment"
+  nkvd_equipment_1_desc:0 "The People's Commissariat for Internal Affairs, once tasked with protecting the interests of the state, now exhumed from the decrepit remains of the old world to enact the bidding of the Red Line; Fear, Blackmail and Suffering all hallmarks of their stygian-hued coats and even merciless intentions."
+  nkvd_equipment_1_short: "NKVD Equipment"
+
+  rail_car_equipment: "Rail Car Eq."
+  rail_cart_equipment: "Rail Cart Eq."
+  rail_panzer_equipment: "Rail Tank Eq."
+  
+  supplies_equipment_1: "Supply Equipment"
+  supplies_equipment_desc: "Various assortments of munitions, first aid supplies and a mishmash of other vital equipment our troops need when in combat. Our forces need a stockpile of these supplies to actively engage in combat duties."
+  supplies_equipment_1_short: "Supplies"
+
+  rail_cart_equipment_1: "Hand-powered Cart"
+  rail_cart_equipment_1_desc: "Not being designed for combat, hand carts are unsurprisingly ineffective in combat situations. However despite this they do indeed provide basic protection and can be used in a variety of transportation means such as transferring supplies between stations or troops."
+  rail_cart_equipment_1_short: "Hand Cart"
+
+  rail_cart_equipment_2: "Powered Cart"
+  rail_cart_equipment_2_desc: "Using a motor as a means of power, and providing a little more protection against incoming fire and marauding mutants from additional protective barriers. They can be utilised more effectively as a means of transportation with the added defensive measures."
+  rail_cart_equipment_2_short: "Powered Cart"
+
+  rail_cart_equipment_3: "Utility Carriage"
+  rail_cart_equipment_3_desc: "Pre-war draisine used as a utility vehicle. The Utility Carriage provides adequate protection alongside an extensive storage space for the rapid movement of troops or equipment thanks to its steam engine."
+  rail_cart_equipment_3_short: "Carriage"
+
+  rail_car_equipment_1: "Motorcycle Draisine"
+  rail_car_equipment_1_desc: "With a decent speed thanks to an installed gasoline engine, and added protection thanks to the usage of metal plating. Despite being somewhat weak to heavy calibre ammunition, and the insecurity of the Engine, the Motorcycle Draisine is a perfect vehicle to be used in rapid movement and overwhelming offensive tactics."
+  rail_car_equipment_1_short: "Rail Bike"
+
+  rail_car_equipment_2: "Turret Car"
+  rail_car_equipment_2_desc: "Building upon the Rail Motorcycle, and with the addition of a mounted DShK machine gun allows for a much greater firepower capacity. With the addition of armor plating on the front and side to protect the driver against oncoming fire. "
+  rail_car_equipment_2_short: "Turret Car"
+
+  rail_panzer_equipment_1: "Scrap Tank"
+  rail_panzer_equipment_1_desc: "A draisine covered in thick armor plating. Powered by a steam engine similarly found in locomotives. Additionally, a rotating turret placed on top and an accompanying machine gun emplacement. Steam Tanks instill fear in foes just like the tanks of old. A truly devastating opponent to be fought on the battlefield."
+  rail_panzer_equipment_1_short: "Scrap Rail Tank"
+
+  rail_panzer_equipment_2: "Improved Tank"
+  rail_panzer_equipment_2_desc: "Improved sloped armor and additionally firing explosive projectiles. Much of the model has been build upon salvaged locomotive and pre-war tank parts. Taking the qualitative aspects of both aspects to manufacture a truly imposing and impressive beast."
+  rail_panzer_equipment_2_short: "Rail Tank"
+
+  rail_panzer_equipment_3: "Rail Panzer"
+  rail_panzer_equipment_3_desc: "Heavily armored and utilised primarily to break through enemy positions and destroying other rail vehicles. The Rail Panzer is truly unmatched on the battlefield and deserves its frightening recognition, friends and foes alike fear and respect this behemoth of a war machine.\n\nThe Fourth Reich Construct their Panzers to imitate those of Hitlers 3rd Reich,an iconic machine of war which truly match their ideology."
+  rail_panzer_equipment_3_short: "Panzer"
+
+  rail_cart_equipment_4: "Rail Buggy"
+  rail_cart_equipment_4_desc: ""
+  rail_cart_equipment_4_short: "Buggy"
+
+  rail_car_equipment_3: "Armored Rail Car"
+  rail_car_equipment_3_desc: "Initially produced to ferry refugees from the Redline to neutral territory. Several modifications to the chassis of the vehicle as well as several additions to allow it further mobility with the addition of a front-plated plough."
+  rail_car_equipment_3_short: "Regina"
+
+  rail_armored_train_equipment_1: "Armored Train"
+  rail_armored_train_equipment_1_desc: "Humanities propensity to wage war and conflict has not ceased even in the face of its own extinction. Salvaged, pried and refabricated from pre-war train carriages, from the depths of the metro this machine which sailed throughout the Moscow Metro and relegated to accrue dust and disrepair has found purpose once again. "
+  rail_armored_train_equipment_1_short: "Train"
+
+  rail_armored_train_equipment_2: "Fetid Wormlet"
+  rail_armored_train_equipment_2_desc: "The Worm themselves have deemed us fit to inherit the under-earth! For we hold his word true and sacred in our pure hearts, he has bestowed a piece of himself for us. With these Wormlets, we shall dig further into the depths of his world and do his bidding."
+  rail_armored_train_equipment_2_short: "Wormlets"
+  ##    Special Forces    ##
+
+  special_forces_equipment: "Spec-Ops Equipment"
+
+  special_forces_equipment_1: "Spec-Ops Equipment"
+  special_forces_equipment_1_desc: ""
+  special_forces_equipment_1_short: "Spec-Ops Eq"
+
+  special_forces_equipment_2: "Improved Spec-Ops Equipment"
+  special_forces_equipment_2_desc: "Improvements on the rudimentary, salvaged stalker equipment included standardized gas mask filters, rubber undersuits, and tactical vest for storing ammunition and salvage."
+  special_forces_equipment_2_short: "Improved Spec Ops Eq"
+
+  special_forces_equipment_3: "Advanced Spec-Ops Equipment"
+  special_forces_equipment_3_desc: "Advancements on stalker gear at this stage include full helmets, bulletproof vests, aluminum rigs for mounting backpacks, and larger rations."
+  special_forces_equipment_3_short: "Advanced Spec Ops Eq"
+
+  special_forces_equipment_heavy: "Heavy Spec-Ops Equipment"
+  special_forces_equipment_heavy_desc: "Spec-Ops Equipment can be specialized towards being focused entirely around protecting the wearer. Bulkier, heavier, and far more imposing heavy Spec Ops equipment makes the wearer into a walking tank."
+  special_forces_equipment_heavy_short: "Heavy Spec Ops Eq"
+  
+  special_forces_equipment_heavy_2: "Improved Heavy Spec-Ops Equipment"
+  special_forces_equipment_heavy_2_desc: "Stronger, lighter alloys used in the construction of heavy Spec-Ops armor means that the wearer is both better protected, and more mobile."
+  special_forces_equipment_heavy_2_short: "Improved Heavy Spec Ops Eq"
+
+  special_forces_equipment_light: "Tactical Spec Ops Equipment"
+  special_forces_equipment_light_desc: "Spec-Ops Equipment can be specialized to focus on the tactical aspects of combat, adding such things as night vision, IR sights, and keeping the weight down will allow stalkers to keep on the move."
+  special_forces_equipment_light_short: "Tactical Spec Ops Eq"
+
+  special_forces_equipment_light_2: "Improved Tactical Spec Ops Equipment"
+  special_forces_equipment_light_2_desc: "Further developments in tactical stalker gear include ultra-light body armor, standard issue silencers, and military grade ammo."
+  special_forces_equipment_light_2_short: "Improved Tactical Spec Ops Eq"
+
+  shotgun_infantry_equipment_3: "Saiga-12 Automatic Shotgun Equipment"
+  shotgun_infantry_equipment_3_desc: "Pre-war automatic shotgun with a reliable and impactful rate of fire. Impressive ammunition capacity, and furthermore with resolving the issue of shotgun being their particularly slow reload speed. A perfect firearm to cleanse the crowded confines of the metro. Whether that be mutants or humans."
+  shotgun_infantry_equipment_3_short: "Saiga"
+
+  shotgun_infantry_equipment_4: "Sentinel Arms Co Striker-12"
+  shotgun_infantry_equipment_4_desc: "A revolving-cyclinder 12-gauge shotgun originally developed in South Africa. With a large magazine and an effective rate of fire it is a deadly force to be reckoned with in the confined space of the Metro."
+  shotgun_infantry_equipment_4_short: "Armsel Striker"
+
+  conventional_infantry_equipment_4: "Kalash 2012"
+  conventional_infantry_equipment_4_desc: "Adopted by the Russian Army at the start of World War III, but didn't have enough time to see widespread usage. It is extremely sought after in the Metro due to its vastly superior reliability and great performance. With a high rate of fire combined with an excellent recoil control many soldiers can only dream of getting their hands on this piece of equipment."
+  conventional_infantry_equipment_4_short: "AK-2012"
+
+  laser_infantry_equipment_1: "Hellbreath Volt Gun"
+  laser_infantry_equipment_1_desc: "The railgun shoots projectile ball-bearings at incredible speeds powered by an in-built battery which charges a magnetic coil which drives the ball-bearing alongside two parallel metal rails. Packing high firepower and even being able to shock enemies at close range."
+  laser_infantry_equipment_1_short: "Hellbreath"
+
+  special_forces_equipment_spartan: "Spartan Spec Ops Equipment"
+  special_forces_equipment_spartan_desc: "Spartan Spec Ops Equipment"
+  special_forces_equipment_spartan_short: "Spartan Gear"
+
+  special_forces_spartan_equipment_tech: "Spartan Spec Ops Equipment"
+  special_forces_spartan_equipment_tech_desc: "Spartan Spec Ops Equipment"
+
+  special_forces_equipment_spetsnaz: "Spetsnaz Gear"
+  special_forces_equipment_spetsnaz_desc: "Spetsnaz Spec Ops Equipment"
+  special_forces_equipment_spetsnaz_short: "Spetsnaz Gear"
+
+  riot_shield_equipment_1: "OMON Riot Gear"
+  riot_shield_equipment_1_desc: "Otdel Milicii Osobogo Naznacheniya Gear"
+  riot_shield_equipment_1_short: "Riot Gear"
+
+  special_forces_equipment_riot: "Riot Control Equipment"
+  special_forces_equipment_riot_desc: ""
+  special_forces_equipment_riot_short: "Riot Gear"
+
+  ## Unique Equipment Variants 
+
+  ARB_gatling_equipment: "FN M249 SAW"
+  ARB_gatling_equipment_desc: "M249 light machine gun fires 5.56x45mm NATO and can sustain a fire rate of 100 rounds a minute. An american adaptation of the Belgian FN Minimi. Seeing major action in conflicts throughout the latter half of the 20th and early 21st century. Now finding itself a home in the Moscow Metro"
+  ARB_gatling_equipment_short: "M249 SAW"
+
+  HNZ_conventional_infantry_equipment_1: "AN-94"
+  HNZ_conventional_infantry_equipment_1_desc: "After World War III, copies of the Abakan were found in the open laying in army depots by the survivors of Moscow. The supply of weapons becoming increasingly rare to grab a hold of as underhanded trade and closed-deals hide the weapon. Thankfully most of those said deals operate through us."
+  HNZ_conventional_infantry_equipment_1_short: "AN-94"
+
+  HNZ_gatling_equipment: "Pecheneg"
+  HNZ_gatling_equipment_desc: "A heavy machine gun which grew in popularity before World War 3, Put into service some 12 years before the war. Praised for its large magazine size, reliability and damage. Technicians able to make the firearm suitable for the same cartridges used by DShK machine guns"
+  HNZ_gatling_equipment_short: "Pecheneg"
+
+  RCH_basic_infantry_equipment: "Lolife"
+  RCH_basic_infantry_equipment_desc: "A makeshift semi-automatic pistol favoured by many for its capabilities and for being highly customizable. A .44 Magnum chambered firearm produced in the metro. Its a common weapon, treasured for its reliability, and decent accuracy."
+  RCH_basic_infantry_equipment_short: "Lolife"
+
+  RCH_conventional_infantry_equipment_4: "Sturmgewehr 33"
+  RCH_conventional_infantry_equipment_4_desc: "As an increasing effort to improve our R&D, and a technological feat over our enemies we have come up with the Sturmgewehr, archetype upon the STG, which can be easily distinguished from its name. A mishmash of the StG44 and Heckler & Kock G3. Splicing many features from either. Being entirely produced within our Foundries and Workshops."
+  RCH_conventional_infantry_equipment_4_short: "Sturmgewehr"
+
+  RCH_scrap_infantry_equipment_2: "Volkssturmgewehr 33"
+  RCH_scrap_infantry_equipment_2_desc: "As a last ditch effort to save the dying Nazi Reich. The production of simple rudimentary firearms was commenced in an effort to supply the vastly dwindling German Forces. Trying to meet both the logistical needs, and military needs whilst enemies invaded from both sides. With limited resources they succeeded in producing a variety of last-ditch weapons. Based upon the Volkssturmgewehr archetype and chambered to fire Metro-produced bullets. Its an otherwise crude, but useful weapon."
+  RCH_scrap_infantry_equipment_2_short: "Volkssturmgewehr 33"
+
+  RCH_gatling_equipment: "M134"
+  RCH_gatling_equipment_desc: ""
+  RCH_gatling_equipment_short: "M134"
+
+  RCH_gatling_equipment_2: "Kord-12.7mm Heavy Machine Gun"
+  RCH_gatling_equipment_2_desc: ""
+  RCH_gatling_equipment_2_short: "Kord"
+
+  RED_basic_infantry_equipment: "Makarov PM"
+  RED_basic_infantry_equipment_desc: "As Iconic as the Russian AK, or the PPSH. The Makarov saw its introduction during post WW2 as the Soviet Army needed a new standard-issue firearm to supply its armed forces. Robust, Reliable and commonly found across the Globe. The Makarov is the indomitable of the Soviet Union"
+  RED_basic_infantry_equipment_short: "Makarov"
+
+  RED_scrap_infantry_equipment_2: "PPSh-41 Submachine Gun"
+  RED_scrap_infantry_equipment_2_desc: "One of the most distinctive weapons of the Second World War now finding itself in an entirely new theater of war then the one almost 100 years ago. Used in large numbers by the Soviet Army. Useful for its reliability, and simplicity. A common armament found amongst the file and ranks of the Red Line today." 
+  RED_scrap_infantry_equipment_2_short: "PPSh-41"
+
+  TRT_basic_infantry_equipment: "Ashot"
+  TRT_basic_infantry_equipment_desc: "Despite its crudeness, it is nonetheless powerful and reliable as a sidearm. One of the more common firearms within the Metro, due to its simpleness, cheapness and simple design. Acting off a «one shot - one corpse» design principle. Small dimensions which packs a serious punch; exactly what at times, is so lacking within the abandoned tunnels of the Metro."
+  TRT_basic_infantry_equipment_short: "Ashot"
+
+   HUL_basic_explosive_equipment:0 "Limonka Grenade"
+   HUL_basic_explosive_equipment_desc:0 "The Revolutionists weren't the only ones to make away with the Red Lines equipment when they left, Misha and those who followed him took with them as many grenades as they could in the crates-full. I don't think they need much of an introduction.. its a grenade."
+   HUL_basic_explosive_equipment_short: "Grenade"
+
+   HUL_explosive_equipment_2: "RPG-7"
+   HUL_explosive_equipment_2_desc: "The dumb idiot who suggested we should outfit our explosive teams with RPGs is either a genius, or a fucking idiot. Our technicians are cracking on with repairing and reutilizing old pipes and makeshift bits of scrap into repairing these rather crude devices. Obviously they're not as potent as the real shit your father shot in Kandahar, but I don't think it'll matter much when you've blown the enemy to smithereens.. or caused a tunnel collapse."
+   HUL_explosive_equipment_2_short: "Rocket Launcher"
+   HUL_tech_explosive_electric_fuse:0 "Dirty Payload"
+   HUL_tech_explosive_electric_fuse_desc: "Nails, Screws and other dirty junk to make sure fascist get whats coming to them... You really don't want to know what else we've stuffed in them."
+
+   AVV_conventional_infantry_equipment_1: "OTs-02 «Cypress» Submachine Gun"
+   AVV_conventional_infantry_equipment_1_desc: "Produced before the outbreak of WW3 for special forces units of the Russian ministry for internal Affairs. Originally designed by Tula Central Sporting and Hunting Arms Design Burea in the 70s, the Kiparis is a blowback-operated submachine gun of a conventional design. A rather sophisticated weapon of a bygone era."
+   AVV_conventional_infantry_equipment_1_short: "OTS-02 Kiparis"
+
+   AVV_conventional_infantry_equipment_2: "PP-19 Bizon"
+   AVV_conventional_infantry_equipment_2_desc: "The PP-19 Bizon is a Russian-made submachine gun manufactured by Izhmash in production since 1996. Using a helical magazine that can hold 64 rounds, its a rather effective weapon for usage in the Metro"
+   AVV_conventional_infantry_equipment_2_short: "PP-Bizon submachine gun"
+
+   AVV_conventional_infantry_equipment_3: "OTs-14 'Groza'"
+   AVV_conventional_infantry_equipment_3_desc: "Groza is an assault rifle developed by the Tula Central Design and Research Bureau of Small Arms and Hunting Weapons. Superior in power to most light weapons and conventional arms used by many of the denizens of the Metro, it is an effective and highly prized armament."
+   AVV_conventional_infantry_equipment_3_short: "OTs-14 Assault Rifle"
+
+  PEC_basic_infantry_equipment: "Stechkin Automatic Pistol"
+  PEC_basic_infantry_equipment_desc: "Regarded well by many for its fast reload, large magazine size and flexible weight. Originally issued to Soviet Army and weaved its way into non-combative roles. the APS has seen multiple conflicts since its original inception during the 50s, including Africa and Eastern Europe. Praised for its innovation at first, however high production costs gradually phased the pistol out from production. Not out of service entirely however, as the firearm found a niche being used in the special force services. Chambered to fire 9×18mm Makarov ammunition, the Stechkin Automatic Pistol was a popular sidearm choice for many before the catastrophe, a sore sight and familiar feeling in the hands of many post-war denizens of the Underground."
+  PEC_basic_infantry_equipment_short: "APS"
+
+  PEC_conventional_infantry_equipment_2: "Bulldog"
+  PEC_conventional_infantry_equipment_2_desc: "The pinnacle of the Kalash family, this assault rifle boasts massive improvements compared to its predecessors in terms of firepower, accuracy, ergonomics and weight. It also has a lower rate of fire, making it easier to control in burst mode. The weapon's advanced design makes it hard to maintain in the postnuclear world, degrading its reliability."
+  PEC_conventional_infantry_equipment_2_short: "Bulldog"
+
+  PEC_basic_explosive_equipment: "Dynamite"
+  PEC_basic_explosive_equipment_desc: "Its a stick of dynamite. Kabloom stick. You light the fuse and throw it. Its a very simple concept to grasp, igor."
+  PEC_basic_explosive_equipment_short: "Dynamite"
+
+  PEC_gatling_equipment_2: "NSV machine gun"
+  PEC_gatling_equipment_2_desc: "12.7-mm large-caliber machine gun "Utes", originally a vehicle-mounted machine gun now finds a new purpose in the dingy depths of the Moscow Underground. Designed to replace the outdated DshK machine gun, and was adopted by the Soviet Army in the 70s."
+  PEC_gatling_equipment_2_short: "NSV-12.7 'Utes'"
+
+  PEC_shotgun_infantry_equipment_1: "Bolt-Action Shotgun"
+  PEC_shotgun_infantry_equipment_1_desc: "A single-barreled 20 gauge shotgun with a sliding breech bold. Original intended usage was for hunting, but farmers and travelers and criminals alike found a keen popularity towards its compact design. Now, «the Death of the Chairman» has found new popularity amongst the same destitute people."
+  PEC_shotgun_infantry_equipment_1_short: "TOZ-106"
+
+# conventional_infantry_equipment_2: "AK-103"
+# conventional_infantry_equipment_2_desc: "Seeing numerous involvements in conflicts since 2001, the AK-103 builds upon its predecessor with improved customizability. Instead of using wood or metal, it uses plastic components such as on the pistol grip, handguards. Improved reliability despite still fairing less against more modern weapons of its age. It is still nevertheless a competent, if intrinsically rugged firearm characteristic of Russia."
+# conventional_infantry_equipment_2_short: "AK-103"
+
+
+  ## | Savage | ## 
+
+  underzealot_cultist_equipment_1: "Cultist Equipment"
+  underzealot_cultist_equipment_1_desc: "Sacred trinkets, ceremony garments and forboding adornments. Only the most affluent, or devoted may use this equipment in the field."
+  underzealot_cultist_equipment_1_short: "Cultist Equipment"
+
+  savage_equipment_1: "Bone Knife"
+  savage_equipment_1_desc: "Simple. Rustic but deadly. Fashioned from scraping flakes off a bone with a flint tool, a relatively simple femur or other bone can prove to be a rudimentary weapon in the Undergrowth."
+  savage_equipment_1_short: "Crude Knife"
+
+  savage_equipment_2: "Bone Club"
+  savage_equipment_2_desc: "With an abundance of bones and other refuse, fashioning a skull on top of a pole or stick increases its effectiveness as a bludgeon tool."
+  savage_equipment_2_short: "Bone Club"
+
+  savage_equipment_3: "Stone Hatchet"
+  savage_equipment_3_desc: "Attaching a scrapped stone on the end of a pole, fastened in place with rope or other more grizzly material is a simple, versatile tool. An anachronistic, yet simple one handed weapon with deadly potential."
+  savage_equipment_3_short: "Stone Hatchet"
+
+  savage_equipment_4: "Great Club"
+  savage_equipment_4_desc: "Brandishing a piece of wood with barbed wire, nails, sharpened bones and other pointy pieces of tooling improves its effectiveness as a bludgeon weapon."
+  savage_equipment_4_short: "Great Club"  
+
+  savage_ranged_equipment_1: "Simple Blowgun"
+  savage_ranged_equipment_1_desc: ""
+  savage_ranged_equipment_1_short: "Simple Blowgun"
+
+  savage_ranged_equipment_2: "Elaborate Blowgun"
+  savage_ranged_equipment_2_desc: ""
+  savage_ranged_equipment_2_short: "Improved Blowgun"
+
+  underzealot_cultist_equipment_tech_1: "Cultist Support Equipment"
+
+  savage_special_forces_equipment: "Savage Special Forces Equipment"
+  savage_special_forces_equipment_1: "Basic Savage Spec-Ops Equipment"
+  savage_special_forces_equipment_1_desc: "Wound pieces of bone packed together may provide suitable protection for our elite forces deep in the metro tunnels, but doubtful to stop a bullet. Therefor our forces must learn to adapt; scurry beneath the shadows and dark places where the sinners do not look, and the element of surprise to gain the upper hand against the adversary."
+  savage_special_forces_equipment_1_short: "Basic Spec Ops Equipment"
+
+  savage_special_forces_equipment_2: "Improved Savage Spec-Ops Equipment"
+  savage_special_forces_equipment_2_desc: "Padding the layers of bone with hide, whether boiled or outright pilfered from the sinners will improve its durability. Bones however, still may be brittle, and break from impact but however will eventually shatter from subsequent attacks.However adorning the armor with symbols and enchantments from our cultists will inspire our brave warriors."
+  savage_special_forces_equipment_2_short: "Spec Ops Equipment"
+
+  savage_special_forces_equipment_3: "Elite Savage Spec-Ops Equipment"
+  savage_special_forces_equipment_3_desc: "Further improvements made to reinforce the armour with rope and other cordage whilst also incanting the armour with blessings will improve its performance in combat."
+  savage_special_forces_equipment_3_short: "Elite Ops Equipment"
+
+  PAG_savage_equipment_1: "Bone Club"
+  PAG_savage_equipment_1_desc: "Simple. Rustic but deadly. Fashioned from scraping flakes off a large femur bone with a flint tool, a relatively simple method to turn a piece of refuse into a weapon in the Undergrowth."
+  PAG_savage_equipment_1_short: "Bone Club"
+
+  PAG_savage_equipment_2: "Scrap Mallet"
+  PAG_savage_equipment_2_desc: ""
+  PAG_savage_equipment_2_short: "Scrap Mallet"
+
+  PAG_savage_equipment_3: "Skull Hammer"
+  PAG_savage_equipment_3_desc: ""
+  PAG_savage_equipment_3_short: "Skull Hammer"
+
+  PAG_savage_equipment_4: "Scrap Bardiche"
+  PAG_savage_equipment_4_desc: ""
+  PAG_savage_equipment_4_short: "Scrap Bardiche"  
+
+  PAG_savage_ranged_equipment_1: "Throwing Axes"
+  PAG_savage_ranged_equipment_1_desc: "Simple re-forged scrap metal attached to a short wooden pole. Whilst only being able to be flung short distances, it is nonetheless a deadly weapon if wielded competent, savage hands."
+  PAG_savage_ranged_equipment_1_short: "Throwing Axes"
+
+  PAG_savage_ranged_equipment_2: "Throwing Spears"
+  PAG_savage_ranged_equipment_2_desc: "Metal tapered to a point, it can easily sink itself deep within foes; mutant and human alike."
+  PAG_savage_ranged_equipment_2_short: "Throwing Spears"
+
+  PAG_savage_special_forces_equipment_1: "Basic Spec Ops Equipment"
+  PAG_savage_special_forces_equipment_1_desc: "A thick leather headpiece fashioned from cured animal skin, alongside patchworked pelt provides a basic, but decent enough makeshift armor for our forces"
+  PAG_savage_special_forces_equipment_1_short: "Hide Armor"
+
+  PAG_savage_special_forces_equipment_2: "Banded ArmorAdvanced Spec Ops Equipment"
+  PAG_savage_special_forces_equipment_2_desc: "A rusted and crude facepiece, paired with a armor made from patchworked iron and reinforced with metal bands will inspire reverence within our forces, and strike fear in our enemies."
+  PAG_savage_special_forces_equipment_2_short: "Banded Armor"
+
+  PAG_savage_special_forces_equipment_3: "Elite Spec Ops Equipment"
+  PAG_savage_special_forces_equipment_3_desc: "Heavy body armor fashioned from the finest scrapped and reforged scales. Horned with slain mutants, it is a sign of high standing and reputation."
+  PAG_savage_special_forces_equipment_3_short: "Thick Plated Armor"
+
+  ### | Unique | ###
+
+  riot_shield_equipment: "Riot Shields"
+  riot_shield_equipment_desc: " "
+  riot_shield_equipment_short: "Riot Shields"
+
+  
+
+
+
+
+

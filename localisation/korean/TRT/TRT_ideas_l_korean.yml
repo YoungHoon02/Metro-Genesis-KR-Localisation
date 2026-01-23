@@ -1,0 +1,90 @@
+﻿l_korean:
+ 
+ TRT_mere_thugs:0 "그저 양아치 무리일 뿐"
+ TRT_mere_thugs_desc:0 "겉으로 보기에 베니스는 단합된 공동체처럼 보이지만, 실상은 강도들과 갈 곳 없는 주민들이 억지로 모여 있는 집단에 불과합니다. 단결된 모습은 정교하게 꾸며진 환상일 뿐이며, 강도들의 삼각지대를 이루는 각 역의 실제 구조나 주민들의 일상생활은 서로 판이하게 다릅니다."
+
+ TRT_city_on_stilts_idea:0 "수상 정착촌"
+ TRT_city_on_stilts_idea_desc:0 "그 이름을 따온 이탈리아의 도시처럼, 이곳은 물 위에 세워진 기둥들 위에 건설된 정착촌입니다. 최근 강도들의 삼각지대 역들이 침수되면서, 생존자들은 공동체를 재건해야 하는 길고 고된 과제를 안게 되었습니다."
+
+ TRT_city_on_stilts_2:0 "수상 마을"
+ TRT_city_on_stilts_2_desc:0 "그 이름을 따온 이탈리아의 도시처럼, 이곳은 물 위에 세워진 기둥들 위에 건설된 정착촌입니다. 최근 강도들의 삼각지대 역들이 침수되면서, 생존자들은 공동체를 재건해야 하는 길고 고된 과제를 안게 되었습니다."
+
+ TRT_city_on_stilts_3:0 "수상 도시"
+ TRT_city_on_stilts_3_desc:0 "그 이름을 따온 이탈리아의 도시처럼, 이곳은 물 위에 세워진 기둥들 위에 건설된 정착촌입니다. 최근 강도들의 삼각지대 역들이 침수되면서, 생존자들은 공동체를 재건해야 하는 길고 고된 과제를 안게 되었습니다."
+
+ TRT_city_on_stilts_4:0 "수상 메트로폴리스"
+ TRT_city_on_stilts_4_desc:0 "그 이름을 따온 이탈리아의 도시처럼, 이곳은 물 위에 세워진 기둥들 위에 건설된 정착촌입니다. 최근 강도들의 삼각지대 역들이 침수되면서, 생존자들은 공동체를 재건해야 하는 길고 고된 과제를 안게 되었습니다."
+ 
+ TRT_bandit_enterprise:0 "강도 연합체"
+ TRT_bandit_enterprise_desc:0 "칼루즈스코-리즈스카야 선, 칼린인스카야 선, 그리고 자모스크보레츠카야 선이 교차하는 지점에 베니스가 존재합니다. 서로 독립적인 세 개의 역이 맺은 동맹이지요. 대다수의 생존자는 그저 하루를 버텨내는 평범한 이들이지만, 그들은 밀수꾼과 강도들의 무자비한 통치 아래 놓여 있습니다. 한마디로 부랑자들과 악당들의 소굴입니다."
+
+ TRT_trade_toll:0 "통행료 징수"
+ TRT_trade_toll_desc:0 ""
+
+ TRT_explosives_equipment_improve_1:0 "폭발 장치"
+ TRT_explosives_equipment_improve_1_desc:0 ""
+
+ TRT_explosives_equipment_improve_2:0 "개량형 파편 수류탄"
+ TRT_explosives_equipment_improve_2_desc:0 ""
+
+ TRT_explosives_equipment_improve_3:0 "급조 폭발물"
+ TRT_explosives_equipment_improve_3_desc:0 ""
+
+ TRT_fish_industry_1:0 "수산업"
+ TRT_fish_industry_1_desc:0 ""
+
+ TRT_fish_industry_subsistence:0 "자급자족 경제"
+ TRT_fish_industry_subsistence_desc:0 ""
+
+ TRT_fish_industry_sport:0 "손쉬운 사냥"
+ TRT_fish_industry_sport_desc:0 ""
+
+ TRT_live_game_idea:0 "살아있는 표적"
+ TRT_live_game_idea_desc:0 ""
+
+ TRT_console_technicians:0 "밀수 기술자들"
+ TRT_console_technicians_desc:0 ""
+
+ TRT_armed_to_da_teeth:0 "완전 무장"
+ TRT_armed_to_da_teeth_desc:0 ""
+
+ TRT_haven_of_filth:0 "오물의 정착지"
+ TRT_haven_of_filth_desc:0 ""
+
+ TRT_fine_entertainment:0 "품격 있는 향락"
+ TRT_fine_entertainment_desc:0 ""
+
+ TRT_finer_entertainment:0 "더욱 고급스러운 향락"
+ TRT_finer_entertainment_desc:0 ""
+
+ TRT_kvass_kvass:0 "크바스 과잉"
+ TRT_kvass_kvass_desc:0 ""
+
+ TRT_kvass_kvass_2:0 "밀주 사업"
+ TRT_kvass_kvass_2_desc:0 ""
+
+ TRT_stripclub:0 "매춘 업소 운영"
+ TRT_stripclub_desc:0 ""
+
+ TRT_cleaning_place:0 "구역 정화"
+ TRT_cleaning_place_desc:0 ""
+
+ TRT_commander_choice_1:0 "네 분수를 알라, 무소르"
+ TRT_commander_choice_1_desc:0 ""
+
+ TRT_commander_choice_2:0 "실력주의 도입"
+ TRT_commander_choice_2_desc:0 ""
+
+ TRT_stealing_knowledge_from_elseplace:0 "기술 정보 탈취"
+ TRT_stealing_knowledge_from_elseplace_desc:0 ""
+
+ TRT_our_own_knowledge:0 "정밀한 계획 수립"
+ TRT_our_own_knowledge_desc:0 ""
+
+ TRT_bandit_radio:0 "범죄자들의 피난처"
+ TRT_bandit_radio_desc:0 ""
+
+ TRT_trade_consortium:0 "무역의 안식처"
+ TRT_trade_consortium_desc:0 ""
+
+ TRT_break_on_out:0 "돌파하라..."

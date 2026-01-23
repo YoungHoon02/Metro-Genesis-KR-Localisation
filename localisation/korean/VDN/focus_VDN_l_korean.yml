@@ -1,0 +1,354 @@
+﻿l_korean:
+  VDN_branching_out: "베데엔하 연합의 확장"
+  VDN_branching_out_desc: "베데엔하 연합 수도의 헤르메틱 문은 오래전 엔지니어들에 의해 해체되었습니다. 북쪽에서 오는 변종들의 위협은 한동안 잠잠한 상태이며, 이제는 인근 식물원 역을 재건하고 정착민들을 위한 공간을 확보하기 위해 확장을 시도해야 할 적기입니다."
+
+  VDN_establish_defensive_watch: "방어 감시대 편성"
+  VDN_establish_defensive_watch_desc: "베데엔하 연합 역 주변의 터널을 청소하는 것만으로는 부족합니다. 정식 방어대를 파견하여 터널 구간을 안전하게 확보함으로써, 물자와 정착민들이 북쪽으로 안심하고 이동할 수 있도록 해야 합니다."
+
+  VDN_repair_routelines: "유지보수 터널 봉쇄"
+  VDN_repair_routelines_desc: "모든 틈새를 다 막을 수는 없지만, 어두컴컴한 유지보수 터널만큼은 확실히 조치해야 합니다. 우리가 할 수 있는 최선은 그곳을 벽돌로 쌓아 봉쇄하는 것이며, 그 너머 어둠 속에 무엇이 남아있든 빛으로 나오지 못하게 하는 것입니다."
+
+  VDN_drawing_from_populace: "베데엔하 역 인원 징집"
+  VDN_drawing_from_populace_desc: "베데엔하 역의 경비를 강화하기 위해 더 많은 인력이 필요합니다. 대중을 징집하는 계획은 분명 시민들의 항의와 불만을 불러일으키겠지만, 우리의 생존을 위해서는 피할 수 없는 선택입니다."
+
+  VDN_funding_expansion: "확장 자금 조달"
+  VDN_funding_expansion_desc: "보안군을 위해 더 많은 무기가 필요합니다. 메트로의 이 지역에서는 무기를 실은 화물을 보기가 힘들지만, 우리의 확장 계획이 알려지면 많은 상인들이 우리 역과 거래를 트기 위해 몰려들 것입니다."
+
+  VDN_establish_defensive_watch_3: "북부 역 확보"
+  VDN_establish_defensive_watch_3_desc: "초기 터널이 안전하게 확보되었으므로, 이제 더 먼 곳까지 영향력을 넓힐 때입니다. 조금만 더 가면 됩니다..."
+
+  VDN_fortifications: "방어 시설 구축"
+  VDN_fortifications_desc: "급하게 세운 조잡한 장벽이라도, 아무것도 없는 것보다는 훨씬 낫습니다."
+
+  VDN_funding_outwards: "방어 예산 증액"
+  VDN_funding_outwards_desc: "더 많은 병사, 더 많은 총기, 그리고 전초 기지를 지키기 위한 더 많은 시간은 결국 막대한 양의 탄환이 필요함을 의미합니다. 총을 준비하는 것만큼이나 탄약을 확보하는 것도 중요합니다."
+
+  VDN_communication_lines: "통신망 구축"
+  VDN_communication_lines_desc: "수도 역과 북부 수색대 사이의 신속한 교신이 필요합니다. 설령 통신선이 빈약하더라도, 아무것도 없는 허공에 외치는 것보다는 훨씬 나을 것입니다."
+
+  VDN_explore_botanical_gardens: "식물원 역 진입"
+  VDN_explore_botanical_gardens_desc: "드디어 식물원 역으로 확장할 최적의 시기가 왔습니다. 안전한 통로가 확보되었으니, 이제 번영하는 연합의 새로운 일원으로 식물원 역을 추가할 차례입니다."
+  VDNK_botanical: "우리 군대가 식물원 역으로 진출하여 정착민들이 안전하게 뒤따를 수 있도록 길을 열고, 역의 재건을 시작할 것입니다."
+
+
+VDN_the_VDNKH:0 "베데엔하 연합"
+VDN_the_VDNKH_desc:0 "베데엔하 연합은 '검은 존재들'의 끊임없는 위협에 직면해 있습니다. 메트로 북부의 복잡한 정치적 상황 속에서 연합을 승리로 이끌 방안은 무엇일까요?"
+
+VDN_political_manoeuvring:0 "정치적 책략"
+VDN_political_manoeuvring_desc:0 "영광스러운 연합을 유지하기 위해, 우리는 정치적 생존 싸움에서 어떤 노선을 택할지 결정해야 합니다."
+
+VDN_centralization:0 "권력 중앙화"
+VDN_centralization_desc:0 "드디어 우리가 우리의 운명을 스스로 결정할 때가 왔습니다. 우유부단하고 무의미하게 각 역의 이해타산만 따지는 정치적 말잔치에 낭비할 시간은 없습니다. 우리는 베데엔하 연합 정부를 중심으로 메트로 시스템을 하나로 강력하게 통합해야 합니다!"
+
+VDN_military_contributions:0 "군사적 기여 유도"
+VDN_military_contributions_desc:0 "베데엔하 연합의 시민들은 군에 헌신할 준비가 되어 있습니다. 비록 훈련 수준이 낮고 장비가 열악할지라도, 이 병사들은 자신의 직무에 대해 깊은 자부심과 충성심을 갖고 있습니다."
+
+VDN_good_relations:0 "각 역과의 우호 관계 유지"
+VDN_good_relations_desc:0 "우리는 연합 내의 다른 역들과 우호적인 협력 관계를 변함없이 유지해야 합니다."
+
+VDN_form_vystavka_economic_alliance:0 "비스타브카 경제 동맹 수립"
+VDN_form_vystavka_economic_alliance_desc:0 "우리는 연합의 다른 역들과 더욱 긴밀한 경제적 파트너십을 구축할 것입니다."
+
+VDN_sharedtroops_tt:0 "§G모든 연합의 기지에서 인력을 징집하고 숙련된 지휘관이 이끄는 정예 부대를 편성합니다.§!"
+
+VDN_dealing_with_the_elites:0 "엘리트 파견대와의 타협"
+VDN_dealing_with_the_elites_desc:0 "비스타브카 파견대의 엘리트 병사들은 까다로운 상대입니다. 그들의 요구를 들어주면서도 우리 통제하에 두는 것은 위험한 줄타기가 될 것입니다."
+VDN_economic_reforms:0 "경제 개혁 단행"
+VDN_economic_reforms_desc:0 "연합의 번영을 위해 낙후된 경제 시스템을 전면적으로 개혁해야 합니다."
+
+VDN_establish_colonization:0 "지표 탐사팀 창설"
+VDN_establish_colonization_desc:0 "지상의 자원을 확보하기 위해 전문적인 탐사 연구팀을 조직합니다."
+
+VDN_repel_dark_one:0 "§R'검은 존재들' 격퇴§!"
+VDN_repel_dark_one_desc:0 "우리 연합을 공포에 떨게 하는 북쪽의 괴물들을 완전히 몰아내야 합니다."
+
+VDN_government_reform:0 "정부 체계 개편"
+VDN_government_reform_desc:0 "효율적인 국정 운영을 위해 정부 조직을 현대적이고 체계적으로 개편합니다."
+
+VDN_traders_council:0 "상인 평의회"
+VDN_traders_council_desc:0 "상인들의 목소리를 대변하고 경제 정책을 논의할 상인 평의회를 구성합니다."
+
+VDN_sukhoi:0 "수호이의 부상"
+VDN_sukhoi_desc:0 "수호이가 연합의 새로운 지도자로서 두각을 나타내기 시작했습니다."
+
+VDN_products_of_the_station:0 "역의 특산물"
+VDN_products_of_the_station_desc:0 "우리 역만의 고유한 제품들을 개발하여 경쟁력을 확보합니다."
+
+VDN_civilian_industry:0 "민간 및 산업 협력"
+VDN_civilian_industry_desc:0 "시민들의 삶의 질을 높이고 경제 시너지를 창출하기 위해 민군 산업 협력을 강화합니다."
+
+VDN_darkonerepelled_tt:0 "§Y남쪽으로 확장하기 전에 반드시 식물원 일대를 탈환해야 합니다.§!"
+VDN_expandedupon_tt:0 "§Y이 계통은 향후 업데이트에서 더욱 확장될 예정입니다.§!"
+
+VDN_upgrade_military:0 "군 현대화"
+VDN_upgrade_military_desc:0 "구식 장비를 교체하고 군의 전반적인 전투력을 향상시킵니다."
+
+VDN_control_the_government:0 "정부 통제력 강화"
+VDN_control_the_government_desc:0 "정부 부처 전반에 대한 장악력을 높여 안정적인 통치를 도모합니다."
+
+VDN_sabotage_political_operations:0 "정치적 공작 저지"
+VDN_sabotage_political_operations_desc:0 "반대 파벌의 정치적 책략과 공작을 사전에 차단하고 무력화합니다."
+
+VDN_harrass_supporters:0 "지지 기반 약화"
+VDN_harrass_supporters_desc:0 "현 정부의 지지자들을 압박하여 정치적 기반을 흔듭니다."
+
+VDN_the_coup:0 "군사 쿠데타"
+VDN_the_coup_desc:0 "더 이상 무능한 정부를 지켜볼 수 없습니다. 군이 직접 나서서 질서를 바로잡아야 합니다."
+
+VDN_rizhskaya:0 "리즈스카야 역 통합"
+VDN_rizhskaya_desc:0 "리즈스카야 역을 우리 연합의 핵심 구성원으로 받아들입니다."
+
+VDN_alekseevskaya:0 "알렉세예프스카야 역 통합"
+VDN_alekseevskaya_desc:0 "알렉세예프스카야 역을 우리 연합의 일원으로 강력하게 통합합니다."
+
+VDN_intertwining_our_governments:0 "연합 정부 통합"
+VDN_intertwining_our_governments_desc:0 "각 역의 정부 조직을 효율적인 하나의 단일 체제로 융합합니다."
+
+VDN_invite_commonwealth_merchants:0 "연합 상인 유치"
+VDN_invite_commonwealth_merchants_desc:0 "연합 내의 유능한 상인들을 불러모아 경제 활성화를 도모합니다."
+
+VDN_work_to_be_done:0 "당면 과제 해결"
+VDN_work_to_be_done_desc:0 "지체된 공사와 시설 보수 등 시급한 업무들을 신속히 처리합니다."
+
+VDN_privately_owned_ventures:0 "사설 벤처 기업 지원"
+VDN_privately_owned_ventures_desc:0 "시민들의 창의성과 도전 정신을 응원하기 위해 민간 사업체 설정을 장려합니다."
+
+VDN_resource_collectivization:0 "자원 국유화"
+VDN_resource_collectivization_desc:0 "전략적 자원들을 국가 주도로 관리하여 연합 전체의 이익을 극대화합니다."
+
+VDN_invite_hanza_scientist:0 "한자 동맹 기술자 초빙"
+VDN_invite_hanza_scientist_desc:0 "선진적인 기술을 보유한 한자 동맹의 기술자들을 초빙하여 우리의 과학 기술 수준을 한 단계 끌어올립니다."
+
+VDN_railway_repair:0 "철도 정비 기술 확보"
+VDN_railway_repair_desc:0 "효율적인 물류와 이동을 위해 낙후된 철도 수리 및 유지보수 기술을 연구합니다."
+
+VDN_trade_routes_safe:0 "무역로 안전 확보"
+VDN_trade_routes_safe_desc:0 "상인들이 안심하고 오갈 수 있도록 주요 무역로의 보안을 강화합니다."
+
+VDN_tradesafe_tt:0 "§G한자 동맹과 동맹을 맺은 우방국들의 국경을 따라 강력한 방어 요새를 건설합니다!§!"
+
+VDN_completing_the_line:0 "노선 완전 가동"
+VDN_completing_the_line_desc:0 "연합 내 모든 역을 잇는 철도 노선의 복구를 완료하고 정상 운영을 시작합니다."
+
+VDN_army_priority:0 "국방 우선주의"
+VDN_army_priority_desc:0 "무역보다 안전이 우선입니다. 국방 예산을 최우선으로 배정하여 연합의 안보를 확립합니다."
+
+VDN_arm_merchants:0 "상단 무장 지원"
+VDN_arm_merchants_desc:0 "상인들에게 호신용 무기를 보급하여 스스로를 보호할 수 있는 최소한의 능력을 갖추게 합니다."
+
+VDN_foreign_mercenary:0 "외국인 용병 고용"
+VDN_foreign_mercenary_desc:0 "부족한 병력을 보충하기 위해 외부에서 숙련된 용병들을 고용합니다."
+
+VDN_escort_guards:0 "유료 호위대 서비스"
+VDN_escort_guards_desc:0 "주요 화물을 보호하기 위해 무장한 호위대를 상시 배치합니다."
+
+VDN_caravan_guards:0 "차량 호위대 편성"
+VDN_caravan_guards_desc:0 "상단의 안전을 보장하기 위해 강력한 엄호 부대를 함께 파견합니다."
+
+VDN_trade_priority:0 "무역 활성화 우선"
+VDN_trade_priority_desc:0 "경제 성장이 곧 국력입니다. 무역 장벽을 낮추고 상인들에게 더 많은 혜택을 제공합니다."
+
+VDN_carts_of_guns:0 "총기 보급 수송"
+VDN_carts_of_guns_desc:0 "최전방 역들로 대량의 총기와 장비를 수송하여 방어력을 높입니다."
+
+VDN_travel_together:0 "동행 호송 체계"
+VDN_travel_together_desc:0 "상인들이 소규모로 흩어지지 않고, 대규모 호송대와 함께 안전하게 이동할 수 있도록 유도합니다."
+
+VDN_the_cost_of_protection:0 "안보의 대가"
+VDN_the_cost_of_protection_desc:0 "안전에는 항상 비용이 따릅니다. 필요한 방어 자금을 확보하기 위해 새로운 세금이나 수수료 체계를 도입합니다."
+
+VDN_fund_military_research:0 "군사 연구 자금 조달"
+VDN_fund_military_research_desc:0 "더 강력한 무기와 장비 개발을 위해 연구 예산을 추가로 배정합니다."
+
+VDN_recruitment_drives:0 "대대적인 모병 캠페인"
+VDN_recruitment_drives_desc:0 "연합의 젊은이들이 군에 자원하도록 독려하고 애국심을 고취시킵니다."
+
+VDN_puppetunlock_tt:0 "§G이 선택지를 통해 리즈스카야와 알렉세예프스카야 역을 괴뢰국으로 삼을 수 있는 결정들이 해제됩니다!§!"
+VDN_riz_integrate_3:0 "§Y해당 역을 연합으로 완전히 통합하기 위한 후속 결정을 진행합니다.§!"
+VDN_alk_integrate_3:0 "§Y해당 역을 연합으로 완전히 통합하기 위한 후속 결정을 진행합니다.§!"
+
+VDN_the_silk_road:0 "메트로의 실크로드"
+VDN_the_silk_road_desc:0 "우리 연합을 가로지르는 무역로를 고대 실크로드처럼 거대하고 안전하게 구축합니다."
+
+VDN_fortis_fortune:0 "포르티스 포르투나 아디우바트"
+VDN_fortis_fortitude_desc:0 "행운은 용감한 자를 돕는 법입니다. 우리는 두려움 없이 미래를 향해 전진할 것입니다."
+
+VDN_unraidable_caravans:0 "불침의 호송대"
+VDN_unraidable_caravans_desc:0 "어떠한 도적이나 돌연변이도 감히 넘볼 수 없는 철통 같은 방어력을 갖춘 카라반을 운영합니다."
+
+VDN_secure_the_resources:0 "공급망 안정화"
+VDN_secure_the_resources_desc:0 "연합의 생존에 필수적인 기초 자원들의 공급망을 완벽하게 통제하고 보호합니다."
+
+VDN_crash_the_economy:0 "시장 통제력 행사"
+VDN_crash_the_economy_desc:0 "경제를 우리의 입맛에 맞게 조정하여 반대 세력과 주변 역들의 영향력을 억제합니다."
+
+VDN_an_economic_crusade:0 "경제적 성전"
+VDN_an_economic_crusade_desc:0 "연합의 번영을 위해 대대적인 경제적 확장을 감행합니다."
+
+VDN_the_scale_tips:0 "세력의 균형추"
+VDN_the_scale_tips_desc:0 "그동안 유지되었던 힘의 균형이 무너지고, 이제는 베데엔하 연합이 주도권을 잡게 될 것입니다."
+
+VDN_securing_our_place:0 "입지 공고화"
+VDN_securing_our_place_desc:0 "메트로 내에서 우리 연합의 위상과 자리를 확고히 다집니다."
+
+VDN_solidify_our_government:0 "국정 운영 안정화"
+VDN_solidify_our_government_desc:0 "정부의 권위를 세우고 통치 기반을 더욱 튼실하게 다집니다."
+
+VDN_consumerism_act:0 "소비 증진법"
+VDN_consumerism_act_desc:0 "시장을 활성화하고 시민들의 소비를 장려하여 연합의 내수를 강화합니다."
+
+VDN_true_capitalism:0 "진정한 자본주의"
+VDN_true_capitalism_desc:0 "자유로운 경쟁과 이윤 추구를 바탕으로 한 진정한 자본주의 시스템을 연합에 정착시킵니다."
+
+VDN_integrate_the_northern_territories:0 "북부 영토 통합"
+VDN_integrate_the_northern_territories_desc:0 "북부의 여러 역들을 우리 연합의 영토로 완전히 편입합니다."
+
+VDN_a_major_power:0 "메트로의 주역"
+VDN_a_major_power_desc:0 "우리는 이제 변방의 작은 역들이 아닙니다. 메트로의 운명을 결정짓는 당당한 강대국입니다."
+
+VDN_decision_unlock_tt:0 "§G각 세력의 영향력을 조정할 수 있는 새로운 결정들이 해제됩니다!§!"
+
+VDN_attack_alk:0 "알렉세예프스카야 응징"
+VDN_attack_alk_desc:0 "우리의 권위를 무시하는 알렉세예프스카야 역을 무력으로 굴복시킵니다."
+
+VDN_attack_riz:0 "리즈스카야 응징"
+VDN_attack_riz_desc:0 "반항적인 리즈스카야 역을 제압하여 연합의 기강을 바로잡습니다."
+
+VDN_great_adventure_tt:0 "§G영광스러운 성전을 위해 예비군을 소집하고 정예 부대를 편성합니다.§!"
+
+VDN_the_great_adventure:0 "위대한 여정"
+VDN_the_great_adventure_desc:0 "메트로의 미래를 바꾸기 위한 우리 연합의 위대한 모험이 시작됩니다."
+
+VDN_preparing_the_troops:0 "전투 태세 완료"
+VDN_preparing_the_troops_desc:0 "병사들을 훈련시키고 보급품을 점검하며 다가올 전투에 대비합니다."
+
+VDN_mercs_tt:0 "§G용감한 스토커 대원들이 수도 역에 도착하여 합류할 것입니다.§!"
+
+VDN_tradeinfluencehigh_tt:0 "§Y이 초점을 완료하려면 상인들의 영향력이 높아야 합니다.§!"
+
+VDN_capitalistinfluencehigh_tt:0 "§Y이 초점을 완료하려면 자본가들의 영향력이 높아야 합니다!§!"
+
+ VDN_clearing_clutter: "무역 환경 정비"
+ VDN_clearing_clutter_desc: "메트로 주변의 터널과 역들이 무너진 콘크리트, 고철, 그리고 오래된 쓰레기들로 뒤덮여 있습니다. 인력을 동원하여 역 주변을 복구하고 정비하면, 공간을 훨씬 더 효율적으로 사용하고 원활한 무역 환경을 조성할 수 있습니다."
+
+ VDN_industrial_research_effort: "산업 연구팀 창설"
+ VDN_industrial_research_effort_desc: "메트로에서 지식은 그 어떤 사치품보다도 희귀하고 가치 있는 것입니다. 흩어진 기술 서적들을 모으고, 우리만의 도서관을 구축하여 현 세대의 기술 노하우를 매뉴얼화함으로써 미래 세대에게 이 소중한 유산을 물려주어야 합니다."
+
+ VDN_workshops: "민간 워크숍 설립"
+ VDN_workshops_desc: "연합의 지원 하에 민간 워크숍을 개설하여, 손재주 있는 장인들과 예술가들이 자신의 작품을 만들 수 있게 독려합니다. 이는 시민들의 잠재력을 끌어내고 연합 전체의 생산 가치를 높이는 계기가 될 것입니다."
+
+ VDN_workshops_2: "워크숍 운영 체계화"
+ VDN_workshops_2_desc: "생산량이 늘어남에 따라 이제는 운송 관리 사무소를 통해 이들의 노력을 체계적으로 승인하고 조직할 때입니다. 우리 연합의 공간과 자원은 한정되어 있으므로, 이를 효율적으로 분배하는 과정이 필수적입니다."
+
+ VDN_gunsmith: "총기 제작 거점 마련"
+ VDN_gunsmith_desc: "당장은 모든 무기를 직접 생산할 기술과 자원이 부족하지만, 전문가들을 초빙하여 무기 수리 및 기초적인 제작이 가능한 기반을 마련할 수 있습니다."
+ 
+ VDN_gunsmith_2: "연합의 무기고"
+ VDN_gunsmith_2_desc: "기술을 보유한 전문가들과 정밀한 도구들을 확보하여 마침내 우리만의 화기 생산 센터를 건립했습니다. 과거 기준으로는 단순한 형태일지 몰라도, 자체적으로 총기와 탄약을 공급할 수 있는 능력은 매우 큰 자산입니다."
+
+ VDN_infrastructure_focus: "체계적인 역내 인프라 구축"
+ VDN_infrastructure_focus_desc: "지상이 멸망하기 전 국가 계획 부서에서 근무했던 귀한 인재를 영입했습니다. 그의 전문적인 식견을 바탕으로 계획 위원회를 구성하여, 한정된 공간과 자원을 최적으로 활용하기 위한 장기적인 개발 계획을 수립합니다."
+
+ VDN_gunsmith_3: "군산 복합 구역 지정"
+ VDN_gunsmith_3_desc: "군사 공방에 대한 지속적인 투자 덕분에, 수도 역의 일정 구역을 군사 개발 전용 지구로 지정할 수 있게 되었습니다. 이제 여기서 생산된 총기와 전차들로 무장한 우리 병사들은 메트로의 차가운 터널 속에서 누구보다 강력한 위용을 떨칠 것입니다."
+
+ VDN_gunsmith_4: "무기 제조 특구"
+ VDN_gunsmith_4_desc: "모든 역의 구석구석이 무기와 장비 생산을 위한 전용 특구로 탈바꿈했습니다. 마치 과거 번영했던 모스크바의 산업 단지를 연상시키는 장관입니다. 우리 연합은 이제 메트로 최고의 무기 생산국으로 우뚝 섰습니다."
+
+ VDN_workshops_3: "민간 산업 집중 개발"
+ VDN_workshops_3_desc: "민간 공방에 대한 대대적인 투자로 수도 역의 일부가 생필품 및 무역 물자 생산을 위한 전용 구역으로 할당되었습니다. 이를 통해 풍부해진 보급 물자는 우리 상인들이 메트로 전체로 뻗어 나가는 원동력이 될 것입니다."
+
+ VDN_workshops_4: "노동 및 생산 지구"
+ VDN_workshops_4_desc: "모든 역에 노동 관리와 생필품 제조를 위한 전용 지구가 들어섰습니다. 과거 모스크바의 영광이 되살아난 듯한 이 발전을 통해, 우리 연합은 메트로의 핵심적인 물자 공급국으로 확고히 자리 잡았습니다."
+
+ VDN_workforce: "노동력 조직화"
+ VDN_workforce_desc: "노동자들을 체계적으로 조직하면 생산 효율성을 비약적으로 높일 수 있습니다. 중구난방식의 개별 활동보다는 공공 근로대와 노동 작업반을 편성하여 공동의 목표를 부여함으로써, 이들의 능력을 최대한 이끌어내야 합니다."
+
+ VDN_industry_boost: "산업 장비 도입"
+ VDN_industry_boost_desc: "생산 기반은 갖췄으나 적절한 산업용 도구와 설비가 부족하여 제 능력을 발휘하지 못하고 있습니다. 훌륭한 재료가 있어도 연장이 없으면 소용없는 법입니다. 무역과 수색을 통해 최신 도구들을 확보하여 연합의 산업화를 가속화합시다."
+
+ VDN_infrastructure_projects: "대규모 인프라 프로젝트"
+ VDN_infrastructure_projects_desc: "주요 구역과 터널의 잔해를 치우고 전차 시스템을 구축하는 등, 연합의 동맥을 다시 잇기 위해 대규모 노동 조직을 가동합니다. 군을 동원해 위험한 터널 구역을 소탕하고, 역 사이를 오가는 소형 전차 노선을 확충하여 물류와 이동의 편의를 극대화하겠습니다."
+
+ VDN_mobilise_the_labour: "예술인 및 장인 지원"
+ VDN_mobilise_the_labour_desc: "연합 내에서 활동하는 예술인과 장인들에게 장려금을 제공하고 저렴한 원자재를 공급함으로써, 시민들의 정서적 삶을 풍요롭게 하고 연합이 생산하는 물품들의 질적 가치를 한 차원 더 높이겠습니다."
+
+ VDN_strongarm_caravans: "강압적인 카라반 통제"
+ VDN_strongarm_caravans_desc: "상인들이 우리 연합의 터널을 제멋대로 지나가는 것을 더 이상 방치하지 않겠습니다. 정해진 규칙에 따라 거래에 응하지 않는다면, 우리는 그들에게 물리적인 압박을 가해서라도 우리의 입장을 확실히 각인시켜야 합니다."
+
+ VDN_bastion_of_trade: "메트로 무역의 보루"
+ VDN_bastion_of_trade_desc: "이제 메트로의 모든 역에서 우리 연합이 무역의 중심지라는 소문이 돌고 있습니다. 그 과정이 다소 강압적이었을지 몰라도, 우리가 공급하는 물품들의 질과 양은 한자 동맹과 비교해도 전혀 손색이 없습니다."
+
+ VDN_laboratory: "연구소 설립"
+ VDN_laboratory_desc: "전문적인 연구소를 설립하여 체계적인 기술 개발에 박차를 가합니다. 비록 폴리스의 최첨단 시설에는 미치지 못할지라도, 우리 연합의 연구 역량은 이전과는 비교할 수 없을 정도로 향상될 것입니다."
+
+ VDN_scavenging_efforts: "지상 수색 대장정"
+ VDN_scavenging_efforts_desc: "숙련된 수색팀을 표면으로 파견하여 잊혀진 물자 저장고를 찾아내고, 모스크바의 폐허 속에 잠들어 있는 소중한 자원들을 확보합니다."
+
+ VDN_scavenging_scrap: "고철 수집"
+ VDN_scavenging_scrap_desc: "수색대원들을 지상으로 보내 필요한 고철과 금속 재료들을 최대한 긁어모으게 합니다. 폐허 속에서 쓸만한 것은 무엇이든 가져와야 합니다."
+
+ VDN_scavenging_electronics: "전자 부품 확보"
+ VDN_scavenging_electronics_desc: "지상에서 정밀한 전자 장비와 부품들을 찾아내기 위해 특수 수색조를 편성합니다."
+
+ VDN_scavenging_electricity: "발전 장비 수색"
+ VDN_scavenging_electricity_desc: "표면의 폐건물들을 뒤져 사용 가능한 발전기와 대용량 배터리를 확보함으로써, 연합의 만성적인 전력 부족 문제를 해결하고 에너지 자립도를 높입니다."
+
+ VDN_scavenging_fuel: "연료 확보 작전"
+ VDN_scavenging_fuel_desc: "지상의 폐차장이나 주유소 등에 남아있을지 모르는 유류를 수거하기 위해 정예요원들을 파견합니다."
+
+VDN_form_the_commonwealth:0 "베데엔하 연합 결성"
+VDN_form_the_commonwealth_desc:0 ""
+
+VDN_tunnel_infrastructure:0 "터널 기반 인프라 개발"
+VDN_tunnel_infrastructure_desc:0 ""
+
+VDN_prepare_against_hanza:0 "한자동맹에 대비하기"
+VDN_prepare_against_hanza_desc:0 ""
+
+VDN_ask_control_over_prospekt:0 "프로스펙트 미라 북쪽 controlover요청"
+VDN_ask_control_over_prospekt_desc:0 ""
+
+VDN_demand_overlordship_over_sukharevskaya:0 "수하레프스카야에 대한 우주제의 요구"
+VDN_demand_overlordship_over_sukharevskaya_desc:0 ""
+
+VDN_join_hanza:0 "한자동맹파에 합류하라"
+VDN_join_hanza_desc:0 ""
+
+VDN_coup_alk_riz:0 "알렉세예프스카야와 리즈스카야역에서 쿠데타"
+VDN_coup_alk_riz_desc:0 ""
+
+VDN_internal_matters:0 "내부사안에 집중하라"
+VDN_internal_matters_desc:0 "우리는 잠재적으로 위험한 파벌을 만들지 말고 대신 역학역의 안정을 유지해야 한다."
+
+VDN_form_elite_forces:0 "엘리트군을 구성하라"
+VDN_form_elite_forces_desc:0 "그들의 군사적 도움으로 영토 상환을 요구하며, 비스카바 엘리트를 구성할 것입니다."
+
+VDN_concessions_tt:0 "§Y이것은 우리가 정복한 영토의 일부를 특수부대가 관리하게 할 수 있습니다.§!"
+
+VDN_hunter:0 "헌터의 등장"
+VDN_hunter_desc:0 ""
+
+VDN_outwards_into_sukharevskaya:0 "수하레프스카야로 나감"
+VDN_outwards_into_sukharevskaya_desc:0 ""
+
+VDN_the_darkness_of_turgenevskaya:0 "투르겐에프스카야의 어둠"
+VDN_터겐예프스카야의 어둠_설명:0 ""
+
+VDN_war_on_crime:0 "범죄에 대한 전쟁"
+VDN_war_on_crime_desc:0 ""
+
+VDN_ask_control_over_oktabrskaya:0 "옥타브르스카야 북부에 대한 통제를 요청하십시오"
+VDN_ask_control_over_oktabrskaya_desc:0 ""
+
+VDN_invite_yasenevskaya:0 "야세네프스카야 초대"
+VDN_invite_yasenevskaya_desc:0 ""
+
+VDN_integrate_yasenevskaya:0 "야세네프스카야 통합"
+VDN_integrate_yasenevskaya_desc:0 ""
+
+VDN_depot:0 "설비 개조소"
+VDN_depot_desc:0 ""
+
+VDN_incorporate_medvedkovo:0 "메드베트코보를 흡수하라"
+VDN_incorporate_medvedkovo_desc:0 ""

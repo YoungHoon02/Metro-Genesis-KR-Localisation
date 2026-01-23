@@ -1,0 +1,325 @@
+﻿l_korean:
+
+ tech_tooltip_tools: "도구"
+ tooltip_manufacturing: "생산"
+ tooltip_construction: "건설"
+
+ ### Industry ###
+
+ # Construction #
+ tech_construction_rag_tents:0 "누더기 텐트"
+ tech_construction_rag_tents_desc:0 "전쟁 전에는 대부분의 사람들이 메트로의 화려한 천장 아래서 단잠을 잘 수 있었습니다. 하지만 지금은 떨어지는 물소리나 먼 거리의 총성, 혹은 어두운 곳에 숨어있는 돌연변이 이야기 때문에 깨지 않고 밤을 보내는 것조차 행운입니다. 기운 옷감이나 천 조각으로 텐트를 만드는 것이 외부 요인을 막는 최선의 방법은 아니겠지만, 없는 것보다는 나을 것입니다."
+
+ tech_construction_tarpaulin:0 "타포린"
+ tech_construction_tarpaulin_desc:0 "천보다 훨씬 무겁지만 방수 효과는 탁월합니다. 타포린 쉘터는 일반 직물 쉘터보다 훨씬 낫습니다. 자랑할 만한 사치품은 아니지만, 자는 동안 물이 새어드는 것을 막아주는 데는 이만한 것이 없습니다."
+
+ tech_construction_wood:0 "목재"
+ tech_construction_wood_desc:0 "지하에서는 구하기 매우 어려운 재료입니다. 지상 탐사 중에 나무에서 수습해올 수 있습니다. 견고하고 가공하기 쉬우며, 방수 처리가 가능할 뿐만 아니라 외관도 꽤 훌륭합니다."
+
+ tech_construction_scrap_metal:0 "고철"
+ tech_construction_scrap_metal_desc:0 "금속은 목재보다 풍부하고 튼튼하기 때문에, 메트로 주거 양식 진화의 다음 단계라 할 수 있습니다. 벽이 덜덜 떨리기는 하겠지만, 누구도 도끼로 벽을 부수고 들어오지는 못할 것입니다!"
+
+ tech_construction_bricks:0 "벽돌"
+ tech_construction_bricks_desc:0 "저렴하고 믿을 수 없을 만큼 견고하며, 건축을 위해 특수 제작되었습니다. 벽돌의 등장은 사람들이 과거에 누렸던 메트로의 평범한 삶으로 돌아가기 시작했다는 첫 번째 신호입니다."
+
+ tech_construction_concrete:0 "콘크리트"
+ tech_construction_concrete_desc:0 "콘크리트는 거푸집에 부어 넣을 수 있고 운반이 쉬우며, 바닥과 벽뿐만 아니라 지붕에도 사용할 수 있습니다! 로마 시대부터 사용되어 온 경이로운 재료입니다."
+
+ tech_construction_graphene_concrete: "그래핀 콘크리트"
+ tech_construction_graphene_concrete_desc: "그래핀은 질기고 유연하며, 콘크리트는 견고하고 강합니다. 이 두 가지를 결합하면 동일한 구조적 성능을 유지하면서도 건설 비용을 절감할 수 있을 것으로 기대됩니다."
+
+ # Tooling # 
+ tech_tooling_campfire: "캠프파이어"
+ tech_tooling_campfire_desc: "불은 6만 년 전 원숭이들에 의해 발명되었습니다. 노출된 불꽃 옆에 앉아 따뜻함을 얻는 것 외에도, 요리부터 조명, 시신 소각에 이르기까지 수많은 용도로 사용됩니다."
+
+ tech_tooling_primitive_tools:0 "원시 도구"
+ tech_tooling_primitive_tools_desc:0 "망치, 도끼, 칼과 같은 도구들입니다. 이러한 도구들은 문명의 역사만큼이나 오래되었으며, 인류는 다시금 이들에게 의지하게 될 것 같습니다."
+
+ tech_tooling_basic_tools:0 "기본 도구함"
+ tech_tooling_basic_tools_desc:0 "톱, 바이스, 스크류드라이버와 같은 보다 전문적인 도구들이 정기적으로 보급되기 시작하여, 더욱 정밀한 가공이 가능해졌습니다."
+
+ tech_tooling_simple_tools:0 "간이 도구함"
+ tech_tooling_simple_tools_desc:0 "파이프 렌치, 수평계, 줄자 등이 포함됩니다. 메트로 노동자들의 도구함은 점점 더 전쟁 전의 모습과 유사해지고 있으며, 모든 역이 이러한 발전의 혜택을 입고 있습니다."
+
+ tech_tooling_modern_tools:0 "현대 도구함"
+ tech_tooling_modern_tools_desc:0 "이제 메트로에 용접 기술이 대대적으로 보급되었습니다. 가스 토치를 사용하여 총기 제작부터 건축용 강철 접합에 이르기까지 다양한 용도에 금속을 결합합니다."
+
+ tech_tooling_power_tools:0 "전동 도구함"
+ tech_tooling_power_tools_desc:0 "전기가 확산되면서 전동 도구가 등장했습니다! 전동 드라이버, 글루건, 전기 드릴 등이 사용됩니다. 미래에 대해 확실한 한 가지는, 이런 장비들로 인해 작업 현장이 훨씬 더 시끄러워질 것이라는 점입니다."
+
+ tech_tooling_specialised_tools:0 "전문화 도구함"
+ tech_tooling_specialised_tools_desc:0 "일반 노동자용 도구의 빈틈을 메우는 전문 도구들이 보급되기 시작했습니다. 못총, 전동 톱, 임팩트 드릴 등이 숙련된 기술자들의 손에 쥐어집니다."
+
+ tech_tooling_advanced_tools:0 "고급 도구함"
+ tech_tooling_advanced_tools_desc:0 "마침내 진정로 희귀한 도구들이 개발되었습니다. 아버지가 가지고는 있지만 실제로는 써본 적 없는 그런 물건들입니다. 배터리로 작동하는 정수 장치, 스터드 파인더, EMF 계측기 등이 포함됩니다."
+
+ tech_tooling_cutting_edge_tools: "최첨단 도구함"
+ tech_tooling_cutting_edge_tools_desc: "종말 이후의 세상이라 할지라도 진보는 멈추지 않습니다."
+
+ # Smithing # 
+
+ tech_smithing_basic_smithing:0 "기본 대장일"
+ tech_smithing_basic_smithing_desc:0 "금속을 가공하는 원리는 꽤 간단합니다. 금속을 가열한 뒤 두드려서 형태를 만드는 것입니다. 수작업으로 진행하면 놀라울 정도로 높은 품질을 얻을 수 있지만, 인력과 시간이 많이 소요되는 노동 집약적인 과정입니다."
+
+ tech_smithing_anvil_smithing:0 "모루 대장일"
+ tech_smithing_anvil_smithing_desc:0 "모루는 작업실의 한 자리에 고정되어 움직이지 않지만 믿을 수 없을 만큼 유용한 도구입니다. 금속을 두드리고, 구부리고, 비틀어 다양한 도구 형상으로 만드는 데 사용되며, 도구 제작 과정을 훨씬 수월하게 해줍니다."
+
+ tech_smithing_trip_hammer:0 "트립 해머"
+ tech_smithing_trip_hammer_desc:0 "트립 해머는 기독교 탄생 이전부터 존재해 온 발명품이지만, 수백 년 동안 많은 대장장이들에 의해 쓰여 왔습니다. 간단히 말해 주로 중력을 이용해 금속을 두드려 형태를 잡는 망치로, 대장장이의 노동력을 크게 절약해 줍니다."
+
+ tech_smithing_power_hammer:0 "파워 해머"
+ tech_smithing_power_hammer_desc:0 "전기로 작동하는 산업용 망치인 파워 해머는 금속 가공 시 필요한 모든 수작업의 수고를 덜어줍니다. 사람의 팔보다 훨씬 강력하고 빠르며 일관성이 있습니다."
+
+ tech_smithing_hydraulic_press:0 "유압 프레스"
+ tech_smithing_hydraulic_press_desc:0 "유압 프레스는 전기와 압력을 이용해 금속을 얇은 판이나 특정 모양으로 눌러 만드는 장치입니다. 무언가를 짓눌러버리는 영상을 찍고 싶을 수도 있겠지만, 메트로에는 전동 도구의 오남용에 대한 기묘한 집착이 존재합니다."
+
+ tech_smithing_machine_pressing:0 "기계 프레스"
+ tech_smithing_machine_pressing_desc:0 "기계 프레스는 금속 물체에 각인이나 휘장, 일련번호 등 다양한 전문 정보를 찍어내는 데 사용됩니다. 손으로 직접 새기는 것보다 훨씬 빠릅니다."
+
+ # Pressing #
+
+ tech_pressing_punch_pressing:0 "펀치 프레스"
+ tech_pressing_punch_pressing_desc:0 "펀치 프레스는 압력을 가해 금속을 재성형하거나 크기를 조정할 수 있습니다. 도구 제작 외에는 용도가 제한적이지만, 무기 부품 제조에는 유용하게 적용될 수 있습니다."
+
+ tech_pressing_hydraulic_punch_press:0 "유압 펀치 프레스"
+ tech_pressing_hydraulic_punch_press_desc:0 "펀치 프레스에 유압을 사용하면 금속 성형 속도가 빨라져 하루에 더 많은 부품을 생산할 수 있습니다."
+
+ tech_pressing_laser_machining:0 "레이저 가공"
+ tech_pressing_laser_machining_desc:0 "강력한 레이저를 이용한 금속 가공은 자원 소모가 매우 심해 그동안 선택지가 아니었습니다. 하지만 과거의 산업용 레이저 기술을 재발견하면서, 이제는 빛만으로 부품을 깎아낼 수 있게 되었습니다!"
+
+ # Casting # 
+
+ tech_casting_basic_casting:0 "기본 주조"
+ tech_casting_basic_casting_desc:0 "기초적인 금속 주조는 불순물이 많고 사용 불가능한 고철이 많이 발생합니다. 상당히 낭비가 심하지만 아무것도 없는 것보다는 낫습니다."
+
+ tech_casting_scrap_casting:0 "고철 주조"
+ tech_casting_scrap_casting_desc:0 "수습하거나 채굴한 고철을 녹여 순도가 높은 바(Bar) 형태로 다시 주조하면 수율이 개선됩니다. 물론 여전히 개선해야 할 점은 많습니다."
+
+ tech_casting_alloy_casting:0 "합금 주조"
+ tech_casting_alloy_casting_desc:0 "순수 금속 대신 합금을 주조하면 더 풍부하고 튼튼한 금속을 얻을 수 있습니다. 단, 전기가 없다면 한계가 있을 것입니다."
+
+ tech_casting_electrolysis:0 "전기 분해"
+ tech_casting_electrolysis_desc:0 "의료용이 아닌 산업용 전기 분해는 재료의 강도를 약화시킬 수 있는 화학적 불순물을 제거하는 데 사용됩니다."
+
+ tech_casting_laser_casting:0 "레이저 주조"
+ tech_casting_laser_casting_desc:0 "레이저는 정밀도가 믿을 수 없을 정도로 높으며, 망치나 칼처럼 마모될 걱정이 없으므로 금속을 일관된 모양으로 성형하는 데 완벽합니다."
+
+ tech_casting_3d_printing:0 "3D 프린팅"
+ tech_casting_3d_printing_desc:0 "전쟁 발발 당시 3D 프린팅 기술은 초기 단계였으나, 이후 우리 강역 내에서 일종의 르네상스를 맞이했습니다. 장식품부터 하부 수신기(Lower Receiver)에 이르기까지, 이 장치들은 수지(Resin)를 이용해 특수 부품을 만드는 데 탁월한 성능을 발휘합니다."
+
+ # Recycling # 
+
+ tech_recycling_1:0 "재활용 I"
+ tech_recycling_1_desc:0 "절약하고, 재사용하고, 재활용하십시오! 이것이 지구를 구할 수 있을 것이라 믿었던 때를 기억하십니까? 파란 쓰레기통에 담긴 플라스틱 병 따위로는 인류의 멸망을 막을 수 없었던 모양입니다."
+
+ tech_recycling_2:0 "재활용 II"
+ tech_recycling_2_desc:0 "사용법만 제대로 안다면 거의 모든 물건에 두 번째 삶을 부여할 수 있습니다. 산업 전문가들에게 재활용 교육을 실시하여 우리의 귀중한 자원을 최대한 효율적으로 활용하도록 하겠습니다."
+
+ tech_recycling_3:0 "재활용 III"
+ tech_recycling_3_desc:0 "누군가에게는 쓰레기일지라도 다른 누군가에게는 보물이 될 수 있습니다! 전쟁 전의 장치들에는 산업 현장에 기부할 수 있는 유용한 재료가 가득합니다. 회로 칩의 금속, 온도계의 수은, 인형 속의 양모 등 가능성은 무궁무진합니다!"
+
+ # Hygiene # 
+
+ tech_hygiene_basic_hygiene:0 "기본 위생"
+ tech_hygiene_basic_hygiene_desc:0 "황량하고 추운 지하 세계인 메트로에서 질병은 늘 도사리고 있습니다. 완벽한 방책은 아니지만, 정기적으로 손과 몸, 머리를 씻는 것만으로도 수많은 질병과 기생충을 예방하는 데 도움이 됩니다."
+
+ tech_hygiene_food_standards:0 "식품 규격"
+ tech_hygiene_food_standards_desc:0 "익히지 않은 고기나 부주의하게 다룬 농산물, 교차 오염된 음식 등은 메트로에서 고통스러운 죽음을 초래할 수 있습니다. 식품 조리 규격을 강제하는 것은 모든 음식의 맛을 좋게 만들지는 않겠지만, 적어도 음식을 먹고 병에 걸리는 일은 막아줄 것입니다."
+
+ tech_hygiene_germ_theory:0 "세균론"
+ tech_hygiene_germ_theory_desc:0 "전쟁에서 아는 것이 힘이라는 말은 질병과의 싸움에서도 예외가 아닙니다. 세균론에 대한 체계적인 이해는 우리가 온갖 끔찍한 병마에 맞서 싸우는 데 큰 보탬이 될 것입니다."
+
+ tech_hygiene_sterilised_supplies:0 "소독 물자"
+ tech_hygiene_sterilised_supplies_desc:0 "소독용 알코올과 세정제, 그리고 피부에 안전한 세척제를 비축하여 의료 도구를 소독하면 수술 중 발생할 수 있는 2차 감염 위험을 획기적으로 줄일 수 있습니다."
+
+ tech_hygiene_designated_triages:0 "지정 분류소"
+ tech_hygiene_designated_triages_desc:0 "부상자와 환자를 위한 구역을 분리하여 병균이 사람 사이에 전파되는 것을 방지합니다."
+
+ tech_hygiene_medical_wards:0 "의료 병동"
+ tech_hygiene_medical_wards_desc:0 "환자들을 건강한 사람들로부터 멀리 격리해야 합니다. 지정된 의료 병동에서 일반인들을 위험에 빠뜨리지 않고 치료받을 수 있도록 조치하겠습니다."
+
+ tech_hygiene_immunisation:0 "면역 조치"
+ tech_hygiene_immunisation_desc:0 "독감과 같은 특정 바이러스의 사멸된 샘플을 소량 주입하면, 인체가 향후 감염에 대비할 수 있게 되어 투병 시간을 단축하고 생존율을 높일 수 있습니다."
+
+ # Refinery #
+
+ tech_refinery_1:0 "정제소"
+ tech_refinery_1_desc:0 "정제소는 화학 버전의 대장간이라 할 수 있습니다. 화학 물질을 제조하거나 연료를 합성하는 데 사용됩니다."
+
+ tech_refinery_2:0 "정제소 저장창고"
+ tech_refinery_2_desc:0 "적절한 보관 구역을 확보하면 정제 장비를 더 많이 설치할 수 있는 공간이 생겨, 한 주(State)에 설치할 수 있는 정제 시설의 수가 두 배로 늘어납니다."
+
+ tech_refinery_fuel_1:0 "연료 생산"
+ tech_refinery_fuel_1_desc:0 "정제 시설의 역량을 연료 생산에 집중하여 궤도차 운영을 뒷받침하겠습니다."
+
+ tech_refinery_fuel_2:0 "연료 생산 향상"
+ tech_refinery_fuel_2_desc:0 "연료 제조 기술의 진보를 통해 생산 출력을 증대시킵니다."
+
+ tech_refinery_chemical_1:0 "화학 공정"
+ tech_refinery_chemical_1_desc:0 "정제 시설의 역량을 화학 물질 생산에 집중하여 첨단 제조 산업을 뒷받침하겠습니다."
+
+ tech_refinery_chemical_2:0 "첨단 화학 생산"
+ tech_refinery_chemical_2_desc:0 "화학 혼합 기술의 진보를 통해 생산 출력을 증대시킵니다."
+
+ # Farming # 
+
+ tech_farming_1:0 "지표 하부 농업"
+ tech_farming_1_desc:0 "태양광 없이 농사를 짓는 것은 매우 고된 과정입니다. 수많은 인공 조명을 설치하거나, 어둠에 익숙한 버섯 작물을 재배해야 합니다."
+
+ tech_farming_2:0 "기초 농업"
+ tech_farming_2_desc:0 "식량 생산을 위해 더 많은 공간을 할당한다면 국민들의 배를 채우고 민심을 달랠 수 있을 것입니다."
+
+ tech_farming_3:0 "첨단 농업"
+ tech_farming_3_desc:0 "농업 역시 다른 경제 분야와 마찬가지로 전력화와 궤도차 운송 시스템을 도입하여 산업화할 수 있습니다."
+
+ tech_farming_4:0 "휴경지 순환"
+ tech_farming_4_desc:0 "휴경은 토양의 비옥도를 회복하고 과잉 생산을 방지하기 위해 땅을 갈아엎은 채 씨를 뿌리지 않는 것을 말합니다. 토양이 회복되는 동안 일부 경작지를 휴경하는 것은 농업 전반의 건강에 이로운 일입니다."
+
+ tech_farming_5:0 "관개 시스템"
+ tech_farming_5_desc:0 "모든 작물에는 물이 필요합니다. 관개 구역을 파고 파이프를 연결한다면 물을 나르는 데 필요한 인력을 크게 줄일 수 있습니다."
+
+ tech_farming_6:0 "비료"
+ tech_farming_6_desc:0 "퇴비나 인분 등 평소에는 버려지는 생물학적 폐기물을 처리하여 비료로 사용하면 작물 수확량을 높일 수 있습니다."
+
+ tech_farming_7:0 "개선된 비료"
+ tech_farming_7_desc:0 "화학적으로 배합된 비료는 천연 퇴비의 매력은 떨어질지 몰라도, 그 효율성만큼은 누구도 부정할 수 없습니다."
+
+ tech_farming_8:0 "유전자 변형"
+ tech_farming_8_desc:0 "작물을 면밀히 모니터링하여 성공적인 변종만 선별해 다시 심음으로써, 제한된 농경지에서 가장 생산성이 높은 품종만 재배되도록 보장합니다."
+
+ ## Unique Techs ##
+
+ tech_hygiene_stimulant_chems:0 "전투 약물"
+ tech_hygiene_stimulant_chems_desc:0 "전력을 다해 싸워야 할 때, 적절한 약물의 투여는 병사들의 공포를 억제하고 신체 능력을 일시적으로 끌어올릴 수 있습니다. 부작용이 따르겠지만, 지금은 생존이 최우선입니다."
+
+ tech_hygiene_radiation_resistance:0 "방사선 저항력"
+ tech_hygiene_radiation_resistance_desc:0 "방사선에 장기간 노출되는 것은 결코 익숙해질 수 없는 일입니다. 하지만 특수 약제와 체계적인 제염 프로토콜을 준비한다면, 치명적인 피폭의 위협으로부터 우리 대원들을 조금이라도 더 오래 보호할 수 있습니다."
+
+ tech_hygiene_cloning:0 "클로닝"
+ tech_hygiene_cloning_desc:0 "메트로 깊은 곳의 비밀 연구소에서 전해지는 금기된 기술입니다. 유전 공학을 이용해 생명을 복제하는 이 행위는 인류의 도덕성을 시험에 들게 하겠지만, 부족한 인력을 보충하기 위한 최후의 수단이 될지도 모릅니다."
+
+ tech_technician_machining:0 "기술자 역 기계 가공"
+ tech_technician_machining_desc:0 ""
+
+ tech_technician_pressing:0 "기술자 역 프레스 가공"
+ tech_technician_pressing_desc:0 ""
+
+ tech_technician_toolkit:0 "기술자 역 도구함"
+ tech_technician_toolkit_desc:0 ""
+
+ tech_precision_tools:0 "정밀 도구함"
+ tech_precision_tools_desc:0 ""
+
+ tech_future_toolkits:0 "미래형 도구함"
+ tech_future_toolkits_desc:0 ""
+
+ tech_construction_slave_pens:0 "노예 우리"
+ tech_construction_slave_pens_desc:0 ""
+
+ tech_construction_burrows:0 "굴"
+ tech_construction_burrows_desc:0 ""
+
+ tech_refinery_5:0 "개선된 정제소"
+ tech_refinery_5_desc:0 ""
+
+ tech_refinery_4:0 "개선된 정제소"
+ tech_refinery_4_desc:0 ""
+
+ tech_refinery_3:0 "첨단 정제소"
+ tech_refinery_3_desc:0 ""
+
+ ## Tooltips ##
+
+ unlock_construction_expansion_decisions:0 "§Y건설 확장 결정 잠금 해제§!"
+ unlock_hygiene_decision:0 "§Y기초 위생 결정 잠금 해제§!"
+ unlock_ration_food_decision:0 "§Y식량 배급 결정 잠금 해제§!"
+
+ ## Tech Tooltips ##
+
+ TOOLTIP_UNIQUE_TECH: "고유 기술"
+ TOOLTIP_UNIQUE_TECH_DESC: "§Y잊혀진 설계도§!, §Y태고의 지식§! 혹은 시간의 흐름 속에 잊힌 §Y최첨단 기술§!입니다. §Y고유 기술§!은 일반적인 게임 플레이를 통해서는 자연스럽게 연구할 수 §R없습니다§!. §Y고유 기술§!은 특정 §G중점§!이나 §G이벤트§!를 통해서만 연구가 §G가능§!합니다.\n\n§Y고유 기술§!을 잠금 해제하는 가장 좋은 방법은 §G결정§!을 통해 §C수색 임무§!를 수행하는 것입니다."
+
+ TOOLTIP_CONSTRUCTION_TECH: "건설"
+ TOOLTIP_CONSTRUCTION_TECH_DESC:0 "구조물을 §Y건설§!, §Y제작§! 및 §Y개보수§!하여 목적에 맞는 기능을 부여합니다. 연구를 통해 전반적인 §G건설§! 및 §G공장 수리§! 속도가 향상됩니다."
+
+ TOOLTIP_TOOLING_TECH: "도구 가공"
+ TOOLTIP_TOOLING_TECH_DESC: "생산 공정을 간소화하고 촉진하기 위한 §Y특수 장비§!입니다. 우리의 기반 시설과 잠재적인 §Y생산 효율성§!을 §G개선§!합니다."
+
+ TOOLTIP_SMITHING_TECH: "대장일"
+ TOOLTIP_SMITHING_TECH_DESC: "싹을 틔우기 시작한 우리 §Y작업실§!에 필요한 금속 물체와 부품의 §Y생산§!입니다. 이는 생산적인 §G성장§!이 일정하게 유지되도록 해줍니다."
+ TOOLTIP_SMITHING_TECH_DESC: "금속 제품과 부품을 생산하여 메트로의 생산성을 유지합니다."
+
+ TOOLTIP_PUNCH_PRESS_TECH: "펀치 프레스"
+ TOOLTIP_PUNCH_PRESS_TECH_DESC: "금속판으로 §G귀중한 재료§!를 압착하고 성형하는 §Y기계§!입니다. §Y펀치 프레스§! 기술을 개선하면 전반적인 §G장비§! 생산 능력이 향상되어, §G장비§!를 상대적으로 더 쉽게 대량 생산할 수 있게 됩니다."
+
+ TOOLTIP_CASTING_TECH: "금속 주조"
+ TOOLTIP_CASTING_TECH_DESC: "§Y대장일§!이 금속 물체를 가공하는 과정이라면, §Y금속 주조§!는 액체 상태의 금속을 가공 가능한 형태로 만드는 방식입니다. 우리의 전반적인 §Y생산§! 능력을 §G향상§!시키는 동시에 비축 물자에 필요한 §G자원§!을 공급합니다."
+
+ TOOLTIP_HYGIENE_TECH: "위생"
+ TOOLTIP_HYGIENE_TECH_DESC: "청결 기준을 §Y유지§!하고 질병 예방을 위한 §C과학적§! 노력을 기울입니다.\n\n§Y손 씻기§!부터 §Y세균론§!에 이르기까지 모든 것을 포함합니다. 전반적인 §C위생 표준§!이 §G개선됨§!에 따라 인구의 §Y건강§!과 우리의 §C과학 기반§! 수치도 함께 향상될 것입니다."
+
+ TOOLTIP_REFINERY_TECH: "정제소"
+ TOOLTIP_REFINERY_TECH_DESC: "물질을 사용 가능한 제품으로 정제하는 §Y시설§!입니다. 주로 §Y연료§!와 가치가 높은 §C화학 물질§!을 생산합니다."
+
+ TOOLTIP_FARMING_TECH: "농업"
+ TOOLTIP_FARMING_TECH_DESC: "식량과 가축을 §Y재배§!, §Y경작§! 및 관리합니다. 우리의 §Y농업 기반§!을 §G개선§!하는 것은 지극히 당연한 선택입니다."
+
+ TOOLTIP_ELECTRICITY_TECH: "전기"
+ TOOLTIP_ELECTRICITY_TECH_DESC: "§Y전기§!는 §C차기 메커니즘§!으로, §O산업화된§! 국가들이 §O전기§!를 사용하여 §Y산업 출력§!을 대폭 향상시킬 수 있는 수단입니다. §O전력화§!는 모든 국가가 지향해야 할 목표가 될 것입니다. §O전기§!를 유지하려면 §GFuel§!이 소모되거나, §CElectricity Nodes§!가 포함된 특정 주요 §C지역§!을 확보해야 합니다.\n\n§O전력화§!의 §G이점§!은 명확하므로, 이는 반드시 유지해야 할 §R필수§! 자원이 될 것입니다."
+
+ TOOLTIP_ENERGY_TECH: "전력"
+ TOOLTIP_ENERGY_TECH_desc: "우리를 단순한 짐승과 구분 짓는 것은 우주의 힘을 우리 마음대로 굴복시킬 수 있는 능력입니다."
+
+ tech_energy_1: "수동 발전기" 
+ tech_energy_1_desc: "속도는 느리고 효율은 낮지만, 등을 굽히고 열심히 크랭크를 돌리는 것만으로도 메트로의 어둠을 밝힐 소중한 전기를 얻을 수 있습니다."
+
+ tech_energy_2: "개선된 발전기"
+ tech_energy_2_desc: "기존의 설계를 개선하여 더 적은 힘으로도 더 많은 전력을 생산할 수 있게 되었습니다. 병사들의 피로가 조금은 줄어들 것입니다."
+
+ tech_energy_3: "첨단 발전기"
+ tech_energy_3_desc: "효율적인 기어비와 개량된 코일을 적용하여, 소규모 역 하나를 충분히 유지할 수 있는 전력을 안정적으로 공급합니다."
+
+ tech_energy_4: "가솔린 발전기"
+ tech_energy_4_desc: "지상에서 수습한 엔진을 개조하여 휘발유로 작동하는 발전기입니다. 소음은 크지만 그 강력한 출력은 메트로의 공장들을 힘차게 돌릴 것입니다."
+
+ TOOLTIP_RECYCLING_TECH: "재활용"
+ TOOLTIP_RECYCLING_TECH_DESC: "덜 소비하고, 재활용하고, 재사용하십시오!"
+
+ unlock_industry_burrows_tech: "다음 기술의 설계도 보유: §Y$tech_construction_burrows$§"
+ unlock_industry_burrows: "연구 옵션 사용 가능: §Y$tech_construction_burrows$§."
+
+ unlock_industry_pens_tech: "다음 기술의 설계도 보유: §Y$tech_construction_slave_pens$§"
+ unlock_industry_pens: "연구 옵션 사용 가능: §Y$tech_construction_slave_pens$§"
+
+ unlock_industry_future_toolkit_tech: "다음 기술의 설계도 보유: §Y$tech_future_toolkits$§"
+ unlock_industry_future_toolkit: "연구 옵션 사용 가능: §Y$tech_future_toolkits$§."
+
+ unlock_industry_technician_toolkit_tech: "다음 기술의 설계도 보유: §Y$tech_technician_toolkit$§"
+ unlock_industry_technician_toolkit: "연구 옵션 사용 가능: §Y$tech_technician_toolkit$§."
+
+ unlock_industry_precision_toolkit_tech: "다음 기술의 설계도 보유: §Y$tech_precision_tools$§"
+ unlock_industry_precision_toolkit: "연구 옵션 사용 가능: §Y$tech_precision_tools$§."
+
+ unlock_industry_technician_pressing_tech: "다음 기술의 설계도 보유: §Y$tech_technician_pressing$§"
+ unlock_industry_technician_pressing: "연구 옵션 사용 가능: §Y$tech_technician_pressing$§."
+
+ unlock_industry_technician_machining_tech: "다음 기술의 설계도 보유: §Y$tech_technician_machining$§"
+ unlock_industry_technician_machining: "연구 옵션 사용 가능: §Y$tech_technician_machining$§."
+
+ unlock_industry_rad_resistance_tech: "다음 기술의 설계도 보유: §Y$tech_hygiene_radiation_resistance$§"
+ unlock_industry_rad_resistance: "연구 옵션 사용 가능: §Y$tech_hygiene_radiation_resistance$§."
+
+ unlock_industry_cloning_tech: "다음 기술의 설계도 보유: §Y$tech_hygiene_cloning$§"
+ unlock_industry_cloning: "연구 옵션 사용 가능: §Y$tech_hygiene_cloning$§."
+
+ unlock_industry_chems_tech: "다음 기술의 설계도 보유: §Y$tech_hygiene_stimulant_chems$§"
+ unlock_industry_chems: "연구 옵션 사용 가능: §Y$tech_hygiene_stimulant_chems$§."
+
+ unlock_industry_refinery_3_tech: "다음 기술의 설계도 보유: §Y$tech_refinery_3$§"
+ unlock_industry_refinery_3: "연구 옵션 사용 가능: §Y$tech_refinery_3$§."
+
+ unlock_industry_refinery_4_tech: "다음 기술의 설계도 보유: §Y$tech_refinery_4$§"
+ unlock_industry_refinery_4: "연구 옵션 사용 가능: §Y$tech_refinery_4$§."
+
+ unlock_industry_refinery_5_tech: "다음 기술의 설계도 보유: §Y$tech_refinery_5$§"
+ unlock_industry_refinery_5: "연구 옵션 사용 가능: §Y$tech_refinery_5$§."

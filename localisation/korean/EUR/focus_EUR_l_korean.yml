@@ -1,0 +1,100 @@
+﻿l_korean:
+
+ EUR_organise_the_immigrants: "이민자 조직화"
+ EUR_organise_the_immigrants_desc: "유로파 연방 주민의 상당수는 이민자, 전직 기업인, 그리고 모스크바 시티 비즈니스 센터의 직원이었습니다. 우리는 이들을 생산 활동에 종사하는 시민들로 조직해야 합니다."
+ 
+ EUR_industrial_drive: "산업 역량 강화"
+ EUR_industrial_drive_desc: "인력을 산업 노동자로 재편했으니 이제 그들을 활용해야 합니다. 산업국가로서 제대로 기능하지 못한다면 우리 연맹은 발전할 수 없을 것입니다."
+
+ EUR_establish_a_full_government: "정식 정부 수립"
+ EUR_establish_a_full_government_desc: "유로파의 시민들은 제대로 기능하는 정부를 원합니다. 현재의 집단 체제는 의사결정이 너무 느리고 비효율적입니다. 개혁이 시급합니다."
+
+ EUR_increase_military_drive: "군사 역량 강화"
+ EUR_increase_military_drive_desc: "산업 역량에만 집중하는 동안, 비효율적인 군대로 인해 외부 공격에 취약해졌습니다. 군대 개혁이 필요합니다."
+
+ EUR_scavenging_runs: "물자 수색 작전"
+ EUR_scavenging_runs_desc: "메트로의 폐허에 수색대를 파견하여 유용한 자원들을 확보할 수 있습니다."
+ 
+ EUR_the_new_prussia: "통합군 편성"
+ EUR_the_new_prussia_desc: "과거 유럽은 전쟁과 파괴의 대륙이었습니다. 우리는 그 참혹한 역사에서 교훈을 얻어야 합니다. 강력한 군대를 가진 국가를 건설하여 과거와 같은 파멸을 막아내야 합니다."
+
+ EUR_tt_1: "새로운 §Y사단 설계도§!를 추가하고 해당 설계도의 §Y사단§! §G1§!개를 부여합니다."
+ EUR_tt_2: "많은 §Y보급품§!을 가져올 수색대를 파견합니다."
+ 
+ EUR_westernisation: "서구화"
+ EUR_westernisation_desc: "우리 연방은 서방 출신 사람들로 구성되어 있습니다. 메트로에 서방의 문화를 가져오는 것이 무엇이 문제겠습니까?"
+
+ EUR_a_standing_force: "상비 경비대"
+ EUR_a_standing_force_desc: "술 취한 노인네들이나 겁에 질린 녀석들로는 거대 쥐새끼 몇 마리나 쫓아낼 뿐입니다. 인간들과 상대할 때는 그저 개먹잇감이나 될 뿐이죠. 우리가 이곳에서 정말로 버텨낼 생각이라면, 제대로 교육받은 유능한 상비군이 필요합니다."
+
+ EUR_q_democracy: "민주주의"
+ EUR_q_democracy_desc: "시민들은 민주주의를 요구하고 있습니다. 그들이 원하는 것을 제공합시다."
+ 
+ EUR_invest_in_military: "군비 투자"
+ EUR_invest_in_military_desc: "군사력에 대한 투자를 소홀히 하지 않는 것이 현명할 것입니다. 메트로에서 생존하려면 언제 닥칠지 모르는 위협에 맞서 싸울 힘이 있어야 합니다."
+ 
+ EUR_establish_a_trading_hub: "무역 허브 구축"
+ EUR_establish_a_trading_hub_desc: "우리는 먼저 공격받지 않는 한 평화를 추구하는 국가입니다. 평화로운 관계를 유지하기 위해 우리를 무역의 중심지로 발전시킬 수 있습니다."
+ 
+ EUR_further_westernisation: "서구화 심화"
+ EUR_further_westernisation_desc: "우리는 서방에서 온 사람들입니다. 그에 걸맞게 살아갑시다."
+ 
+ EUR_formalize_the_militias: "민병대 정규화"
+ EUR_formalize_the_militias_desc: "이제 군대를 조직할 때입니다. 메트로에서 가만히 앉아만 있다가는 산 채로 잡아먹힐 뿐입니다. 민병대를 조직해 도적들과 온갖 공포로부터 우리 자신을 지켜야 합니다."
+ 
+ EUR_neutrality: "중립주의"
+ EUR_neutrality_desc: "우리를 해치는 자들만을 응징할 것입니다."
+ 
+ EUR_interventionism: "개입주의"
+ EUR_interventionism_desc: "인류가 괴물로 타락하는 것을 막아낼 것입니다. 필요하다면 수년 동안, 필요하다면 우리 홀로라도 말입니다."
+ 
+ EUR_increase_military_spending: "국방비 증액"
+ EUR_increase_military_spending_desc: "군대는 연방을 보호하는 핵심 전력입니다. 따라서 우리는 더 많은 자원을 군대에 쏟아부어야 합니다."
+ 
+ EUR_an_economy: "경제 체제 구축"
+ EUR_an_economy_desc: "고등급 탄환을 화폐로 사용하여 지속 가능한 경제 체제를 구축할 수 있습니다."
+ 
+ EUR_finalisation_of_peoples_militia: "인민군 편성 완료"
+ EUR_finalisation_of_peoples_militia_desc: "모든 준비가 끝났습니다. 민병대 편성을 마무리하고 메트로 내에서 더 안전한 국가로 거듭납시다."
+ 
+ EUR_army_recruitment: "군대 모병"
+ EUR_army_recruitment_desc: "군대를 유지하기 위해 복무할 인원들이 필요합니다!"
+ 
+ ### WORM PEOPLE FOCUSES
+ 
+ EUR_realise_the_threat: "위협의 직시"
+ EUR_realise_the_threat_desc: "벌레 신봉자들은 오랫동안 우리 곁의 위협이었습니다. 그들에 대적하려면 우리가 맞선 위협의 진정한 실체를 직시해야 합니다."
+ 
+ EUR_scavenge_old_armouries: "구시대 무기고 수색"
+ EUR_scavenge_old_armouries_desc: "구시대의 무기고를 수색하고 발견한 물품들을 분석하여 우리만의 표준 군용 무기를 생산할 수 있는 역량을 확보합시다."
+ EUR_unique_weapon_tt: "연구팀이 파견되어 다양한 항비나 기술을 확보해 올 수 있습니다."
+ 
+ EUR_defensive_line: "방어선 구축"
+ EUR_defensive_line_desc: "큰 벌레 신봉자들이나 적들이 우리 영토에 침투하는 것을 막기 위한 방어선을 구축할 수 있습니다."
+ 
+ EUR_start_bunker_construction: "벙커 건설 시작"
+ EUR_start_bunker_construction_desc: "강화된 벙커들을 건설하여 적들이 우리 땅에 발을 들이는 것을 사실상 차단할 수 있습니다."
+ 
+ EUR_fortify_the_capital: "수도 요새화"
+ EUR_fortify_the_capital_desc: "유로파에 영광을! 우리의 수도는 절대 무너지지 않을 것입니다."
+ 
+ EUR_holding_the_line: "방어선 사수"
+ EUR_holding_the_line_desc: "외부의 공격을 방어하는 데 집중합니다."
+ 
+ EUR_the_best_defence_is_a_good_offence: "최선의 방어는 공격"
+ EUR_the_best_defence_is_a_good_offence_desc: "최선의 방어는 적을 밀어내고 그들의 시체를 쌓아 올리는 것입니다."
+ 
+ EUR_constructing_a_good_defence: "강력한 방어 체계 구축"
+ EUR_constructing_a_good_defence_desc: "강력한 방어 체계를 구축하여 적들이 결코 국경을 넘지 못하게 합니다."
+ 
+ EUR_rallying_the_men: "병력 결집"
+ EUR_rallying_the_men_desc: "모든 시민들은 국경의 야만적 부족들로부터 유로파를 수호해야 할 의무가 있습니다."
+ 
+ EUR_improved_doctrine: "교리 개선"
+ EUR_improved_doctrine_desc: "전쟁 전의 정교한 군사 전술을 연구하여 승리를 쟁취할 통찰력을 얻읍시다. 결국 유럽은 한때 전 세계를 정복했었습니다."
+ 
+ EUR_create_our_own_weapons: "자체 무기 개발"
+ EUR_create_our_own_weapons_desc: "구시대의 무기 설계도를 연구하여 우리 요구에 맞는 효율적이고 정밀한 무기를 개발할 수 있습니다."
+ 
+ EUR_manufacture_our_own_weapons: "자체 무기 생산"
+ EUR_manufacture_our_own_weapons_desc: "이제 계획을 실행에 옮겨 우리가 설계한 사양 그대로 무기를 생산해야 합니다."

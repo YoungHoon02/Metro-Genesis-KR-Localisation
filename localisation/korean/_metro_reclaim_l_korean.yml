@@ -1,0 +1,308 @@
+﻿l_korean:
+ reclaim_this_state: "이 구역 수복"
+ GWC_reclaim_this_state: "이 구역 수복"
+
+ reclaim_metro: "지하 세계 수복"
+ reclaim_metro_category: "지하 구역 수복"
+ reclaim_metro_category_desc: "봉쇄된 터널과 역들을 다시 점유하여 인간이 살 수 있는 구역을 넓혀야 합니다."
+
+ reclamation_underway: "점유 진행 중"
+ state_being_colonized: "현재 개척 중"
+
+ reclaim_timed_decision: "구역 점유 타이머"
+ reclaim_timed_decision_desc: "우리는 현재 이 구역을 점령하고 있으나, 영향력을 완전히 확립하기 위해 더 많은 노력이 필요합니다.\n\n 현재 노력: [?reclaim_cost|H0]\n 필요 노력: [?Root.reclaim_cost_requirement|H0]"
+
+ reclaim_manpower_10:0 "£manpower_texticon §Y10§!"
+ reclaim_manpower_10_blocked:0 "£manpower_texticon §R10§!"
+
+ reclaim_cost_10: "수복 강도 §Y10§! 증가."
+ reclaim_cost_15: "수복 강도 §Y15§! 증가."
+
+ reclaim_cost_text: "§Y[?reclaim_cost|H0]§!"
+ reclaim_cost_text_blocked: "§R[?reclaim_cost|0R]§!"
+
+ reclaim_mission_build_defences: "방어 시설 구축"
+ reclaim_exert_authority: "권위 확립"
+ reclaim_extend_influence_further: "영향력 추가 확대"
+ reclaim_mission_send_soldiers: "병력 파견"
+ reclaim_mission_send_soldiers_savage: "병력 투입"
+ reclaim_mission_build_up_station: "기지 요새화"
+
+ reclaim_relocate_citizens: "시민 재배치"
+
+ reclaim_remove_tunnel_blockers: "터널 폐쇄 해제"
+ reclaim_remove_tunnel_blockers_desc: ""
+
+ reclaim_state_remove_isolationism: "주변 지역으로 확장"
+ reclaim_state_remove_isolationism_desc: "우리 기지는 수년 동안 고립되어 있었으나, 현재의 거주 구역만으로는 성장에 한계가 있습니다. 인구 과밀로 인해 생활 공간은 열악해졌고 자급자족할 자원도 부족합니다. 우리는 반드시 외부로 세력을 넓혀야 합니다."
+
+ #
+ scavenging_expeditions: "지상 탐사 임무"
+ scavenging_expeditions_desc: "§G탐사 성공률§!: [?Root.scavenge_success_chance_display_var] | §R실패 확률§!: [?Root.scavenge_fail_chance_display_var] | §OPOI 발견 확률§!: [?Root.scavenge_poi_chance_display_var]\n\n각 항목은 발생 확률을 나타내는 수치를 가지고 있습니다. 수치가 높을수록 해당 결과가 나올 확률이 커집니다. 예를 들어 위협 수치가 §Y20§!인 경우, §Y10§!인 경우보다 위험한 상황이 발생할 확률이 두 배 높습니다."
+
+ establish_stalking_group: "스토커 부대 창설"
+ establish_stalking_group_desc: "메트로에서 지독한 환경을 뚫고 지상으로 나가려는 이들은 극소수에 불과합니다. 하지만 우리는 군사 보급품, 기계 부품, 그리고 연료가 필요합니다. 이 위험한 임무를 기꺼이 수행하고 무사히 복귀할 준비가 된 용감한 이들이 필요합니다."
+ scavenging_disabled: "지상 탐사 불가"
+ scavenging_been_disabled_tt: "지상 탐사 임무 활성화"
+
+ allow_to_conduct_scavenging_mission_tt: "\n스토커 팀을 조직하면 지상으로 진출하여 유용한 군수품, 장비, 그리고 구세계의 물자들을 수색할 수 있습니다."
+
+ scavenger_team_mission_countdown: "스토커 탐사 출격"
+ scavenger_team_mission_countdown_desc: "일정 시간이 지나면 탐사를 떠난 스토커들이 기지로 복귀할 것입니다."
+ scavenge_success_tt: ": §Y성공적인 탐사§!"
+ scavenge_failure_tt: ": §R탐사 실패§!"
+ scavenge_failure_no_reward_tt: "스토커들이 소득 없이 빈손으로 돌아왔습니다."
+ scavenge_colossal_failure_tt: ": §R스토커 팀 실종§!"
+ scavenge_horror_tt: ": §R기습 발생!§!"
+ scavenge_poi_tt: ": §O수색 지점 발견§!"
+
+ launch_scavenging_team_mission: "탐사 명령 하달"
+ launch_scavenging_team_mission_desc: "하늘을 날거나 바다를 항해할 이유가 없는 지하 세계에서 자라난 아이들에게 '조종사'나 '선원'이라는 단어는 전설일 뿐입니다. 그들은 대신 지상을 누비는 스토커가 되기를 꿈꿉니다."
+ active_scavenger_mission_tt: "\n스토커들을 반복적으로 지상으로 파견합니다. 그들은 귀중한 물자나 군사 장비, 혹은 아직 탐사되지 않은 주요 지점의 위치 정보를 가지고 돌아올 것입니다."
+
+ scavenger_team_mission_establish_surface_waypoints: "지상 지표 설정"
+ scavenger_team_mission_establish_surface_waypoints_desc: "인공 구조물이나 기지를 폭풍을 피할 수 있는 지표로 설정합니다. 이러한 지표들을 적절히 배치하면 스토커들이 지상을 탐사할 때 유용한 길잡이가 됩니다."
+ place_surface_waypoint_tt: "\n지표를 설정하면 §G탐사 성공률§!이 증가합니다."
+
+ scavenger_team_mission_equip_support_weapons: "스토커 팀 지원 화기 보급"
+ scavenger_team_mission_equip_support_weapons_desc: "필요한 경우 스토커 팀에 더 강력한 지원 화기를 보급할 수 있습니다. 이동 속도는 다소 느려지겠지만, 위험한 변이체들의 습격에도 충분히 대처할 수 있을 것입니다."
+ give_stalkers_support_weapons_tt: "스토커 팀이 적과 조우했을 때의 §G전투 및 생존 성능§!이 크게 향상됩니다."
+
+ scavenger_team_recall: "탐사 부대 긴급 귀환"
+ scavenger_team_recall_desc: "상황이 여의치 않을 경우, 지상의 탐사 팀에게 즉시 복귀 명령을 내릴 수 있습니다."
+ active_scavenger_mission: "현재 탐사 임무 진행 중"
+
+ scavenger_mission_rescue: "구조 작전 시작"
+ scavenger_mission_rescue_desc: "실종된 스토커 팀을 찾기 위해 즉시 임시 구조대를 지상으로 파견합니다. 죽음의 손길이 그들에게 먼저 닿기 전에 구출해야 합니다."
+ scavenger_mission_needs_rescue: "실종된 우리 스토커 팀을 발견했습니다."
+
+ scavenger_team_mission_parkinglot: "생존자 보호"
+ scavenger_team_mission_parkinglot_desc: "그들의 리더가 자신들을 메트로까지 안전하게 데려다 달라고 간절히 요청하고 있습니다. 그들을 구할 수 있는 시간은 얼마 남지 않았습니다."
+
+ scavenger_team_mission_establish_surface_outpost: "지상 전진 기지 구축"
+ scavenger_team_mission_establish_surface_outpost_desc: "스토커들이 지상에서 방어에 유리한 요충지를 발견했습니다. 이곳을 전진 기지로 구축하기 위해 자원을 할당합니다. 기지가 확립되면 스토커들의 활동 범위가 넓어지고 보급이 원활해질 것입니다."
+ scavenge_has_surface_outpost_tt: "전진 기지가 구축되면 스토커 탐사 §G성공률§!이 향상되고, §O수색 지점§! 발견 시의 이득이 증가합니다."
+
+ launch_scavenging_poi_team_mission: "§O수색 지점§! 조사 명령"
+ launch_scavenging_poi_team_mission_desc: "구세계의 비밀이 우리 눈앞에 있습니다. 이 기회를 놓치지 말고 확보해야 합니다."
+ active_scavenger_mission_poi_tt: "전문 스토커 팀을 파견하여 해당 지점을 본격적으로 탐사합니다."
+
+ scavenger_team_mission_poi_countdown: "§O수색 지점§! 탐사 중"
+ scavenger_team_mission_poi_countdown_desc: "조사가 거의 마무리 단계입니다. 곧 세계의 비밀이 드러날 것입니다."
+
+ scavenge_success_modifier: "탐사 성공 확률"
+ scavenge_failure_modifier: "탐사 실패 확률"
+ scavenge_poi_discovery_modifier: "수색 지점 발견 확률"
+ execute_scavenge_mission: "탐사 임무 수행"
+ execute_scavenge_mission_free: "정기 탐사 수행"
+
+ scavenge_reward_silo_national_spirit: "사일로의 비밀"
+ scavenge_reward_labyrinth_national_spirit: "미궁의 비밀"
+ scavenge_reward_embassy_national_spirit: "서방권 정보 기기"
+ scavenge_reward_institute_temporary_national_spirit: "미완성 연구 논문"
+ scavenge_reward_institute_national_spirit: "구세계의 비밀"
+ scavenge_reward_hospital_national_spirit: "병원 물자 저장소"
+ scavenge_reward_warehouse_national_spirit: "자재 창고 저장소"
+
+ scavenge_mission_success.1.t: "성공적인 탐사"
+ scavenge_mission_success.1.d: "기쁜 소식이 들려왔습니다. 스토커들이 떠난 지 몇 주 만에 기지로 돌아왔습니다. 그들의 주머니와 배낭은 지상에서 수집한 귀중품들로 가득 차 있습니다."
+ scavenge_mission_success.1.a: "실로 성공적인 수확이었다."
+
+ scavenge_mission_failure.1.t: "실패한 탐사"
+ scavenge_mission_failure.1.d: "탐사 대원들이 빈손으로 복귀했습니다. 악천후나 적대적인 위력들의 방해로 인해 이번 출격은 성과를 내지 못했습니다. 하지만 최소한 우리 스토커들이 무사히 살아서 돌아왔다는 데 감사해야 합니다."
+ scavenge_mission_failure.1.a: "적어도 대원들이 무사히 돌아온 것만으로도 다행이다."
+
+ scavenge_mission_colossal_failure.1.t: "스토커 팀 실종"
+ scavenge_mission_colossal_failure.1.d: "절망적인 소식이 도착했습니다. 스토커 팀이 지상으로 발을 들인 지 일주일이 지났으나, 복귀할 기미가 보이지 않습니다. 지원자들로 급히 편성했던 단기 수색대들조차 아무런 단서를 찾지 못했습니다. 상황이 심각해짐에 따라 당국은 정예 분대를 무장시켜 지상으로 보낼 것을 요구하고 있습니다. 실종된 팀을 찾을 수 있기를 바랄 뿐입니다.\n\n그들이 살아서 온전한 상태이기를 바라지만, 설령 유해만을 발견하더라도 최소한 우리 기지의 사람들은 마음의 평약을 얻을 수 있을 것입니다."
+ scavenge_mission_colossal_failure.1.a: "우리 대원들을 집으로 데려오자."
+
+ scavenge_mission_colossal_failure.2.t: "스토커 구조 작전"
+ scavenge_mission_colossal_failure.2.d: "운 좋게도, 혹은 신의 은총으로 급히 조직된 구조 팀이 실종되었던 스토커 팀을 찾아냈습니다. 보고에 따르면 대원들은 변이체들의 기습을 받았고, 급히 후퇴하던 중 버려진 지하 저장고에 고립될 수밖에 없었다고 합니다. 보급품과 필터가 떨어져가며 절망만이 가득하던 상황이었으나, 우리 분대가 마침내 그들을 발견했습니다."
+ scavenge_mission_colossal_failure.2.a: "정말로 수고했네."
+
+ scavenge_mission_colossal_failure.3.t: "황무지에 삼켜지다"
+ scavenge_mission_colossal_failure.3.d: "구조대가 지상으로 급히 투입되어 재와 그슬린 땅 위에 남겨진 흔적들을 샅샅이 뒤졌습니다. 우리가 알고 있는 모든 경로를 철저히 확인했음에도 아무런 성과를 거두지 못했습니다. 용감한 노력에도 불구하고 실종된 스토커들의 행방은 여전히 묘연합니다.\n\n구조 팀마저 피로에 지치고 동료를 잃었다는 좌절감에 빠져들고 있는 지금, 수색을 여기서 중단하는 것이 현명해 보입니다."
+ scavenge_mission_colossal_failure.3.a: "또 다른 용감한 영혼들이 죽음의 품으로 사라졌다."
+
+ scavenge_mission_horror.1.t: "변이체 기습!"
+ scavenge_mission_horror.1.d: "우리 스토커들이 공격을 받았습니다! 끔찍한 지상 생물들이 우리 부대를 습격했습니다. 대원들의 확고한 결의에도 불구하고, 단순한 화력만으로는 역부족이었던 것 같습니다..."
+ scavenge_mission_horror.1.a: "싸움이 헛됨을 깨닫고 그들은 후퇴했다."
+ scavenge_mission_horror.1.a.tt: "스토커들은 살아남았지만, 물자를 수집할 기회는 잃었습니다."
+ scavenge_mission_horror.1.b: "용감하게 최후까지 맞서 싸웠다."
+ scavenge_mission_horror.1.b.tt: "변이체와 화약이 맞부딪칩니다. 스토커들은 생명을 걸고 전투를 벌입니다."
+ #scavenge_mission_horror.1.c: "불맛 좀 봐라, 이 괴물 자식아!"
+
+ scavenge_poi_category_common: "이벤트 발생: §t일반§! 수색 지점"
+ scavenge_poi_category_uncommon: "이벤트 발생: §7드문§! 수색 지점"
+ scavenge_poi_category_rare: "이벤트 발생: §4희귀§! 수색 지점"
+ scavenge_poi_category_exotic: "이벤트 발생: §2이국적§! 수색 지점"
+ scavenge_poi_category_unique: "이벤트 발생: §0고유§! 수색 지점"
+ ## Don't make me localize all these descriptions please I beg you aaa
+ scavenge_poi_common_unmarked_building.1.t: "이름 없는 건물"
+ scavenge_poi_common_unmarked_building.1.d: "스토커 별동대가 파견되었습니다. 어둠의 장막 아래 무너진 구조물들 사이를 이동하던 중, 우리 분대는 기묘하게도 온전한 형태를 유지하고 있는 이름 없는 건물을 발견했습니다. 폭격의 흔적이나 날씨로 인한 손상도 보이지 않았으며, 마치 시간과 전쟁으로부터 비껴간 듯한 모습이었습니다.\n\n건물 깊숙한 곳의 공기는 유독했습니다. 좁은 통로와 먼지로 뒤덮인 바닥이 이어졌습니다. 지상의 지독한 추위와 열악한 환경에서 자유롭지는 못했으나, 스토커들은 즉시 수색 작업을 시작했습니다.\n\n건물 안은 비어 있었습니다. 사람의 흔적도, 시체도 없었습니다. 스토커들의 추측으로는 사무실 복합 단지나 지역 행정 건물이 분명해 보였습니다. 내부에는 바람 소리조차 들리지 않는 정적만이 감돌았습니다. 대원들은 가치 있는 것이라면 무엇이든 챙겼습니다. 대단한 수확은 아니었지만, 어느 정도 쓸만한 물건들이 발견되었습니다."
+ scavenge_poi_common_unmarked_building.1.a: "최소한 가치 있는 것들을 좀 챙겼군."
+ scavenge_poi_common_unmarked_building.2.d: "스토커 별동대가 파견되었습니다. 어둠을 틈타 무너진 구조물들을 헤치며 나아가던 탐사 팀은 마침내 정체불명의 건물에 도달했습니다. 건물이라고 부르기에는 민망할 정도로 파괴된 잔해와 폐허만이 남아 있었습니다. 스토커들은 이곳이 오래된 아파트 단지였을 것으로 추측했으나, 잔해 속에서 알아낼 수 있는 정보는 거의 없었습니다.\n\n철근 더미 아래에서 스토커들은 복합 단지의 하층부로 연결되는 해치를 발견했습니다. 방사능이나 외부 환경을 차단하기에는 너무 얕은 곳이었지만, 폭탄이 떨어졌을 때 누군가가 이곳을 임시 임시 대피소로 사용하려 했던 모양입니다. 좁은 공간 안에서 대원들은 각종 탄약 상자와 화기들을 발견했으나, 불행히도 너무 부식되고 파손되어 실용적인 가치는 없었습니다."
+ scavenge_poi_common_unmarked_building.2.a: "정부 벙커는 아니지만... 뭐, 이 정도면 감지덕지군."
+ scavenge_poi_common_unmarked_building.3.d: "스토커 별동대가 파견되었습니다. 어두운 그림자 속에서 잔해 더미를 넘나들며 나아가던 우리 출격대는 바람에 위태롭게 서 있는 이름 없는 건물에 접근했습니다. 가까이 다가갈수록 주변에는 기묘한 정적이 감돌았습니다. 놀랍게도 그 안에서는 빛이 새어 나오고 있었습니다.\n\n대원들은 말도 안 되는 일이라고 생각했습니다. 건물 입구를 찾으려 시도하는 동안 깊은 압박감과 불안감이 그들을 엄습했습니다. 기묘한 공포는 시간이 지날수록 커져만 갔습니다. 입구를 뚫지 못하자 스토커 한 명이 직접 진입로를 강제로 열려고 시도했습니다. 하지만 내부의 빛은 불편한 침묵 속에서도 모든 논리를 무시한 채 계속해서 비추고 있었습니다. 잠시 후, 공포에 질린 채 멍한 표정으로 나온 스토커 뒤로 빛이 서서히 희미해지기 시작했습니다. 그 안에서 무엇을 보았는지 그 스토커는 입을 굳게 다물었으며, 그가 목격한 무언가로 인해 그는 다른 사람이 된 것처럼 보였습니다."
+ scavenge_poi_common_unmarked_building.3.a: "정말 대단한 발견이로군."
+
+ scavenge_poi_common_construction_yard.1.t: "건설 현장"
+ scavenge_poi_common_construction_yard.1.d: "폭탄이 떨어지기 훨씬 전부터 공사가 중단된 건설 현장이었습니다. 이곳은 이미 오래전에 다른 이들에게 털린 상태였고, 남아 있는 게 거의 없었습니다. 기계와 도구 등 모든 집기류는 스토커들이 도착했을 때 이미 부식된 고철 덩어리에 불과했습니다. 하지만 방수포 아래에 일부 건축용 자재가 남아 있었습니다. 비록 건설용으로 쓰기엔 부적합해 보였지만 말입니다."
+ scavenge_poi_common_construction_yard.1.a: "이 고철들은 우리 기지에 큰 도움이 될 것이다."
+ scavenge_poi_common_construction_yard.2.d: "이 건설 프로젝트는 폭격이 시작되자마자 즉시 중단된 듯했습니다. 노동자들의 유해는 재와 잔해 더미 아래에 묻혀 있었습니다. 스토커들이 수거할 만한 것들은 이미 대부분 사라진 상태였습니다. 육중한 건설 기계들은 수년 전부터 녹슨 고철로 변해 있었습니다.\n\n그러나 우리 스토커들은 현장에서 아직 상태가 양호한 전기 발전기를 찾아내는 데 성공했습니다. 약간의 수리를 거치면 요긴하게 사용할 수 있을 것입니다."
+ scavenge_poi_common_construction_yard.2.a: "마침내 빛이 있으리라!"
+
+ scavenge_poi_common_warehouse.1.t: "버려진 창고"
+ scavenge_poi_common_warehouse.1.d: "거대한 금속제 창고 구조물은 전쟁 초기부터 가장 먼저 약탈당하기 마련입니다. 텅 빈 내부가 그 사실을 여실히 보여주고 있었습니다.\n\n하지만 우리 스토커들의 수완은 대단했습니다. 그들은 어떻게든 물건들을 긁어모았습니다. 부품, 고철 등 무엇이든 말입니다. 심지어 강철 기둥과 지지대까지도 뜯어냈습니다."
+ scavenge_poi_common_warehouse.1.a: "이 자원들을 유용하게 활용하도록 하겠다."
+ scavenge_poi_common_warehouse.2.d: "거대한 금속제 창고 구조물은 전쟁 초기부터 가장 먼저 약탈당했을 것이 분명했고, 텅 빈 내부가 이를 증명하고 있었습니다.\n\n반쯤 열린 컨테이너 속에 방치되어 서서히 낡아가고 있던 것은 책과 기술 서적, 지침서들이었습니다. 일반인보다는 기술적 지식이 있는 엔지니어를 위한 자료들이었습니다. 우리의 지식 수준이 점차 퇴보하고 있는 상황에서, 단순한 가구 조립 지침서나 목공 가이드는 큰 도움이 될 것입니다."
+ scavenge_poi_common_warehouse.2.a: "우리 대원들이 이걸 잘 활용할 수 있기를 바란다."
+ scavenge_poi_common_warehouse.3.d: "거대한 금속제 창고 구조물은 전쟁 초기부터 가장 먼저 털렸어야 했으나, 텅 빈 내부와는 달리 여기엔 반전이 있었습니다.\n\n우리 스토커들은 상자 하나, 캐비닛 하나도 놓치지 않고 샅샅이 뒤졌으며, 그 철저함은 결실을 보았습니다. 폴리스의 책벌레들조차 부러워할 정도로 상태가 좋은 수많은 책과 지식의 저장고를 발견한 것입니다."
+ scavenge_poi_common_warehouse.3.a: "이 발견을 통해 우리의 산업이 발전할 것이다!"
+
+ scavenge_poi_common_police_station.1.t: "방치된 경찰서"
+ scavenge_poi_common_police_station.1.d: "제3차 세계 대전 초기 단계에서 지역군에 의해 털렸거나, 그 후 중앙위원회 소속 스토커들에 의해 약탈당했을 곳이었기에 우리는 큰 기대를 하지 않았습니다.\n\n예상대로 총기와 장비들은 이미 다 사라지고 없었습니다. 하지만 지상부와 주요 내부만 털렸을 뿐, 지하실은 전혀 손대지 않은 채로 남아 있었습니다. 지하를 뒤지던 중 스토커들은 수년 동안 굳게 잠겨 있던 무기고를 발견했습니다. 약간의 고생 끝에 문을 돌파하자, 오래된 경찰 장비들이 모습을 드러냈습니다. 벨트, 헬멧, 그리고 구식 겨울용 제복들이 먼지 속에 방치되어 있었습니다. 아마도 더 새롭고 효율적인 장비들만 징발되면서 버려진 모양입니다."
+ scavenge_poi_common_police_station.1.a: "이 장비들은 우리에게 큰 도움이 될 거야."
+ scavenge_poi_common_police_station.2.d: "지역군이나 중앙위원회의 스토커들에 의해 진작 털렸어야 할 곳이었기에, 우리는 대단한 수확을 기대하지 않았습니다.\n\n안타깝게도 총기는 발견되지 않았으나, 실망할 정도는 아니었습니다. 우리 스토커들은 외부 환경으로부터 차단되어 온전한 상태로 남아 있는 오래된 경찰 보급품과 장비가 가득한 방을 찾아냈습니다. 비록 낡았지만 가능한 한 최대한 많이 챙겨왔습니다."
+ scavenge_poi_common_police_station.2.a: "파란색 제복이 다시 유행하게 되겠군...?"
+
+ scavenge_poi_common_hospital.1.t: "버려진 진료소"
+ scavenge_poi_common_hospital.1.d: "행정부의 큰 기대와는 달리, 우리가 발견한 버려진 진료소는 사실 병원이 아니라 동물병원이었습니다. 놀랍게도 이곳은 소수의 인원만이 수습해간 듯했습니다. 비록 많은 자재와 의약품의 유통기한이 오래전에 지났지만, 스토커들은 여전히 주목할 만한 물건들을 몇 가지 수습할 수 있었습니다. 물론 우리 의사들이 당장 개나 고양이를 수술할 계획은 없겠지만... 발견된 서류에는 정밀 수술을 위한 방대한 예방 조치와 해부학적 세부 정보, 혈액 보관법 및 비품 살균 방법 등이 상세히 기록되어 있었습니다. 이반 세체노프의 저서만큼은 아니더라도, 충분히 쓸만한 자료들입니다."
+ scavenge_poi_common_hospital.1.a: "생각해보면 세균과 기생충이라는 개념조차 점차 희미한 기억이 되어가는군..."
+ scavenge_poi_common_hospital.2.d: "처음에 예상했던 대로 약국과 병원, 진료소는 스토커들에게 가장 먼저 약탈당하는 곳이며, 이곳의 내부도 그 사실을 잘 보여주고 있었습니다. 수술용 앞치마와 타일 바닥까지 샅샅이 뒤져갔지만, 정작 제대로 된 수술이 이곳에서 이루어졌을 것 같지는 않았습니다. 하지만 우리 스토커들은 벽에 고정되어 있던 오래된 오토클레이브(고압 멸균기) 장치를 발견했습니다. 옮기기가 매우 까다로워 보였으나, 대원들은 기어코 나사를 풀어 이 육중한 장비를 기지로 가져왔습니다."
+ scavenge_poi_common_hospital.2.a: "우리 의사들이 이 발견을 무척 반가워할 것이다."
+
+ scavenge_poi_common_hardware_store.1.t: "파괴된 철물점"
+ scavenge_poi_common_hardware_store.1.d: "철물점이라는 이름이 무색할 정도로 망가진 곳이었습니다. 내부 공간의 대부분은 이미 약탈당했거나 자연에 노출되어 훼손된 상태였습니다. 목재는 썩어 문드러졌고 금속은 부식되었으며 도구들은 무뎌진 지 오래였습니다. 하지만 일부 페이지가 마모되긴 했어도 꽤 많은 양의 기술 문서들이 온전하게 보존되어 있었습니다."
+ scavenge_poi_common_hardware_store.1.a: "남아 있는 고철더미 속에서 쓸만한 게 있기를 바랄 뿐이다."
+ scavenge_poi_common_hardware_store.2.d: "오래된 백화점 건물들은 탐색 초기 단계에서 가장 먼저 털리는 곳 중 하나이기에 스토커들은 큰 기대를 하지 않았습니다. 비록 발견된 것은 기술 문서 몇 장과 무뎌진 잡동사니 도구뿐이었으나, 잘 손질한다면 우리 기술진과 인부들이 이 도구들을 다시 수리해서 쓸 수 있을지도 모릅니다."
+ scavenge_poi_common_hardware_store.2.a: "엔지니어들이 글 읽는 법을 잊지 않았기를 바라야겠군."
+
+ scavenge_mission_horror.2.t: "변이체 무리를 격퇴하다!"
+ scavenge_mission_horror.2.d: "밀려오는 변이체 무리에 맞서 대열을 정비한 우리 스토커들이 자리를 지켜냈습니다. 전투는 새벽까지 치열하게 이어졌고, 희미한 태양빛이 지평선 너머로 비칠 무렵에는 모든 변이체가 사라졌습니다. 지친 스토커들은 기습을 받기 전 미리 숨겨두었던 물자들을 챙겨 무사히 귀환했습니다."
+ scavenge_mission_horror.2.a: "수고했다."
+ scavenge_mission_horror.2.tt: "스토커 팀에 지원 화기를 다시 보급해야 합니다."
+
+ scavenge_mission_horror.3.t: "마지막 숨결까지"
+ scavenge_mission_horror.3.d: "우리 스토커들은 맹렬한 공세에도 굴하지 않았습니다. 발톱과 총알이 오가는 격렬한 전투는 새벽까지 이어졌습니다. 희미한 태양빛이 지평선 위에 올라올 무렵에는 단 몇 명의 스토커만이 살아남아 고통스러운 승리를 쟁취했습니다. 목숨을 바친 대원들을 지상에 정중히 묻어준 뒤, 남은 이들은 기지로 향했습니다."
+ scavenge_mission_horror.3.a: "비명에 간 자들을 위하여..."
+ scavenge_mission_horror.3.tt: "팀이 전력을 다해 소진되었습니다. 스토커 팀을 재건해야 합니다."
+
+ scavenge_mission_horror.4.t: "급박한 후퇴"
+ scavenge_mission_horror.4.d: "잔해 더미로 급조된 인상적인 방벽조차 변이체 무리를 막아내기엔 역부족이었습니다. 우리 스토커들은 온 힘을 다해 싸웠지만... 결국 패배하고 말았습니다. 흐릿한 태양이 떠오를 무렵 스토커들은 이미 도망쳤고, 쓰러진 동료들의 시신만이 그 뒤에 남겨졌습니다."
+ scavenge_mission_horror.4.a: "역겨운 괴물 놈들..."
+ scavenge_mission_horror.4.t: "스토커 팀을 처음부터 다시 재건해야 합니다."
+
+ scavenge_poi_uncommon_church.1.t: "버려진 교회"
+ scavenge_poi_uncommon_church.1.d: "방치되어 무너져가는 신의 집입니다. 기둥과 아치들이 무너져 내려 유적지만이 남아 있었습니다. 우리 스토커들은 지하실을 찾기 위해 이 잡듯이 뒤졌고, 포기하려던 찰나 교회 외곽에 있던 납골당 같은 곳을 우연히 발견했습니다. 물에 잠긴 현관이 앞을 가로막았으나, 고생 끝에 약간의 종교적 유물들을 찾아내는 데 성공했습니다. 성배 같은 보물을 찾은 건 아니지만, 아직 이런 옛것에 향수를 느끼는 이들에게 팔아넘길 수 있을 것입니다."
+ scavenge_poi_uncommon_church.1.a: "교회의 물건을 훔치는 건 찜찜하지만... 지금 우리를 비웃을 자가 어디 있겠는가?"
+ scavenge_poi_uncommon_church.2.d: "불지옥이 된 세상 속에 버려져 무너져가는 신의 집입니다. 우리 스토커들이 발견했을 때, 이 교회는 놀랍게도 외형이 온전히 유지된 상태였습니다. 내부는 더욱 훌륭했습니다. 비록 천장 일부가 무너지고 유리창들은 깨진 조각들만 남았지만, 네 개의 벽면은 멀쩡했습니다. 육중한 목조 문조차 여전히 쓸만한 상태였습니다. 비록 기초적인 수색에서는 값나가는 물건이 발견되지 않았으나, 스토커들은 이곳을 일종의 임시 전진 기지로 사용할 것을 제안했습니다. 적절한 공사를 거친다면 방어하기 좋은 위치이며, 스토커들이 더 멀리 나아갈 수 있게 해주는 거점뿐만 아니라 지상의 가혹한 환경으로부터 잠시 쉴 수 있는 휴식처가 될 것입니다."
+ scavenge_poi_uncommon_church.2.a: "옛날처럼, 우리는 다시 신의 집에서 신변의 안전을 도모할 것이다."
+ scavenge_poi_uncommon_church.2.a.tt: "우리 수색자들은 이 장소에서 작전 기지를 사용할 수 있다."
+
+ scavenge_mission_poi.1.t: "관광지 발견"
+ scavenge_mission_poi.1.d: "우리의 스토커들이 모스크바의 폐허와 구멍난 거리에서 흥미로운 장소를 발견했다는 소식이 도착했습니다. 그중 한 명은 심하게 긁어쓴, 그러나 간단한 지시를 종이에 적었다.\n\n그것을 조사하는 것이 합당할까요?"
+ scavenge_mission_poi.1.a: "그것을 기록하세요! 그것이 유용할지도 모릅니다."
+
+ scavenge_poi_uncommon_parkinglot.1.t: "지하 주차장"
+ scavenge_poi_uncommon_parkinglot.1.d: "철의 바다... 스토커들의 시야가 닿는 곳마다 버려진 차량들이 줄지어 늘어서 있습니다. 누군가에게는 그저 녹슬고 불타버린 고철 덩어리에 불과하겠지만, 노련한 발굴꾼들에게 이곳은 노다지나 다름없습니다."
+ scavenge_poi_uncommon_parkinglot.1.a: "차량 엔진이라고...? 이제야 말이 좀 통하는군. 제대로 된 마력을 얻을 수 있겠어!"
+ scavenge_poi_uncommon_parkinglot.2.d: "주차장은 놀랍게도 온전한 형태를 유지하고 있었으나, 방사능으로부터 피신하기에는 너무 얕은 곳이었습니다. 이곳에 머물던 주민들은 그 사실을 너무 늦게 깨달았습니다. 수십 명의 사람들이 이곳에서 마지막 희망을 찾았으나, 방사능 피폭인지 혹은 기아 때문인지 스토커들조차 확신할 수 없을 정도로 고통스러운 최후를 맞이했습니다."
+ scavenge_poi_uncommon_parkinglot.2.a: "죽어간 이들을 위해 잠시 묵념합시다."
+
+ scavenge_poi_uncommon_parkinglot_inhabited.1.t: "주차장 복합 시설은 우리 스토커들이 처음 예상했던 것보다 훨씬 깊숙이 뻗어 있었습니다. 어둠 속에서 최하층까지 조사하던 대원들은 갑작스러운 습격을 받았습니다. 변이체나 짐승이 아닌, 실제 인간들이었습니다. 우리 대원들도 놀랐지만, 그곳의 주민들은 더욱 당황한 듯 보였습니다.\n\n긴장이 잦아들고 서로가 변이체가 아님을 확인한 뒤, 우리 팀은 주차장 거주자들과 대화를 시작했습니다.\n\n그들은 핵폭발 직후 이곳으로 도망쳐 지금까지 버텨왔다고 설명했습니다. 파이프에서 새어 나오는 얼어붙은 물과 가끔 나타나는 쥐들 외에는 먹을 것이 거의 없었습니다. 그들은 버려진 차량 부품들을 개조해 임시 발전기를 만들었고, 전기가 끊기기 전까지는 수경 재배로 연명하며 극도로 식량을 절약했습니다. 초기에는 몇몇 자원봉사자들이 지상으로 나가 물자를 구해오기도 했으나, 방사능 수치가 악화되면서 '스토킹' 활동은 곧 중단되었습니다.\n\n최근에는 그나마 활동하던 대원들조차 실종되었고, 보급품이 바닥나 생존의 한계에 부딪혔다고 합니다. 더는 갈 곳이 없는 그들은 우리에게 메트로로 이주할 수 있도록 도와달라고 간절히 요청했습니다."
+ scavenge_poi_uncommon_parkinglot_inhabited.1.d: "주차장 복합 건물은 처음에 생각했던 것보다 규모가 컸습니다. 칠흑 같은 어둠 속에서 수색을 벌이던 스토커들은 이곳이 부랑자들이 아닌, 나름의 질서를 가진 집단에 의해 점유되어 있다는 사실을 발견했습니다. 처음에는 거주자들이 우리를 괴물로 오해하고 총격을 가했으나, 곧 오해가 풀리고 대화가 시작되었습니다. 이들은 놀랍게도 모스크바 외부에서 온 생존자들이었습니다.\n\n그들은 자신들의 여정이 성스러운 '종교적 순례'라고 설명했습니다. 그들은 과거 어떤 조직 구성원들의 후손들이었으나, 자신들의 지도자가 감지한 '세계를 위협하는 거대한 악'을 물리치기 위해 이곳까지 왔다고 합니다. 그 위협이 정확히 무엇인지는 알 수 없으나, 그들은 그것이 제3차 세계 대전보다도 훨씬 더 끔찍한 것이라고 믿고 있었습니다. 그들은 이 위협을 제거하기 위해 모스크바의 특정 구역을 정화하러 왔다고 하며, 우리에게 메트로로의 접근권을 주는 대가로 연합을 제안했습니다. 그들은 보답으로 보존 상태가 매우 양호한 각종 장비들을 제공했습니다. 해당 장비들은 우리 기술자들도 구조를 다 이해하지 못할 정도로 정교하게 제작되어 있었습니다."
+ scavenge_poi_uncommon_parkinglot_inhabited.1.a: "주차장 하층부 대부분은 침수되어 수색이 불가능해 보였으나, 한 구역은 완벽하게 건조된 상태로 보존되어 임시 캠프가 세워져 있었습니다. 처음에는 비어 있는 줄 알았으나, 곧 거주자들이 돌아와 우리 스토커들과 대치하며 총격전 직전까지 가는 소동이 벌어졌습니다. 다행히 침착한 스토커 한 명의 중재로 상황이 진정되었습니다.\n\n거주자들은 과거 파르크 포베디 역과의 연결이 끊겼을 때 깊은 터널 내부로 피신했던 생존자들이었습니다. 그들은 지하실 등을 옮겨 다니며 방독면을 제작하고 방호복을 수리하며 끈질기게 살아남았습니다. 시간이 흐르면서 다른 역에서 온 스토커들도 합류하여 나름의 공동체를 형성하고 있었습니다."
+ scavenge_poi_uncommon_parkinglot_inhabited.2.d: "지하 주차장 복합체 수색"
+ scavenge_poi_uncommon_parkinglot_inhabited.2.a: "생존자들을 우리 세력권으로 이주시키겠습니다."
+ scavenge_poi_uncommon_parkinglot_inhabited.3.d: "메트로에 온 것을 환영한다."
+ scavenge_poi_uncommon_parkinglot_inhabited.3.a: "군대에 합류한 것을 환영한다."
+
+ scavenge_poi_uncommon_research_institute.1.t: "연구소의 비밀"
+ scavenge_poi_uncommon_research_institute.3.d: "어떤 첨단 연구 기관에서 멀리 떨어진 것처럼 보인다. 하지만 스토커들은 단순한 고등학교나 에메랄드 시티(유니버시티)(에메랄드 시티(유니버시티))에 가깝게 발견되었다. 그러나 스토커들의 노력은 여전히 의미가 있었다. 스토커들은 재료를 찾기 위해 보관실, 저장고 등 모든 곳을 뒤졌다. 화학 물질이 담긴 봉투나 간단한 화학 실험 장비도 발견되었고, 그 중 일부는 사용할 수 있는 것으로 판명되었다."
+ scavenge_poi_uncommon_research_institute.3.a: "황산성... 뭘까?"
+ scavenge_poi_uncommon_research_institute.2.d: "21세기 초반에 이 연구소의 자금이 마르면서, 재료와 인력이 부족한 상황에서 연구소는 생계를 유지하기 위해 다른 국가 및 사설 기관과 함께 연구를 진행했다. 과학 분야에서 혁신적인 발견을 이루지 못했지만, 대중 시장에서의 연구였다. 그러나 스토커들은 연구소를 뒤집어 버렸고, 수첩, 문서, 오래된 장비나 유리 용기까지도 뒤져보았다. 사용할 수 있는 것은 모두 가져갔다. 하지만 대부분이 쓸모가 있었던 것은 고등학생들도 암송할 수 있는 과학 교과서와 일반적인 과학 문서였다. 평균 소비자에게는 열역학이나 생물학은 잊혀진 기억으로 남아 있었다."
+ scavenge_poi_uncommon_research_institute.2.a: "이 자료들은 미완성이지만 우리의 기술 발전에 큰 도움이 될 것이다."
+ scavenge_poi_uncommon_research_institute.3.d: "이 연구소의 원래 목적은 알 수 없으나, 제3차 세계 대전 발발 직후 정부의 지휘 아래 급격히 군사 연구 기관으로 개조된 것으로 보입니다. 그들은 전쟁 승리를 위해 전투 자극제와 방사능 중화제 개발에 집중했습니다. 심지어 노보시비르스크의 연구 시설과도 긴밀하게 협력했던 것으로 추측됩니다.\n\n스토커들이 도착했을 때는 이미 폐허만 남은 상태였으나, 다행히 보존된 일부 팩스 문서와 수기 보고서들을 확보할 수 있었습니다. 만약 이 문서들을 해석할 수 있는 전문가를 찾는다면, 우리의 과학 기술은 비약적으로 발전할 것입니다."
+ scavenge_poi_uncommon_research_institute.3.a: "우리의 진보를 막을 것은 아무것도 없다."
+
+ scavenge_poi_rare_embassy.1.t: "외교 사절단 건물 수색"
+ scavenge_poi_rare_embassy.1.d: "스토커들은 이곳이 과거 서방 국가의 대사관이었을 것으로 추측했습니다. 빛바랜 삼색기가 걸려 있었으나 원래 색을 알아보기는 힘들었습니다. 이것이 프랑스 국기인지 이탈리아인지에 대해 스토커들이 한참 동안 설전을 벌였으나, 건물 내부는 별다른 소득이 없어 보였습니다. 하지만 2층 지하실 바닥 아래 숨겨진 상자들 속에서 다량의 서방제 소형 화기들을 발견했습니다. 스파이 작전용이었는지, 아니면 다른 목적이 있었는지는 알 수 없으나 전쟁 발발 당시 급히 폐쇄하며 남겨진 것으로 보입니다. 소문에 따르면 NATO가 러시아 내 반정부 운동을 지원하기 위해 준비한 물자였다고 합니다."
+ scavenge_poi_rare_embassy.1.a: "이 무기들은 성능이 아주 좋군. 우리에게 맞게 조금만 개조하면 되겠어."
+ scavenge_poi_rare_embassy.2.d: "평범한 대사관 건물처럼 보였으나, 그 지하에는 스토커들의 상상을 초월하는 시설이 숨겨져 있었습니다. 거대한 지하 통로와 방대한 하수 시스템을 발견한 대원들은 그곳에서 은신하며 살아가던 전직 대사관 직원들의 후예들과 마주쳤습니다. 처음에는 긴장감이 흘렀으나, 이내 평화로운 대화가 이어졌습니다.\n\n그들은 핵폭발 당시 지하 카타콤과 터널로 대피하여 지금까지 살아남았다고 합니다. 많은 이들이 방사능으로 목숨을 잃었으나 남은 이들은 쥐를 잡아먹거나 지상의 물자를 수색하며 끈질기게 생존해왔습니다. 이제 그들은 고립된 생활을 끝내고 메트로의 일원이 되기를 원하고 있습니다."
+ scavenge_poi_rare_embassy.2.a: "미국 대사관... 혹은 다른 주요 NATO 회원국이었을 수도 있습니다. 전쟁 직전 폐쇄되었음에도 불구하고, 지하실과 공조실 등은 NATO 동조 세력의 임시 지휘소로 사용되었던 흔적이 역력합니다. 발견된 문서들에 따르면 이들은 당시 정부에 불만을 품은 무정부주의자들을 지원하여 내부 혼란을 야기하려 했던 모양입니다.\n\n그들은 선전 선동과 반정부 시위로 러시아를 내부에서 무너뜨리려 했으나, 자금과 인력이 부족으로 계획은 절반의 성공에 그쳤습니다. 하지만 그들이 남긴 단거리 통신 장비 등의 서방제 기술력은 가혹한 환경에서도 여전히 작동할 정도로 뛰어납니다."
+ scavenge_poi_rare_embassy.3.d: "메트로에 온 것을 환영한다. 비록 누추하지만 이제 이곳이 당신들의 집이다."
+ scavenge_poi_rare_embassy.3.a: "잠깐, NATO가 대체 뭡니까...?"
+
+ scavenge_poi_rare_bunker.1.t: "비밀 벙커 조사"
+ scavenge_poi_rare_bunker.1.d: "초기 수색 팀의 보고와 달리 이곳은 단순한 방어 시설이 아니었습니다. 일종의 '종말 대비용' 시설이라고 부를 수도 있겠지만, 그 이상의 무언가가 있었습니다. 내부로 진입한 스토커들은 이곳이 고도의 물질 정화 장치와 자체 발전기를 갖춘 최첨단 보호 시설임을 확인했습니다. 벽면 곳곳은 흰색 분필로 적힌 기괴한 종교적 경구들과 신앙 고백들로 뒤덮여 있었습니다.\n\n벙커 내부에서 대체 무슨 일이 벌어졌는지는 알 수 없으나 주민들은 흔적도 없이 사라졌습니다. 하지만 그들이 남긴 가구와 식기들은 마치 조금 전까지도 거대한 만찬이 열렸던 것처럼 정갈하게 배치되어 있었습니다. 모든 것이 의미를 잃어버린 세상이지만, 누군가에게는 여전히 가치 있는 보물들이 곳곳에 산재해 있습니다."
+ scavenge_poi_rare_bunker.1.a: "새 방호복을 원하나? 아니면 이 산더미 같은 탄약들로 무엇을 할 수 있을지 상상해 보게."
+ scavenge_poi_rare_bunker.2.d: "이곳은 전쟁 당시 NATO 군의 집중 폭격을 받은 듯 잔해조차 거의 남아 있지 않았습니다. 설상가상으로 지독한 방사능 수치 때문에 최신 방호복을 착용한 스토커들조차 오래 머물 수 없었습니다. 하지만 우리 예전에 다른 스토커 그룹이 이곳에 진입했던 흔적이 발견되었습니다. 안타깝게도 그들은 임무에 실패했습니다.\n\n시체들의 옷은 기묘하게도 밝은 붉은색으로 변해 있었는데, 이것이 치명적인 방사능 독 때문인지 혹은 다른 무언가 때문인지는 명확하지 않습니다. 주변에 전투의 흔적은 없었으나 그들은 모두 미동도 없이 그 자리에 서서 최후를 맞이한 듯했습니다."
+ scavenge_poi_rare_bunker.2.a: "지상에서는 그 무엇도 우리를 방해할 수 없다!"
+ scavenge_poi_rare_bunker.3.d: "모스크바 강의 오물과 진흙 속에 절반쯤 잠겨 있는 이 복합 시설은 변이체들조차 기를 쓰고 피하는 곳이었습니다. 그럴 만한 이유가 있었습니다. 입구 근처에서는 진흙 속에 파묻힌 수많은 부풀어 오른 시신들이 발견되었는데, 보존 상태가 너무 나빠 언제 죽었는지조차 가늠할 수 없었습니다.\n\n더 깊은 곳으로 진입할수록 시신들의 수는 기하급수적으로 늘어났습니다. 그리고 마침내 도달한 무기고의 육중한 문 앞에는 한때 무기를 손에 넣으려 처절하게 몸부림치던 이들의 잔해가 산을 이루고 있었습니다. 만약 이 시설의 수관 시스템만 멀쩡했더라면 이곳은 난공불락의 요새가 되었을지도 모릅니다."
+ scavenge_poi_rare_bunker.3.a: "우리 군대는 무적이 될 것이다. 누구도 우리를 막지 못한다."
+
+ scavenge_poi_exotic_labyrinth.1.t: "도굴꾼의 미궁"
+ scavenge_poi_exotic_labyrinth.1.d: "소련 붕괴 직후부터 떠돌던 소문이 있습니다. KGB 요원들이 사용하는 정부 청사 지하에 비밀 터널망이 존재한다는 것입니다. 제3차 세계 대전의 화마를 피해 정부 수뇌부의 잔당들이 이 깊숙한 터널로 숨어들었다는 주장도 있습니다. 일명 '라비린스'라고 불리는 이 미궁은 끝없이 이어지는 통로와 비밀 역들로 가득하다고 전해집니다. 우리 스토커들은 드디어 그 입구 중 하나를 발견했습니다. 무너진 벽돌과 부서진 타일 뒤로, 마치 살아있는 생물처럼 뻗어 나가는 분기 터널들이 대원들을 맞이했습니다."
+ scavenge_poi_exotic_labyrinth.1.a: "수색을 계속하게. 이 저주받은 회랑 끝에 무엇이 있는지 밝혀내야 한다."
+
+ scacenge_poi_exotic_labyrinth.2.t: "잎새의 집"
+ scacenge_poi_exotic_labyrinth.2.d: "실타래와 종이 조각을 이정표 삼아 우리 스토커들은 미궁 깊숙한 곳을 탐험합니다. 벽면에 남겨진 정체 모를 낙서들은 길잡이가 되어주었으나, 미궁 전체를 파악하기에는 턱없이 부족했습니다.\n\n그러던 중, 대원들은 지하철역들을 감시할 수 있도록 설치된 특수 관측 지점들을 발견했습니다. 환기구 그릴이나 조명등으로 위장된 이 통로들을 통해 역 내부를 은밀히 들여다볼 수 있었습니다. 비록 많은 곳이 무너졌으나, 여전히 작동하는 관측소들을 확보한다면 메트로의 주도권을 장악하는 데 엄청난 전략적 이점을 제공할 것입니다."
+ scacenge_poi_exotic_labyrinth.2.a: "우리의 눈이 메트로 전역을 지켜볼 것이다."
+
+ scavenge_poi_exotic_military_base.1.t: "비밀 군사 복합 시설"
+ scavenge_poi_exotic_military_base.1.d: "제3차 세계 대전 발발 직전, 모스크바 상공으로 공수 부대가 투입될 것을 우려한 군 당국이 핵심 무기고들을 지하로 옮긴 것으로 추정됩니다. 전쟁 시작과 동시에 이 시설은 철저히 폐쇄되어 지상에서는 그 흔적조차 찾을 수 없게 되었습니다. 우리 스토커들이 입구를 찾는 데 왜 그렇게 고생했는지 이제야 이해가 갑니다.\n\n고대 이집트의 파라오 무덤처럼, 폭격으로 인해 출입 통제 장치가 고장 나면서 내부에 있던 병력과 인부들은 그대로 생매장되었습니다. 비축된 보급품과 의약품은 고립된 이들을 연명시키는 데 사용되었으나, 그들의 최후는 비참했을 것입니다."
+ scavenge_poi_exotic_military_base.1.a: "구세계의 강력한 무력이 이제 우리 손에 들어왔다."
+
+ scavenge_poi_exotic_missile_silo.1.t: "사일로의 비밀"
+ scavenge_poi_exotic_missile_silo.1.d: "예상했던 대로 지하 무기고의 문은 견고하게 잠겨 있었으나, 스토커들은 끈질긴 노력 끝에 침입에 성공했습니다. 내부 공간은 마치 시간이 멈춘 듯 전쟁 당시의 모습을 고스란히 간직하고 있었습니다. 가구 하나 없이 삭막하지만, 전쟁 직전 폐기될 위기에 처했다가 급히 재가동된 흔적이 보입니다. 발사 명령을 끝내 받지 못한 채 잠들어 있는 구시대의 전술 병기들이 이제 우리의 명령만을 기다리고 있습니다."
+ scavenge_poi_exotic_missile_silo.1.a: "강철과 화염으로 우리의 세계를 수복할 것이다!"
+ ##
+
+ reclamation_event.2.t: "구역 수복 완료"
+ reclamation_event.2.d: "메트로 역으로 파견되었던 개척 팀이 승전보를 전해왔습니다. 우리는 역의 더 넓은 구역을 장악했으며, 목표 달성에 한 걸음 더 다가섰습니다."
+ reclamation_event.2.a: "경계를 설정하고 확보하라!"
+ reclamation_event.2_tt: "해당 구역이 우리 통제하에 들어왔으나, 완전히 영토로 편입하기 위해서는 보안 조치를 강화해야 합니다. §Y제한 시간§! 내에 요구 조건을 충족하지 못하면 §Y해당 구역을 다시 상실하게 될 것입니다§!."
+ 
+ reclamation_event.mutants.t: "변이체 습격"
+ reclamation_event.mutants.d: "메트로 개척 팀이 야만적인 변이체들의 잔인한 습격을 받았습니다. 대부분의 대원이 전사했으며, 살아남은 이들도 씻지 못할 신체적, 정신적 상처를 입었습니다. 이들의 희생을 헛되게 해서는 안 됩니다!"
+ reclamation_event.mutants.a: "비통한 날이로군."
+ 
+ reclamation_event.3.t: "터널 속의 실종"
+ reclamation_event.3.d: "개척 팀이 터널로 출발한 지 며칠이 지났으나 아무런 소식이 없습니다. 이제 그들이 실종된 것으로 간주하고 최악의 상황을 대비해야 합니다."
+ reclamation_event.3.a: "그들의 희생을 영원히 기억할 것이다."
+
+ reclamation_event.4.t: "스토커 팀의 보고에 따르면, 필리(Fili) 기지에 거주하고 있는 존재들은 변이체가 아닌 인간들이었습니다. 초기에는 극심한 대립으로 총격전이 벌어질 뻔했으나, 긴 대화 끝에 오해를 풀고 신뢰를 쌓는 데 성공했습니다. 기지 주민들은 우리 팀에게 소중한 식량과 물을 나누어주었습니다.\n\n이들은 과거 파르크 포베디 역과 키예프스카야 역 사이의 터널이 붕괴하기 직전 역을 떠났던 생존자들이었습니다. 그들은 메트로의 혼란을 피해 깊숙한 곳으로 이동하여 이 기지를 발견했고, 인근 터널의 자원과 지상의 물자를 수색하며 살아남았습니다. 한동안은 정수 장치와 식용 버섯으로 자급자족하며 버텼으나, 최근 지도자가 의문의 실종을 당하면서 급격한 기아와 영양실조에 시달리고 있었다고 합니다."
+ reclamation_event.4.d.a: "필리 기지 개척 성공"
+ reclamation_event.4.d.b: "필리 기지에는 변이체가 아닌 무장한 인간들이 거주하고 있었습니다. 그들은 우리 대원들을 향해 정밀 저격 세례를 퍼부으며 극도로 적대적인 태도를 보였습니다."
+ reclamation_event.4.a: "그들을 따뜻하게 맞이하겠다!"
+ reclamation_event.4.b: "무력으로 제압하라!"
+
+
+###EVENTS###
+
+ scavenge_mission.1.t:0 "스토커 귀환 성공"
+ scavenge_mission.1.d:0 "탐사 임무가 성공적으로 끝났습니다. 스토커들이 지상에서 수집한 물자와 장비를 가지고 돌아왔습니다. 그뿐만 아니라 모스크바 폐허 속에서 3곳의 흥미로운 지점을 발견했습니다. 대원들은 지상의 오염된 환경과 복잡한 경로 때문에 수색이 쉽지 않겠지만, 이 중 한 곳을 선택하여 본격적인 탐사를 진행할 수 있다고 보고했습니다. 우리는 이 중 가장 가치 있어 보이는 곳으로 다음 탐사대를 보낼 수 있습니다."
+ scavenge_mission.1.a:0 "자원 위주 수색"
+ scavenge_mission.1.b:0 "기술 정보 확보"
+ scavenge_mission.1.c:0 "군사 장비 탈취"
+
+ scavenge_mission.2.t:0 "탐사대 임무 실패"
+ scavenge_mission.2.d:0 "탐사대가 기지로 복귀했으나, 결과는 실망스러웠습니다. 그들은 물자를 확보하거나 지점을 탐색하는 데 실패했습니다."
+ scavenge_mission.2.a:0 "알겠네."
+
+###EQUIPMENT###
+
+ unlocked_saiga:0 "설계도 확보 - §Y사이가(Saiga)§!"
+ unlocked_saiga_tt:0 "설계도를 확보하여 §Y사이가 자동 샷건§의 역설계 및 생산이 가능해졌습니다.\n\n지상의 잔해 속에서 이 무기의 구조를 상세히 파악할 수 있는 귀중한 자료를 발견했습니다."
+ unlocked_abzats:0 "설계도 확보 - §Y아브자츠(Abzats)§!"
+ unlocked_abzats_tt:0 "설계도를 확보하여 §Y중량 자동 샷건§의 역설계 및 생산이 가능해졌습니다.\n\n지상의 잔해 속에서 이 무기의 구조를 상세히 파악할 수 있는 귀중한 자료를 발견했습니다."
+ unlocked_rpk:0 "설계도 확보 - §YRPK§!"
+ unlocked_rpk_tt:0 "설계도를 확보하여 §YRPK-74 분대지원화기§의 역설계 및 생산이 가능해졌습니다.\n\n지상의 잔해 속에서 이 무기의 구조를 상세히 파악할 수 있는 귀중한 자료를 발견했습니다."
+ unlocked_hellbreath:0 "설계도 확보 - §Y헬브레스(Hellbreath)§!"
+ unlocked_hellbreath_tt:0 "설계도를 확보하여 §Y헬브레스 레일건§의 역설계 및 생산이 가능해졌습니다.\n\n지상의 잔해 속에서 이 고도의 전자기 가속 장치를 재현할 수 있는 핵심 도면을 발견했습니다."
+
+ scav_reward_eq_spec_ops_spetsnaz:0 "제작 도면 해제 - §Y스페츠나즈 복합 장비§!"
+ scav_reward_eq_spec_ops_riot:0 "제작 도면 해제 - §YOMON 폭동 진압 장비§!"
+ scav_reward_eq_spec_ops_spartan:0 "제작 도면 해제 - §Y스파르탄 정예 장비§!"
+ scav_reward_eq_spec_ops_heavy:0 "제작 도면 해제 - §Y특수 작전용 중장갑§!"

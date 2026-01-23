@@ -1,0 +1,308 @@
+﻿l_english:
+ reclaim_this_state: "Reclaim Underground"
+ GWC_reclaim_this_state: "Reclaim Underground"
+
+ reclaim_metro: "Call of the Dark"
+ reclaim_metro_category: "Reclaim Abandoned Tunnels and Stations"
+ reclaim_metro_category_desc: "We can reclaim some of the tunnels and stations we border on and colonize them with our settlers."
+
+ reclamation_underway: "Reclamation attempt Underway"
+ state_being_colonized: "Currently Undergoing Colonization"
+
+ reclaim_timed_decision: "Reclaim State Timer"
+ reclaim_timed_decision_desc: "We now occupy the state, but we will need to do more to extend our influence.\n\n  Current exertion: [?reclaim_cost|H0]\n  Exertion Needed:  [?Root.reclaim_cost_requirement|H0]"
+
+ reclaim_manpower_10:0 "£manpower_texticon  §Y10§!"
+ reclaim_manpower_10_blocked:0 "£manpower_texticon  §R10§!"
+
+ reclaim_cost_10: "§YReclaim§! Increased by §Y10§!."
+ reclaim_cost_15: "§YReclaim§! Increased by §Y15§!."
+
+ reclaim_cost_text: "§Y[?reclaim_cost|H0]§!"
+ reclaim_cost_text_blocked: "§R[?reclaim_cost|0R]§!"
+
+ reclaim_mission_build_defences: "Establish Defences"
+ reclaim_exert_authority: "Exert Authority"
+ reclaim_extend_influence_further: "Further Extend our Influence"
+ reclaim_mission_send_soldiers: "Send More Soldiers"
+ reclaim_mission_send_soldiers_savage: "Send Soldiers"
+ reclaim_mission_build_up_station: "Build up Station"
+
+ reclaim_relocate_citizens: "Relocate Citizenry"
+
+ reclaim_remove_tunnel_blockers: "Remove Tunnel Blocker"
+ reclaim_remove_tunnel_blockers_desc: ""
+
+ reclaim_state_remove_isolationism: "Extend outwards"
+ reclaim_state_remove_isolationism_desc: "We've stayed isolated for several years, but our regime is constrained. Our living space is rife with overpopulation and we lack resources we can internally produce. We must extend our reach outwards."
+
+ #
+ scavenging_expeditions: "Topside Expeditions"
+ scavenging_expeditions_desc: "\n\n\n\n\n\n\n               §GSuccess Chance§!:  [?Root.scavenge_success_chance_display_var]                  §RFail Chance§!: [?Root.scavenge_fail_chance_display_var]                  §OPOI Chance§!:  [?Root.scavenge_poi_chance_display_var]\n\nEach option gets a number that shows how likely it is to be picked. The bigger the number, the better its chances. An option with §Y20§! has twice the chance of being picked as one with §Y10§!."
+
+ establish_stalking_group: "Organize A Stalker Team"
+ establish_stalking_group_desc: "In the Metro, only few have the guts to venture to the surface in search of vital necessities. Military supplies, replacement parts, fuel. Those few who dare to do this, and those fewer who could be counted upon returning were well worth their weight in gold."
+ scavenging_disabled: " Cannot send Surface Expeditions"
+ scavenging_been_disabled_tt: "Enabled Scavenging System"
+
+ allow_to_conduct_scavenging_mission_tt: "\nWith a Stalker Team organized, we may launch expeditions onto the surface, allowing us to prospect for valuable military supplies, gear or resources."
+
+ scavenger_team_mission_countdown: "Expedition Sortie"
+ scavenger_team_mission_countdown_desc: "Some time must past before our Stalkers return."
+ scavenge_success_tt: ": §YSuccessful Sortie§!"
+ scavenge_failure_tt: ": §YUnsuccessful Sortie§!"
+ scavenge_failure_no_reward_tt: "Our Stalkers Return Empty-Handed."
+ scavenge_colossal_failure_tt: ": §YStalker Team Disappearance§!"
+ scavenge_horror_tt: ": §YStalker Team Ambushed!§!"
+ scavenge_poi_tt: ": §YPoint of Interest Discovered§!"
+
+ launch_scavenging_team_mission: "Launch Sortie"
+ launch_scavenging_team_mission_desc: "When a child is born into the world where nowhere is there a reason to fly or swim anymore, the word 'pilot' and 'sailor' gradually lose all meaning, these children want to become stalkers."
+ active_scavenger_mission_tt: "\nWe shall send repeated Stalker sorties onto the surface, who shall return with valuables, military gear or the location of sites still yet to be picked clean."
+
+ scavenger_team_mission_establish_surface_waypoints: "Establish Surface Waypoints"
+ scavenger_team_mission_establish_surface_waypoints_desc: "A man-made structure or post - a port in the storm. These stratetically placed waypoints our Stalkers may use as helpful guides to navigate the surface."
+ place_surface_waypoint_tt: "\nWill increase the §GSuccess Weight§! of our Scavenge Sorties."
+
+ scavenger_team_mission_equip_support_weapons: "Equip Stalkers"
+ scavenger_team_mission_equip_support_weapons_desc: "If necessary, we may equip our Stalker teams with improved gear. Their movement speed might be hindered, but they'll be more than capable to fight against any threats they may stumble upon.. Or might stumble to them."
+ give_stalkers_support_weapons_tt: "Will increase our §GSuccess Weight§! if our Stalkers run into Hostiles."
+
+ scavenger_team_recall: "Recall Expedition"
+ scavenger_team_recall_desc: "If necessary, we may send an urgent request to recall our Sortie back from the surface."
+ active_scavenger_mission: "Expedition Sortie Active"
+
+ scavenger_mission_rescue: "Launch Rescue Operation"
+ scavenger_mission_rescue_desc: "Effective immediately, we shall scramble a makeshift rescue party to search for our missing Stalker squad on the surface. Let us pray we find them before the touch of death, or worse claims them first."
+ scavenger_mission_needs_rescue: "We have discovered our vanished Stalker team."
+
+ scavenger_team_mission_parkinglot: "Escort Survivors"
+ scavenger_team_mission_parkinglot_desc: "After their leader pleaded with us to escort them to the reasonably far safer Metro, we have only a short amount of time to give them safe passage."
+
+ scavenger_team_mission_establish_surface_outpost: "Establish Surface Outpost"
+ scavenger_team_mission_establish_surface_outpost_desc: "Our Stalkers have recently stumbled across a good, defensible position for us to establish as a forward post. Let us dedicate some resources to this venture. Our Stalkers will have an easier time making routine trips on the surface."
+ scavenge_has_surface_outpost_tt: "Will increase the §GSuccess Weight§! if our Stalkers encountering §OPoints of Interest§! while on the surface!"
+
+ launch_scavenging_poi_team_mission: "Launch §OPlace of Interest§! Expedition"
+ launch_scavenging_poi_team_mission_desc: "The secrets of the old world are in our grasp. We must sieze the moment, before it slips from our hands."
+ active_scavenger_mission_poi_tt: "Another team of Stalkers will be called, in order to explore this POI we discovered."
+
+ scavenger_team_mission_poi_countdown: "§OPlace of Interest§! Sortie"
+ scavenger_team_mission_poi_countdown: "So close.. The Secrets of the world before will nearly be ours."
+
+ scavenge_success_modifier: "Successfull Scavenge Chance"
+ scavenge_failure_modifier: "Unsuccessful Scavenge Chance"
+ scavenge_poi_discovery_modifier: "Point of Interest Discovery Chance"
+ execute_scavenge_mission: "Execute a Scavenging Mission"
+ execute_scavenge_mission_free: "Execute a Scavenging Mission"
+
+ scavenge_reward_silo_national_spirit: "Secrets of the Silo"
+ scavenge_reward_labyrinth_national_spirit: "Secrets of the Labyrinth"
+ scavenge_reward_embassy_national_spirit: "Western Intelligence Device"
+ scavenge_reward_institute_temporary_national_spirit: "Unfinished Research Papers"
+ scavenge_reward_institute_national_spirit: "Secrets of the Old World"
+ scavenge_reward_hospital_national_spirit: "Hospital Repository"
+ scavenge_reward_warehouse_national_spirit: "Warehouse Repository"
+
+ scavenge_mission_success.1.t: "Successful Sortie"
+ scavenge_mission_success.1.d: "Fortunate news has arrived to us. Weeks since our Stalkers first departed, they have returned to our station; pockets and backpacks lined with valuables scavenged from the surface."
+ scavenge_mission_success.1.a: "A successful salvage indeed."
+
+ scavenge_mission_failure.1.t: "Unsuccessful Sortie"
+ scavenge_mission_failure.1.d: "Our scavengers return from their expedition with their hands empty. Whether the combination of bad weather and hostile threats resulted in our Sortie being unsuccessful, our Stalkers atleast returned alive and in one piece."
+ scavenge_mission_failure.1.a: "At the very least they returned in one piece."
+
+ scavenge_mission_colossal_failure.1.t: "Stalker Team Dissapearance"
+ scavenge_mission_colossal_failure.1.d: "Grave news arrives to us. It has been Week since our Stalker team set foot upon the surface, and yet no sign of their return. Short-term sorties hastily fashioned from willing station volunteers have all but failed to make conclusive leads. With the situation growing increasingly dire, our officials demand we outfit a proper squad and send them topside, hopefully to find our missing team.\n\nIt may be too late to find them alive and intact however, but even if we come across their remains, as much as we pray our stalkers don't, it will give our stations peace of mind.. at the very least."
+ scavenge_mission_colossal_failure.1.a: "Bring our boys home."
+
+ scavenge_mission_colossal_failure.2.t: "Scavenger Rescue Operation"
+ scavenge_mission_colossal_failure.2.d: "If by luck, or the grace of god, our quickly assembled rescue team has managed to find our missing Stalker team. They report our sortie had gotten ambushed by mutants, and with a hasty retreat had no other option but to hunker down in an abandoned cellar. With diminishing supplies and filters which they rationed amongst their squad, seemed all but futile until our squad stumbled upon them."
+ scavenge_mission_colossal_failure.2.a: "Well done men."
+
+ scavenge_mission_colossal_failure.3.t: "Claimed by the Wastes"
+ scavenge_mission_colossal_failure.3.d: "Our Rescue operation quickly scrambled onto the surface; checking treaded paths in the ash and soot-stained ground thrice over. Waypoints known by our own and kept fiercely guarded yielded nil successful results. Despite our valliant efforts, reports of our stalkers whereabouts remain inconclusive.\n\nWith our own established rescue team fatigued and quickly growing ever despondent over their fallen comrades, it would be wise to end our search."
+ scavenge_mission_colossal_failure.3.a: "Another batch of daring souls; lost to the embrace of mortality."
+
+ scavenge_mission_horror.1.t: "Mutant Ambush!"
+ scavenge_mission_horror.1.d: "Our Stalkers were attacked! Fetid surface creatures assailed our armed forces. Despite the steadfast resolve of our stalkers, it seemed raw firepower simply wouldn't cut it, so.."
+ scavenge_mission_horror.1.a: "Knowing their fighting was in vain, they made their retreat."
+ scavenge_mission_horror.1.a.tt: "Our Stalkers live to tell the tale, but they lose any chance to loot."
+ scavenge_mission_horror.1.b: "Made a valiant last stand."
+ scavenge_mission_horror.1.b.tt: "Mutant meets gunpowder; our Stalkers fight, risking their lives in the process."
+ #scavenge_mission_horror.1.c: "EAT FLAMES YOU UGLY SON OF A BITCH!"
+
+ scavenge_poi_category_common: "Get event: §tCommon§! Point of Interest"
+ scavenge_poi_category_uncommon: "Get event: §7Uncommon§! Point of Interest"
+ scavenge_poi_category_rare: "Get event: §4Rare§! Point of Interest"
+ scavenge_poi_category_exotic: "Get event: §2Common§! Point of Interest"
+ scavenge_poi_category_unique: "Get event: §0Unique§! Point of Interest"
+ ## Don't make me localize all these descriptions please I beg you aaaaaaaaaaaaa
+ scavenge_poi_common_unmarked_building.1.t: "The Unmarked Building"
+ scavenge_poi_common_unmarked_building.1.d: "A Stalker detachment was issued forth. While moving through one collapsed structure to the next beneath the veil of darkness, our squad discovered the unmarked structure standing eerily intact. Bearing no sign of damage nor scars from the bombs or weather, appearing untouched by time and war.\n\nDeep inside, the air remained toxic. The corridors confined and the floor littered with dust. Far from being free from the reigning cold and conditions of the surface, our Stalkers set to work.\n\nEmpty. No signs of habitation, no bodies. It must have been an office complex, or local administrative building our Stalkers deduced. Yet no sound, not even the whisper of wind resigned to its interior. Our Stalkers managed to loot whatever they could scavenge; though far from a winning haul the interior did prove atleast some ounce of value."
+ scavenge_poi_common_unmarked_building.1.a: "Atleast something of worth was scavenged."
+ scavenge_poi_common_unmarked_building.2.d: "A Stalker detachment was issued forth. Moving from one collapsed structure onto the next beneath the veil of darkness, our expedition team finally encroached the unmarked structure. To suggest it was a structure may of been an overstatement, only the demolished debris and ruins stood in its step. Our Stalkers suggest to us it may have been an old apartment complex of sorts; however what little they could deduce from the wreckage still let them puzzled.\n\nBeneath a mound of rebar, our Stalkers came across a hatch, leading down to the lower level of the complex. Far too shallow to shield from the radiation or the elements, had anyone tried to use it as a makeshift bunker when the bombs fell. However instead, our Stalkers discovered in the cramped space were an assortment of ammunition crates and firearms.. Though unfortunately far too corroded and broken to be useful."
+ scavenge_poi_common_unmarked_building.2.a: "Its no government bunker complex.. But this'll do."
+ scavenge_poi_common_unmarked_building.3.d: "A Stalker detachment was issued forth. Shifting from one mound of wreckage to the next under the slither of darkness, our sortie approached the unmarked building, standing crookedly in the wind. Silence fell all around as they approached. Its lights could be seen shining from within.\n\n.Impossible, they thought to themselves. Feeling a deep-seated sense of opression and unease as they tried seeking entrance. This feeling of terror only grew with each passing elapse of the complex. Unable to breach entry, one of our Stalkers attempted to break entry themselves. The lights inside however, continued in spite of the uncomfortable silence and against all explaination. Only a few short minutes passed before our Stalker exited shaken in a daze of terror, and the lights immediately began to dim. Whatever occoured within, the Stalker refused to disclose, seemingly changed from what he witnessed."
+ scavenge_poi_common_unmarked_building.3.a: "A good find indeed"
+
+ scavenge_poi_common_construction_yard.1.t: "Construction Yard"
+ scavenge_poi_common_construction_yard.1.d: "An construction yard which had halted far before the bombs dropped. The yard had been picked far before, and what little the site may have afforded had already been taken. Machinery, tools and other such utensils were all but corroded scrap when our Stalkers arrived. However beneath tarpaulin, some building matertials still remained. Though far from suitable as construction material."
+ scavenge_poi_common_construction_yard.1.a: "This scrap will aid our station."
+ scavenge_poi_common_construction_yard.2.d: "The construction project seemed to have been halted immediately as the bombs dropped. The corpses of its workforce entombed beneath mounds of ash and debris. What could be properly picked by Stalkers had been already. Though the far heavier construction machinery had been turned to rust years before.\n\nHowever, our Stalkers had managed to carry an electric dynamo from the site, still in decent enough shape. With some fixing, it may be of good use."
+ scavenge_poi_common_construction_yard.2.a: "Finally, there was Light!"
+
+ scavenge_poi_common_warehouse.1.t: "Abandoned Warehouse"
+ scavenge_poi_common_warehouse.1.d: "A huge, corrugated metal warehouse structure would have been the first to of been picked clean during the early days, and with its empty interior that fact was keenly shown.\n\nHowever resourceful as our Stalkers are, they managed to scrape together what little they could. Components, scrap, just about anything.. even the steel girders and support beams."
+ scavenge_poi_common_warehouse.1.a: "We'll put these resources to good use."
+ scavenge_poi_common_warehouse.2.d: "A huge, corrugated metal warehouse structure would have been the first to of been picked clean during the early days, and with its empty interior that fact was keenly shown.\n\nWhat had been left to degrade in half-opened containers were books, technical documents, guides.. Though for a more consumer demographic than a technical-savvy engineer. With our knowledge-base declining, even simple push-fit furniture instructions and woodworking guides will come in handy."
+ scavenge_poi_common_warehouse.2.a: "Hopefully, our Diggers can put this to good use."
+ scavenge_poi_common_warehouse.3.d: "A huge, corrugated metal warehouse structure would have been the first to of been picked clean during the early days, and with its empty interior that fact was keenly shown.\n\nOur Stalkers left no box unturned, or cabinet unfurled, and their thoroughness paid off. A hoard of books and knowledge which could make even a bookworm of Polis envious, all remarkably intact."
+ scavenge_poi_common_warehouse.3.a: "Our industry will grow as a result of this find!"
+
+ scavenge_poi_common_police_station.1.t: "Derelict Police Station"
+ scavenge_poi_common_police_station.1.d: "The First place which would've been picked clean; if not by local forces during the initial stages of the Third World War, then by Central Committee issued Stalkers after, we expected not to find much worth.\n\nAs expected; guns, equipment had all been picked clean. However, only the surface and main interior had been scavenged, with the basement thoroughly left unstripped. Searching through the underbelly, our Stalkers found the armory, locked still after all these years. With some effort, they managed to break through. Old police equipment; belts, helmets and winter uniforms dating from the old days were still left inside, most likely left to gather dust as the newer, more effective equipment was siezed."
+ scavenge_poi_common_police_station.1.a: "This gear will do us nicely."
+ scavenge_poi_common_police_station.2.d: "The First place which would've been picked clean; if not by local forces during the initial stages of the Third World War, then by Central Committee issued Stalkers after, we expected not to find much worth.\n\nUnfortunately, no guns or arms were found, however that was far from dissapointing. Our Stalkers found an intact room, far from the elements and still completely full of old surplus police gear and equipment. Despite its shoddy state, our Stalkers retrieved what they could reasonably carry."
+ scavenge_poi_common_police_station.2.a: "Blue is back in fashion..?"
+
+ scavenge_poi_common_hospital.1.t: "Abandoned Clinic"
+ scavenge_poi_common_hospital.1.d: "To our surprise, and much to the dismay to the opes of our administration, the Abandoned Clinic formally discovered was not infact a clinic, but a Veterinary clinic. Suprisingly, it seemed only a few had given the place a thorough scavenge. Though much material and medical supplies were well beyond their date, our Stalkers did manage to scavenge some stuff of note; although our doctors are most likely not planning on operating on dogs or cats anytime soon.. the documents found go over extensive precautions and anatomical detail regarding surgical precision; how to also properly store blood and sterilize supplies. Its no I.M. Sechenov manuscript by any means.. But it'll do."
+ scavenge_poi_common_hospital.1.a: "To think, the concept of bacteria and parasites is slowly becoming a faded memory.."
+ scavenge_poi_common_hospital.2.d: "As we had initially suspected; pharmacies, hospitals, clinics would have been the first places scavenged by Stalkers, and the interior of the clinic evidently showed this. Scrubbed even down to its surgical aprons and even the tiled flooring, though we hadn't suspected much in the way of proper surgery was ever conducted here. Our Stalkers did however come across an old Autoclave unit which has been attempted to be unbolted from the wall it stood against. Despite proving intimidating to move, our Stalkers managed to unbolt it, and move the huge piece of equipment back."
+ scavenge_poi_common_hospital.2.a: "Our doctors will undoubtedly rejoice at this find."
+
+ scavenge_poi_common_hardware_store.1.t: "Ruined Hardware Store"
+ scavenge_poi_common_hardware_store.1.d: "A Hardware store, though far from fitting the bill as such. Most of the interior space had been looted, or erroded to the elements already. Wood turning to mush, metal corroding and tools long since dulled. However, a fair amount of technical documents remained intact, atleast with some pages scrubbed and worn down."
+ scavenge_poi_common_hardware_store.1.a: "Hopefully, we still have scrap laying around to put to use."
+ scavenge_poi_common_hardware_store.2.d: "An old department store would've been the first few places looted and as such, our Stalkers didn't expect to discover much. Although what they did manage to find were technical documents and a few odds and ends of tools long since dulled. With some proper care, perhaps our technicians and loaders may fix these tools up?"
+ scavenge_poi_common_hardware_store.2.a: "Hopefully, our engineers haven't forgotten to read."
+
+ scavenge_mission_horror.2.t: "Mutant-Tide Vanquished!"
+ scavenge_mission_horror.2.d: "Bracing strong to meet the oncoming horde of mutants, our Stalkers stood their ground. The battle raged well into the early hours of the morning, and by the time the dimmly-lit sun was crawling above the horizon, all the Mutants had been vanquished. Exhausted, our Stalkers returned home; remembering to pluck the loot they hid before the commencing attack."
+ scavenge_mission_horror.2.a: "Good job"
+ scavenge_mission_horror.2.tt: "Support Weapons must be re-dispensed to our Stalker teams."
+
+ scavenge_mission_horror.3.t: "To the Last Breath"
+ scavenge_mission_horror.3.d: "Our Stalkers stood firm against the onslaught. The exchange of claw and bullet was fierce, and the battle raged well into the early hours. By the time the diminutive sun crawled above the horizon only a few of our Stalkers remained; having won a hard-fought victory. Those who had given their lives were buried properly upon the surface, before our Stalkers left for home."
+ scavenge_mission_horror.3.a: "To the Fallen.."
+ scavenge_mission_horror.3.tt: "Too exhausted to continue; we must rebuild our Stalker Team."
+
+ scavenge_mission_horror.4.t: "Hasty Retreat"
+ scavenge_mission_horror.4.d: "Surmounting an impressive ramshackle barricade of ruined debris against the mob of fetid mutants, our Stalkers fought with all the strength they could.. But it wasn't enough. By the time the faded-sun crested the horizon our Stalkers had already fled, the bodies of their fallen comrades left in toe."
+ scavenge_mission_horror.4.a: "Those fetid creatures.."
+ scavenge_mission_horror.4.t: "We must rebuild our Stalker team from scratch."
+
+ scavenge_poi_uncommon_church.1.t: "Abandoned Church"
+ scavenge_poi_uncommon_church.1.d: "The house of God, left to rot and crumble. The whole columns and arches had collapsed in on itself, leaving the sit a mound of ruins. Our Stalkers searched high and low, for a cellar of sorts and were pleasantly surprised when they were about to give up, they managed to stumble upon what seemed to be a crypt in the Churchs' perimeter. A waterlogged vestibule lay before them, although not a pleasant experience our Stalkers had managed to uncover a scant trove of clerical artefacts. Far from discovering the holy grail, we could sell these wares off to somone still sentimental enough to care."
+ scavenge_poi_uncommon_church.1.a: "It feels wrong to steal from the church.. But who is going to ridicule us?"
+ scavenge_poi_uncommon_church.2.d: "The house  of God, left to crumble admist a world tormented by fire. The Church was remarkably intact when our Stalkers discovered it, and its interior even more so. Though the roof had caved in on itself in some places, and glass panes were all smashed to pieces the four walls were left intact. Even its great wooden doors were still useful. Though nothing of substance was found from a preliminary scope of the grounds, our Stalkers suggest it could be used as a temporary base of operation of sorts, provided we fund a proper construction job and all. With it proving a defensible position, it might allow our Stalkers to reach further afield, and give them a temporary respite from the harsh conditions of the Surface."
+ scavenge_poi_uncommon_church.2.a: "Like days of yore, we shall take refuge in gods house once again."
+ scavenge_poi_uncommon_church.2.a.tt: "Our scavengers may use this site as a Base of Operations."
+
+ scavenge_mission_poi.1.t: "Place of Interest Sighted"
+ scavenge_mission_poi.1.d: "Interesting news arrives to us. Our Stalkers claim amongst the ruins and pockmarked streets of Moscow they spotted an promising site to scavenge. One of the stalkers even managed to scribble down a hastily, although crude direction on a piece of torn paper.\n\nPerhaps we should investigate this?"
+ scavenge_mission_poi.1.a: "Write it down! It may prove promising."
+
+ scavenge_poi_uncommon_parkinglot.1.t: "Underground Parkinglot"
+ scavenge_poi_uncommon_parkinglot.1.d: "A sea of rust.. as far as our Stalkers could see. What seemed like the burned, corroded and hollowed-out husks of vehicles to many became a treasure trove to the eagle-eyed scavenger."
+ scavenge_poi_uncommon_parkinglot.1.a: "Car engines..? Now we're talking. Some proper horsepower!"
+ scavenge_poi_uncommon_parkinglot.2.d: "The Parkinglot remained remarkably intact, though far too shallow to prove a refuge from radiation. Unfortunately for its late-inhabitants, that fact only became keenly aware until it was too late. A small gathering, numbering two dozens had taken refuge. Whether radiation poisoning, or the dwindling supplies claimed them our Stalkers were unsure, however their final days were most likely agony."
+ scavenge_poi_uncommon_parkinglot.2.a: "The memory of the fallen ones musn't be forgotten."
+
+ scavenge_poi_uncommon_parkinglot_inhabited.1.t: "Underground Parking Complex"
+ scavenge_poi_uncommon_parkinglot_inhabited.1.d: "The Parking complex stretched far deeper than our Stalkers initially suspected. Suspended in darkness our Stalkers made their way to the lowest floor, and were surprised to be assailed by inhabitants. Not mutants, or animals but actual humans. Our Stalkers were startled, though not as much as the inhabitants were.\n\nAs tensions died down, and awareness that both parties weren't mutants our group began to communicate with the parkinglot dwellers.\n\n They explained to us they had managed to flee down here when the bombs dropped, and had survived down here since. Straining ice water leaking from the pipe and the infrequent rat. At some point they had managed turn some of the ruined vehicles into makeshift dynamos to power a ramshackle garden, before all electricity ran out. Fiercely rationing what little food they had. They explain to us, they originally even had several volunteers who managed to make successful trips onto the surface, before the radiation became bad.\n\nHowever, within recently their 'stalkers' had gone missing, and with supplies dwindling they were running desperately low. With no other place to go, they ask if we would be able to help them evacuate to the metro, where it is far safer."
+ scavenge_poi_uncommon_parkinglot_inhabited.1.a: "We shall help evacuate them to our Stations"
+ scavenge_poi_uncommon_parkinglot_inhabited.2.d: "The Parkinglot complex was far shallower than we had initially suspected. With it bathed in complete darkness, our Stalkers were surprised to find it inhabited. Not by mutants infact, but rather people. People who initially fired upon us, believing we were mutants. As such, a gunfight ensured for several moments, before both parties came to an unexpected halt. Words exchanged back and forth soon gave way to an open discussion; These were not bandits, but rather survivors from outside Moscow as a matter of fact. They explained to our Stalkers they had come to Moscow on some sort of 'holy pilgrimage' and were the sons of members of a religious organization.. Though they were reluctant on sparing the nonbelievers much of their doctrine, but what our Stalkers could gauge was that their former leader had felt a 'disturbing' precense in this mortal realm, located right in Moscow itself. Whatever this threat was, would make the outbreak of the Third World War pail and their mission was to eliminate it. They offered to join our forces, as long as we provided them with access to the Metro. In return, they provided us with some of their spare equipment. While being called spare, it was remarkably intact; crafted with intricate detail far beyond the scope of most technicians in the Metro."
+ scavenge_poi_uncommon_parkinglot_inhabited.2.a: "Welcome to the Metro."
+ scavenge_poi_uncommon_parkinglot_inhabited.3.d: "The Parkinglot wasn't all it initially cracked up to be. Much of the lower levels had been flooded, and far too impossible to navigate. One of the levels remained intact, and held a makeshift camp of sorts. Empty at first, its occupants coming home to find our Stalkers rummaging through their stuff, and a firefight nearly broke loose between them; Realizing a firefight was on the verge to ensue, one of their Stalkers, who seemed to have been injured, managed to quell either side down. With some careful de-escalation, our Stalkers discovered that they were former citizens of Park Pobedy, who had fled deep into the tunnels when connection was severed with Victory Park. For years they had managed to live from place to place; sometimes on the surface in deep cellars, managing to scavenge to create makeshift respirators or fix their hazmat suits. Over time, other Stalkers from different stations; disgraced or not, offered to join the ranks."
+ scavenge_poi_uncommon_parkinglot_inhabited.3.a: "Welcome to the Army now."
+
+ scavenge_poi_uncommon_research_institute.1.t: "Secrets of the Institute"
+ scavenge_poi_uncommon_research_institute.3.d: "Far from some cutting-edge Institute of cutting-edge technology, it seems our Stalkers sumbled across a simple, unassuming highschool or college institution. Though that necessarily did not make scavenge attempts void. Much of our Stalkers efforts were raiding stockrooms, storage cupboards and anything which could prove of value. Sealed chemical flasks, even simple chemistry kits could be taken and find a use, atleast somewhere."
+ scavenge_poi_uncommon_research_institute.3.a: "Sulphuric.. What??"
+ scavenge_poi_uncommon_research_institute.2.d: "It seemed that funding had dried up for this Insitute upon the turn of the 21st Century. Strapped for supplies and manpower, the research facility was struggling to make ends meets, and had been conducting research on behalf of other countries and private organizations. Far from making breakthroughs in the field of science, but rather consumer markets. This did not stop our Stalkers however, as they turned the entire interior upside down; manuscripts, documents, even bits of old equipment or glassware. Antying which could be useful, was taken. Though much of what was dubbed useful, were simple science books and documents even highschoolers could recite. For the average Muscovite now, the concept of thermodynamics, or biology has become a forgotten memory."
+ scavenge_poi_uncommon_research_institute.2.a: "These manuscripts, though unfinished, shall aid our progress"
+ scavenge_poi_uncommon_research_institute.3.d: "Whatever space the insitute had been established for, seemed to have unceremoniously halted on the oubreak of WW3. Commandeered by the Government, efforts were launched to restructure the Institute to research military applications; In a hasty effort to win the war, although their research efforts were all but in vain. They had made a few noteworthy strides, supposedly within the realms of Anti-radiation drugs and combat stimulants. Supposedly working in tandem with another research facility, located all the way in Novosibirsk.\n\nWhatever fruits were of their progress, it was far gone by the time our Stalkers came across it. However the mish-mash of scientific reports, and papers which had thankfully been faxed, or written down could prove monumental to our research base. Provided we have someone capable enough to read and parse them into legible, plain speak ofcourse."
+ scavenge_poi_uncommon_research_institute.3.a: "Nothing shall stop our progress."
+
+ scavenge_poi_rare_embassy.1.t: "Exploring the International Embassy"
+ scavenge_poi_rare_embassy.1.d: "Our Stalkers suspected the complex to be a western embassy of some sorts, given the fading tri-color flag which could barely be gauged of its original color. It seems our Stalkers spent more time arguing whether the Embassy was either french, Italian or other than properly sifting through the place. Not that there seemed to be anything of worth, however. What they did manage to find however, deep beneath the floorboards upon the second story of the complex several crates choked full of Western small-arms. Why they had been placed in this embassy no less remained hard to decipher. Whether for the use of espionage, or other. From the general state, it seemed the Embassy had been closed well during the outbreak of WW3. Its arms, perhaps to facilitate insurrectionary movements on behalf of NATO, never seemed to have spurred on to more than a fever dream."
+ scavenge_poi_rare_embassy.1.a: "These arms will do us well. Just.. some refitting will need to happen."
+ scavenge_poi_rare_embassy.2.d: "What initially appeared as an unassuming Embassy turned out to be vastly different than any of our Stalkers could have imagined. What they discovered beneath was a vast, and deep underground network of cellars and old sewer systems.. Inhabited as a matter by the former Embassy workers as a matter of fact! Though at first tensions were high as our Stalkers stumbled upon them, both parties exchanged greetings eventually. We discovered they, along with a few other Muscovites who acted as translators, had managed to flee beneath the ground when the bombs dropped, using the catacombs and tunnels to navigate.\n\nFor a while, many of their numbers died from radiation but a few of them remained. Living off the occasional rat, or canned good they could scavenge, or the wayward Stalker corpse they could scavenge from the Surface. Now however it seems they seek to finally embrace the Metro, and wish to join our station."
+ scavenge_poi_rare_embassy.2.a: "Welcome to the Metro. Its not much, but its home."
+ scavenge_poi_rare_embassy.3.d: "The American Embassy.. Perhaps, or another significant member of NATO. The Embassy had been closed well before the Eve of the Third World War, however it seems that it didn't stop the interior space from being used. What our Stalkers could summise, was that NATO sympathetic forces were still using the cellars and utility rooms below as makeshift command centres, though far from any proper headquaters. More of a rag-tag group of Russians disheartened with the regime at the time. It even seemed they have some contact with NATO spies, or at the very least perhaps, given claims parsing through any half-smudged and eroded documents found.\n\nSome Fascets of NATO were convinced they could inspire the Muscovite populace into disorder, and win the war by invoking rioting and anti-government protests, and from here it seemed they attempted to fabricate a network. Although with funding, and manpower incredibly scarce, it seemed the ball never got rolling beyond half a dozen morally questionable people. Although what NATO had provided to these turncoats were far excelled their meagre capacity. Short-range communication devices, and other such devices suitable for such. Though far worn and scrubbed of connections, they might prove some usefulness.."
+ scavenge_poi_rare_embassy.3.a: "Wait, so what is a NATO again..?"
+
+ scavenge_poi_rare_bunker.1.t: "Bunker Installation"
+ scavenge_poi_rare_bunker.1.d: "Though our initial Stalker team had identified the site, and made a perimeter check before returning to us, the site they had claimed to be a bunker installation of sorts, was not infact such. Perhaps moreso an 'apocalypse' bunker of sorts.. But even then that is far of a stretch. What our Stalkers could decipher of the interior, was that the place was formerly underground cellars of sorts, which had been renovated to act as a shelter, with makeshift water purifiers and its own electric generators. A full blown doomsday cult, our Stalkers had initially suspected, judging by all the feverent scratching and religious dogma stenciled with white chalk along the interior walls. Whatever happened early in the bunkers history, all of its occupants were gone; belongnings left as if they left in a hurry. Even the great big table, placed in the centre of the main chamber had been prepared with plates and cutlery, as if a great procession were to take place.\n\nSilver, at that too. There must be someone who still has the eye for valuables, even if they have lost all meaning."
+ scavenge_poi_rare_bunker.1.a: "Fancy a new Jacket..? Imagine what we can do with all these bullets."
+ scavenge_poi_rare_bunker.2.d: "The site had been targeted first and foremost by NATO forces, and what scant remained of the wreckage not even the frost nor mutant wanted anything to do with the ground. Still choked of radiation in the vast majority of places. Even aided with the best suited hazmat gear, our Stalkers were unable to stray inside the sight for any prolongued amount of time. It seemed however, that other Stalker groups had tried to make the descent, and had failed. It seemed, radiation did not claim one particular group, who our Stalkers were far from certain what group they belonged to.  Their stalker suits were tinged a bright fluourescent red hue, much seemingly to the detriment of the Stalkers who wore them, which made them stick out like an eyesore amongst the snow. Perhaps thats how they arrived to this fate, although no signs of gunfire nor suit rupture could be identified from their suits."
+ scavenge_poi_rare_bunker.2.a: "Nothing will impede us upon the Surface!"
+ scavenge_poi_rare_bunker.3.d: "Half sunken in a quagmire of bog and runoff water from the Moskva river, even the mutated shrimp refused to call the complex their home. Perhaps for good reason, half buried beneath the sludge and debris our Stalkers came across numerous bloated corpses, far too unrecognizable to discern the date of death.\n\nFurther our Stalkers waded, the more numerous the corpses became, until they reached a sealed door stood ontop an oil-slick ramp of sorts.\n\nWhat the fallen had trying to reach was a locked armory of sorts, located deep within the confines of the complex. Though much of its storage had already been looted, this did not stop their perilous attempt. Had the bunkers water systems not failed, this site would have proven an impenetrable fortress.. If only."
+ scavenge_poi_rare_bunker.3.a: "Our army will become invincible; No, Unstoppable."
+
+ scavenge_poi_exotic_labyrinth.1.t: "The Labyrinth"
+ scavenge_poi_exotic_labyrinth.1.d: "There persisted rumours during the collapse of the Soviet Union that there were secret tunnels beneath party and governmental buildings used by KGB agents. Even in the aftermath of the Third World War, some swear the last remnants of the Central Moscow Command fled deep into the tunnels, the so called 'Labyrinth' of winding passages and stations leading to infinity. Our Stalkers believe they have manage to unveil one such entrance. Crumbling plastered-walls, broken tiles and wide branching tunnels which seem to end in dead-ends and routes which seem to defy all explaination. Sometimes the occasional black phone-box was erected into the wall, though long since being operable."
+ scavenge_poi_exotic_labyrinth.1.a: "Keep searching; there must be a method to navigate these cursed halls."
+
+ scacenge_poi_exotic_labyrinth.2.t: "House of Leaves"
+ scavenge_poi_exotic_labyrinth.2.d: "Using string, and bits of crumpled paper in the form of breadcrumps to guide their step, our Stalkers explores the Labyrinth. Faded stenciling inscriptions along the walls gave some brief indication of where our Stalkers were, but werent wholly enough to properly navigate the maze.\n\nHowever, one special feature of the Labyrinth our forces discovered were the numerous observation posts that go to Metro stations, disguised as ventillation grills or lamps which allowed for the discrete monitoring at those stations. Although only a few stations are currently known to have this, and even fewer have ventilation shafts not filled with cobwebs and caved in, this will be a tremendous ability in our arsenal."
+ scavenge_poi_exotic_labyrinth.2.a: "Our eyes now lord across the Metro."
+
+ scavenge_poi_exotic_military_base.1.t: "The Military Complex"
+ scavenge_poi_exotic_military_base.1.d: "Suspected to have originally served as an armory for Russia on the eve of the Third World War in fear of NATO paradrops directly over Moscow, the Bunker remained tightly sealed and far from public spectacle. Our own Stalkers having great difficulty discovering its entrance, perhaps given reason as to why it hadn't been looted, until now.\n\nAlmost like the grand mortuary tombs of Egypt, its workers were sealed in when the bombs dropped and the gate controls malfunctioned. Surplus rations, medical supplies and such had all been used for the entombed men. How the last of them fell, with dwindling food and water, musn't of been pleasant."
+ scavenge_poi_exotic_military_base.1.a: "The power of the old world is now in our hands."
+
+ scavenge_poi_exotic_missile_silo.1.t: "Secrets of the Silo"
+ scavenge_poi_exotic_missile_silo.1.d: "As we had initially suspected, the bunker silo still remained tightly sealed. Our Stalkers had great difficulty gaining access, but managed to eventually breach through. They found an interior space almost suspended in time, devoid of debris or even the stain of time. Although far from furnished, it seemed the Silo was in the process of being decommissioned until the outbreak of the Third World War, where it was hastily thrusted back online. Its payload never given the fire directives. Now in our hands."
+ scavenge_poi_exotic_missile_silo.1.a: "With fire and steel, we'll take back our world!"
+ ##
+
+ reclamation_event.2.t: "Territory Reclaimed"
+ reclamation_event.2.d: "The Colonization team we sent into the Metro have come back victorious, successfully taking more of the Metro, furthering our progress and cause."
+ reclamation_event.2.a: "Set up a Perimeter! I want this place secured"
+ reclamation_event.2_tt: "The territory falls under our control, but we must further secure the state to integrate it into our sphere. A §Ytimed mission§! will be activated, and we must complete certain parameters to fully occupy the state. If we do not the §Ystate will be lost§!."
+ 
+ reclamation_event.mutants.t: "Mutant Attacks"
+ reclamation_event.mutants.d: "The Colonization team we sent into the Metro were viciously attacked by feral mutants. Most of the team was slain, the few that escaped wounded or scarred for life. This loss will not be in vain!"
+ reclamation_event.mutants.a: "A Sad Day"
+ 
+ reclamation_event.3.t: "Loss in the Metro"
+ reclamation_event.3.d: "We haven't heard from the Colonization team since they departed for the tunnels. It has been several days now and we must presume the team to be lost."
+ reclamation_event.3.a: "Their loss will not be forgotten!"
+
+ reclamation_event.4.t: "Colonization of Fili Depot"
+ reclamation_event.4.d.a: "As our suspicions were confirmed, the Fili Depot was inhabited not by mutants, as our team of stalkers had predicted, but by people. And very perceptive people. When, after a tense standoff that almost escalated into a shootout, the hostilities between our group of stalkers and the locals ceased, the residents of the Depot finally trusted our team, providing them with enough food and water.\n\nThe former residents of Park Pobedy abandoned the station before the tunnel between their station and Kievskaya collapsed, as the situation was becoming increasingly dire. They decided to take their chances and venture deeper into the metro rather than be caught in the general chaos and disarray that reigned in the remnants. Finding this Depot to hide in and scouring the nearby tunnels for valuable resources, the few remaining became stalkers, scavenging resources on the surface. For a time, their situation was dire but bearable, even with a working water purifier and the ability to cultivate some of the mushrooms growing in the tunnels as a meager supply of food. Bargaining with any nearby forays to the surface. Their leader, who had led the group out of Park Pobedy and settled them in the Fili Depot, had mysteriously disappeared a few weeks earlier. They were forced to resort to extreme measures, as they began to suffer from malnutrition. Until they encountered our team."
+ reclamation_event.4.d.b: "As our suspicions were confirmed, the Fili Depot was inhabited. Not by mutants, as our team of stalkers had predicted, but as a matter of fact humans who have began to open fire upon our sorties with strange firearms. As to be considered, concerning their pitiful disposition."
+ reclamation_event.4.a: "We'll allow them in with open Arms!"
+ reclamation_event.4.b: "To Arms!"
+
+
+###EVENTS###
+
+ scavenge_mission.1.t:0 "Scavengers Return Successfully"
+ scavenge_mission.1.d:0 "The Scavenging mission was a success. Our Stalkers have returned with goods and equipment brought back from the surface. On top of that they recall discovering 3 distinct spots within the ruins of Moscow we can send further expeditions to. However they believe, considering the caustic nature of the surface most of the discoveries will be picked bare or waypoints scuffled by the turbulent weather. We may only chose one of these 3 points of interest to further send an expedition to."
+ scavenge_mission.1.a:0 "Resources"
+ scavenge_mission.1.b:0 "Tech"
+ scavenge_mission.1.c:0 "Equipment"
+
+ scavenge_mission.2.t:0 "Expeditionary Team Failed"
+ scavenge_mission.2.d:0 "The expeditionary team have returned, albeit, with their tails between their legs. They were unsuccessful in exploring and reclaiming what we had hoped them to achieve."
+ scavenge_mission.2.a:0 "Ok"
+
+###EQUIPMENT###
+
+  unlocked_saiga:0 "Unlocked Weapon Schematics - §YSaiga§!"
+ unlocked_saiga_tt:0 "Unlocks Research §YSaiga-12 Automatic Shotgun Equipment§!\n\nWe have discovered schematic which will help us replicate and produce said equipment"
+  unlocked_abzats:0 "Unlocked Weapon Schematics - §YAbzats§!"
+ unlocked_abzats_tt:0 "Unlocks Research §YHeavy Automatic Shotgun§!\n\nWe have discovered schematic which will help us replicate and produce said equipment"
+  unlocked_rpk:0 "Unlocked Weapon Schematics - §YRPK§!"
+ unlocked_rpk_tt:0 "Unlocks Research §YKalashnikov RPK-74§!\n\nWe have discovered schematic which will help us replicate and produce said equipment"
+  unlocked_hellbreath:0 "Unlocked Weapon Schematics - §YHellbreath§!"
+ unlocked_hellbreath_tt:0 "Unlocks Research §YHellbreath Volt Gun§!\n\nWe have discovered schematic which will help us replicate and produce said equipment"
+
+  scav_reward_eq_spec_ops_spetsnaz:0 "Unlocks Equipment Schematics - §YSpetsnaz Gear§!"
+  scav_reward_eq_spec_ops_riot:0 "Unlocks Equipment Schematics - §YOMON Riot Gear§!"
+  scav_reward_eq_spec_ops_spartan:0 "Unlocks Equipment Schematics - §YSpartan Gear§!"
+  scav_reward_eq_spec_ops_heavy:0 "Unlocks Equipment Schematics - §YHeavy Spec Ops Equipment§!"

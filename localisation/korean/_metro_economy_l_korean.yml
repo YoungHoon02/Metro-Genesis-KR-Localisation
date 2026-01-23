@@ -1,0 +1,47 @@
+﻿l_korean:
+ bullet_TOOLTIP: "§H포탄§!"
+ bullet_TOOLTIP_DELAYED: "월간 수익 : [?total_balance_temp|+]\n§H수입§!\n생산량 : [?total_income_temp|G]\n 세금 : §Y[?income_from_our_taxes]§!\n 소비재 : §Y[?income_from_our_consumer_물품_factories]§!\n 공장 관세 : §Y[?income_from_our_free_civilian_factories]§!\n 수출 : §Y[?income_from_exports_temp]§!\n 기타 : §Y[?income_from_other_sources]§!\n§Y지출§!\n소비량 : [?total_expenses_temp|R]\n 군인 급여 : §Y[?expenses_from_our_army_spending]§!\n 총기 제작자 급여 : §Y[?expenses_from_our_used_mil_factories]§!\n 수입 : §Y[?expenses_from_imports_temp]§!\n 기타 : §Y[?expenses_from_other_sources]§!\n\n£bullet_icon §YMilitary-Grade Rounds§!는 모스크바 지하철의 대다수 주민들이 받아들여지는 통화입니다. §Y역세권§!, §Y관세§! 및 §Y공장 자본금§!으로부터 생산됩니다. §Y결정§!을 통해, §Y고문관§!에게 돈을 지불하거나 직접 전투 중인 군사 조직에 제공할 수 있습니다."
+
+ GAIN_bullet_TT: "득점 [?bullet_to_gain|+=] £bullet_icon  §YMilitary-Grade Rounds§!.\n"
+ LOSE_bullet_TT: "실격 [?bullet_to_gain|+=] £bullet_icon  §YMilitary-Grade Rounds§!.\n"
+ bullet_income_from_ideas: "£bullet_icon  §YMilitary-Grade Rounds§! 수입"
+ bullet_expense_from_ideas: "£bullet_icon  §YMilitary-Grade Rounds§! 지출"
+
+ bullet_income_factor: "£bullet_income 발사 소득 요인"
+ consumer_goods_income_factor: "£bullet_income 소비재 소득"
+ free_factories_income_factor: "£bullet_income 공장소득"
+ tax_efficiency_modifier: "£bullet_income 세율 효율성"
+ tax_efficiency_modifier_tt: "$세율 효율성$: $RIGHT|+=%1$"
+ bullet_income_factor_from_exports: "£bullet_income 수출 소득 요인"
+
+ bullet_expenses_factor: "£bullet_income 총 지출 요인"
+ army_spending_cost_factor: "£bullet_income 군사 지출 비용 요인"
+ military_spending_cost_factor: "£bullet_income 무기 제작 비용 요인"
+ bullet_expense_factor_from_imports: "£bullet_income 수입에서 발생하는 지출 요인"
+
+ bullet_decisions_cost_text: "[?temp_bullet_cost|Y.0] £bullet_icon"
+ bullet_decisions_cost_text_blocked: "[?temp_bullet_cost|R.0] £bullet_icon"
+
+ HAS_BALANCE_IN_NEGATIVE: "£bullet_icon §YMilitary-Grade Rounds§! Negative 잔액이 있습니다."
+ HAS_BALANCE_IN_POSITIVE: "£bullet_icon §YMilitary-Grade Rounds§! 양의 잔액이 있습니다."
+
+ we_is_bankrupt: "파산"
+ bankruptcy_time: "파산 조기 경보"
+ bankruptcy_liquidate_assets: "자산 처분"
+ bankruptcy_sell_workshops: "창고 판매"
+ bankruptcy_appropriate_workshops: "창고 적재"
+
+ bankruptcy: "파산"
+
+ bullet_event.1.t: "부도상태"
+ bullet_event.1.d: "역부족한 보고가 행정부의 무책임한 재정 관리에 대한 주변 행정부로 돌려지고 있다. 정부의 방임적인 금융 관리가 경제 위기를 예고하고 있다. 우리의 수입이 매일매일 리더십 활동을 위해 적절히 지불할 수 없게 되면서, 우리의 아파라치크 내에서 우려가 폭발하고 있다. 현재 상황은 우리가 현재 소득으로는 모든 비용을 충분히 갚지 못한다는 것을 의미한다. 따라서 우리는 우리의 재정 의무를 이행하지 못하게 될 것이며, 결과적으로 우리 직원들은 자신의 불만을 오래 참지 못할 것이다."
+ bullet_event.1.a: "이 문제를 해결해야 한다"
+ bullet_event.1.a.tt: "우리의 경제가 통제할 수 없는 상태에 있다. 우리는 지출을 줄여야 하거나 안정적인 현금흐름을 생성하는 새로운 방법을 찾아야 하거나 자산을 매각하여 이 문제를 해결해야 한다. 그렇지 않으면 이 문제를 미루면 더욱 큰 벌칙을 받게 될 것이다."
+
+ bullet_event.2.t: "이벤트 £bullet_icon"
+ bullet_event.2.d: ""
+ bullet_event.2.a: ""
+
+ bullet_sum_amount: "비용 ( £bullet_icon ): [advisor_bullet_cost]"
+ bullet_cost_green: "§Y200§!"
+ bullet_cost_red: "§R200§!"

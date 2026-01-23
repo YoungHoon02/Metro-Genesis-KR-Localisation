@@ -1,0 +1,55 @@
+﻿l_korean:
+
+ TRT_flooding_issue:0 "홍수와의 전쟁"
+ ### Yes, I know it looks strange with the spacing. Trust me, it looks far better in-game.
+ TRT_flooding_issue_desc:0 "§R강도단§! 문제 따위는 §Y[TRT.Capital.Getname]§!을 괴롭히는 문제들에 비하면 아무것도 아닙니다. §Y[ROOT.ADJ.Getname]§!이라는 이름은 그냥 하늘에서 떨어진 것이 아니라, 우리의 거리들이 항상 물에 잠겨 있다는 사실에서 유래했습니다. 겨울철 지상에 쌓였던 눈과 얼음이 이른 봄에 녹으면서, 그 물은 자연스럽게 아래쪽 터널로 쏟아져 들어옵니다. §Y'제기랄, 당연한 소릴..'§! 이라는 말이 들리는 것 같군요. 하지만 유입된 물이 빠져나갈 곳이 없다 보니 지하철 터널은 물로 가득 차게 되고, 매 시즌이 지날수록 침수 위험은 더욱 커지고 있습니다.\n\n우리는 §Y광범위한 조치§!를 취하고 추가적인 §O홍수§!에 대비할 수 있지만, 물의 본류를 다른 곳으로 돌리거나 터널 §Y인프라§!를 완전히 고치기 전까지는 결국 계절의 자비에 맡겨야 할 것입니다.\n\n  예상 심각도: [?Root.TRT_preparedness_requirement|H0]                                                           현재 준비 상태:  [?TRT_preparedness|H0]\n\n그걸로도 부족하다는 듯, 우리는 §Y돌연변이 쉬림프§!와도 싸워야 합니다. 놈들은 지하 하천 시스템에 바글거리며 우리의 무역 네트워크에 큰 혼란을 야기하고 있습니다. 놈들의 숫자가 불어나면, 분명히 §Y[311.GetName]§!까지 밀려들 것입니다.\n\n   쉬림프 침식도: [?TRT_flooding_shrimp_problems|0R%%]\n" 
+
+ TRT_countdown_to_flood_timer: "홍수 카운트다운"
+ TRT_preparedness_text: "준비도  §C[?TRT_preparedness|H0]§!"
+ TRT_preparedness_text_blocked: "준비도  §R[?TRT_preparedness|0R]§!"
+
+ TRT_num_of_free_civilian_factories:0 "£civ_factory  [?TRT_preparation_cost_factories|H0]"
+ TRT_num_of_free_civilian_factories_blocked:0 "£civ_factory  [?TRT_preparation_cost_factories|0R]"
+
+ ### Space to make sure the GFX aligns correctly in decisions window!
+ TRT_num_free_manpower:0 "£manpower_texticon      §Y5§!"
+ TRT_num_free_manpower_blocked:0 "£manpower_texticon      §R5§!"
+
+ TRT_num_explosive_equipment:0 "£infantry_equipment_text_icon §Y5§!"
+ TRT_num_explosive_equipment_blocked:0 "£infantry_equipment_text_icon §R5§!"
+
+ TRT_not_already_met_requirements:0 "심각도 요구치 미달: ([?Root.TRT_preparedness_requirement|H0])"
+
+ TRT_increase_flooding_protection_cost:0 "\n§g이§! §Y결정§! §g을 사용할 때마다 비용이 증가합니다!§!"
+ TRT_increase_flooding_protection_duration:0 "\n§g이§! §Y결정§! §g을 사용할 때마다 지속 시간이 증가합니다!§!\n"
+ TRT_increase_preparation_level:0 "\n§g준비량이§! §R10§! §g만큼 증가합니다.§!\n"
+
+ TRT_countdown_to_flood_timer_event:0 "홍수 카운트다운"
+
+ TRT_prepare_for_flooding_use_factories:0 "차수벽 설치"
+ TRT_prepare_for_flooding_use_political_power:0 "침수 구역 대피"
+ TRT_prepare_for_flooding_use_explosives:0 "폭발물로 물길 유도"
+ TRT_prepare_for_flooding_use_manpower:0 "수로 잔해 준설"
+
+ ## Shrimp Issues ##
+
+ TRT_clearing_shrimp_nests:0 "쉬림프 둥지 정화"
+ TRT_reduce_shrimp_nests_severity:0 "\n§R쉬림프 침식도§!의 심각성을 §Y10%§! 줄입니다."
+
+ TRT_clearing_shrimp_nests_guns: "카누 출격"
+ TRT_clearing_shrimp_nests_guns_desc: "다른 모든 방법이 실패한다면, 믿음직한 산탄총으로 쉬림프들을 쓸어버릴 수 있습니다."
+
+ ## BOP effects ##
+
+ TRT_establish_bordello:0 "매춘굴 설립"
+ TRT_pay_a_toll:0 "통행료 지불"
+ TRT_construct_distillery:0 "양조장 건설"
+ TRT_public_work_sites:0 "공공 사업 현장"
+
+ ## Borderwar ##
+
+TRT_testing_the_red_line:0 "붉은 라인 시험"
+TRT_testing_the_soviets:0 "국경 분쟁 도발"
+
+TRT_testing_the_hanza: "한자 동맹 시험"
+TRT_testing_the_hanza_borderwar: "국경 분쟁 도발"

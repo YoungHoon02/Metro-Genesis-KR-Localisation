@@ -1,0 +1,302 @@
+﻿l_korean:
+ GWC_followers_of_the_worm:0 "지렁이의 추종자들"
+ GWC_followers_of_the_worm_desc:0 "우리는 지렁이님의 자녀입니다. 우리는 그분의 음성을 듣고 그 뜻을 따르는 자들입니다."
+
+ GWC_worm_military_1:0 "전사의 부름"
+ GWC_worm_military_1_desc:0 "우리 무리 중에서 «전사»를 꺾을 수 있는 이는 거의 없습니다. 그의 출신은 베일에 싸여 있지만, 일부는 거대한 지렁이께서 직접 그를 우리에게 보내주셨다고 믿습니다. 오직 «사제»와 «전사» 본인만이 진실을 알지만, 그들은 이에 대해 침묵합니다. 불신자든 성도든, 그의 광포한 분노 앞에서 살아남은 자는 아무도 없습니다."
+
+ GWC_worm_military_2:0 "환각 버섯"
+ GWC_worm_military_2_desc:0 "터널 구석구석에서 자라나는 이 버섯들은 기묘한 성질을 지니고 있습니다. 메마르고 썩어가는 것처럼 보이지만, 그 안에는 신비롭고 초자연적인 힘이 깃들어 있습니다. 이 버섯을 먹은 이들은 기이한 환상을 보거나 인간의 귀로는 들을 수 없는 음성을 듣게 됩니다. 이것이 과연 지렁이님과 직접 연결되는 가느다란 통로일까요? «사제»는 회의적이지만, 우리의 «전사»는 전투에 임하기 전 반드시 이 버섯을 섭취합니다. 그는 환상을 통해 다가올 전투의 결과를 예견할 수 있다고 믿기 때문입니다."
+
+ GWC_worm_military_3:0 "전쟁 준비"
+ GWC_worm_military_3_desc:0 "이교도들의 눈을 피해 어둠 속에 몸을 숨긴 채, 우리는 지난날의 상처를 치유하고 거대한 지렁이님의 뜻에 따라 힘을 길러왔습니다. 비록 세상은 전쟁이 무의미하다고 떠들지만, 우리의 성물을 수호하기 위한 투쟁은 결코 헛되지 않습니다. 우리를 그저 피에 굶주린 야만인으로 치부하며 말살하려는 자들은, 정작 자신들이 오래전 잊힌 우상들의 이름 아래 서로를 죽이고 물질적 부를 탐하는 가련한 존재라는 사실을 깨닫지 못하고 있습니다."
+
+ GWC_worm_military_4:0 "거대한 체격"
+ GWC_worm_military_4_desc:0 ""
+
+ GWC_worm_military_5:0 "악의에 찬 마음"
+ GWC_worm_military_5_desc:0 ""
+
+ GWC_purchase_buffs_for_XP:0 "육군 경험치 £army_experience §G육군 경험치§!"
+
+ GWC_worm_military_5a:0 "본보기를 따르라"
+ GWC_worm_military_5a_desc:0 ""
+
+ GWC_worm_military_6:0 "원초적 분노"
+ GWC_worm_military_6_desc:0 "교단의 모든 숭배자들의 가슴 속에는 지렁이님의 말씀이 깊이 새겨져 있습니다. 불신자들에 대한 증오, 그리고 부패한 메트로의 질서를 파괴하려는 들끓는 열망이 곧 우리의 힘입니다."
+
+ GWC_worm_military_7:0 "전쟁의 문화"
+ GWC_worm_military_7_desc:0 "인간은 언제나 자신이 죽인 자들의 시체 위에 문명을 건설해 왔습니다. 그 어떤 생명체도 인간만큼 잔혹하고 효율적으로 전쟁을 수행하지 못합니다. 제3차 세계 대전은 그 정점이었습니다. 인류의 영토는 영원한 화염과 고통의 구렁텅이로 변했습니다. 하지만 우리는 더 이상 인간도, 짐승도 아닙니다. 우리는 그 이상의 존재로 거듭났습니다."
+
+ GWC_worm_military_8:0 "제3차 세계 대전의 유산"
+ GWC_worm_military_8_desc:0 "총과 로켓의 시대는 끝났습니다. 다가올 전쟁은 이빨과 발톱, 그리고 가시 돋친 몽둥이로 치러질 것입니다."
+
+ GWC_worm_military_9:0 "시련의 전쟁"
+ GWC_worm_military_9_desc:0 "고난은 개인을 강하게 만듭니다. 우리는 고통을 통해 새로운 시야를 얻게 되며, 그 통찰력으로 위대한 지렁이님을 더욱 온전히 섬길 수 있는 존재로 진화할 것입니다."
+ GWC_exchange_XP_for_bonuses:0 "육군 경험치 £army_experience §Y경험치§!를 소모하여 군대 §t강화§! 활성화."
+
+ GWC_worm_military_10:0 "살육의 기술"
+ GWC_worm_military_10_desc:0 "이교도들의 기술은 나약하기 짝이 없습니다. 우리의 도구는 투박하고 역병이 깃들어 있지만, 그 무엇보다도 치명적입니다. 그들의 총잡이들은 우리의 날카로운 칼날과 사나운 기세를 당해내지 못할 것입니다."
+
+ GWC_worm_military_armaments_1:0 "무기 가공"
+ GWC_worm_military_armaments_1_desc:0 "기술의 발전이 반드시 전쟁과 파괴로 이어진다는 편견을 버려야 합니다. «사제»는 생존을 위해 필요한 최소한의 무기와 도구 생산을 허락했습니다. 공기총과 가시 돋친 몽둥이가 그 시작이 될 것입니다."
+
+ GWC_worm_military_armaments_2:0 "무기 대량 생산"
+ GWC_worm_military_armaments_2_desc:0 "기본적인 도구와 피스톤총들이 «사제»의 엄격한 감독하에 제작되고 있습니다. 우리의 전사들이 전장에서 이교도들을 마주했을 때 부족함이 없도록 준비해야 합니다."
+
+ GWC_worm_military_armaments_3:0 "가시 몽둥이 강화"
+ GWC_worm_military_armaments_3_desc:0 "못이 더 많을수록 더 깊고 고통스러운 상처를 남길 수 있습니다."
+
+ GWC_worm_military_armaments_4:0 "보강된 손잡이"
+ GWC_worm_military_armaments_4_desc:0 ""
+
+ GWC_worm_military_armaments_5:0 "신성한 전쟁 공학"
+ GWC_worm_military_armaments_5_desc:0 ""
+
+ GWC_worm_military_generals_1:0 "지렁이의 교훈"
+ GWC_worm_military_generals_1_desc:0 ""
+
+ GWC_worm_military_generals_2:0 "지렁이의 투사들" 
+ GWC_worm_military_generals_2_desc:0 ""
+
+ GWC_worm_military_generals_3:0 "지렁이의 시련"
+ GWC_worm_military_generals_3_desc:0 ""
+ GWC_worm_military_generals_3_tt:0 "지휘력 증가"
+ 
+ GWC_focus_1:0 "약탈의 북소리"
+ GWC_focus_1_desc:0 "대중은 아직 자신들의 죄를 깨닫지 못했습니다. 오직 지렁이님의 말씀을 통해서만 구원받을 수 있습니다. 과거의 망령에 사로잡힌 자들은 기술이라는 허상을 붙잡고 옛 세상을 그리워하고 있습니다. 우리는 그들을, 그리고 우리 자신을 그 무지의 사슬로부터 해방시켜야 합니다."
+ GWC_call_to_war:0 "\n§Y연료 비축분§! 소모 결정 - §Y전략적 자원§!을 영구적으로 파괴하는 대신 §R전쟁 지지도§! 획득.\n"
+
+ GWC_supremacy_of_force:0 "무력의 절대성"
+ GWC_supremacy_of_force_desc:0 "나약한 불신자들은 기술에 집착하며 그것이 자신들에게 힘을 줄 것이라 믿는 어리석음을 범하고 있습니다. 하지만 우리의 정신력과 육체적 강인함은 그 어떤 기계 덩어리보다도 수천 배 더 강력합니다. 우리의 힘은 확고한 신념과 파괴적인 힘에서 나옵니다. 기술에 의존하는 자들은 머지않아 도태될 것입니다."
+
+ GWC_supremacy_of_wit:0 "지략의 우위"
+ GWC_supremacy_of_wit_desc:0 ""
+
+ GWC_focus_4:0 "식육 저장소"
+ GWC_focus_4_desc:0 "고난의 시기를 대비하여 신선한 고기를 보존할 수 있는 대규모 저장 시설을 확충해야 합니다."
+
+ GWC_focus_4a:0 "풍요로운 터널"
+ GWC_focus_4a_desc:0 "우리가 지배하는 역들의 지하 공간은 곧 지렁이님의 살아 숨 쉬는 심장입니다. 그곳은 침입자들에 대한 경외와 공포의 북소리로 가득 차게 될 것입니다."
+
+ GWC_focus_5:0 "울부짖는 지렁이"
+ GWC_focus_5_desc:0 "위대한 지렁이님께서 불신자들을 메트로에서 몰아내기 위해 당신의 자녀들을 부르십니다. 침묵의 시대는 끝났습니다. 이제 그분의 이름 아래 불신자들의 비명과 참회의 기도가 터널을 가득 메울 것입니다. 파크 포베디의 썩은 벽 너머로 울려 퍼지는 북소리와 처절한 울음소리는 이웃 역들의 간담을 서늘하게 만들 것입니다. 불길은 타오르고 있으며, 심판의 시간이 다가오고 있습니다."
+
+ GWC_focus_6:0 "영역 표시"
+ GWC_focus_6_desc:0 "우리의 터널은 성스럽습니다. 메트로 전체가 언젠가 우리의 성지가 될 것입니다. 잠재적인 침입자들을 저지하기 위해, 우리에게 맞서는 자들의 심장에 필멸의 공포를 각인시켜야 합니다."
+
+ GWC_focus_6a:0 "영토 주장"
+ GWC_focus_6a_desc:0 "이 모든 터널은 우리의 것입니다. 발 닿는 곳마다 펼쳐진 거대한 지하 네트워크는 모두 지렁이님의 자녀들을 위한 터전입니다. «사제»의 말씀에 따라, 우리는 정당하게 우리의 권리를 주장할 것입니다."
+
+ GWC_focus_6b:0 "지렁이에 대한 반역"
+ GWC_focus_6b_desc:0 ""
+
+ GWC_focus_6c:0 "무자비한 살육"
+ GWC_focus_6c_desc:0 ""
+
+ GWC_focus_6d:0 "모든 기대를 저버리다"
+ GWC_focus_6d_desc:0 "소위 '민간인'이라 자칭하는 자들이 기술을 통해 '문명'을 재건하고 지구를 되찾겠다고 떠벌리는군요. 그 오만한 자부심이 그들을 파멸로 이끌 것입니다."
+
+ GWC_focus_7:0 "도구 생산 가속화"
+ GWC_focus_7_desc:0 "새로운 전사들을 위해 더 많은 도끼와 공기총들을 생산해야 합니다. 지렁이님의 아이들을 빈손으로 사지로 내몰 수는 없습니다."
+
+ GWC_focus_7a:0 "가죽 가공 및 보관"
+ GWC_focus_7a_desc:0 ""
+
+ GWC_focus_8:0 "힘이 곧 정의다"
+ GWC_focus_8_desc:0 "전쟁과 갈등이 없는 완벽한 세상을 꿈꿀 수도 있겠지만, 우리가 사는 메트로는 결코 완벽하지 않습니다. 이곳에 자비란 없으며, 오직 강한 자가 약한 자를 지배한다는 냉혹한 법칙만이 존재할 뿐입니다."
+
+ GWC_focus_8a:0 "전투 훈련장"
+ GWC_focus_8a_desc:0 "지상을 통해 터널로 끊임없이 들이닥치는 괴물들... 그들은 우리 전사들이 실전 감각을 익히고 강해지기에 더할 나위 없이 훌륭한 사냥감입니다."
+
+ GWC_focus_8b:0 "광기 어린 폭력성"
+ GWC_focus_8b_desc:0 "전투의 희열, 그리고 들끓는 분노가 우리 전사들의 혈관을 타고 흐릅니다. 사냥의 고양감 끝에, 사로잡은 희생자들과 불신자들은 지렁이님의 제단에 바쳐질 것입니다."
+
+ GWC_focus_8c:0 "무리 소집"
+ GWC_focus_8c_desc:0 "더 많은 육신이 필요합니다. 그들은 이미 죽은 것이나 다름없는 운명이지만, 지렁이님을 위해 기꺼이 소모될 것입니다."
+
+ GWC_focus_8d:0 "총동원령"
+ GWC_focus_8d_desc:0 "모든 신도는 지렁이님의 부름에 귀를 기울여야 합니다. 사방에서 적들이 우리를 압박하며 우리의 성스러운 삶의 방식을 위협하고 있습니다. 우리는 내면의 지충적 의지를 하나로 모아, 신성한 모든 것을 수호해야 합니다."
+
+ GWC_focus_9:0 "북부 노선 침투"
+ GWC_focus_9_desc:0 "스트로기노는 메트로 안에서 자신들만의 요새를 구축했습니다. 크릴라츠키로 인해 단절된 길고 황량한 터널 뒤에서 그들은 안일한 삶을 영위해 왔습니다. 그들은 도서관과 무기 창고를 갖추고, 보로닌이라는 자를 수장으로 세웠습니다. 하지만 그림자 속에서 그들을 감시하는 우리 형제들의 보고에 따라, 그들은 이제 형언할 수 없는 공포에 휩싸여 있습니다. 옛 세상의 지식은 이제 무용지물입니다."
+
+ GWC_enable_northern_infiltration:0 "북부 터널 침투 결정 활성화."
+
+ GWC_focus_10:0 "동부 노선 침투"
+ GWC_focus_10_desc:0 "메트로의 머나먼 외곽에 유럽 공화국이 자리 잡고 있습니다. 전란의풍파를 겪어보지 못한 오만한 자들은 메트로 전체를 자신들의 것이라 주장합니다. 하지만 조만간 그들은 자신들의 비참한 운명을 마주하게 될 것입니다."
+
+ GWC_enable_eastern_infiltration:0 "동부 터널 침투 결정 활성화."
+
+ GWC_focus_11:0 "아이들 납치"
+ GWC_focus_11_desc:0 ""
+ GWC_kidnapping:0 "불신자들의 인구§YPopulation§!를 찬탈할 수 있습니다!"
+
+ GWC_focus_11a:0 "자원 약탈"
+ GWC_focus_11a_desc:0 ""
+ GWC_resource_stealing:0 "불신자들의 전략적 자원을 강탈할 수 있습니다!"
+
+ GWC_focus_12:0 "지렁이의 전령"
+ GWC_focus_12_desc:0 ""
+
+ GWC_focus_north_1:0 "북부 분쟁 야기"
+ GWC_focus_north_1_desc:0 "크릴라츠키 역은 불신자들의 통제 아래 있습니다. 그곳의 역장은 군인이라기보다는 관리인에 가깝습니다. 어둠에 대한 원초적인 공포가 역을 지배하고 있으며, 남쪽에서 목격되는 기괴한 변종들에 대한 소문은 주민들을 떨게 만듭니다. 하지만 이제 그들은 그보다 훨씬 거대한 공포를 마주하게 될 것입니다."
+ GWC_enable_northern_conflict:0 "북부 분쟁 활성화: §Y[KRY.GetFlag][KRY.GetName]§!, §Y[HMS.GetFlag][HMS.GetName]§! §Y[STG.GetFlag][STG.GetName]§!, §Y[MIT.GetFlag][MIT.GetName]§! 침공 가능."
+ GWC_focus_north_3:0 "위대한 지렁이를 위하여"
+ GWC_focus_north_3_desc:0 "[377.GetName] 외곽의 적들을 찢고 발기며 파괴하십시오. 그들의 가소로운 저항을 분쇄하고 진정한 해방을 선사하십시오!"
+ GWC_focus_north_3_tt:0 "화공 기술을 통해 육군 경험치 획득."
+ GWC_focus_north_2:0 "[377.GetName] 외곽의 변종들"
+ GWC_focus_north_2_desc:0 "몰로데지나야의 인간들은 차라리 방사능에 죽는 편이 나았을지도 모르는 불운한 자들입니다. 방사능에 오염되어 변해버린 그들은 메트로의 다른 이들과 격리된 채 은둔하며, 그 누구의 침입도 거부하고 있습니다."
+ GWC_focus_north_2a:0 "스트로기노와의 전쟁"
+ GWC_focus_north_2a_desc:0 ""
+ GWC_focus_north_3a:0 "377 구역 혼란 조장"
+ GWC_focus_north_3a_desc:0 "[377.GetName]의 사람들은 아직도 '인간다움'이라는 낡은 가치에 집착하고 있습니다. 멸망한 시대의 시와 수필을 읽다니, 정말 가소로운 일이 아닐 수 없습니다. 그들이 지렁이님의 훌륭한 종복이 될 수도 있었을 텐데 말입니다."
+ GWC_focus_north_5:0 "[MIT.GetNameDef] 침투"
+ GWC_focus_north_5_desc:0 "메트로 끝자락의 이 공화국은 지루할 정도로 평화로운 삶을 이어왔습니다. 변종들의 공격조차 드문 이곳에, 우리는 어둠을 두려워해야 할 명확한 이유를 심어줄 것입니다."
+ GWC_focus_north_4:0 "무자비한 타격"
+ GWC_focus_north_4_desc:0 ""
+
+ GWC_focus_east_1:0 "동부 정벌"
+ GWC_focus_east_1_desc:0 "아르바트 연합이 파괴된 터널 너머에서 우리를 마주하고 있습니다. 그들은 옛 세상의 오염된 지식과 불경한 기술로 무장한 채 지상을 넘나들며 생존을 도모하고 있습니다."
+ GWC_enable_eastern_conflict:0 "동부 분쟁 활성화: §Y[ARB.GetFlag][ARB.GetName]§!, §Y[EUR.GetFlag][EUR.GetName]§! 침공 가능."
+ GWC_focus_east_3:0 "정화 준비"
+ GWC_focus_east_3_desc: ""
+ GWC_focus_east_2:0 "전쟁 선포"
+ GWC_focus_east_2_desc: ""
+ GWC_focus_east_3a:0 "[ARB.GetName] 진공"
+ GWC_focus_east_3a_desc: ""
+ GWC_focus_east_2a:0 "유럽 공화국 학살"
+ GWC_focus_east_2a_desc: ""
+ GWC_focus_east_4:0 "잠든 동부"
+ GWC_focus_east_4_desc: ""
+ GWC_focus_east_5:0 "최후의 보루 타격"
+ GWC_focus_east_5_desc: ""
+
+ GWC_focus_133:0 "충성스러운 신도들의 보상"
+ GWC_focus_133_desc: ""
+
+ GWC_focus_14aa:0 "지하 터널망 지도"
+ GWC_focus_14aa_desc:  "지렁이님의 비밀스러운 경로가 우리 발아래에 숨겨져 있습니다. 복잡하게 얽힌 터널과 틈새를 활용하여 병력을 은밀히 이동시키고 새로운 사냥감을 찾아낼 것입니다."
+
+ GWC_focus_15_ARB:0 "[ARB.GetNameDef]에 대한 복수"
+ GWC_focus_15_ARB_desc:0 "아르바트 연합과의 결탁"
+
+ GWC_heart_of_darkness:0 "어둠의 심장"
+ GWC_heart_of_darkness_desc:0 "파크 포베디는 이제 전쟁 이전의 모습은 찾아볼 수 없습니다. 불길과 제물로 가득 찬 이곳은 소위 '문명'이라 불리는 것들과는 완전히 동떨어진 외계적이고 이단적인 공간으로 변모했습니다. 인간의 잔재 위에 지렁이 신앙의 재림이 시작되었습니다. 인류의 종말과 새로운 시대의 탄생입니다."
+
+ GWC_rid_the_machines:0 "기계 파괴"
+ GWC_rid_the_machines_desc:0 "메트로의 기계와 기술은 지렁이님의 섭리에 반하는 것이며, 반드시 파괴하고 폐기해야 합니다. 기계의 파편들은 쓸모없게 버려지거나 다른 용도로 분해될 것입니다. 사제는 신도들에게 기술이 곧 적임을 명확히 각인시켰습니다."
+ GWC_rid_machines_improve_decision:0 "§Y기술 파괴 효과§!가 §G강화됩니다!§!"
+
+ GWC_sharper_sticks:0 "날카로운 말뚝"
+ GWC_sharper_sticks_desc:0 "우리의 영역을 표시하기 위해 세우는 말뚝들을 더 예리하게 갈아내야 합니다. 침입자들은 이 경고를 보고 감히 발을 들이지 못할 것입니다."
+
+ GWC_scarier_stakes:0 "공포의 경계선"
+ GWC_scarier_stakes_desc:0 "단순히 돌을 쌓아두는 것만으로는 부족합니다. 경계 표식 위에 부패하고 절단된 시체들을 매달아 두십시오. 불신자들은 우리 영토에 발을 들이기 전, 자신들에게 닥칠 운명을 직감하게 될 것입니다."
+
+ GWC_ind_3:0 "원시적 도구 생산"
+ GWC_ind_3_desc:0 "석기 도구를 제작하는 것은 생각보다 정교한 작업입니다. 아무 돌맹이나 주워 적의 머리를 부술 수도 있겠지만, 특정한 성질을 지닌 돌들을 골라 가공한다면 훨씬 치명적인 살상 도구가 될 것입니다."
+
+ GWC_ind_4:0 "도구 제작 산업"
+ GWC_ind_4_desc:0 "크고 단단한 돌을 정교하게 깎아 만든 날카로운 도구들은 적들의 살점을 가르는 데 매우 효과적입니다."
+
+ GWC_ind_5:0 "영역 확장"
+ GWC_ind_5_desc:0 "우리의 영향력이 확대됨에 따라 불신자들과 마주칠 가능성도 커지고 있습니다. 우리 영토에 접근하는 자들에게 경고를 보내야 합니다. 가시 함정, 기괴한 조각상, 가시 돋친 말뚝은 침입자들의 걸음을 멈추게 할 것입니다."
+
+ GWC_toolmaking_smiths:0 "도구 제작 기술의 발전"
+ GWC_toolmaking_smiths_desc:0 "더욱 복잡한 도구들이 생산되기 시작했습니다. 이는 거친 환경 속에서도 우리의 기술 지식이 향상되고 있음을 의미합니다. 장인들은 석기 가공 기법을 끊임없이 개선하며 최적의 살상 도구를 만들어내고 있습니다."
+
+ GWC_cave_fungus:0 "동굴 곰팡이"
+ GWC_cave_fungus_desc:0 "지렁이님께서 당신의 자녀들에게 주신 선물입니다. «사제»가 그렇다 하셨으니, 우리 또한 그렇게 믿고 따릅니다."
+
+ GWC_medicinal_wonders:0 "의학적 신비"
+ GWC_medicinal_wonders_desc:0 "«사제»는 우리에게 불신자들의 살과 뼈를 취하라고 가르치지만, 때로는 터널 플랫폼 구석에서 자라나는 특정한 버섯들을 약제로 사용하는 것을 허락하기도 하셨습니다."
+
+ GWC_ind_6:0 "신석기 가공"
+ GWC_ind_6_desc:0 "콘크리트와 철근은 우리 발아래 널브러진 쓰레기에 불과합니다. 하지만 그 심연에 깃든 돌과 흙은 우리의 손을 거쳐 정교하고 치명적인 도구로 재탄생할 수 있습니다."
+
+ GWC_ind_7:0 "장인의 정교함"
+ GWC_ind_7_desc:0 "단순한 도구와 투박한 손만으로도, 고도의 집중력을 발휘한다면 예술적인 장식과 강력한 위력을 동시에 지닌 걸작을 만들어낼 수 있습니다."
+
+ GWC_ind_9:0 "영토 방위"
+ GWC_ind_9_desc:0 "지렁이님의 사랑과 은총을 거부하는 자들, 그리고 우리만의 삶의 방식에 익숙하지 않은 자들은 모두 침입자에 불과합니다. 그들이 우리의 평화를 위협한다면, 우리 또한 무자비한 폭력으로 그들에게 답할 것입니다."
+
+ GWC_into_the_earth:0 "대지로의 잠식"
+ GWC_into_the_earth_desc:0 "위대한 지렁이님께서 대지에 숨겨두신 풍요로운 보상들을 그분의 자녀인 우리가 거두어들일 시간입니다."
+
+ GWC_worm_provides:0 "지렁이님의 자비"
+ GWC_worm_provides_desc:0 "위대한 지렁이님께서 당신이 사랑하는 자녀들을 위해 내려주신 풍성한 선물에 깊은 감사를 표합니다."
+
+ GWC_worm_punishes:0 "지렁이님의 징벌"
+ GWC_worm_punishes_desc:0 "그분의 말씀을 어기거나, 자녀들에게 내려주신 신성한 선물에 저항하는 자들에게는 엄중한 심판이 내려질 것입니다."
+
+
+ GWC_heart_of_darkness1:0 "성스러운 부적"
+ GWC_heart_of_darkness1_desc:0 "교단의 사제들은 우리가 지니는 장신구와 목걸이에 지렁이님의 축복을 부여합니다. 이 성물들은 우리를 방사능으로부터 보호하고 메트로의 살을 에는 듯한 추위를 견디게 해 줍니다."
+
+ GWC_heart_of_darkness0:0 "군사적 헌신"
+ GWC_heart_of_darkness0_desc:0 "기술에만 의존하는 불신자들을 가혹하게 처벌하기 위해, 우리는 끊임없이 자신을 단련하고 전투에 임해야 합니다."
+
+ GWC_heart_of_darkness2:0 "군사 확장 II"
+ GWC_heart_of_darkness2_desc:0 "군사 생산력을 높이는 것은 고된 작업이지만, 지렁이님의 왕국을 건설하기 위해 반드시 거쳐야 할 과정입니다."
+
+ GWC_mil_1:0 "뼈를 부수는 무기"
+ GWC_mil_1_desc:0 "투박한 돌과 나뭇가지가 불신자들의 뼈와 살을 으스러뜨릴 때, 비로소 그들은 아둔한 자신들의 최후를 깨달게 될 것입니다."
+
+ GWC_mil_2:0 "보강된 손잡이"
+ GWC_mil_2_desc:0 "평범한 나무 손잡이는 때때로 미끄럽고 불안정합니다. 하지만 사살한 적의 가죽으로 감싼 손잡이는 타격의 순간 더욱 안정적인 그립감을 선사합니다."
+
+ GWC_mil_3:0 "뼈 몽둥이"
+ GWC_mil_3_desc:0 "돌 도구는 위력적이지만 무겁고 다루기 어렵습니다. 그에 비해 뼈는 가벼우면서도 쉽게 가공할 수 있어, 신속하고 치명적인 무기를 만드는 데 최적입니다."
+
+ GWC_mil_4:0 "섬뜩한 장식"
+ GWC_mil_4_desc:0 "최정예 전사들의 무기에 부착된 전리품들은 지렁이님의 은총을 상징합니다. 쓰러뜨린 적들에게서 취한 이 전리품들은 우리 도구의 살상력을 한층 더 끌어올려 줄 것입니다."
+
+ GWC_ind_4a:0 "경계의 말뚝"
+ GWC_ind_4a_desc:0 "역은 이제 만반의 준비를 갖추었습니다. 불신자들의 흐릿한 조명만이 터널 저편에서 깜빡거릴 뿐입니다. 이제 그들에게 진정한 어둠의 공포를 선사할 때입니다."
+
+ GWC_ind_7a:0 "심연의 정화"
+ GWC_ind_7a_desc:0 ""
+
+ GWC_heart_of_darkness0a:0 "어둠의 심장, 그 무덤 속으로"
+ GWC_heart_of_darkness0a_desc:0 ""
+
+ GWC_focus_decrees_of_priest:0 "사제의 계율"
+ GWC_focus_decrees_of_priest_desc:0 "위대한 지렁이님께서는 지하 터널이 곧 당신의 자녀들을 위한 낙원이며, 오직 그분의 빛을 따르는 자들만이 구원받을 것이라 가르치십니다. 사제의 말씀이 우리를 찬란한 미래로 인도할 것입니다."
+ GWC_focus_decrees_of_priest_2:0 "지렁이의 자녀들"
+ GWC_focus_decrees_of_priest_2_desc:0 "지금의 고난은 결코 헛되지 않을 것입니다. 우리는 대지의 진정한 주인이며, 최후에 구원받을 고귀한 자들입니다. 사제께서 말씀하시길, 지금의 고통과 갈등은 찬란한 내일로 나아가기 위한 잠시뿐인 시련일 뿐입니다."
+ GWC_focus_decrees_of_priest_3:0 "어둠으로부터의 해방"
+ GWC_focus_decrees_of_priest_3_desc:0 "모든 죄인이 지옥에 떨어지는 것은 아닙니다. 지렁이님의 말씀을 거부하는 불신자들은 처단되겠지만, 그들의 어린 자녀들은 죄가 없습니다. 우리는 그 순수한 영혼들을 거두어, 부모가 저지른 죄악으로부터 해방시키고 진정한 길로 인도할 것입니다."
+ GWC_worm_spec_ops_1:0 "광신적 신도들"
+ GWC_worm_spec_ops_1_desc:0 ""
+ GWC_worm_spec_ops_2:0 "골갑(骨甲)"
+ GWC_worm_spec_ops_2_desc:0 ""
+ GWC_worm_spec_ops_3:0 "지렁이의 암살자들"
+ GWC_worm_spec_ops_3_desc:0 ""
+ GWC_branching_from_park_pobedy:0 "파크 포베디 너머로"
+ GWC_branching_from_park_pobedy_desc:0 ""
+ GWC_branching_from_park_pobedy_2:0 "선택받은 전사들의 발탁"
+ GWC_branching_from_park_pobedy_2_desc:0 "파크 포베디의 경계를 넘어 미지의 터널로 나아가는 용맹한 자들은 우리 공동체의 자랑입니다. 지렁이님께서 창조하신 이 지하 세계를 탐험하고 정복하는 것은 우리에게 부여된 신성한 의무입니다."
+ GWC_focus_colonization_of_slaviansky_bulvar:0 "슬라비안스키 불바르 개척"
+ GWC_focus_colonization_of_slaviansky_bulvar_desc:0 ""
+ GWC_focus_colonization_of_slaviansky_bulvar_2:0 "무자비한 동화"
+ GWC_focus_colonization_of_slaviansky_bulvar_2_desc:0 ""
+ GWC_focus_colonization_of_slaviansky_bulvar_3:0 "지렁이의 영토 확장"
+ GWC_focus_colonization_of_slaviansky_bulvar_3_desc:0 ""
+ GWC_focus_colonization_of_slaviansky_bulvar_4:0 "곰팡이 재배"
+ GWC_focus_colonization_of_slaviansky_bulvar_4_desc:0 "슬라비안스키 불바르의 선로와 승강장에서 자라나는 특수한 곰팡이들을 활용하여 우리에게 이로운 약제로 가공할 수 있습니다."
+ GWC_focus_colonization_of_slaviansky_bulvar_5:0 "혈관 가공업자"
+ GWC_focus_colonization_of_slaviansky_bulvar_5_desc:0 ""
+ GWC_focus_colonization_of_slaviansky_bulvar_6:0 "정교한 장인정신"
+ GWC_focus_colonization_of_slaviansky_bulvar_6_desc:0 ""
+ GWC_focus_colonization_of_slaviansky_bulvar_7:0 "독화살"
+ GWC_focus_colonization_of_slaviansky_bulvar_7_desc:0 ""
+ GWC_focus_espionage_1:0 "은밀한 침투 작전"
+ GWC_focus_espionage_2:0 "불신자 감시"
+
+
+
+
+
+
+

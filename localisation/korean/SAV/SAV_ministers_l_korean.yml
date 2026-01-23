@@ -1,0 +1,37 @@
+﻿l_korean:
+ SAV_vasyurkov:0 "바수르코프"
+ SAV_VASYURKOV_DESC:0 ""
+ _SAV_vasyurkov: "동맹의 바실레우스"
+ _SAV_vasyurkov_2: "확고한 총리"
+
+ SAV_sergey_mikhailovich_reznitsyn:0 "세르게이 미하일로비치 레진차인"
+ SAV_sergey_mikhailovich_reznitsyn_DESC:0 ""
+ SAV_sergey_mikhailovich_reznitsyn_trait: "퇴역 지휘관"
+ SAV_sergey_mikhailovich_reznitsyn_leader_trait: "역 대령"
+
+ SAV_ruslan:0 "루슬란 트루빈"
+ SAV_RUSLAN_DESC:0 ""
+
+ SAV_andriy:0 "안드레이 리사코비치"
+ SAV_ANDRIY_DESC:0 ""
+
+ SAV_makharadze: "세르게이 막하라제"
+ SAV_makharadze_trait: "디미트로프스카야의 파수꾼"
+ SAV_makharadze_leader_trait: "디미트로프스카야의 파수꾼"
+ SAV_makharadze_DESC: "역에 사람이 살던 시절, 티미랴제프스카야의 마지막 생존자 중 한 명이었을지도 모르는 막하라제는 몰려오는 쥐 떼에 집어삼켜질 뻔한 운명을 간신히 피했습니다. 그는 출발하던 전동 트롤리에 몸을 실어 탈출에 성공했습니다. 그날 이후 그는 마치 명령을 기다리는 개처럼 티미랴제프스카야로 향하는 터널을 충성스럽게 지키며, 자신이 가진 보잘것없는 것들을 사수해 왔습니다. 하지만 다른 생존자들이 과거를 뒤로하고 새로 시작하려 할 때조차, 그의 가슴 속에는 매일같이 곪아가는 죄책감이 도사리고 있습니다. 한 명이라도 더 구할 수 있었을지도 모른다는 생각, 만약 자신이 더 빨랐거나 몰려오는 쥐 떼를 먼저 알렸더라면 더 많은 이들이 살아있었을지도 모른다는 그 생각이 말입니다."
+ SAV_ishchuk: "안톤 이슈추크"
+ SAV_ishchuk_trait: "교활한 외교관"
+ SAV_ishchuk_leader_trait: "개자식 중의 개자식"
+ SAV_ishchuk_DESC: "소련이 붕괴하고 러시아가 자본주의라는 문화 충격에 적응하려 애쓰던 시절, 이슈추크는 누구보다 빠르게 그 환경에 적응했습니다. 그는 주식 매매와 신흥 올리가르히들과의 부정한 거래를 통해 막대한 부를 쌓았습니다. 멸망 이후에도 이슈추크는 바퀴벌레처럼 살아남아 자신의 화법과 전술을 비참하고 절망적인 계급의 입맛에 맞게 조정했습니다. 이제 말이 더 이상 힘을 발휘하지 못하게 되자, 이슈추크는 훨씬 강압적인 방식을 취하기 시작했습니다."
+ SAV_bari_abramov: "바리 아브라모프"
+ SAV_bari_abramov_trait: "유흥업소 관리자"
+ SAV_abramov_DESC: "§9잘 쉬어야 일도 잘하는 법이지, 안 그래?§!\n\n현재 츠베트노이 불바르의 역장이자 역에서 거래되는 «이국적인 상품»들을 조달하는 일을 겸하고 있습니다. 그의 행보는 매우 의심스럽고 그를 둘러싼 자들은 더욱 수상쩍지만, 아브라모프는 그 조잡한 평판에도 불구하고 츠베트노이 불바르를 꽤 번창하게 만들었습니다."
+
+ SAV_community_party:0 "바수르코프 지지자들"
+ SAV_community_party_long:0 "민병대 공화국"
+ SAV_council_party:0 "막하라제 추종자들"
+ SAV_council_party_long:0 "역 연방"
+ SAV_oligarch_party:0 "이슈추크 파벌"
+ SAV_oligarch_party_long:0 "마피아 통치체"
+ SAV_dictatorial_party:0 "시체 신의 신도들"
+ SAV_dictatorial_party_long:0 "시체 신 숭배 교단"

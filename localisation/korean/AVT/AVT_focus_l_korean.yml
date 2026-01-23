@@ -1,0 +1,467 @@
+﻿l_korean:
+  AVT_introduction:0 "체 게바라 제1 국제 여단"
+  AVT_introduction_desc:0 "정치위원 루사코프의 지휘 아래, 여단은 지하철 전역을 누비며 체제 전복 활동을 벌이고 전쟁을 제국의 문턱 앞까지 몰아넣고 있습니다."
+  
+  AVT_collectivization:0 "집단화"
+  AVT_collectivization_desc:0 "우리 역을 적절하게 조직하고 관리하기 위해 큰 걸음을 내딛어야 합니다. 우리 사회의 모든 측면이 유기적으로 협력할 수 없다면, 어떻게 기존 권력에 맞서 싸울 수 있겠습니까?"
+
+  AVT_gas_lighting:0 "가스 조명 설비"
+  AVT_gas_lighting_desc:0 "어둠 속에 정확히 무엇이 도사리고 있는지는 알 수 없습니다. 혁명을 더럽히려는 자들일 수도 있고, 그보다 더 사악한 존재일 수도 있죠. 우리는 항상 경계를 늦추지 말아야 합니다. 제대로 된 조명을 설치하면 주둔군 간의 교대 근무 효율이 훨씬 높아질 것입니다."
+
+  AVT_preliminary_defences:0 "기초 방벽"
+  AVT_preliminary_defences_desc:0 "적은 언제 어디서든 공격해올 수 있습니다. 방어 구조물을 미리 준비해두는 것이 현명한 선택일 것입니다."
+
+  AVT_tunnel_clearing:0 "터널 소탕"
+  AVT_tunnel_clearing_desc:0 "우리의 작전 범위가 메트로 전역으로 확장될 것이라 가정하는 것이 안전합니다. 하지만 기습 공격에 무방비로 당해서는 안 됩니다. 우리 주변 지역에 대한 상세한 정보를 파악하여, 적들에게 허점을 보이지 않도록 철저한 계획을 세워야 합니다."
+
+  AVT_infrastructure_3:0 "기반 시설 개발"
+  AVT_infrastructure_3_desc:0 "지하철의 정기 유지보수가 중단된 지 20여 년이 흘렀고, 곳곳에서 균열이 나타나고 있습니다. 현재 추정에 따르면 터널 붕괴는 언제든 일어날 수 있으며, 이는 우리의 작전 수행을 심각하게 위협하고 메트로와의 연결을 완전히 차단할 수도 있습니다. 당장 적절한 차단벽과 지지대를 세워야 합니다."
+
+  AVT_population_build_slots:0 "피난민의 안전로 확보"
+  AVT_population_build_slots_desc:0 "우리는 단순한 혁명군이 아닙니다. 우리는 오늘의 사람들이 내일을 위해 건설하는 사회를 만들고 있습니다. 가난하고 굶주리고 지친 이들이 이곳에서 편히 쉴 수 있다는 것을 알고 찾아올 수 있게 해야 합니다."
+
+  AVT_1:0 "산업 재활성화"
+  AVT_1_desc:0 "파괴된 장비들을 수리하고 폐허에서 쓸만한 부품들을 찾아내어, 우리의 기초적인 공업 생산 능력을 회복합니다."
+
+  AVT_2:0 "군비 재활성화"
+  AVT_2_desc:0 "낡은 무기들을 보수하고 표준화된 무장 체계를 확립하여 여단의 전투력을 끌어올립니다. 투쟁을 위해서는 총이 필요합니다."
+
+  AVT_3:0 "화로 가꾸기"
+  AVT_3_desc:0 "역의 난방 시설과 주거 환경을 개선하여 주민들과 대원들이 혹독한 메트로나 지상의 추위 속에서도 온기를 유지할 수 있도록 합니다."
+
+  AVT_4:0 "전쟁 비축물자 확보"
+  AVT_4_desc:0 "다가올 거대한 투쟁에 대비하여 식량, 탄약, 의약품 등 필수 물자들을 비축하기 시작합니다."
+
+  AVT_industry_2:0 "역 개발 계획"
+  AVT_industry_2_desc:0 "물론 공간을 고려하지 않은 채 마구잡이로 작업장과 숙소를 지을 수는 없습니다. 새로운 기반을 확립하기 위해 제한된 공간을 최대한 활용하는 포괄적인 접근 방식이 필요합니다."
+
+  AVT_industry_3:0 "기술자 교육"
+  AVT_industry_3_desc:0 "지하에서 한 지점에서 다른 지점으로 이동하는 것은 선형적인 일입니다. 궤도차를 이용하면 훨씬 빠르고 쉬울 것입니다. 문제는 우리가 발견한 궤도차와 화물 마차들의 대부분이 녹슨 채 방치되어 있다는 것입니다. 다행히도, 우리는 이들을 수리하는 데 도움을 줄 적임자를 알고 있습니다."
+
+  AVT_using_the_terminal:0 "컴퓨터 해킹"
+  AVT_using_the_terminal_desc:0 "지나가는 상인이 이 낡은 컴퓨터를 아주 저렴하게 팔았습니다. 듣기로는 옛 메트로 중앙 지휘부 장교의 물건이라고 하더군요. 컴퓨터 내부의 정보는 암호화되어 있었고, 상인은 해독을 시도하다가 지쳐버렸습니다. 하지만 우리는 뚫어낼 수 있을지도 모릅니다."
+
+  AVT_scrapping_for_parts:0 "부품 확보를 위한 해체"
+  AVT_scrapping_for_parts_desc:0 "연식에 비하면 놀라울 정도로 상태가 좋습니다. 게다가 그 정보가 굳이 왜 필요하겠습니까? 부품들은 다른 곳에 쓰는 편이 훨씬 유용할 것입니다."
+
+  AVT_industry_5:0 "컴퓨터 활용"
+  AVT_industry_5_desc:0 "이 낡은 컴퓨터들이 할 수 있는 일들은 정말 놀랍습니다. 젊은이들에게는 거의 고대 신비의 유물처럼 숭배받고 있죠. 이를 연구 개발(R&D)에 투입하여 유용하게 활용할 수 있습니다."
+
+  AVT_industry_6:0 "구식 공구 회수"
+  AVT_industry_6_desc:0 "오래되었음에도 불구하고, 옛 도구와 장비들은 놀라운 내구성과 품질을 유지하고 있습니다. '고장 나지 않았다면...'이라는 말도 있듯이 말입니다."
+
+  AVT_community_resource_share:0 "공동체 자원 공유"
+  AVT_community_resource_share_desc:0 "우리 공동체의 모든 부문에서 자원을 공유하면, 가장 필요한 곳에 자원을 적절히 할당하고 우리 경제를 효과적으로 지원할 수 있을 것입니다."
+
+  AVT_equal_duty:0 "평등한 의무"
+  AVT_equal_duty_desc:0 "우리 공동체의 모든 구성원은 지위나 나이, 능력에 상관없이 서로의 공익을 위해 헌신할 것을 부름받았습니다."
+
+  AVT_getting_the_good_stuff:0 "양질의 물자 확보"
+  AVT_getting_the_good_stuff_desc:0 "혁명 동지들에게 더 나은 장비와 보급품을 제공함으로써 전력의 질을 한 단계 높입니다."
+
+  AVT_equal_duty_2:0 "선전 라디오"
+  AVT_equal_duty_2_desc:0 "라디오 방송을 통해 여단의 사상을 전파하고, 억압받는 이들에게 우리가 곧 그들을 해방하러 갈 것임을 알립니다."
+
+  AVT_socialist_science:0 "연구 개발 역량 강화"
+  AVT_socialist_science_desc:0 "사회주의적 집단 지성을 활용하여 우리의 기술 수준을 혁신적으로 발전시킵니다."
+
+  AVT_socialist_science_2:0 "연구실 수색"
+  AVT_socialist_science_2_desc:0 "버려진 연구실들을 샅샅이 뒤져 과거의 소중한 지식과 자료들을 회수합니다."
+
+  AVT_eco_buff:0 "게릴라 경제"
+  AVT_eco_buff_desc:0 "한정된 자원을 유동적으로 운용하여 유격전 상황에서도 안정적인 경제적 지원을 유지합니다."
+
+  AVT_eco_idea:0 "사회주의 경제"
+  AVT_eco_idea_desc:0 "사유 재산을 배격하고 공동 생산과 합리적 배분에 기초한 경제 체제를 확립합니다."
+
+  AVT_eco_idea_1:0 "공동체 지원"
+  AVT_eco_idea_1_desc:0 "공동체 구성원들의 삶을 돌보는 것이 곧 혁명을 지탱하는 힘입니다."
+
+  AVT_eco_idea_2:0 "상부상조하는 공동체"
+  AVT_eco_idea_2_desc:0 "서로 돕고 의지하는 끈끈한 공동체 의식은 그 어떤 침략자도 뚫을 수 없는 방벽이 될 것입니다."
+
+  AVT_industry_tech_buff_1:0 "낡은 숙소 보수"
+  AVT_industry_tech_buff_1_desc:0 "대원들이 편히 쉴 수 있도록 곰팡이 핀 낡은 숙소를 쾌적하게 보수합니다."
+
+  AVT_industry_tech_buff_2:0 "현대인을 위한 현대적 공구"
+  AVT_industry_tech_buff_2_desc:0 "더 효율적인 생산을 위해 최신 지식을 활용한 고성능 공구들을 제작합니다."
+
+  AVT_industry_tech_buff_3:0 "공구 주조"
+  AVT_industry_tech_buff_3_desc:0 "우리의 대장간에서 우리만의 손으로 직접 공구들을 찍어내기 시작합니다."
+
+  AVT_industry_tech_buff_4:0 "애정 어린 결실"
+  AVT_industry_tech_buff_4_desc:0 "우리의 땀과 노력으로 일궈낸 결과물들은 혁명의 가장 큰 결실입니다."
+
+  AVT_industry_tech_buff_5: "앞을 내다보는 이들에게 영광을"
+  AVT_industry_tech_buff_5_desc: "과거에 안주하지 않고 더 나은 미래를 설계하는 동지들의 헌신을 기립니다."
+
+  AVT_eco_idea_buff_1:0 "공동의 결집된 노력"
+  AVT_eco_idea_buff_1_desc:0 "개개인의 힘은 약하지만, 하나로 뭉친 인민의 열정은 거대한 산업의 동력이 됩니다."
+
+  AVT_eco_idea_buff_2:0 "전문화된 작업장"
+  AVT_eco_idea_buff_2_desc:0 "필요한 물자를 더 빠르고 정확하게 생산할 수 있도록 각 분야에 특화된 작업장을 설치합니다."
+
+  AVT_eco_idea_buff_3:0 "더 많은 공간, 더 많은 역"
+  AVT_eco_idea_buff_3_desc:0 "우리의 영향력을 넓히기 위해 더 많은 역을 확보하고 여유 공간을 산업 생산에 투입합니다."
+
+  AVT_eco_idea_buff_4:0 "산업 혁명"
+  AVT_eco_idea_buff_4_desc:0 "단순한 수리를 넘어, 자가 생산이 가능한 본격적인 산업 체계를 구축합니다."
+
+  AVT_world_tension_unlock:0 "지평선의 전쟁"
+  AVT_world_tension_unlock_desc:0 "메트로에 전운이 감돌고 있습니다. 이제 여단은 숨어있던 어둠 속에서 나와 세상을 마주할 준비를 해야 합니다."
+
+  AVT_doctrine_1:0 "전투 예규 분석"
+  AVT_doctrine_1_desc:0 "실전 데이터를 분석하여 여단의 전술과 행동 강령을 최적화합니다."
+
+  AVT_mobilise_army:0 "여단 병력 동원"
+  AVT_mobilise_army_desc:0 "투쟁의 날이 밝았습니다. 모든 대원은 무기를 들고 지정된 초소로 집결할 것을 명령합니다."
+
+  AVT_train_red_line:0 "소콜니체스카야와의 합동 작전"
+  AVT_train_red_line_desc:0 "붉은 라인과의 협력을 통해 전술 정보를 공유하고 통합 체계 아래서 훈련을 실시합니다."
+
+  AVT_REDLINE_support: "\n만약 붉은 라인과의 관계가 악화되거나 안드레이 모스크빈 이외의 인물이 서기장으로 선출될 경우, 아래 효과들은 모두 무효화됩니다.\n"
+
+  AVT_our_own_advisors:0 "우리만의 경로"
+  AVT_our_own_advisors_desc:0 "타 세력의 조언에 의존하지 않고, 우리 스스로의 판단과 신념에 따라 앞길을 결정합니다."
+
+  AVT_our_own_advisors_2:0 "전지형 만능 차량"
+  AVT_our_own_advisors_2_desc:0 "메트로의 복잡한 잔해와 지상의 험난한 지형을 모두 가로지를 수 있는 기동 차량을 도입합니다."
+
+  AVT_our_own_advisors_3:0 "참회자"
+  AVT_our_own_advisors_3_desc:0 "과거의 죄를 씻고자 하는 이들의 헌신적인 투쟁은 여단의 도덕적 기반이 될 것입니다."
+
+  AVT_train_red_line_2:0 "정기 훈련"
+  AVT_train_red_line_2_desc:0 "준비된 병사만이 전장에서 살아남을 수 있습니다. 상시적인 훈련을 통해 대원들의 실전 감각을 유지합니다."
+
+  AVT_train_red_line_3:0 "내일을 넘어선 전쟁"
+  AVT_train_red_line_3_desc:0 "붉은 라인은 메트로에서 집권을 이어오는 동안 단순한 좀도둑부터 돌연변이, 파시스트에 이르기까지 수많은 적들과 싸워왔습니다. 비록 돌연변이와 파시스트는 본질적으로 큰 차이가 없을지도 모르지만 말입니다. 붉은 라인이 이러한 위협에 어떻게 효과적으로 대응해왔는지 연구함으로써, 우리 지휘관들이 지하에서 적을 마주했을 때 활용할 수 있는 귀중한 실전 지식을 습득할 수 있을 것입니다."
+
+  AVT_perfect_force:0 "인민의 군대" 
+  AVT_perfect_force_desc:0 "군대는 소수의 전유물이 아닌, 인민 스스로를 지키기 위한 힘이어야 합니다."
+
+  AVT_recruitment_1:0 "붉은 깃발을 높이 들어라"
+  AVT_recruitment_1_desc:0 "드높이 펄럭이는 붉은 혁명의 깃발은 억압받는 이들에게는 희망을, 폭군들에게는 공포를 선사할 것입니다."
+
+  AVT_recruitment_2:0 "...내일의 세계를 위해"
+  AVT_recruitment_2_desc:0 "우리는 단순히 생존하기 위해 싸우는 것이 아닙니다. 자식들에게 더 나은 미래를 물려주기 위해 싸웁니다."
+
+  AVT_recruitment_3:0 "...오늘의 세계를 위해"
+  AVT_recruitment_3_desc:0 "오늘의 투쟁이 없다면 그 어떤 내일도 존재할 수 없습니다."
+
+  AVT_recruitment_4:0 "우리가 싸워야 하는 이유"
+  AVT_recruitment_4_desc:0 "우리가 왜 피를 흘려야 하는지 대원들에게 명확히 교육하여 혁명에 대한 확고한 신념을 심어줍니다."
+
+  AVT_military_1:0 "무기 비축"
+  AVT_military_1_desc:0 "더 많은 총과 탄약은 전투에서 승리할 확률을 높여줄 것입니다."
+
+  AVT_military_2:0 "병참장교의 솜씨"
+  AVT_military_2_desc:0 "숙련된 병참 장교의 지휘 아래 물자를 효율적으로 분배하고 관리합니다."
+
+  AVT_military_0:0 "자급자족" 
+  AVT_military_0_desc:0 "외부의 공급 없더라도 우리 스스로 무기와 소모품을 생산할 수 있는 능력을 갖춥니다."
+
+  AVT_military_3: "무장을 갖추라"
+  AVT_military_3_desc: "어떠한 명목으로도 무기를 반납해서는 안 됩니다. 메트로의 노동자들을 무장 해제하려는 시도는 그 즉시 무력으로 저지되어야 합니다."
+
+  AVT_contact_BAU:0 "바우만과 접촉"
+  AVT_contact_BAU_desc:0 "바우만 역의 사람들과 접촉하여 상호 이익을 위한 협력 가능성을 타진합니다."
+  AVT_BAU_buff: "우리는 §Y[BAU.GetFlag][BAU.GetName]§!측과 연계하여 우리의 생산 능력을 더욱 보강하고자 합니다!"
+
+  AVT_our_own_technicians:0 "우리만의 기술자"
+  AVT_our_own_technicians_desc:0 "외부의 도움 없이도 기계 장치들을 유지보수할 수 있는 우수한 기술 인력을 양성합니다."
+
+  AVT_contact_KUZ:0 "쿠즈네츠키 모스트와 접촉"
+  AVT_contact_KUZ_desc:0 "기술력과 공업 능력이 뛰어난 쿠즈네츠키 모스트 역에 협력을 제안합니다."
+
+  AVT_KUZ_buff: "우리는 §Y[KUZ.GetFlag][KUZ.GetName]§!측과 협력하여 여단의 공업 생산 역량을 끌어올리려 합니다."
+
+  AVT_gun_buff:0 "개량된 총기"
+  AVT_gun_buff_desc:0 "기존 무기들의 설계를 개선하고 정밀도를 높여 전장에서의 성능을 극대화합니다."
+
+  AVT_weapon_research_speed:0 "개선된 설계도"
+  AVT_weapon_research_speed_desc:0 "최신 사양으로 업데이트된 설계도들은 무기 개발 속도를 비약적으로 높여줄 것입니다."
+
+  AVT_tech_buff_1:0 "어둠 속에 도사리는 것..."
+  AVT_tech_buff_1_desc:0 "터널의 깊은 어두움 속에 숨어있는 위협들을 효과적으로 감지하고 대응하는 법을 배웁니다."
+
+  AVT_tech_buff_2:0 "개량형 방독면"
+  AVT_tech_buff_2_desc:0 "오염된 지상과 지하의 치명적인 공기로부터 대원들을 보호할 수 있는 더 안전한 방독면을 제작합니다."
+
+  AVT_tech_buff_3:0 "지상 정찰 임무"
+  AVT_tech_buff_3_desc:0 "위험을 무릅쓰고 지상으로 정찰대를 파견하여 가동 가능한 자원과 적의 정보를 수집합니다."
+
+  AVT_tech_buff_4:0 "붉은 스토커"
+  AVT_tech_buff_4_desc:0 "여단 소속의 정예 스토커 부대는 지상과 지하를 가리지 않고 종횡무진 활약할 것입니다."
+
+  AVT_expanding_the_depot:0 "객차 수리" 
+  AVT_expanding_the_depot_desc:0 "방치된 열차 객차들을 수리하여 수송 및 병참 능력을 확장합니다."
+
+  AVT_first_international_brigade:0 "제1 기계화 국제 여단"
+  AVT_first_international_brigade_desc:0 "기동력을 갖춘 대규모 국제 여단을 창설하여 혁명의 선봉에 서게 합니다."
+
+  AVT_inner_sphere_1:0 "내부 중핵 개혁"
+  AVT_inner_sphere_1_desc:0 "여단 지휘부와 중핵 조직을 더 효율적이고 체계적으로 재편합니다."
+
+  AVT_inner_sphere_anatoly:0 "아나톨리, 임시 의장 취임"
+  AVT_inner_sphere_anatoly_desc:0 "아나톨리 톰스키가 임시 의장직을 맡아 조직의 내실을 다집니다."
+
+  AVT_inner_sphere_brigades:0 "기동 여단"
+  AVT_inner_sphere_brigades_desc:0 "빠른 투입과 철수가 가능한 소규모 정예 기동 여단들을 편성합니다."
+
+  AVT_oil_stockpiling:0 "석유 비축"
+  AVT_oil_stockpiling_desc:0 "차량 운용과 산업 가동에 필수적인 연료를 확보하여 비축합니다."
+
+  AVT_refineries:0 "정유소"
+  AVT_refineries_desc:0 "폐유를 재활용하거나 원유를 정제할 수 있는 기초적인 정유 설비를 구축합니다."
+
+  AVT_refineries_tech:0 "개선된 정제법" 
+  AVT_refineries_tech_desc:0 "더 효율적인 정제 기술을 도입하여 연료 생산량을 증대시킵니다."
+
+  AVT_avtozavodskaya: "아프토자보드스카야로의 귀환"
+  AVT_avtozavodskaya_desc: ""
+  AVT_moved_avtozavodskaya: "우리는 아프토자보드스카야 역을 본거지로 선택했습니다."
+
+  AVT_avtozavodskaya_1: "작전 기지"
+  AVT_avtozavodskaya_1_desc: "여단의 심장부인 아프토자보드스카야를 철공소와 병영이 가득한 강력한 군사 기지로 탈바꿈시킵니다."
+  AVT_avtozavodskaya_PVL_0: "격차 해소"
+  AVT_avtozavodskaya_PVL_0_desc: "인근 역들과의 소통을 막는 장애물을 제거하고 협력의 길을 엽니다."
+  AVT_avtozavodskaya_PVL_1: "인민을 위한 헌신"
+  AVT_avtozavodskaya_PVL_1_desc: "고통받는 평범한 사람들을 보호하고 지원하는 것이 여단의 최우선 과제임을 명시합니다."
+  AVT_avtozavodskaya_PVL_1a: "순찰로 확장"
+  AVT_avtozavodskaya_PVL_1a_desc: "병력들의 주기적인 순찰 범위를 넓혀 주변 지역의 치안을 안정시키고 위협을 사전에 차단합니다."
+  AVT_technopark: "테크노파크로의 확장"
+  AVT_technopark_desc: "산업적 가치가 높은 테크노파크 구역으로 영향력을 확대하여 생산 역량을 강화합니다."
+  AVT_technopark_2: "지상 자원 활용"
+  AVT_technopark_2_desc: "방사능 위험을 무릅쓰고 지상의 폐허에서 사용 가능한 산업 자원들을 회수합니다."
+  AVT_avtozavodskaya_PVL_2: "상호 협력 조약"
+  AVT_avtozavodskaya_PVL_2_desc: "주변 공동체들과 공식적인 협력 관계를 맺고 자원과 인력을 공유합니다."
+  AVT_avtozavodskaya_PVL_3: "영원한 우정의 결속"
+  AVT_avtozavodskaya_PVL_3_desc: "함께 싸우고 함께 건설하며 타 역 동지들과 끈끈한 유대감을 형성합니다."
+  AVT_avtozavodskaya_PVL_4: "사상의 통합"
+  AVT_avtozavodskaya_PVL_4_desc: "혁명적 가치를 공유하며 강력한 사상적 공동체를 구축합니다."
+  AVT_avtozavodskaya_hunt_for_STB_1: "파시스트 낙오자들"
+  AVT_avtozavodskaya_hunt_for_STB_1_desc: "흩어져 숨어있는 파시스트 잔당들을 추적하여 제거합니다."
+  AVT_avtozavodskaya_hunt_for_STB_2a: "방사능 정면 돌파"
+  AVT_avtozavodskaya_hunt_for_STB_2a_desc: "고방사능 구역에 대한 대비책을 갖추고 적의 은신처를 습격합니다."
+  AVT_avtozavodskaya_hunt_for_STB_2: "스토르테베커 일당 청산"
+  AVT_avtozavodskaya_hunt_for_STB_2_desc: "범죄와 파시즘에 동조하는 스토르테베커 무리들을 뿌리 뽑아 메트로의 정의를 실현합니다."
+  AVT_avtozavodskaya_hunt_for_STB_3: "본래 자리로"
+  AVT_avtozavodskaya_hunt_for_STB_3_desc: "우리 영토를 침범한 자들에게 엄중한 대가를 치르게 하고 평화를 되찾습니다."
+  AVT_avtozavodskaya_2: "방책 방어 체계"
+  AVT_avtozavodskaya_2_desc: "적의 대규모 공격을 버텨낼 수 있는 견고한 방어선을 구축합니다."
+  AVT_avtozavodskaya_3: "경제적 실익의 분배"
+  AVT_avtozavodskaya_3_desc: "산업 발전을 통해 얻은 혜택을 여단 대원들과 주민들에게 공정하게 배분합니다."
+  AVT_avtozavodskaya_4: "기술진 집단화"
+  AVT_avtozavodskaya_4_desc: "흩어져 있던 기술 인력을 하나의 조직으로 묶어 연구 및 제조 효율을 극대화합니다."
+  AVT_avtozavodskaya_sevastopol: "기동 사단"
+  AVT_avtozavodskaya_sevastopol_desc: "기동력을 강조한 부대 편제를 통해 메트로 전역에 신속히 대응할 수 있는 능력을 갖춥니다."
+  AVT_avtozavodskaya_sevastopol_2: "개량형 드라이신"
+  AVT_avtozavodskaya_sevastopol_2_desc: "더 빠르고 튼튼하며 강력한 무장을 갖춘 기동 드라이신들을 투입합니다."
+  AVT_avtozavodskaya_sevastopol_3: "타찬카"
+  AVT_avtozavodskaya_sevastopol_3_desc: "화력이 집중된 기동 화기 플랫폼(타찬카)을 도입하여 보병을 지원합니다."
+  AVT_avtozavodskaya_sevastopol_4: "자본주의자 축출"
+  AVT_avtozavodskaya_sevastopol_4_desc: "인민을 착취하는 자본가 세력의 영향력을 제거하고 공정한 질서를 세웁니다."
+  AVT_avtozavodskaya_sevastopol_5: "공동 협상 조약"
+  AVT_avtozavodskaya_sevastopol_5_desc: "동등한 입장에서의 협상을 통해 우리에게 유리한 조건의 국제적 조약을 체결합니다."
+
+  AVT_partizanskaya: "파르티잔스카야 전진 기지"
+  AVT_partizanskaya_desc: "파르티잔스카야 역을 거점으로 삼아 주변 지역에 대한 여단의 영향력을 공고히 합니다."
+  AVT_moved_partizanskaya: "우리는 파르티잔스카야 역을 본거지로 선택했습니다."
+
+  AVT_partizanskaya_1: "외곽 오지의 사람들"
+  AVT_partizanskaya_1_desc: "중심지에서 멀리 떨어진 소외된 사람들을 포섭하여 혁명의 동지로 만듭니다."
+  AVT_partizanskaya_2: "경계선 구축"
+  AVT_partizanskaya_2_desc: "기지 주변에 철저한 경계망을 형성하여 적의 접근을 차단합니다."
+  AVT_partizanskaya_3: "통제권 강화"
+  AVT_partizanskaya_3_desc: "역 내외의 질서를 바로잡고 여단의 안정적인 통치를 확립합니다."
+  AVT_partizanskaya_4: "역과 공방"
+  AVT_partizanskaya_4_desc: "역 내에 무기 수리 및 보급을 위한 공방을 설치하여 자정 능력을 갖춥니다."
+  AVT_partizanskaya_4a: "위협 소탕"
+  AVT_partizanskaya_4a_desc: "주변의 돌연변이와 약탈자 등 혁명의 걸림돌들을 깨끗이 치워냅니다."
+  AVT_partizanskaya_4b: "완전한 통제"
+  AVT_partizanskaya_4b_desc: "모든 잠재적인 위협을 제거하고 지역 전체를 완벽하게 장악합니다."
+  AVT_baumansky: "파르티잔스카야 활용"
+  AVT_baumansky_desc: "파르티잔스카야 역의 지정학적 위치를 활용하여 작전 범위를 넓힙니다."
+  AVT_baumansky_1: "화학 공정"
+  AVT_baumansky_1_desc: "바우만스키 역의 설비를 활용하여 독극물이나 약품 등 필수 화학 물자들을 생산합니다."
+  AVT_baumansky_2: "개량형 철도 카트" 
+  AVT_baumansky_2_desc: "물자 수송에 사용되는 기본 카트들을 더 튼튼하게 보수하고 효율을 높입니다." 
+  AVT_baumansky_3: "철도 자전거" 
+  AVT_baumansky_3_desc: "소수의 인원이 빠르게 이동할 수 있는 철도 자전거 부대를 편성하여 정보 수집과 기습에 활용합니다." 
+  AVT_baumansky_4: "점령지 공고화" 
+  AVT_baumansky_4_desc: "점령한 지역의 행정 체계를 정비하여 장기적인 지배 기반을 마련합니다."
+  AVT_pervomayskaya: "모두가 맡은 바 역할을"
+  AVT_pervomayskaya_desc: "혁명의 성취는 모든 구성원이 각자의 위치에서 최선을 다할 때 가능합니다."
+  AVT_pervomayskaya_1: "이즈마일롭스카야로" 
+  AVT_pervomayskaya_1_desc: "전선을 이즈마일롭스카야 역까지 밀어 올려 통제권을 확장합니다." 
+  AVT_pervomayskaya_2: "고물 방사능 장비 개조" 
+  AVT_pervomayskaya_2_desc: "폐허에서 구한 낡은 방사능 방호 장비들을 수리하고 성능을 개량하여 재활용합니다." 
+  AVT_pervomayskaya_2a: "메이데이와의 평화 협상" 
+  AVT_pervomayskaya_2a_desc: "메이데이 세력과의 협상을 통해 불필요한 마찰을 줄이고 공존의 길을 모색합니다." 
+  AVT_pervomayskaya_3: "북진"
+  AVT_pervomayskaya_3_desc: "여단의 깃발을 메트로 북부 지역까지 전파하기 위한 진군을 시작합니다."
+
+  AVT_turgenevskaya: "투르게네프스카야 전초기지"
+  AVT_turgenevskaya_desc: "유령이 나온다는 소문을 믿는 건 아니겠지요?"
+  AVT_moved_turgenevskaya: "우리는 투르게네프스카야 역을 본거지로 선택했습니다."
+
+  AVT_turgenevskaya_1: "저주받은 역"
+  AVT_turgenevskaya_1_desc: "불길한 소문이 가득한 이 역을 정화하고 혁명의 기지로 탈바꿈시킵니다."
+  AVT_turgenevskaya_2: "전열 가다듬기"
+  AVT_turgenevskaya_2_desc: "불안정한 환경 속에서도 기지를 요새화하고 장기 주둔을 준비합니다."
+  AVT_turgenevskaya_3: "천장 보수"
+  AVT_turgenevskaya_3_desc: "무너지기 일보 직전인 터널과 역의 천장을 보강하여 안전을 확보합니다."
+  AVT_turgenevskaya_4: "붉은 보루"
+  AVT_turgenevskaya_4_desc: "적들의 공격을 막아낼 최전방의 견고한 붉은 방벽을 구축합니다."
+  AVT_turgenevskaya_5: "고철 수집 협약"
+  AVT_turgenevskaya_5_desc: "주변 지역의 고철상들과 계약을 맺어 꾸준한 자원 공급원을 확보합니다."
+  AVT_turgenevskaya_6: "총기 생산 증대"
+  AVT_turgenevskaya_6_desc: "확보된 자원을 바탕으로 독자적인 총기 생산 라인을 가동합니다."
+  AVT_turgenevskaya_pro_redline: "붉은 라인에 호소"
+  AVT_turgenevskaya_pro_redline_desc: "우리와 사상적 뿌리가 같은 붉은 라인에 공식적인 지원과 지지를 요청합니다."
+  AVT_turgenevskaya_pro_redline_2: "대오 복귀"
+  AVT_turgenevskaya_pro_redline_2_desc: "붉은 라인의 질서 속으로 다시 합류하여 조직의 일원으로서 행동합니다."
+  AVT_turgenevskaya_pro_redline_3: "군사적 원조 요청"
+  AVT_turgenevskaya_pro_redline_3_desc: "현 전력을 보강하기 위해 붉은 라인 지휘부에 직접적인 병력 및 물자 지원을 구합니다."
+  AVT_turgenevskaya_pro_redline_7: "보호의 주역"
+  AVT_turgenevskaya_pro_redline_7_desc: "민중의 진정한 수호자로서 우리의 역할을 입증하고 지지를 이끌어냅니다."
+  AVT_turgenevskaya_pro_redline_7a: "스레텐스키 불바르 진출"
+  AVT_turgenevskaya_pro_redline_7a_desc: "인근의 스레텐스키 불바르 역으로 진출하여 영향력을 확대합니다."
+  AVT_turgenevskaya_pro_redline_8: "강도단 소탕"
+  AVT_turgenevskaya_pro_redline_8_desc: "인민을 괴롭히는 무법자 강도단들을 완전히 섬멸합니다."
+  AVT_turgenevskaya_pro_redline_4: "소콜 구호 확대"
+  AVT_turgenevskaya_pro_redline_4_desc: "소콜 역으로부터 오는 구호 물자와 인적 지원 규모를 늘립니다."
+  AVT_turgenevskaya_pro_redline_5: "반자본주의 통일"
+  AVT_turgenevskaya_pro_redline_5_desc: "자본주의 세력에 맞서기 위해 범혁명 세력의 통합을 추진합니다."
+  AVT_turgenevskaya_pro_redline_6: "반파시즘 통일"
+  AVT_turgenevskaya_pro_redline_6_desc: "파시스트 세력의 확장을 저지하기 위한 전방위적인 연대를 형성합니다."
+  AVT_turgenevskaya_anti_redline: "대의를 위한 반역"
+  AVT_turgenevskaya_anti_redline_desc: "붉은 라인의 스탈린주의를 부정하고, 진정한 혁명을 위해 독자적인 길을 걷기로 결단합니다."
+  AVT_turgenevskaya_blocked_tunnel: "저편에 묻힌 것은..."
+  AVT_turgenevskaya_blocked_tunnel_desc: "폐쇄된 터널 너머에 숨겨진 비밀이나 자원을 찾아내기 위해 조사를 진행합니다."
+  AVT_turgenevskaya_SSK: "스레텐스키 불바르 강습"
+  AVT_turgenevskaya_SSK_desc: "전략적 요충지인 스레텐스키 불바르 역을 확보하기 위한 공세를 가합니다."
+  AVT_turgenevskaya_TRB: "트루브나야 확장"
+  AVT_turgenevskaya_TRB_desc: "트루브나야 구역으로 영향력을 더 넓게 확장합니다."
+  AVT_turgenevskaya_anti_redline_2: "서기장의 오만을 꺾어라"
+  AVT_turgenevskaya_anti_redline_2_desc: "독재와 권위에 물든 붉은 라인 지도부를 향해 선전포고를 날립니다."
+  AVT_turgenevskaya_anti_redline_5: "체 게바라 전투부대"
+  AVT_turgenevskaya_anti_redline_5_desc: "여단의 정예들을 모아 강력한 충격군을 편성합니다."
+  AVT_turgenevskaya_anti_redline_6: "기갑 여단"
+  AVT_turgenevskaya_anti_redline_6_desc: "확보된 장비들을 바탕으로 본격적인 기갑 전력을 운용합니다."
+  AVT_turgenevskaya_anti_redline_3: "특수 작전반"
+  AVT_turgenevskaya_anti_redline_3_desc: "사보타주와 암살 등 특수 임무를 전문적으로 수행하는 부대를 창설합니다."
+  AVT_turgenevskaya_anti_redline_4: "국제 스토커 조대"
+  AVT_turgenevskaya_anti_redline_4_desc: "메트로 전역의 실력 있는 스토커들을 모아 여단 소속의 정찰 및 전투 부대를 조직합니다."
+  AVT_turgenevskaya_anti_redline_7: "레드 폴 작전"
+  AVT_turgenevskaya_anti_redline_7_desc: "붉은 라인의 폭폭을 무너뜨리고 진정한 혁명을 완수하기 위한 최후의 공세를 시작합니다."
+
+  AVT_mayakovskaya: "마야코프스카야 역"
+  AVT_mayakovskaya_desc: ""
+  AVT_moved_mayakovskaya: "우리는 마야코프스카야역을 기지로 선택했습니다."
+
+  AVT_mayakovskaya_1: "파시스트 위협"
+  AVT_mayakovskaya_1_desc: "제국은 오래 전 한번 패배했지만 이제 다시 존재하게 되었다. 그 옛 자신을 모욕하는 거친 변형이다. 우리는 그것을 다시 한 번 꺼내야 한다."
+  AVT_mayakovskaya_1a: "무기 배포"
+  AVT_mayakovskaya_1a_desc: "무장한 인구는 예의 있는 인구다. 파시스트와 fuck know what else가 마야코프스카야 역 문을 때리는 동안, 이 жал운 역의 쓰레기를 강제로 밀어내는 것이 현명하다."
+  AVT_mayakovskaya_1b: "인구 훈련"
+  AVT_mayakovskaya_1b_desc: "이 nghìn 년 된 사람들은 거의 기아로 인해 생존을 겨루고 있으니, 제국과 동등한 입장에 서는 어떻게 하겠습니까? 그 외에는 뜨거운 식사와 훈련 연습은 이상적인 선택일 것입니다. 아니면 더 좋다면... 더 좋은 총기?"
+  AVT_mayakovskaya_1e: "무기를 증강"
+  AVT_mayakovskaya_1e_desc: "현재 우리는 Reich와 대등한 입장에 서려면 충분한 폐차 총이나 심지어는 칼이 없으므로, 우리의 보관고를 확대해야 합니다."
+  AVT_mayakovskaya_1c: "전차총"
+  AVT_mayakovskaya_1c_desc: "철갑탄이 노살리스를 멍해지게 할지도 모릅니다. 그러나 나무판보다 강한 것은 물론, 철제나 강철을 관통하려면 더 많은 총알이 필요합니다."
+  AVT_mayakovskaya_1d: "티넌 캔 오퍼너"
+  AVT_mayakovskaya_1d_desc: "리히스 판저는 완벽하게 겨누어진 총탄에 약하지 않습니다. 25톤의 전투기체가 불타는 것을 보십시오."
+  AVT_mayakovskaya_1f: "탱크 스토퍼"
+  AVT_mayakovskaya_1f_desc: "카-블룸!"
+  AVT_mayakovskaya_2: "터프를 세팅합니다"
+  AVT_mayakovskaya_2_desc: "남쪽에는 나치들이 북쪽에는 혐오스러운 무역상들이 있으니 우리는 정말로 끔찍한 상황에 빠져 있습니다. 그러나 우리의 기지 설치 장소는 훨씬 더 나쁜 곳에 세워질 수 있습니다."
+  AVT_probe_reich_defences: "리히의 방어 시스템 탐색"
+  AVT_probe_reich_defences_desc: "우리가 레히트를 진정으로 공격하려면..."
+  AVT_mayakovskaya_scrappers: "마야코프스크래퍼스"
+  AVT_mayakovskaya_scrappers_desc: "한동안 버려진 마야코프스카야는 쓰레기와 사용되지 않은 폐품이 가득합니다. 한 사람의 쓰레기는..."
+  AVT_mayakovskaya_22: "공동 수익"
+  AVT_mayakovskaya_22_desc: "우리가 마야코프를 쓰레기통에서 궁전으로 바꿔 보려면, 아직은 총을 겨누지 않아도 되지만, 조금 더 많은 사람들이 이 일을 함께할 수 있도록 도와주어야 합니다. 하지만 적절한 밀어붙이기와 밀어붙이기로는 더 많은 사람들이 참여할 것입니다."
+  AVT_mayakovskaya_trade_outpost_1: "파시스트 동조자들을 쫓아내라"
+  AVT_mayakovskaya_trade_outpost_1_desc: "제국주의가 무너지고, 혁명이 세계적으로 확장되려면, 북쪽에 있는 냉정한 자본주의 거점을 공격하는 것이 다음 단계일 것입니다."
+  AVT_mayakovskaya_trade_outpost_2: "동등한 마음"
+  AVT_mayakovskaya_trade_outpost_2_desc: "벨로루스카야 무역 기지의 일부 동정심은 우리의 사유에 있습니다. जबक 선상 관리의 상류층은 부자연적인 고급 생활을 즐기고 있지만, 인구는 겨우 생계를 유지하고 있습니다."
+  AVT_covert_sorties: "침략 작전"
+  AVT_covert_sorties_desc: "이러한 적극적 공격의 공개로 인해 일부 사람들은 어두운 밤에 슬쩍 다니며 무고한 파시스트나 탱크맨에게 혼란을 일으키는 옛날의 과거를 그리워합니다.?"
+  AVT_dregs_to_our_assistance: "드레그들의 도움"
+  AVT_dregs_to_our_assistance_desc: "마야코프스카야 사람들은 우리의 사상을 받아들이는 것처럼 보인다. 노동자 혁명과 국제 노동자 동맹주의를 그들의 두둑한 머리 속에 박박 박차해 들어가려는 시간이 이제 익숙한 것이 되었다. 물론, 기본 원칙을 약화시키고 분산시켰다."
+  AVT_incite_stalag_uprising: "레히에서 봉기들을 일으키라"
+  AVT_incite_stalag_uprising_desc: "제국 수용소는 지옥 같은 곳으로밖에 설명되지 않을 것이다. 그들의 존재조차도 우리 동료들을 불편한 분위기로 만들기까지 한다. 몇몇 사나이들은 심지어 스탈라그 자체로 이어지는 비밀 터널을 알고 있다. 우리의 더 자신감 있는 요원 몇명을 끌어내면, 상상할 수 있는 파괴력은 얼마든지 있을 것이다?"
+  AVT_incite_tension: "분위기를 조장하라"
+  AVT_incite_tension_desc: "Reichs 방어를 파괴하는 것은 너무 비용이 많이 들 수 있습니다. 내부에서 공격하기보다는, 그 안에 혁명을 심는 것이 어떻습니까? 우리는 내부에서 몇 명을 데려오거나, 적어도 어떤 정보라도 얻을 수 있을까요?"
+  AVT_der_fuhrers_face: "Fuhrer의 얼굴"
+  AVT_der_fuhrers_face_desc: "[RCH.Leader.GetName]의 사진은 그들의 기지 벽에 매달려 있습니다. 우리가 한두 개를 훼손한다면, 얼마나 많은 혼란이 일어나겠습니까? 그들은 서로에게 돌변할 것입니다."
+  AVT_mayakovskaya_3: "무기를 재분배하라"
+  AVT_mayakovskaya_3_desc: "총이 사람보다 많을 때 모든 사람이 보상받아야 한다"
+  AVT_mayakovskaya_3a: "계급 전쟁"
+  AVT_mayakovskaya_3a_desc: "노동자가 자본주의자와 함께 일해야 하거나 파시스트가 득세할 때 노동자는진정로 자유롭지 못하다. 우리가 원하는 자유를 얻기 위해선 완전한 계급 전쟁만이 가능하며, 이는 자본가들과 파시스트들을 동시에 싸워야 한다."
+  AVT_mayakovskaya_3b: "끝까지"
+  AVT_mayakovskaya_3b_desc: "역사는 반복된다. 첫 번째는 비극으로 두 번째는 фар스로. 그 어떤 경우에도 고통과 슬픔의 탑은 불을 끄고 무너진다."
+  AVT_mayakovskaya_3c: "국제군"
+  AVT_mayakovskaya_3c_desc: "파시스트 위협 앞에서, 계급은 중요하지 않다. 우리는 모두에게 봉사할 수 있는 군대를 형성할 것이다."
+
+  ### DEPRECIATE / WILL REMOVE WHEN RECEIVE CONTENT UPDATE
+
+  AVT_move_south:0 "남쪽으로 이동중"
+  AVT_move_south_desc:0 ""
+
+  AVT_core_technopark:0 "테크노파크에서 세팅 중"
+  AVT_core_technopark_desc:0 ""
+
+  AVT_guerilla_tactics:0 "지구대 전술"
+  AVT_guerilla_tactics_desc:0 ""
+
+  politics_communism_establish_bases:0 "전진 기지 건설"
+  politics_communism_establish_bases_desc:0 ""
+
+  politics_improve_relations:0 "" 
+  politics_improve_relations_desc:0 ""
+
+  AVT_reconciliation:0 "일정 조율"
+  AVT_재조정_설명:0 ""
+
+  AVT_death_to_tankies:0 "" 
+  AVT_death_to_tankies_desc:0 ""
+
+  politics_fight_against_fascism:0 ""
+  politics_fight_against_fascism_desc:0 "반파시즘 투쟁"
+
+  politics_curtail_supplies:0 "공급을 제한하라"
+  politics_curtail_supplies_desc:0 ""
+
+  politics_thorn_in_their_side:0 "" 
+  politics_thorn_in_their_side_desc:0 ""
+
+  politics_join_the_red_line:0 "빨간 선에 합류하라"
+  politics_join_the_red_line_desc:0 ""
+
+  politics_death_to_fascists:0 "" 
+  politics_death_to_fascists_desc:0 ""
+
+  politics_communism_fight_against_stalinism:0 "스탈린주의에 맞서 싸우기"
+  politics_communism_fight_against_stalinism_desc:0 ""
+
+  politics_freedom_from_tyranny: "폭정으로부터의 자유"
+  politics_freedom_from_tyranny_desc: "억압자들의 사슬을 끊어내고 모든 노동자에게 자유로운 삶을 선사합니다."
+
+  politics_better_to_die_standing: "서서 죽는 것이 나으리니..."
+  politics_better_to_die_standing_desc: "굴욕적인 평화보다 영광스러운 투쟁을 선택합니다."
+
+  politics_than_live_kneeling: "...무릎 꿇고 사느니보다"
+  politics_than_live_kneeling_desc: "우리는 결코 폭제 앞에 굴복하지 않을 것입니다."
+
+  politics_communism_march_on_berilag: "베릴라그로의 행진"
+  politics_communism_march_on_berilag_desc: "착취의 상징인 베릴라그를 해방하기 위해 혁명의 군대를 진격시킵니다."
+
+  politics_fight_against_capitalism: "부패와의 전쟁"
+  politics_fight_against_capitalism_desc: "공동체를 갉아먹는 자본주의적 부패와 타락에 맞서 결사항전합니다."
+
+  AVT_political_focus_1: "외부로의 확장"
+  AVT_political_focus_1_desc: "내부의 문제를 해결했으므로 이제 시야를 넓혀야 합니다. 세계 혁명을 완수하기 위해 메트로 전역으로 세력을 넓힐 시기입니다. 버려진 구역에 전초 기지를 세우고 우리의 영향력을 확고히 합니다."
+
+  AVT_colonization_system: "§Y파괴되거나§! §Y버려진 역을 개척하는 기능을 해제합니다.§!\n\n§4주의! 처음부터 해당 지역을 핵심 영토로 편입하지는 않습니다. 역을 올바르게 장악하고 기반을 잡기 위해 건설 및 안정화 과정이 필요합니다!§!"

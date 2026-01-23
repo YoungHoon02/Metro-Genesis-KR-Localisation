@@ -1,0 +1,431 @@
+﻿l_korean:
+  infantry_gear_equipment: "보병 지원 장비"
+  infantry_gear_equipment_1: "기초 보병 군장"
+  infantry_gear_equipment_1_desc: "매우 조잡하고 단순한 수준이지만, 기본적인 군장을 갖추는 것만으로도 병사들의 생존율은 비약적으로 상승합니다. 최소한 자신들의 해진 옷가지를 기워 입는 것보다는 훨씬 나은 선택입니다."
+  infantry_gear_equipment_1_short: "기초 군장"
+
+  infantry_gear_equipment_2: "표준 보병 군장"
+  infantry_gear_equipment_2_desc: "정규군 수준에 걸맞은 표준화된 보급품들입니다. 튼튼한 군화와 장갑, 그리고 메트로에선 귀중품 대접을 받는 양말까지 포함된 세트입니다. 이 정도면 메트로 전역을 통틀어 전문가 수준의 장비라 할 수 있습니다."
+  infantry_gear_equipment_2_short: "표준 군장"
+
+  infantry_gear_equipment_3: "정예 보병 군장"
+  infantry_gear_equipment_3_desc: "정예 부대를 위해 마련된 최상급 장비입니다. 다양한 상황에 대응할 수 있는 전술 조끼와 각종 파우치들이 포함되어 있어, 터널 안팎의 험난한 임무를 수행하는 데 필수적입니다."
+  infantry_gear_equipment_3_short: "정예 군장"
+
+  flamethrower_equipment_0:0 "화염방사기 세트"
+  flamethrower_equipment_0_desc:0 "밀폐된 터널에서 죽음의 화염을 뿜어내는 공포의 무기입니다."
+  flamethrower_equipment_0_short:0 "화염방사기"
+
+  explosive_equipment_0:0 "화력 지원 세트"
+  explosive_equipment_0_desc:0 "장갑 목표나 밀집된 적을 분쇄하기 위한 폭발성 화기들입니다."
+  explosive_equipment_0_short:0 "폭발물"
+
+  gatling_equipment_0:0 "중화기 세트"
+  gatling_equipment_0_desc:0 "거치형 또는 휴대용 중기관총으로 구성된 압도적인 화력의 상징입니다."
+  gatling_equipment_0_short:0 "개틀링"
+
+  piercing_equipment_0:0 "대물 관통 세트"
+  piercing_equipment_desc:0 "두꺼운 장갑이나 엄폐물을 관통하기 위해 설계된 장탄수 적은 고위력 화기입니다."
+  piercing_equipment_short:0 "관통 무기"
+
+  basic_infantry_equipment: "리볼버"
+  basic_infantry_equipment_desc: "메트로에서 가장 흔히 볼 수 있는 신뢰성 높은 화기입니다. .44구경 탄환은 돌연변이의 가죽을 뚫기에 충분한 저지력을 가졌지만, 강한 반동과 느린 재장전 속도가 흠입니다. 숙련되지 않은 이들에겐 마지막 수단일 뿐입니다."
+  basic_infantry_equipment_short: "리볼버"
+
+  scrap_infantry_equipment_1: "바스타드"
+  scrap_infantry_equipment_1_desc: "5.45mm 탄환을 사용하는 조잡한 자동소총입니다. 열악한 환경에서 급조된 탓에 명중률이 형편없고 쉽게 과열됩니다. 하지만 저렴한 생산 단가와 높은 연사력 덕분에 메트로의 징집병들 사이에선 '떼려야 뗄 수 없는 개자식' 같은 무기로 통합니다."
+  scrap_infantry_equipment_1_short: "바스타드"
+
+  scrap_infantry_equipment_2: "개량형 바스타드"
+  scrap_infantry_equipment_2_desc: "조잡한 기본형 바스타드를 대대적으로 개량했습니다. 내구성이 향상된 총열과 대용량 탄창, 그리고 인체공학적 개머리판을 장착했습니다. 여전히 과열 문제는 남아있지만, 이 정도면 폴리스의 정예병들도 무시 못 할 화력을 자랑합니다."
+  scrap_infantry_equipment_2_short: "개량형 바스타드"
+
+  shotgun_infantry_equipment_1: "듀플렛"
+  shotgun_infantry_equipment_1_desc: "12게이지 탄환을 사용하는 전통적인 쌍열 산탄총입니다. 사거리는 짧지만 초근접 상황에서는 그 어떤 무기보다 파괴적입니다. 좁은 터널에서 갑자기 튀어나오는 괴물들에겐 이만한 약도 없습니다."
+  shotgun_infantry_equipment_1_short: "듀플렛"
+
+  shotgun_infantry_equipment_2: "우보이니크"
+  shotgun_infantry_equipment_2_desc: "6연장 회전식 탄창을 장착한 반자동 산탄총입니다. 듀플렛의 파괴력에 연사력까지 더해진 이 무기는 근접전에서 사신이나 다름없습니다. 재장전 시간이 다소 걸리지만, 여섯 발의 탄환이 뿜어내는 광기는 적들을 순식간에 고기 덩어리로 만들기에 충분합니다."
+  shotgun_infantry_equipment_2_short: "우보이니크"
+
+  conventional_infantry_equipment_1: "AKS-74U"
+  conventional_infantry_equipment_1_desc: "전설적인 칼라시니코프 소총의 단축형 모델입니다. 높은 연사력을 가졌지만 짧은 총열 탓에 원거리 명중률은 떨어집니다. 하지만 공간이 협소한 지하 정거장과 터널 내부의 근접 교전에서는 그 탁월한 기동성 덕분에 최고의 선택으로 꼽힙니다."
+  conventional_infantry_equipment_1_short: "AKS-74U"
+
+  conventional_infantry_equipment_2: "AK-74M"
+  conventional_infantry_equipment_2_desc: "전쟁 전 러시아군의 상징이자 최고의 돌격소총입니다. 지옥 같은 메트로의 환경에서도 결코 멈추지 않는 신뢰성과 강력한 화력은 소유주에겐 생존의 확신을, 적들에겐 죽음의 공포를 안겨줍니다. 군용 탄환을 사용하는 이 소총은 그 자체로 부와 권력의 상징이기도 합니다."
+  conventional_infantry_equipment_2_short: "AK-74M"
+
+  conventional_infantry_equipment_3: "VSK-94"
+  conventional_infantry_equipment_3_desc: "소음기가 기본 장착된 고정밀 지정사수 소총입니다. 탄속을 낮춰 소음을 극도로 억제했기에 암살이나 잠입 임무에서 압도적인 위력을 발휘합니다. 어둠 속에서 소리 없이 적의 숨통을 끊어놓는, 말 그대로 죽음의 속삭임이라 불릴 만한 무기입니다."
+  conventional_infantry_equipment_3_short: "VSK-94"
+
+  pneumatic_infantry_equipment_1: "티하르"
+  pneumatic_infantry_equipment_1_desc: "볼 베어링을 탄환으로 사용하는 가스압식 자동소총입니다. 수동 펌프로 내부 압력을 유지해야 한다는 번거로움이 있지만, 발사음이 매우 작아 은밀한 사격에 유리합니다. 제대로 된 탄환을 구하기 힘든 메트로에선 매우 실용적이고 치명적인 장비입니다."
+  pneumatic_infantry_equipment_1_short: "티하르"
+
+  pneumatic_infantry_equipment_2: "헬싱"
+  pneumatic_infantry_equipment_2_desc: "티하르의 개념을 확장하여 볼트(화살)를 발사하는 압축 공기식 작살총입니다. 재사용 가능한 화살을 사용하므로 자원이 부족한 상황에서도 꾸준한 화력을 투사할 수 있습니다. 숙련된 사수의 손에 들린 헬싱은 어둠 속의 조용한 학살자로 변모합니다."
+  pneumatic_infantry_equipment_2_short: "헬싱"
+
+  basic_flamethrower_equipment: "화염병 배낭"
+  basic_flamethrower_equipment_desc: "연료병에 가솔린을 채우고 심지를 꽂은 것보다 약간 더 발전된 수준입니다. 투박하고 위험하지만, 좁은 통로를 지키는 데는 이만한 공포도 없습니다."
+  basic_flamethrower_equipment_short: "화염병"
+
+  flamethrower_equipment_1: "휴대용 화염방사기"
+  flamethrower_equipment_1_desc: "메트로의 폐쇄적인 환경에서 가장 경외시되는 무기입니다. 인간과 돌연변이를 가리지 않고 모든 것을 잿더미로 만들어버리는 이 장비는 적들의 사기를 단번에 꺾어버립니다. 잦은 과열이 문제지만, 그 찰나의 화염은 전장의 판도를 바꾸기에 충분합니다."
+  flamethrower_equipment_1_short: "화염방사기"
+
+  flamethrower_equipment_2: "중화염방사기"
+  flamethrower_equipment_2_desc: "연료 탱크를 등짐 형태로 짊어지고 고압으로 화염을 방사합니다. 이 불길은 단순한 화상을 넘어 적들의 산소를 앗아가 질식시키며, 엄폐물 뒤의 적들까지 노랗게 구워버립니다. 붉은 라인과 제국조차도 상호 확증 파괴를 우려해 인간을 상대로는 사용을 꺼릴 정도로 잔혹한 살상 병기입니다.\n나치와 레드 라인은 이러한 잔인한 무기를 인간에게 사용하기를 꺼리며, 주로 돌연변이를 상대할 때나 최후의 수단으로 활용합니다."
+  flamethrower_equipment_2_short: "화염방사기 MK2"
+
+  basic_explosive_equipment: "사제 수류탄"
+  basic_explosive_equipment_desc: "남은 자원을 긁어모아 만든 급조 폭발물입니다. 군용 수류탄이 고갈된 메트로에서 생존자들은 파이프와 화약을 이용해 자신들만의 치명적인 대안을 찾아냈습니다."
+  basic_explosive_equipment_short: "사제 수류탄"
+
+  explosive_equipment_1: "메드베드"
+  explosive_equipment_1_desc: "파이프 3개를 묶어 만든 조잡한 다련장 발사기입니다. 근거리에서 폭발성 탄환을 대량으로 발사하며, 밀집된 적 보병이나 경장갑 목표를 한꺼번에 분쇄하는 데 최적화되어 있습니다."
+  explosive_equipment_1_short: "메드베드"
+
+  explosive_equipment_2: "수류탄 발사기"
+  explosive_equipment_2_desc: "특수 제작된 고폭탄을 정확한 궤적으로 발사하는 장비입니다. 엄폐물 뒤의 적에게 죽음의 선물을 선사하는 데 이보다 좋은 무기는 없습니다."
+  explosive_equipment_2_short: "수류탄 발사기"
+
+  basic_gatling_equipment: "수동식 개틀링"
+  basic_gatling_equipment_desc: "12.7x108mm 대구경 탄환을 퍼붓기 위해 수동으로 기어를 돌리는 회전식 기관총입니다. 조잡한 외형과 달리, 좁은 터널을 수백 발의 탄환으로 메워버리는 화력은 그 어떤 돌연변이 군단도 막아낼 수 없습니다."
+  basic_gatling_equipment_short: "수동 개틀링"
+
+  gatling_equipment_1: "자동식 개틀링"
+  gatling_equipment_1_desc: "초기 개틀링의 고질적인 수동 급탄 문제를 해결하고 전기 또는 기계식 자동 발사 기능을 도입했습니다. 이제 사수는 기어를 돌리는 수고 없이 적진을 향해 납탄의 비를 내릴 수 있습니다."
+  gatling_equipment_1_short: "자동 개틀링"
+
+  gatling_equipment_2: "DShK 12.7mm 기관총"
+  gatling_equipment_2_desc: "전쟁 전부터 사용되어 온 유서 깊은 중기관총입니다. 압도적인 파괴력을 자랑하지만 엄청난 반동과 열기 때문에 숙련된 사수만이 다룰 수 있습니다. 이 총성이 들리는 터널에서 살아남는 것은 불가능에 가깝습니다."
+  gatling_equipment_2_short: "DShK 기관총"
+
+  basic_piercing_equipment: "프레베드"
+  basic_piercing_equipment_desc: "KSVK 대물 저격소총을 기반으로 제작된 모스크바 지하철 최강의 저격 병기 중 하나입니다. 12.7x108mm 탄환을 사용하며, 연사 속도는 느리지만 그 어떤 장갑도 관통할 수 있는 순수한 파괴력을 보장합니다."
+  basic_piercing_equipment_short: "프레베드"
+
+  piercing_equipment_1: "밸브"
+  piercing_equipment_1_desc: "전쟁 이후 제대로 작동하는 저격소총은 극히 드물어졌습니다. 기술자 역의 장인들이 정밀하게 재설계한 이 소총은 높은 명중률과 저지력을 겸비했습니다. 방어구를 착용한 적이라 할지라도 밸브의 총구 앞에선 평등할 뿐입니다."
+  piercing_equipment_1_short: "밸브"
+
+  gatling_equipment: "중화기 장비"
+  explosive_equipment: "화력 지원 장비"
+  flamethrower_equipment: "화염방사기 장비"
+  piercing_equipment: "대물 관통 장비"
+
+  nkvd_equipment_1: "NKVD 장비"
+  nkvd_equipment_1_desc: "한때 국가의 이익을 보호하던 인민내무위원회(NKVD)가 붉은 라인의 충실한 사냥개로 부활했습니다. 그들의 검은 코트와 무자비한 눈빛은 메트로의 거주민들에게 공포와 탄압, 그리고 끊이지 않는 고통의 상징으로 각인되었습니다."
+  nkvd_equipment_1_short: "NKVD 장비"
+
+  rail_car_equipment: "철도차량장비"
+  rail_cart_equipment: "철도차량장비"
+  rail_panzer_equipment: "철도전차장비"
+  
+  supplies_equipment_1: "군수 장비"
+  supplies_equipment_desc: "무기, 의료품, 식량 등 전투 지속에 필요한 핵심 물자들의 집합입니다. 보급이 끊긴 군대는 터널의 어둠 속에서 고립되어 죽음을 맞이할 뿐입니다. 적극적인 공세를 유지하기 위해서는 반드시 충분한 군수 요소를 확보해야 합니다."
+  supplies_equipment_1_short: "군수"
+
+  rail_cart_equipment_1: "수동차량"
+  rail_cart_equipment_1_desc: "전투용이 아닌 수동 기어로 작동하는 트롤리입니다. 직접적인 교전에는 부적합하지만, 역과 역 사이의 기본적인 물자 수송이나 인원 이동에는 여전히 요긴하게 사용되는 메트로의 발입니다."
+  rail_cart_equipment_1_short: "수동차량"
+
+  rail_cart_equipment_2: "전동차량"
+  rail_cart_equipment_2_desc: "전기로 구동되는 모터를 장착하여 기동성을 높였습니다. 습격해오는 돌연변이들로부터 최소한의 방어 장벽을 제공하며, 수동형에 비해 더 빠르고 안정적인 운송을 보장합니다."
+  rail_cart_equipment_2_short: "전동차량"
+
+  rail_cart_equipment_3: "편의차량"
+  rail_cart_equipment_3_desc: "전쟁 전 사용되던 드레진(Draisines)을 운송용 차량으로 복구했습니다. 증기 기관을 장착하여 병력과 물자를 빠르게 실어 나를 수 있는 충분한 공간과 보호력을 제공합니다."
+  rail_cart_equipment_3_short: "수송 드레진"
+
+  rail_car_equipment_1: "레일 바이크"
+  rail_car_equipment_1_desc: "가솔린 엔진을 장착한 소형 궤도 차량입니다. 철판을 덧대어 기본적인 방호력을 갖추었으나 중화기에는 취약합니다. 하지만 빠른 속도는 매복이나 정찰 임무에서 큰 이점을 제공합니다."
+  rail_car_equipment_1_short: "레일 바이크"
+
+  rail_car_equipment_2: "전투 드레진"
+  rail_car_equipment_2_desc: "레일 바이크에 DShK 중기관총을 거치하여 화력을 강화했습니다. 전면과 측면에 장갑판을 추가해 탑승 인원을 보호하며, 터널 내 소규모 교전에서 압도적인 위력을 발휘합니다."
+  rail_car_equipment_2_short: "전투 드레진"
+
+  rail_panzer_equipment_1: "경장갑 레일 탱크"
+  rail_panzer_equipment_1_desc: "두꺼운 철판을 두른 드레진 위에 회전식 기관총 탑을 설치했습니다. 구식 기관차 부품을 활용한 이 급조 전차는 터널 안에서 걸어 다니는 요새나 다름없으며, 적들에겐 공포의 대상입니다."
+  rail_panzer_equipment_1_short: "경레일 탱크"
+
+  rail_panzer_equipment_2: "중장갑 레일 탱크"
+  rail_panzer_equipment_2_desc: "경사 장갑을 도입하고 폭발성 화기를 장착하여 파괴력을 극대화했습니다. 전쟁 전 전차의 부품과 기관차 엔진을 결합한 이 강철 괴물은 메트로의 전선에서 적의 방어선을 분쇄하는 선봉장 역할을 합니다."
+  rail_panzer_equipment_2_short: "중레일 탱크"
+
+  rail_panzer_equipment_3: "레일 판저"
+  rail_panzer_equipment_3_desc: "최상급 장갑재로 무장한 중전차입니다. 다른 궤도 차량을 일격에 파괴할 수 있는 고화력 포를 장비했습니다. 특히 제 4제국은 자신들의 이념적 우월함을 과시하기 위해 과거 독일의 전차를 모방하여 이 거대한 전쟁 기계를 완성시켰습니다."
+  rail_panzer_equipment_3_short: "레일 판저"
+
+  rail_cart_equipment_4: "화물 드레진"
+  rail_cart_equipment_4_desc: "더 많은 수하물 칸과 강화된 차축을 갖춘 대형 드레진입니다. 대규모 이주나 대량의 자원 수송을 위해 설계되었으며, 메트로 경제의 핏줄과도 같은 역할을 수행합니다."
+  rail_cart_equipment_4_short: "화물차"
+
+  rail_car_equipment_3: "레지나"
+  rail_car_equipment_3_desc: "본래 붉은 라인에서 난민 수송용으로 제작된 장갑 궤도차입니다. 차체를 보강하고 전면에 배제 장치를 장착하여 이동 효율을 높였습니다."
+  rail_car_equipment_3_short: "레지나"
+
+  rail_armored_train_equipment_1: "장갑 열차"
+  rail_armored_train_equipment_1_desc: "인류는 멸망의 문턱에서도 전쟁을 멈추지 않았습니다. 버려진 기관차를 탈환해 중장갑과 강력한 화기로 무장시킨 이 거대한 기계는 모스크바 지하철의 선로 위를 누비는 죽음의 군함입니다."
+  rail_armored_train_equipment_1_short: "장갑 열차"
+
+  rail_armored_train_equipment_2: "신성한 유물"
+  rail_armored_train_equipment_2_desc: "참된 믿음을 가진 이들에게만 허용된 성스러운 전쟁 기계입니다. 벌레 신의 축복을 받은 이 장치는 어둠 속 깊은 곳을 파헤치며 이교도들을 정화하는 신성한 사명을 수행합니다."
+  rail_armored_train_equipment_2_short: "신성 유물"
+  ##    Special Forces    ##
+
+  special_forces_equipment: "특수부대 장비"
+
+  special_forces_equipment_1: "스토커 보급품"
+  special_forces_equipment_1_desc: "지상과 지하를 가리지 않고 활동하는 스토커들을 위한 장비입니다. 고성능 방독면과 필터, 그리고 방사능 오염으로부터 몸을 보호하는 외복 등이 포함되어 있습니다."
+  special_forces_equipment_1_short: "스토커 장비"
+
+  special_forces_equipment_2: "개량형 스토커 장비"
+  special_forces_equipment_2_desc: "스토커 장비의 개량형으로 표준화된 방독면 필터, 내수성 방호복, 그리고 탄약 소지량을 늘려주는 전술 조끼로 구성됩니다."
+  special_forces_equipment_2_short: "개량 스토커 장비"
+
+  special_forces_equipment_3: "최정예 특수전 장비"
+  special_forces_equipment_3_desc: "최고 수준의 스토커를 위한 장비입니다. 고강도 헬멧, 강화 보디아머, 대용량 모듈형 배낭이 포함됩니다."
+  special_forces_equipment_3_short: "최정예 장비"
+
+  special_forces_equipment_heavy: "중장갑 전술 장비"
+  special_forces_equipment_heavy_desc: "방호에 치중한 중갑주입니다. 부피가 크고 무겁지만, 착용자를 움직이는 전차로 만들어 어떤 화력도 견뎌낼 수 있게 합니다."
+  special_forces_equipment_heavy_short: "중장갑 장비"
+  
+  special_forces_equipment_heavy_2: "개량형 중장갑 장비"
+  special_forces_equipment_heavy_2_desc: "중장갑 갑옷 제작에 강화된 초경량 합금을 사용하여 방호력은 유지하면서도 착용자의 기동성을 대폭 향상시켰습니다."
+  special_forces_equipment_heavy_2_short: "개량 중장갑"
+
+  special_forces_equipment_light: "전술 경량 장비"
+  special_forces_equipment_light_desc: "전술적 유연성에 집중한 장비입니다. 야간 투시경, 적외선 감지기 등을 갖추고 무게를 줄여 스토커들이 신속하게 기동하며 교전할 수 있게 합니다."
+  special_forces_equipment_light_short: "전술 장비"
+
+  special_forces_equipment_light_2: "침투용 기밀 장비"
+  special_forces_equipment_light_2_desc: "특수 침투 임무를 위해 개발된 상급 장비입니다. 초경량 방호복과 정밀 소음 장비가 포함됩니다."
+  special_forces_equipment_light_2_short: "기밀 장비"
+
+  shotgun_infantry_equipment_3: "사이가-12"
+  shotgun_infantry_equipment_3_desc: "전쟁 전의 자동 산탄총으로 신뢰할 수 있고 충격적인 발사 속도를 자랑합니다. 대용량 탄창을 사용하여 산탄총의 고질적인 문제인 재장전 속도를 해결했습니다. 인간이든 괴물든 가리지 않고 밀폐된 공간을 조용히 '청소'하는 데 최적화되어 있습니다."
+  shotgun_infantry_equipment_3_short: "사이가"
+
+  shotgun_infantry_equipment_4: "판저잭(스트라이커-12)"
+  shotgun_infantry_equipment_4_desc: "회전식 탄창을 장착한 12게이지 산탄총입니다. 거대하고 치명적인 화력을 좁은 메트로 터널 내에서 쏟아낼 수 있는 강력한 무기입니다."
+  shotgun_infantry_equipment_4_short: "판저잭"
+
+  conventional_infantry_equipment_4: "칼라시 2012"
+  conventional_infantry_equipment_4_desc: "제3차 세계 대전 발발과 함께 러시아 군에 채택되었으나, 문명이 붕괴하며 널리 보급되지 못한 환상의 무기입니다. 메트로에서는 그 압도적인 신뢰성과 성능 덕분에 보물과 같은 대접을 받습니다. 놀라운 반동 제어 성능은 모든 사수들의 꿈입니다."
+  conventional_infantry_equipment_4_short: "칼라시 2012"
+
+  laser_infantry_equipment_1: "헬브레스(레일건)"
+  laser_infantry_equipment_1_desc: "내부 배터리로 작동하는 자기 코일을 통해 금속 탄환을 초음속으로 사출하는 병기입니다. 압도적인 관통력을 자랑하며, 전하를 띤 탄환은 적에게 전기 충격까지 가합니다."
+  laser_infantry_equipment_1_short: "헬브레스"
+
+  special_forces_equipment_spartan: "스파르탄 특수부대 장비"
+  special_forces_equipment_spartan_desc: "스파르탄 특수부대 장비"
+  special_forces_equipment_spartan_short: "스파르탄 기구"
+
+  special_forces_spartan_equipment_tech: "스파르탄 특수 작전 장비"
+  special_forces_spartan_equipment_tech_desc: "스파르탄 특수 작전 장비"
+
+  special_forces_equipment_spetsnaz: "스페츠나즈 기어"
+  special_forces_equipment_spetsnaz_desc: "스페츠나즈 특수 작전 장비"
+  special_forces_equipment_spetsnaz_short: "스페츠나즈 기어"
+
+  riot_shield_equipment_1: "OMON 폭동 장비"
+  riot_shield_equipment_1_desc: "특수임무 경찰 부대 장비"
+  riot_shield_equipment_1_short: "폭동 장비"
+
+  special_forces_equipment_riot: "시위 진압 장비"
+  special_forces_equipment_riot_desc: ""
+  special_forces_equipment_riot_short: "시위 장비"
+
+  ## Unique Equipment Variants 
+
+  ARB_gatling_equipment: "F엔 M249 SAW"
+  ARB_gatling_equipment_desc: "M249 경량 기관총은 5.56x45mm NATO 탄환을 발사하며, 분당 100발의 연속 사격이 가능하다. 벨기에 FN Minimi의 미국 버전이다. 20세기 후반과 21세기 초반의 많은 충돌에서 주요 역할을 하였다. 현재 모스크바 지하철에서 사용되고 있다."
+  ARB_gatling_equipment_short: "M249 사격 지원 기관총"
+
+  HNZ_conventional_infantry_equipment_1: "AN-94"
+  HNZ_conventional_infantry_equipment_1_desc: "세계 대전 3 이후 아바칸의 복제품이 모스크바에서 살아남은 사람들에 의해 군사 보관소에서 발견되었다. 무기 공급이 점점 더 희귀해지자, 불법 거래와 비밀 계약이 무기를 얻는 것을 숨겼다. 다행히 대부분의 이러한 거래가 우리를 통해 운영되고 있다."
+  HNZ_conventional_infantry_equipment_1_short: "AN-94"
+
+  HNZ_gatling_equipment: "페체네그"
+  HNZ_gatling_equipment_desc: "세계 대전 3 이전에 인기가 생긴 중형 기관총. 전쟁이 시작되기 12년 전부터 운용되기 시작했다. 큰 장전 수, 신뢰성 및 피해를 입히는 능력으로 평가되었다. 기술자 역은 DShK 기관총이 사용하는 탄환을 사용할 수 있도록 이 총기를 적합하게 만들 수 있다."
+  HNZ_gatling_equipment_short: "페체네그"
+
+  RCH_basic_infantry_equipment: "로라이프"
+  RCH_basic_infantry_equipment_desc: "가раж에서 제작된 반자동 권총으로 많은 사람들이 능력과 높은 맞춤성을 제공하는 것으로 인해 좋아합니다. 메트로는 .44 마그넘 chambered firearm을 생산합니다. 일반적인 무기, 신뢰성과 적절한 정확도로 소중히 여깁니다."
+  RCH_basic_infantry_equipment_short: "로라이프"
+
+  RCH_conventional_infantry_equipment_4: "슈팅게바르 33"
+  RCH_conventional_infantry_equipment_4_desc: "우리의 R&D를 개선하기 위한 노력의 증가와 적에 대한 기술적 업적으로, STG의 아카이브로 작동하는 슈팅게바르를 개발했습니다. 이름에서 구별할 수 있는 STG44과 헥클러 앤 코크 G3의 혼합물입니다. 두 가지 모두에서 많은 기능을 결합했습니다. 우리의 공장과 작업장에서 완전히 생산됩니다."
+  RCH_conventional_infantry_equipment_4_short: "슈팅게바르"
+
+  RCH_scrap_infantry_equipment_2: "국민방위총수소총 33"
+  RCH_scrap_infantry_equipment_2_desc: "나치 제국이 멸망하는 마지막 수단으로써. 소위 '인민 방위 총'의 설계를 바탕으로, Metro에서 생산한 탄환을 사용할 수 있는 단순하고 구식의 총기를 대량생산하기 시작했다. 하지만 독일군의 수급이 급격히 줄어들자, 적이 양쪽에서 침공하는 와중에, 이들은 자원 부족에도 불구하고 다양한 마지막 수단으로서의 무기를 생산할 수 있었다. 그 결과는 Volkssturmgewehr 아르케타입을 기반으로 한 단순하지만 유용한 총기가 되었다."
+  RCH_scrap_infantry_equipment_2_short: "보국병총구"
+
+  RCH_gatling_equipment: "M134 전술 미니건"
+  RCH_gatling_equipment_desc: "압도적인 살육의 비를 뿌리는 다총신 회전식 기관총입니다. 제 4제국은 이 소름 끼치는 병기를 통해 터널의 어둠 속에서도 권력을 과시합니다."
+  RCH_gatling_equipment_short: "M134"
+
+  RCH_gatling_equipment_2: "코르드 중기관총"
+  RCH_gatling_equipment_2_desc: "12.7mm 대구경 탄환을 퍼붓는 러시아제 중기관총입니다. 거치 시 터널 하나를 통째로 봉쇄할 수 있는 저지력을 가졌습니다."
+  RCH_gatling_equipment_2_short: "코르드"
+
+  RED_basic_infantry_equipment: "마카로프 PM"
+  RED_basic_infantry_equipment_desc: "소련 시절부터 사용되어 온 상징적인 권총입니다. 붉은 라인의 병사들에게 지급되는 이 화기는 단순하지만 결코 배신하지 않는 신뢰성을 자랑합니다."
+  RED_basic_infantry_equipment_short: "마카로프"
+
+  RED_scrap_infantry_equipment_2: "PPSh-41"
+  RED_scrap_infantry_equipment_2_desc: "제2차 세계 대전의 상징적인 기관단총이 100년의 세월을 넘어 다시 메트로의 전장에서 불을 뿜습니다. 붉은 라인의 대중적인 무기로서 그 생산성과 화력은 여전히 유효합니다."
+  RED_scrap_infantry_equipment_2_short: "PPSh-41"
+
+  TRT_basic_infantry_equipment: "아샷"
+  TRT_basic_infantry_equipment_desc: "단순함의 극치를 보여주는 강력한 한 발의 단발 권총입니다. '한 발에 하나'라는 원칙을 실현하며, 좁고 어두운 터널에서 돌연변이들에게 진정한 공포를 안겨줍니다."
+  TRT_basic_infantry_equipment_short: "아샷"
+
+   HUL_basic_explosive_equipment:0 "리몬카 수류탄"
+   HUL_basic_explosive_equipment_desc:0 "일명 '레몬' 수류탄입니다. 혁명가들이 확보한 이 유서 깊은 수류탄은 여전한 위력을 자랑하며 적들을 조각조각 찢어버립니다."
+   HUL_basic_explosive_equipment_short: "리몬카"
+
+   HUL_explosive_equipment_2: "RPG-7"
+   HUL_explosive_equipment_2_desc: "전쟁 전의 로켓 발사기를 수리하고 재활용한 화기입니다. 탱크든 돌연변이든 이 로켓 한 발이면 공평하게 파괴될 것입니다."
+   HUL_explosive_equipment_2_short: "RPG-7"
+   HUL_tech_explosive_electric_fuse:0 "가시 수류탄"
+   HUL_tech_explosive_electric_fuse_desc: "못과 나사, 그리고 온갖 금속 조각을 채워 넣어 살상력을 극대화한 급조 수류탄입니다. 파시스트들에게 그들이 받을 인과응보를 보여주기에 충분합니다."
+
+   AVV_conventional_infantry_equipment_1: "OTs-02 키파리스"
+   AVV_conventional_infantry_equipment_1_desc: "제3차 세계 대전 발발 전 러시아 내무부 특수부대용으로 생산된 정밀 화기입니다. 전통적인 디자인을 따르면서도 매우 정교하게 제작되어 메트로 내에서는 높은 가치를 지닙니다."
+   AVV_conventional_infantry_equipment_1_short: "OTs-02 키파리스"
+
+   AVV_conventional_infantry_equipment_2: "PP-19 비존"
+   AVV_conventional_infantry_equipment_2_desc: "특이한 원통형 탄창을 사용하여 무려 64발의 탄약을 장전할 수 있는 러시아제 기관단총입니다. 메트로의 밀집한 적들을 상대하기에 이보다 좋은 무기는 없습니다."
+   AVV_conventional_infantry_equipment_2_short: "PP-19 비존"
+
+   AVV_conventional_infantry_equipment_3: "OTs-14 그로자"
+   AVV_conventional_infantry_equipment_3_desc: "불펍 방식의 돌격소총으로, 강력한 위력과 콤팩트한 설계를 모두 갖췄습니다. 숙련된 병사들 사이에서도 최고의 대접을 받는 귀한 병기입니다."
+   AVV_conventional_infantry_equipment_3_short: "OTs-14 그로자"
+
+  PEC_basic_infantry_equipment: "스테츠킨 자동권총"
+  PEC_basic_infantry_equipment_desc: "단발과 연사가 모두 가능한 소련제 자동권총입니다. 대용량 탄창과 높은 연사력 덕분에 부무장 이상의 성능을 발휘하며, 특수부대원들 사이에서 특히 인기가 높습니다."
+  PEC_basic_infantry_equipment_short: "APS"
+
+  PEC_conventional_infantry_equipment_2: "불도그"
+  PEC_conventional_infantry_equipment_2_desc: "칼라시니코프 소총의 개념을 집대성한 정예 소총입니다. 뛰어난 인체공학적 설계와 명중률을 자랑하며, 다소 복잡한 구조 탓에 유지 관리가 까다롭지만 그 성능만큼은 독보적입니다."
+  PEC_conventional_infantry_equipment_2_short: "불도그"
+
+  PEC_basic_explosive_equipment: "다이너마이트"
+  PEC_basic_explosive_equipment_desc: "광산용 폭약을 묶어 만든 화력 장비입니다. 불을 붙이고 던지는 간단한 작동 방식만으로도 적들에게 압도적인 파괴를 선사합니다."
+  PEC_basic_explosive_equipment_short: "다이너마이트"
+
+  PEC_gatling_equipment_2: "NSV 중기관총"
+  PEC_gatling_equipment_2_desc: "구식 DShK를 대체하기 위해 설계된 강력한 중기관총입니다. 주로 차량 거치형으로 사용되던 이 무기는 이제 메트로의 요충지를 방어하는 수호신 역할을 합니다."
+  PEC_gatling_equipment_2_short: "NSV 중기관총"
+
+  PEC_shotgun_infantry_equipment_1: "TOZ-106(의장님의 죽음)"
+  PEC_shotgun_infantry_equipment_1_desc: "단발식 볼트액션 산탄총입니다. 본래 사냥용이었으나 작은 크기와 파괴력 덕분에 메트로의 방랑자들과 범죄자들 사이에서 '의장님의 죽음'이라는 별칭으로 불리며 인기를 끌고 있습니다."
+  PEC_shotgun_infantry_equipment_1_short: "TOZ-106"
+
+# conventional_infantry_equipment_2: "AK-103"
+# conventional_infantry_equipment_2_desc: "Seeing numerous involvements in conflicts since 2001, the AK-103 builds upon its predecessor with improved customizability. Instead of using wood or metal, it uses plastic components such as on the pistol grip, handguards. Improved reliability despite still fairing less against more modern weapons of its age. It is still nevertheless a competent, if intrinsically rugged firearm characteristic of Russia."
+# conventional_infantry_equipment_2_short: "AK-103"
+
+
+  ## | Savage | ## 
+
+  underzealot_cultist_equipment_1: "신도 장비"
+  underzealot_cultist_equipment_1_desc: "성스러운 장식품, 의식 의류 및 공포의 장식. 가장 부유한 사람들 또는 열심히 하는 사람들만 이 장비를 현장에서 사용할 수 있습니다."
+  underzealot_cultist_equipment_1_short: "신도 장비"
+
+  savage_equipment_1: "뼈칸"
+  savage_equipment_1_desc: "간단. 낙천적이지만 치명적인. 돌부석으로 뼈를 긁어내서 만든 간단한 뼈 또는 다른 뼈는 지하 덤불에서 근사한 무기를 만들어낼 수 있다."
+  savage_equipment_1_short: "원시칸"
+
+  savage_equipment_2: "뼈 클럽"
+  savage_equipment_2_desc: "뼈와 쓰레기 등 풍부한 자원으로, 뼈를 막대나 stick에 달아놓으면 무기로 사용할 때 더 효과적이다."
+  savage_equipment_2_short: "뼈 클럽"
+
+  savage_equipment_3: "석기"
+  savage_equipment_3_desc: "바위 조각을 막대기에 달아놓고 rope나 더 잔인한 재료로 고정시키면 간단하고 유용한 도구가 된다. 단순하지만 치명적인 한손 무기로 사용할 수 있다."
+  savage_equipment_3_short: "석기"
+
+  savage_equipment_4: "대단한 주먹구치"
+  savage_equipment_4_desc: "나무로 만든 막대에 철사, 못, 뼈, 다른 날카로운 도구를 달아놓으면 무기로서의 효율성이 향상된다."
+  savage_equipment_4_short: "대단한 주먹구치"
+
+  savage_ranged_equipment_1: "단순한 호흡총"
+  savage_ranged_equipment_1_desc: "대나무나 파이프를 이용해 만든 원시적인 취풍구(Blowgun)입니다. 화약이 필요 없지만 살상력은 떨어집니다."
+  savage_ranged_equipment_1_short: "급조 바람총"
+
+  savage_ranged_equipment_2: "정교한 투척 무기"
+  savage_ranged_equipment_2_desc: "균형을 맞춘 금속 조각이나 숫돌로 간 뼈를 던집니다. 숙련된 사냥꾼의 손에 들린 이 무기는 총성보다 더 무서운 조용한 죽음을 선사합니다."
+  savage_ranged_equipment_2_short: "개량 투척 무기"
+
+  underzealot_cultist_equipment_tech_1: "광신도 지원 장비"
+
+  savage_special_forces_equipment: "야만인 특수 장비"
+  savage_special_forces_equipment_1: "기초 야만 특수 장비"
+  savage_special_forces_equipment_1_desc: "뼈 조각들을 이어 붙인 조잡한 방어구입니다. 총탄을 막아주지는 못하지만, 칼날로부터 신체를 보호하고 위장을 돕습니다. 어둠 속에 숨어 적을 기습하는 용도로 적합합니다."
+  savage_special_forces_equipment_1_short: "기초 야만 장비"
+
+  savage_special_forces_equipment_2: "개량형 야만 특수 장비"
+  savage_special_forces_equipment_2_desc: "뼈와 두꺼운 가죽을 결합하여 내구성을 높였습니다. 비록 부서지기 쉽지만, 주술적인 문양을 새겨 전사들의 투지를 고취시키는 상징적인 의미가 더 큽니다."
+  savage_special_forces_equipment_2_short: "개량 야만 장비"
+
+  savage_special_forces_equipment_3: "고대 전사 장비"
+  savage_special_forces_equipment_3_desc: "강인한 밧줄과 축복받은 성물들로 강화된 최상급 야만 장비입니다. 이 장비를 착용한 전사는 부족의 전설적인 영웅이나 다름없습니다."
+  savage_special_forces_equipment_3_short: "고대 전사 장비"
+
+  PAG_savage_equipment_1: "뼈 단검"
+  PAG_savage_equipment_1_desc: "날카롭게 간 뼈를 나무 손잡이에 고정한 근접 무기입니다. 조잡하지만 적의 가슴을 찌르기엔 충분합니다."
+  PAG_savage_equipment_1_short: "뼈 단검"
+
+  PAG_savage_equipment_2: "급조 망치"
+  PAG_savage_equipment_2_desc: "무거운 금속 폐기물을 막대기 끝에 달아 만든 둔기입니다."
+  PAG_savage_equipment_2_short: "폐기물 망치"
+
+  PAG_savage_equipment_3: "뼈 뭉치 퇴마용 퇴"
+  PAG_savage_equipment_3_desc: "커다란 뼈 여러 개를 묶어 만든 묵직한 망치입니다."
+  PAG_savage_equipment_3_short: "뼈 망치"
+
+  PAG_savage_equipment_4: "쓰레기 바디쉬"
+  PAG_savage_equipment_4_desc: "판금 조각을 길게 갈아 만든 급조 미창입니다. 긴 사거리와 파괴력을 자랑합니다."
+  PAG_savage_equipment_4_short: "쓰레기 바디쉬"
+
+  PAG_savage_ranged_equipment_1: "투척용 낫"
+  PAG_savage_ranged_equipment_1_desc: "철재 부품을 갈아 나무 손잡이에 부착한 투척 무기입니다. 사거리는 짧지만 적중 시 치명적인 상처를 입힙니다."
+  PAG_savage_ranged_equipment_1_short: "투척 낫"
+
+  PAG_savage_ranged_equipment_2: "금속 투창"
+  PAG_savage_ranged_equipment_2_desc: "끝을 날카롭게 세운 금속 막대입니다. 방어구를 착용한 적이나 가죽이 두꺼운 괴물조차도 깊숙이 관통할 수 있습니다."
+  PAG_savage_ranged_equipment_2_short: "금속 투창"
+
+  PAG_savage_special_forces_equipment_1: "기초 부족 전사 장비"
+  PAG_savage_special_forces_equipment_1_desc: "두꺼운 가죽 헬멧과 누더기 가죽 조각들을 이어 붙여 만든 기본적인 방어 세트입니다."
+  PAG_savage_special_forces_equipment_1_short: "피혁 방어구"
+
+  PAG_savage_special_forces_equipment_2: "철갑 부족 전사 장비"
+  PAG_savage_special_forces_equipment_2_desc: "기괴한 형태의 가면과 금속 밴드를 두른 가죽 갑옷입니다. 적들에게는 공포를, 아군에게는 경외심을 불러일으킵니다."
+  PAG_savage_special_forces_equipment_2_short: "철갑 방어구"
+
+  PAG_savage_special_forces_equipment_3: "최우수 부족 전사 장비"
+  PAG_savage_special_forces_equipment_3_desc: "가장 튼튼한 부품을 재활용하고 거대한 돌연변이의 뿔을 장식한 최정예 방어구입니다. 착용자의 높은 명성과 실력을 상징합니다."
+  PAG_savage_special_forces_equipment_3_short: "판금 가죽 갑옷"
+
+  ### | Unique | ###
+
+  riot_shield_equipment: "진압용 방패 장비"
+  riot_shield_equipment_desc: "군중 진압 및 방어선을 구축하기 위해 설계된 방패 장비입니다."
+  riot_shield_equipment_short: "진압 방패"
+
+  
+
+
+
+
+

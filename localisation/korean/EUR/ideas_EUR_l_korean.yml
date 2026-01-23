@@ -1,0 +1,100 @@
+﻿l_korean:
+ europa:0 "유로파 연방"
+ europa_desc:0 "핵투하 당시 모스크바에 발이 묶인 이민자들과 외교관, 그리고 여러 §Y유럽인§!들로 구성된 연방입니다. 이들은 시간이 흐르며 자신들만의 공동체, 즉 §Y'모스크바 속의 유럽'§!을 일궈냈습니다. 이들은 주로 자신들끼리 어울리는 것을 선호하며, 모스크바 메트로의 대다수를 차지하는 러시아인들과는 철저히 거리를 두려 합니다."
+ _unorganized_collective:0 "무질서한 집단"
+ _elected_decisions:0 "의회 의사결정"
+ _elected_representatives:0 "민심 대변인"
+
+ shrewd_diplomats:0 "기민한 외교관들"
+ shrewd_diplomats_desc:0 "자신들의 생존 환경을 고려할 때, §Y유로파 연방§!은 메트로의 정세를 유리하게 이끌 수 있는 영리한 대사들을 보유하고 있습니다. 이들은 역 간의 분쟁을 중재하거나 외부 역들과 비밀리에 거래를 진행하곤 하며, 때로는 다른 이들이 제3차 세계 대전 당시 유럽이 어떤 역할을 했는지 잊게 만들기도 합니다."
+ 
+ immigrant_military:0 "군사적 헌신"
+ immigrant_military_desc:0 "연방 의회는 유로파의 인력을 군사적 확장에 집중시키기로 결정했습니다."
+ EUR_military_flag:0 "유로파 군사주의"
+ 
+ immigrant_industrial:0 "산업적 헌신"
+ immigrant_industrial_desc:0 "연방 의회는 유로파의 인력을 산업적 발전에 집중시키기로 결정했습니다."
+ EUR_industrial_flag:0 "유로파 산업주의"
+ 
+ EUR_military_drive_1:0 "배포된 선전물"
+ EUR_military_drive_2:0 "군부 내의 노동자들"
+ EUR_military_drive_3:0 "모두가 다하는 의무"
+ 
+ EUR_economy_1:0 "호황기 경제"
+ EUR_economy_2:0 "안정된 경제"
+ EUR_economy_3:0 "침체된 경제"
+ EUR_economy_4:0 "파탄 난 경제"
+ EUR_has_economy:0 "유로파 경제 체제 수립"
+ EUR_activate_2nd_focus_tree:0 "세력 구축 완료"
+ 
+ EUR_italian_power_1:0 "이탈리아인 지지도: 매우 낮음"
+ EUR_italian_power_2:0 "이탈리아인 지지도: 낮음"
+ EUR_italian_power_3:0 "이탈리아인 지지도: 보통"
+ EUR_italian_power_4:0 "이탈리아인 지지도: 높음"
+ EUR_italian_power_5:0 "이탈리아인 지지도: 압도적"
+ 
+ eur_council_gui_name:0 "유로파 연방 의회"
+ 
+ british_majority_1:0 "영국인 다수"
+ british_majority:0 "영국인 다수"
+ italian_majority:0 "이탈리아인 다수"
+ italian_majority_1:0 "이탈리아인 다수"
+ italian_majority_2:0 "이탈리아인 다수"
+ british_majority_2:0 "영국인 다수"
+ 
+ remove_majorities_tt:0 "§Y이탈리아인§! 및 §Y영국인§! 다수 상태를 제거합니다."
+ _military_realist:0 "군사 현실주의자"
+ 
+ EUR_mil_power_5:0 "군사적 무능"
+ EUR_mil_power_5_desc: "20년대 초반, 과거의 명칭을 딴 혁명 국가인 §Y제2차 파리 코뮌§!이 붕괴된 이후 우리의 군대는 처참한 상태에 놓여 있습니다. 단순히 새로운 무기나 밑창이 붙어 있는 부츠를 보급하는 것만으로는 부족하며, 지휘 구조 전체를 완전히 개혁해야만 상황을 타개할 수 있습니다."
+ EUR_mil_power_4:0 "군사적 무능 IV"
+ EUR_mil_power_3:0 "군사적 무능 III"
+ EUR_mil_power_2:0 "군사적 무능 II"
+ EUR_mil_power_1:0 "군사적 무능 I"
+ EUR_competent_military_power: "유로파 무장군"
+ 
+ EUR_interventionism_idea:0 "개입주의"
+ EUR_neutrality_idea:0 "중립주의"
+ 
+ westernisation_1:0 "서구화"
+ westernisation_2:0 "서구화"
+ 
+ militia_formalisation_eu:0 "민병대 정규화"
+ EUR_worm_cult_hold_line:0 "전선 사수"
+ EUR_worm_cult_hold_line2:0 "전선 사수"
+ EUR_worm_cult_offensive:0 "새로운 공세"
+ EUR_worm_cult_offensive2:0 "새로운 공세"
+ 
+ europe_pro_immigration:0 "친이민 정책"
+ worm_rehabilitation:0 "큰 벌레 신봉자 갱생"
+ industrial_reform_europe:0 "산업 개혁"
+ schulz_project:0 "슐츠 프로젝트"
+ lessons_from_reds:0 "적색분자들로부터의 교훈"
+ 
+ european_unity:0 "유럽의 단결"
+ blood_and_bullets:0 "피와 탄환"
+ blood_and_bullets1:0 "피와 탄환"
+ words_and_wisdom:0 "언어와 지혜"
+ 
+ europe_industrial_powerhouse_more_output:0 "생산량 증가"
+ europe_industrial_powerhouse_more_build_speed:0 "건설 속도 증가"
+ 
+ schulz_speech:0 "슐츠의 연설"
+ 
+ europe_hanza_payment:0 "한자 동맹에 대금 지불"
+ 
+ commonwealth_army:0 "연방군"
+ 
+ hub_of_trade:0 "무역의 허브"
+ hub_of_trade2:0 "무역의 허브"
+ hub_of_trade3:0 "무역의 허브"
+ hub_of_trade4:0 "무역의 허브"
+ 
+ hub_of_science:0 "과학의 허브"
+ hub_of_science2:0 "과학의 허브"
+ hub_of_science3:0 "과학의 허브"
+ hub_of_science4:0 "과학의 허브"
+
+ EUR_kill_GWC:0 "정복자"
+
+ europe_rising_rome_sentiment:0 "고조되는 반의회 정서"

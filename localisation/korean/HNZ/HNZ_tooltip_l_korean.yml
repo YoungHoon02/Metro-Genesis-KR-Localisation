@@ -1,0 +1,44 @@
+﻿l_korean:
+ NATO_infiltration_modifier:0 "£NATO_texticon §CNATO§! 침투 확률"
+
+ HNZ_ring_line:0 "모든 환상선(Ring Line) 역에 §Y기반시설§! §G1§! 추가"
+
+ HNZ_grizzled_veterans_tt:0 "§Y개틀링 기관총과 폭발물 지원을 받는 베테랑 병력 2개 사단이 출현합니다.§!"
+
+ HNZ_heavy_team_tt:0 "§Y개틀링 지원 및 수색대를 포함한 정예 특수부대 3개 사단이 출현합니다.§!"
+
+ HNZ_foreign_merc_tt:0 "§Y야전 병원과 병참 지원을 갖춘 3개의 지상군 사단이 출현합니다.§!"
+
+ HNZ_new_military_laws_tt:0 "기존의 중앙군 및 공화국군 징집법을 상위 단계의 §Y중앙군§! 및 §Y공화국군§! 강화 징집법으로 대체합니다."
+
+ HNZ_MOB_merc_tt:0 "§Y헌병대 및 폭발물 지원을 받는 2개의 지상군 사단이 출현합니다.§!"
+
+ HNZ_pressure_reich_tt:0 "제4제국의 영토를 압박하고 영향력을 행사하기 위한 일련의 §Y결정§!들을 활성화합니다."
+
+ HNZ_trade_with_reich_tt:0 "제4제국과 평화적인 무역 관계를 맺기 위한 일련의 §Y결정§!들을 활성화합니다."
+
+ HNZ_trade_with_mobsters_tt:0 "메트로의 범죄 조직들과 거래하기 위한 일련의 §Y결정§!들을 활성화합니다."
+
+ HNZ_press_into_service_tt:0 "§Y지상 탐사 임무를 수행 중인 대원들을 전투에 소집합니다!§!"
+
+ HNZ_committee_war_plans:0 "§C잠재적인 적국들에 맞서 구체적인 전쟁 계획을 수립할 수 있게 됩니다.§!"
+
+ command_power_more_than_30:0 "지휘력 > 30"
+
+ HNZ_committee_war_plans_tt:0 "§O전쟁 시 적대 세력에 대응하기 위한 다양한 전략적 결정들을 사용할 수 있게 됩니다.§!"
+
+ HNZ_joint_operations_tt:0 "§O정규군과 레인저(기사단)의 합동 군사 훈련을 요청할 수 있는 기능을 활성화합니다.§!"
+
+ HNZ_southern_reclamation_authority_tt:0 "§g메트로 남부 터널을 소탕하고 세바스토폴스카야 역과 연결하는 임무를 띤 '남부 재건국'이 툴스카야 역에 설립됩니다.§!"
+
+ HNZ_OVMSB_tooltip:0 "§Y병참 지원을 받는 2개의 드레진(철도 차량) 대대가 출현합니다.§!"
+
+ HNZ_stalker_elites_tt:0 "§Y개틀링 지원과 폭발물 지원을 갖춘 한자 연맹의 정예 스토커 특수 작전 부대 1개가 수도에 출현합니다.§!"
+
+ HNZ_reclamation_tt:0 "§Y모스크바의 폐허를 탐색하여 자원과 귀중품을 발굴하는 일련의 개척 결정들을 활성화합니다.§!"
+
+ HNZ_satellite_stations_decision_tt:0 "\n§Y주변의 소규모 역들을 연맹의 영향권(위성 역)으로 끌어들이기 위한 일련의 결정들을 활성화합니다!§!"
+
+  satellite_small_eco_subversion_tt:0 "§O이는 해당 위성 역의 경제 구조에 소규모 공작을 가하는 것입니다.§!\n"
+
+  satellite_small_pol_subversion_tt:0 "§O이는 해당 위성 역의 정치 체제에 소규모 전복 공작을 가하는 것입니다.§!\n"

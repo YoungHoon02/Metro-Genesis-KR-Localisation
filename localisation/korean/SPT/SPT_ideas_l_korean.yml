@@ -1,0 +1,81 @@
+﻿l_korean:
+ the_order:0 "오더의 레인저"
+ the_order_desc:0 "'스파르타'라 불리는 오더의 레인저들은 전쟁 전 스페츠나츠와 정규군 출신들로 구성된 엘리트 병사 집단입니다. 이들은 수많은 전투를 치러낸 베테랑들이며, 메트로 내에서 가장 숙련되고 뛰어난 무력을 자랑합니다."
+
+ protectors:0 "인류의 수호자"
+ protectors_desc:0 "오더의 레인저들은 인류의 생존과 공익 외에는 그 어떤 이데올로기나 정부도 따르지 않습니다. 종종 강도나 돌연변이의 위협에 맞서 정착지를 돕기도 합니다. 공산주의자나 제국과 같은 중립 세력의 군대조차 스파르타인들을 두려워하면서도 존경합니다."
+
+ rigorous_training:0 "혹독한 훈련"
+ rigorous_training_desc:0 "오더의 본질은 오직 최고만을 요구하는 것입니다. 모집병들은 엄격한 선발 과정을 거쳐 스파르타의 일원이 됩니다. 그곳에서 진정한 스파르타인으로 거듭나기 위해 고강도의 신체 훈련과 시험을 통과해야 합니다."
+ 
+ SPT_ranger_recruitment:0 "레인저 모집"
+ SPT_ranger_recruitment_desc:0 "가장 위대하고 숙련된 병사들 중에서 모집병을 엄선하며, 이들은 최정예 중의 최정예가 되기 위해 더욱 철저한 훈련과 연습 과정을 거칩니다."
+
+
+ SPT_ranger_recruitment_extensive:0 "대규모 모집"
+ SPT_ranger_recruitment_extensive_desc:0 "절박한 시기에는 평소와 다른 결정이 필요합니다. 우리 주변의 세상이 쇠퇴하고 불타오를 때, 대열을 채울 더 많은 인원이 필요합니다. §Y누가 세상을 구할 것인가?§!"
+
+ SPT_ranger_recruitment_station_auxiliary:0 "거점 보조 부대"
+ SPT_ranger_recruitment_station_auxiliary_desc:0 "«봉사자»들은 인류의 남은 미래를 보호하기 위해 일어서야 합니다. 징집병과 민병대가 우리 레인저들과 협업하여, 비록 급조되었을지라도 강력하고 통합된 전투력을 형성할 것입니다."
+
+ SPT_target_MOB: "적대 행위 개시"
+
+ ### | National Spirits | ###
+
+ SPT_salvage_resources_1:0 "자원 보관소 1단계"
+ SPT_salvage_resources_2:0 "자원 보관소 2단계"
+ SPT_salvage_resources_3:0 "자원 보관소 3단계"
+
+ mutant_danger_0:0 "압도적인 돌연변이 위협"
+ mutant_danger_1:0 "심각한 돌연변이 위협"
+ mutant_danger_2:0 "중대한 돌연변이 위협"
+ mutant_danger_3:0 "수많은 돌연변이 위협"
+ mutant_danger_4:0 "드문 돌연변이 위협"
+
+ rapid_deployments:0 "신속 배치"
+
+ the_order_help:0 "레인저 지원"
+
+ joint_planning:0 "투시노-스파르판 공동 계획"
+
+ TSH_city_states:0 "자유 도시 연합"
+
+ arms_deal_paying:0 "무기 거래 대금 지불"
+
+ arms_deal_payment:0 "무기 거래 대금 수령"
+
+ SPT_send_recruits_tt:0 "§Y신병들을 페르보마이스카야로 보내 훈련시킵니다. §!§G2§!§Y년 후, 그들은 잘 훈련된 상태로 복귀하여 전투에 투입될 준비를 마칠 것입니다!§!"
+
+ fortification_building_experience:0 "요새 구축 경험"
+
+ SPT_mutants_attack_MDR:0 "§Y가장 예상치 못한 일이 일어났습니다...§!"
+
+ SPT_mutants_attack_MDR_tt:0 "§G페르보마이스카야에 남겨진 레인저들은 지원군이 올 때까지 끝까지 싸울 것입니다!§!"
+
+ spartan_brotherhood:0 "스파르타 형제단"
+
+ tested_but_not_defeated:0 "시련을 겪었으나 굴복하지 않음"
+
+ spartan_construction_corps:0 "스파르타 건설 부대"
+
+ the_order_help_2:0 "강철의 포위망"
+
+ SPT_eyes_in_the_metro:0 "메트로의 눈"
+
+ SPT_hunters_growing_influence:0 "헌터의 커지는 영향력"
+
+ SPT_smolenskaya_rush:0 "스몰렌스카야 인구 급증"
+
+ SPT_memories_of_hunter:0 "헌터의 기억"
+ SPT_hostile_kill_it: "적대적이라면..."
+ SPT_military_concerns: "군사적 우려"
+ SPT_meritocracy: "능력주의 승진"
+ SPT_armory_spec_ops_1: "특수 작전 장비 1단계"
+ SPT_armory_spec_ops_2: "특수 작전 장비 2단계"
+ SPT_armory_spec_ops_3: "특수 작전 장비 3단계"
+ SPT_armory_spec_ops_4: "특수 작전 장비 4단계"
+ SPT_armory_infantry_1: "보병 장비 1단계"
+ SPT_armory_infantry_2: "보병 장비 2단계"
+ SPT_armory_infantry_3: "보병 장비 3단계"
+ SPT_armory_infantry_4: "보병 장비 4단계"
+ SPT_ARBAT_equipment: "방 radiation 차폐복"

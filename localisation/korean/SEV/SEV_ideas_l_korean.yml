@@ -1,0 +1,42 @@
+﻿l_korean:
+ SEV_hep:0 "수력 발전"
+ SEV_hep_desc:0 "지하수를 이용하여 전기를 생산하는 다수의 수력 터빈을 보유하고 있습니다. 세바스토폴은 거대 메트로 남부 지역의 상당 부분에 전력을 공급하는 핵심 역입니다."
+
+ SEV_hanseatic_reliance:0 "한자 의존성"
+ SEV_hanseatic_reliance_desc:0 "§YKoltsevskaya§!(콜체바야) 선, 즉 순환선 바로 옆에 위치한 덕분에 유망한 경제적 전망을 누릴 수 있습니다. 하지만 이는 한자 상인들과 그들의 유통단이 드나드는 통로가 되기도 합니다. 여기에 세바스토폴 근처에서 끊임없이 벌어지는 돌연변이들의 공격까지 더해져, 이 공동체는 한자 상인들이 역으로 가져다주는 귀중한 보급품 비축분에 전적으로 의존하고 있습니다."
+
+ SEV_mutants:0 "돌연변이의 위협"
+ SEV_mutants_desc:0 "세바스토폴의 주민들은 남쪽과 지상으로부터 쏟아져 들어오는 돌연변이 무리들과 끊임없이 사투를 벌이고 있습니다. 끝없는 돌연변이의 공격에 시달리는 이곳의 삶은 살아가는 것이 아니라, 자연과의 처절하고도 끝없는 생존 투쟁 그 자체입니다."
+
+ SEV_military_industrial_complex_idea:0 "군사 산업 복합체"
+ SEV_military_industrial_complex_idea_desc:0 ""
+
+ SEV_stalker_focus_idea_1:0 "스토커 중심"
+ SEV_stalker_focus_idea_1_desc:0 ""
+
+ SEV_stalker_focus_idea_2:0 "확장된 스토커 임무"
+ SEV_stalker_focus_idea_2_desc:0 ""
+
+ SEV_army_priority_idea:0 "군대 우선순위"
+ SEV_army_priority_idea_desc:0 ""
+
+ SEV_better_organization_idea:0 "조직력 개선"
+ SEV_better_organization_idea_desc:0 ""
+
+ SEV_merchant_guild_idea:0 "상인 길드"
+ SEV_merchant_guild_idea_desc:0 ""
+
+ SEV_elite_tunnel_guards_idea:0 "정예 터널 경비대"
+ SEV_elite_tunnel_guards_idea_desc:0 ""
+
+ SEV_undead_soldiers_idea:0 "언데드 병사"
+ SEV_undead_soldiers_idea_desc:0 ""
+
+ SEV_hanza_joint_operations_idea:0 "한자 동맹과의 공동 작전"
+ SEV_hanza_joint_operations_idea_desc:0 ""
+ 
+ SEV_income: "수입"
+ SEV_exports: "수출 의존"
+ SEV_HPP_energy_3: "남부의 전력 창고"
+ SEV_HPP_energy_2: "에너지 수요 충족"
+ SEV_HPP_energy_1: "전력을 지배하는 자..."

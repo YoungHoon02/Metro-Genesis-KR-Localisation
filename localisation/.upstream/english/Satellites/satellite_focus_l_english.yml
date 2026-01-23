@@ -1,0 +1,342 @@
+﻿l_english:
+ satellite_economy:0 "Focus of the Hearth"
+ satellite_economy_desc:0 ""
+
+ satellite_construction_1:0 "Reconstruction of [ROOT.capital.GetName] station"
+ satellite_construction_1_desc:0 "It has been some 15 years since armageddon, and yet our citizens still live in filth and destitute. If anything [ROOT.capital.GetName] is in solid need of a sweep. Reconstruction efforts wouldn't entail much other than clearing out debris and removing the amount of garbage which clutters the station tracks, but would immensely help with the image of the station. The Beating heart of our community."
+
+ satellite_defend_the_bulwark:0 "Defending the Bulwark"
+ satellite_defend_the_bulwark_desc:0 "With miles of tracks stretching far deep into the underground, who knows what may lurk in the dark depths of the Metro? You've surely heard of the reports of mutant hordes which plague Sevastopol, or the ghosts which stalk the Arbatskaya Confederacy or even the freak rumours of lanky and dark eldritch beings which stalk the far away Tagansko-Krasnopresnenskaya line, and that doesn't include the more human threats of roving bands of Satanists or Nazis. Erecting measured defensive lines will make sure work that [ROOT.capital.GetName] doesn't become the new host of gossip of rumours."
+
+ satellite_defensive_1:0 "Manning the Watchposts"
+ satellite_defensive_1_desc:0 "With a perimeter line in place it won't do much to stop a bloodthirsty pack of Nosalis - we'll need more than just barbed wire to keep any watching gaze at bay. More bodies will be needed to peer into the dark depths of the metro... Lets just pray that nothing stares back at them."
+
+ satellite_military_emplacements:0 "Military Emplacements"
+ satellite_military_emplacements_desc:0 "Manned, with routine watchposts and rotational duties. Only thing left for our stockade is a centerpiece or two. Maybe a Flamethrower or two or even a DshK machinegun pilfered from topside? It wont come cheap, as nothing usually does, but we'll be wishing we had spent the extra bullets once our territory comes under attack."
+
+ satellite_communication_lines:0 "Communication Links"
+ satellite_communication_lines_desc:0 ""
+
+ satellite_ied_mines:0 "IED Mines"
+ satellite_ied_mines_desc:0 ""
+
+ satellite_defensive_4:0 "Pool Technical Skills"
+ satellite_defensive_4_desc:0 ""
+
+ satellite_military_investment:0 "Investing in an Arsenal"
+ satellite_military_investment_desc:0 ""
+
+ satellite_arsenal_stockpiling:0 "Armament Stockpiles"
+ satellite_arsenal_stockpiling_desc:0 ""
+
+ satellite_ordinance_depot:0 "Ordinance Depot"
+ satellite_ordinance_depot_desc:0 ""
+
+ satellite_construction_3:0 "Expand the Civilian Markets"
+ satellite_construction_3_desc:0 ""
+
+ satellite_construction_6:0 "Promote Domestic Produce"
+ satellite_construction_6_desc:0 ""
+
+ satellite_construction_9:0 "Unifications of Labour"
+ satellite_construction_9_desc:0 ""
+
+ satellite_construction_5:0 "Establishing a Library"
+ satellite_construction_5_desc:0 ""
+
+ satellite_economy_5:0 "With stout Labour..."
+ satellite_economy_5_desc:0 ""
+
+ satellite_economy_4:0 "Salvaging Gasoline Generators"
+ satellite_economy_4_desc:0 ""
+
+ satellite_economy_3:0 "Toolmaking"
+ satellite_economy_3_desc:0 ""
+
+ satellite_economy_2:0 "Scavenging The Refuse"
+ satellite_economy_2_desc:0 ""
+
+ satellite_military:0 "Army of [ROOT.GetNameDef]"
+ satellite_military_desc:0 ""
+
+ satellite_station_guard: "Armament Focus"
+ satellite_station_guard_desc: ""
+
+ satellite_station_arms: "Commissariat of Military Discipline"
+ satellite_station_arms_desc: ""
+
+ satellite_station_arms_3: "Re-Seal old Filters"
+ satellite_station_arms_3_desc: ""
+
+ satellite_station_special_forces: "Special Forces Effort"
+ satellite_station_special_forces_desc: ""
+
+ satellite_station_arms_2: "Standardize Attire"
+ satellite_station_arms_2_desc: ""
+
+ satellite_station_guard_explosive: "Explosive Arms Focus"
+ satellite_station_guard_explosive_desc: ""
+
+ satellite_station_guard_gattling: "LMG Focus"
+ satellite_station_guard_gattling_desc: ""
+
+ satellite_station_guard_support_1: "Support Team Focus"
+ satellite_station_guard_support_1_desc: ""
+
+ satellite_station_guard_support_2: "Support Team Focus II"
+ satellite_station_guard_support_2_desc: ""
+
+ satellite_military_1: "Doctrine Effort I"
+ satellite_military_1_desc: ""
+
+ satellite_military_2: "Doctrine Effort II"
+ satellite_military_2_desc: ""
+
+ satellite_the_bigger_picture: "Centralized Training Regimen"
+ satellite_the_bigger_picture_desc: ""
+
+ satellite_commander_1: "A Soldiers Path"
+ satellite_commander_1_desc: ""
+
+ satellite_commander_2: "Promote upon Merit"
+ satellite_commander_2_desc: ""
+
+ satellite_mandatory_servitude: "Mandated Servitude"
+ satellite_mandatory_servitude_desc: ""
+
+ satellite_rigorous_training: "Rigorous Training"
+ satellite_rigorous_training_desc: ""
+
+ satellite_rigorous_training_A: "Strategic Coordination"
+ satellite_rigorous_training_A_desc: ""
+
+ satellite_rigorous_training_B: "Precise Coordination"
+ satellite_rigorous_training_B_desc: ""
+
+ satellite_army_military_1: "Organizing the Station Watch"
+ satellite_army_military_1_desc: ""
+
+ satellite_army_military_2: "Professional Corps"
+ satellite_army_military_2_desc: ""
+
+ satellite_army_military_3: "Unified Training Decree"
+ satellite_army_military_3_desc: ""
+
+ satellite_military_research_1: "Armament Procurement"
+ satellite_military_research_1desc: ""
+
+ satellite_military_research_2: "Explosive Focusing"
+ satellite_military_research_2desc: ""
+
+ satellite_military_research_3: "Fireteam Focus"
+ satellite_military_research_3desc: ""
+
+ satellite_military_research_4: "Prioritize Special Forces"
+ satellite_military_research_4desc: ""
+
+ satellite_domestics_1:0 "Domestics-based Society"
+ satellite_domestics_1_desc:0 ""
+
+ satellite_trade:0 "Export Economy"
+ satellite_trade_desc:0 ""
+
+ satellite_arsenal:0 "Military Artisans"
+ satellite_arsenal_desc:0 ""
+
+ satellite_investment_redline:0 "Seek investments From The Redline"
+ satellite_investment_redline_desc:0 ""
+
+ satellite_investment_hanza:0 "Seek Investments From The Hanza"
+ satellite_investment_hanza_desc:0 ""
+
+ satellite_investment_domestics:0 "Tailor Industry"
+ satellite_investment_domestics_desc:0 ""
+
+ satellite_investment_trade:0 "Salvage Management Business"
+ satellite_investment_trade_desc:0 ""
+
+ satellite_investment_arsenal:0 "Streamlined Component Manufacturing"
+ satellite_investment_arsenal_desc:0 ""
+
+ satellite_investment_4:0 "Armaments from the Sokol'"
+ satellite_investment_4_desc:0 ""
+
+ satellite_investment_5:0 "Firearms from Koltsevaya"
+ satellite_investment_5_desc:0 ""
+
+ satellite_investment_6:0 "Economic Security"
+ satellite_investment_6_desc:0 ""
+
+ satellite_investment_alone:0 "Forge our own Destiny"
+ satellite_investment_alone_desc:0 ""
+
+ satellite_investment_alone_3:0 "Safe-er Merchant Routes"
+ satellite_investment_alone_3_desc:0 ""
+
+ satellite_our_own_technicians:0 "Our Own Technicians"
+ satellite_our_own_technicians_desc:0 ""
+
+ satellite_specialised_production:0 "Specialized Production"
+ satellite_specialised_production_desc:0 ""
+
+ satellite_chemicals:0 "Our own Laboratory"
+ satellite_chemicals_desc:0 ""
+
+ satellite_envy_of_polis: "Envy of Polis"
+ satellite_envy_of_polis_desc: "We have struggled and toiled, and yet our research capacity is the envy of our neighbors in spite of the hardships our community faces. Polis may be the bastion of old world Knowledge, but ours applies this knowledge out in the field where it is needed."
+
+ satellite_autarky:0 "Economic Autarky"
+ satellite_autarky_desc:0 ""
+
+ satellite_defence_against_fascism:0 "Defence Against Fascism"
+ satellite_defence_against_fascism_desc:0 ""
+
+ satellite_antifascist_army:0 "Operation Deep-Strike"
+ satellite_antifascist_army_desc:0 ""
+ satellite_antifascist_army_tt: "A Squad of Special Forces will spawn at our Capital Station"
+
+ satellite_antifascist_army_2: "Until the Last Gaping Breath"
+ satellite_antifascist_army_2_desc: "No Resolve, No Peace and no Conclusion can be broached with Fascists which results without bloodshed."
+
+ satellite_antifascist_army_3: "Spill Blood with Every Inch"
+ satellite_antifascist_army_3_desc: "We wont fight quietly; like a cornered dog we will rip, tear and bite with all the mustered courage we've got."
+
+ satellite_struggle_alone:0 "Struggle Alone"
+ satellite_struggle_alone_desc:0 ""
+
+ satellite_struggle_alone_2:0 "Tunnel Surplus Arms"
+ satellite_struggle_alone_2_desc:0 ""
+
+ satellite_antifascist_decisions:0 "Anti-Fascist Campaigns"
+ satellite_antifascist_decisions_desc:0 ""
+
+ satellite_enable_antifascist_decisions:0 "§YUnlocks Anti-Fascist Campaign Decisions§!"
+
+ satellite_seek_help_from_the_redline:0 "Seek Support from the Redline"
+ satellite_seek_help_from_the_redline_desc:0 "The Redline, and the Reich are gridlocked in an eternal struggle for supremacy. As the saying goes, the enemy of my enemy... Perhaps the Redline may offer assistance against the Reich?"
+
+ satellite_seek_help_from_the_redline_2:0 "Collaborative Containment Efforts"
+ satellite_seek_help_from_the_redline_2_desc:0 ""
+ satellite_seek_help_from_the_redline_2_tt: "The Redline will help train our forces. Spawn 2 Regular Squads on our Capital Station."
+
+ satellite_commander_buff:0 "Lessons from wars Past"
+ satellite_commander_buff_desc:0 "It is known that nearly 100 years ago now that we, Russia once defeated this menace. It took a great deal of sacrifice and effort to eradicate this menace from the face of the earth and cast it into the halls of history. It seems that we must take this effort upon ourselves again.\nThe Reich are likely to seek to replicate the same tactics, 'blitzkrieg', or a lightning offensive as their contemporaries had done so before."
+
+ satellite_counterattacks:0 "Strike the Source"
+ satellite_counterattacks_desc:0 ""
+
+ satellite_enable_direct_antifascist_decisions:0 "§YUnlocks ability to deal with the Fascist Menace head-on through §!§RBorder-War§! §YDecisions!§!"
+
+ satellite_attack_the_reich:0 "§CBlood on the Reich§!"
+ satellite_attack_the_reich_desc:0 ""
+
+ satellite_our_path:0 "Our Path"
+ satellite_our_path_desc:0 ""
+
+ satellite_winds_of_change:0 "Winds of Change"
+ satellite_winds_of_change_desc:0 ""
+
+ satellite_kick_out_foreign_merchants:0 "Expunge Foreign Merchants"
+ satellite_kick_out_foreign_merchants_desc:0 ""
+
+ satellite_consolidate_our_own_economy:0 "Consolidate our Economy"
+ satellite_consolidate_our_own_economy_desc:0 ""
+
+ satellite_against_the_proverbial_powers:0 "Against the Proverbial Powers"
+ satellite_against_the_proverbial_powers_desc:0 ""
+
+ satellite_not_reliant_on_no_one:0 "We are not reliant on the Hanseatic League or Redline."
+
+ satellite_align_the_sokol:0 "Align Ourselves with the Redline"
+ satellite_align_the_sokol_desc:0 ""
+
+ satellite_soviet_nostalgia:0 "Project Soviet Nostalgia"
+ satellite_soviet_nostalgia_desc:0 ""
+
+ satellite_soviet_help:0 "Seek Mutual Support from the Redline"
+ satellite_soviet_help_desc:0 ""
+
+ satellite_strike_the_hanseatic_league:0 "Strike the Hanseatic League"
+ satellite_strike_the_hanseatic_league_desc:0 ""
+
+ satellite_deal_with_the_devil:0 "A deal with the Devil"
+ satellite_deal_with_the_devil_desc:0 ""
+
+ _satellite_kill_hanza_assistance:0 "We will §YReceive§! an event to join [RED.GetNameWithFlag] in a war against [HNZ.GetNameWithFlag] if their conflict boils into a §RFull-Scale WAR!§!"
+ _satellite_redline_assistance:0 "In return, they will lend assistance to our R&D efforts!"
+
+ satellite_our_own_path:0 "Our own Path"
+ satellite_our_own_path_desc:0 "How can we follow someone else if its not right for us? We shall forge our own destiny. Whether that destiny be through the flames of war, or the prosperity in peace or the pitch black darkness of the Underground. We are the masters of our fate."
+
+ satellite_a_new_power_dawns:0 "A new Power Dawns"
+ satellite_a_new_power_dawns_desc:0 "As the future of the Metro remains uncertain, history is written by those who haven't forgotten to write. Our Station despite its frankly appalling literacy rates wont be left in the past. Hanseatic or Socialist, our station will become a rising power in the Metro which shall challenge the status-quo."
+
+ satellite_de_sovietization:0 "De-Sovietization"
+ satellite_de_sovietization_desc:0 ""
+
+ satellite_strike_the_redline:0 "Strike the Redline"
+ satellite_strike_the_redline_desc:0 ""
+
+ satellite_in_the_interests_of_the_anti_revolution:0 "In the Interests of the Counter-Revolution"
+ satellite_in_the_interests_of_the_anti_revolution_desc:0 ""
+
+ _satellite_kill_redline_assistance:0 "We will §YReceive§! an event to join [HNZ.GetNameWithFlag] in a war against [RED.GetNameWithFlag] if their conflict boils into a §RFull-Scale WAR!§!"
+ _satellite_hanza_assistance:0 "In return, they will lend assistance to our R&D efforts!"
+
+ satellite_status_quo:0 "With the Status Quo"
+ satellite_status_quo_desc:0 ""
+
+ satellite_guarantee_polis:0 "guarantee Polis"
+ satellite_guarantee_polis_desc:0 "The last place on this earth which remembers the world before. It would be wise to keep them safe from threats near and far."
+
+ access_polis_education_decision:0 "Unlocks the ability to access Polis' Libraries to improve our §GEducation Level§!"
+
+ satellite_assist_the_rangers:0 "Assist the Rangers"
+ satellite_assist_the_rangers_desc:0 "The Rangers of the order are a paramilitary force which serves no higher power than the survival of humanity. Petrov swears he once saw a single lone Ranger take on half a dozen bandits and come out unscarred and unscathed. Of course, Pavel was drunk as a mule when he witnessed this. But whatever the case is the Rangers are not to be fucked with."
+
+ _satellite_receive_spartan_character:0 "The Rangers will send us a military advisor to help train our army."
+
+ satellite_support_the_hanseatic_league:0 "Support the Hanseatic League"
+ satellite_support_the_hanseatic_league_desc:0 ""
+
+ satellite_equal_opportunity_member:0 "Equal Opportunity Member"
+ satellite_equal_opportunity_member_desc:0 ""
+
+ satellite_anti_communist_coalition:0 "Reform the Anti-Communist Coalition"
+ satellite_anti_communist_coalition_desc:0 ""
+
+ satellite_red_alert:0 "Red Alert"
+ satellite_red_alert_desc:0 ""
+
+ satellite_militarization: "Re-Gearing our Weaponsmiths"
+ satellite_militarization_desc: "There is no knowing when the Reichs forces shall show up on our door. Maybe tomorrow, next week? Or they're already plotting entries into our station. Our Weaponsmiths must be put on overtime duties, if we're going to produce enough. A gun for every man, or 3."
+
+### Spartan stuff ###
+
+ satellite_intergrate_industries: "Technican Liaisons"
+ satellite_intergrate_industries_desc: ""
+
+ satellite_assistance_against_MOB: "Help Against the Savages"
+ satellite_assistance_against_MOB_desc: ""
+
+ satellite_ranger_initialisation: "Ranger Initialisation"
+ satellite_ranger_initialisation_desc: ""
+ satellite_path_of_ranger: "\nThis will set us on the path to becoming a §GTrue§! integrated member of the Order. We will §Rforfeit§! our current economic and military laws in return for exclusive §CRanger Policies§!.\n\n"
+
+ satellite_ranger_spec_ops: "Curated Gear"
+ satellite_ranger_spec_ops_desc: ""
+
+ satellite_bastion_of_humanity: "Bastion of Humanity"
+ satellite_bastion_of_humanity_desc: ""
+
+ satellite_equal_amongst_peers: "Equal Amongst Peers"
+ satellite_equal_amongst_peers_desc: ""
+
+ satellite_allow_orderly_recruitment: "Allow Commoner Recruitment"
+ satellite_allow_orderly_recruitment_desc: ""
+
+ satellite_draw_from_the_commoners: "Draw Recruits from Stations"
+ satellite_draw_from_the_commoners_desc: ""
+
+ satellite_stalker_intergration: "Stalker Intergration"
+ satellite_stalker_intergration_desc: ""

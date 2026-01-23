@@ -1,0 +1,49 @@
+﻿l_korean:
+  GWC_burn_technology:0 "§R기술 소각§!"
+  GWC_burn_technology_desc:0 "부패한 불신자들은 마치 구세계의 유물들이 자신들을 죄악과 불행에서 구원해 줄 것처럼 매달리고 있습니다. 모든 기술은 파괴되어야 하며, 인류의 암흑기가 남긴 추악한 흔적들은 남김없이 사라져야 합니다!\n\n부정한 역들에서 노획한 장비나 화학 물질, 전자 부품들을 불태우거나 포로를 제물로 바침으로써 지렁이님의 '은총'을 얻을 수 있습니다. 은총은 일시적인 강화 효과나 더 강력한 보너스와 교환할 수 있습니다."
+  GWC_deploy_the_cultists_into_field:0 "광신도 전쟁단"
+  GWC_deploy_the_cultists_into_field_desc:0 "사제께서 평화를 설파하며 전쟁을 거부하시지만, 우리의 터전을 위협으로부터 지키는 것은 완전히 다른 문제입니다. 상황이 절박해지면 지렁이님의 전령들이 직접 전투에 참여할 것이며, 이는 우리 전사들에게 거대한 사기 진작의 계기가 될 것입니다."
+  GWC_burn_technology_chemicals:0 "화학 물질 소각"
+  GWC_burn_technology_chemicals_desc:0 "포위된 역들에서 노획한 부정한 화학 물질들을 불태워 지령이님께 향취를 바칩니다."
+  GWC_burn_technology_electronics:0 "전자 부품 소각"
+  GWC_burn_technology_electronics_desc:0 "이교도들이 맹신하는 조잡한 기계 장치와 회로들을 파괴하여 기술의 허망함을 증명합니다."
+  GWC_burn_technology_guns:0 "총기 해체"
+  GWC_burn_technology_guns_desc:0 "불신자들의 부정한 화기들을 부수어 더러운 발사체들이 더 이상 터널을 더럽히지 못하게 합니다."
+  GWC_infiltration_LR:0 "이교도 침투"
+  GWC_announce_a_day_of_worship:0 "신성한 예배일 선포"
+  GWC_militarization:0 "군사화"
+  GWC_purchase_military_buff_1:0 "강화 효과 구매"
+  GWC_has_deployed_cultists:0 "§Y결정 완료§! 광신도 전쟁단"
+  GWC_purchase_military_buff_2:0 "강화 효과 구매"
+  GWC_purchase_military_buff_3:0 "강화 효과 구매"
+  GWC_purchase_military_buff_4:0 "강화 효과 구매"
+  GWC_purchase_military_buff_5:0 "강화 효과 구매"
+
+  ### LR Related Stuff ##
+  GWC_LR_infiltration:0 "§Y[FROM.GetNameDef]§! 침투"
+  GWC_infiltration:0 "만약 §Y[FROM.GetNameDef]§!의 첩보망 강도가 §Y15%§!를 넘으면, 그들에게 §R적대적§! 행위를 가할 수 있습니다.\n첩보망 강도가 §Y50%§!를 넘으면, 우리는 §Y상당한§! 전복 능력을 갖추게 됩니다."
+  GWC_infiltration_minor:0 "어둠 속의 목소리가 들리기 시작합니다."
+  GWC_infiltration_considerable:0 "우리의 영향력이 이교도들의 일상 깊숙이 스며들었습니다."
+
+
+  GWC_LR_infiltration_small_steal_consumerables:0 "§Y[FROM.GetFlag][FROM.GetNameDef]§! - 소비재 탈취"
+  GWC_LR_infiltration_small_sabotage:0 "§Y[FROM.GetFlag][FROM.GetNameDef]§! - 태업 공작"
+  GWC_LR_infiltration_small_frighten_traders:0 "§Y[FROM.GetFlag][FROM.GetNameDef]§! - 상인 위협"
+  GWC_LR_infiltration_medium_kidnap:0 "§Y[FROM.GetFlag][FROM.GetNameDef]§! - 어린아이 납치"
+  GWC_LR_infiltration_medium_steal_resources:0 "§Y[FROM.GetFlag][FROM.GetNameDef]§! - 자원 탈취"
+  GWC_LR_infiltration_medium_strike_terror:0 "§Y[FROM.GetFlag][FROM.GetNameDef]§! - 공포 확산"
+  GWC_LR_infiltration_war:0 "§Y[FROM.GetFlag][FROM.GetNameDef]§! - 이교도 타격!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,267 @@
+﻿l_korean:
+ ### Generic ###
+  state_was_renamed_communist: "역의 이름이 공산주의식으로 변경되었습니다"
+  state_was_renamed_berilag: "역이 특수 수용소(베릴라그)로 개칭되었습니다"
+  state_was_renamed_trotskyist: "역의 이름이 트로츠키주의식으로 변경되었습니다"
+  state_was_renamed_stalinist: "역의 이름이 스탈린주의식으로 변경되었습니다"
+  preserved_soviet_legacy: "소비에트의 유산을 보존했습니다"
+  conducted_desovietization: "역의 탈소비에트화를 단행했습니다"
+  state_was_renamed_nazi: "역의 이름이 나치식으로 변경되었습니다"
+  state_was_renamed_bandit: "역의 이름이 도적식으로 변경되었습니다"
+  KAL_madness: "역의 명칭이 차르주의식으로 변경되었습니다"
+  has_been_denigrated: "역이 끝없는 광기와 심연 속으로 삼켜졌습니다"
+
+  kept_the_soviet_name_228: "역을 점령한 후 새로운 소비에트식 명칭을 유지하기로 했습니다"
+  kept_the_new_name_228: "역을 점령한 국가가 새로운 소련식 이름을 선택했습니다"
+  returned_to_the_historical_name: "역을 점령한 국가가 역사적인 이름으로 복구했습니다"
+  kept_the_soviet_name_306: "역의 이름을 재지정할 때 소비에트식 이름을 선호하기로 했습니다"
+  a_look_into_the_future: "제4제국 붕괴 후, 점령국이 역의 미래를 위한 명칭을 선택했습니다"
+  supported_stalinism: "스탈린주의를 지지했습니다"
+
+ #Decisions#
+  generic_rename_decisions: "역명 재건"
+
+  generic_rename_teatralnaya: "역명 변경: §O[330.GetName]§!"
+  generic_rename_aleksandrovsky_sad: "역명 변경: §O[244.GetName]§!"
+  generic_rename_state_228: "역명 변경: §O[228.GetName]§!"
+  generic_rename_sportivnaya: "역명 변경: §O[250.GetName]§!"
+  generic_rename_sokolniki: "역명 변경: §O[329.GetName]§!"
+  generic_rename_preobrazhenskaya_ploschad: "역명 변경: §O[264.GetName]§!"
+  generic_rename_chistye_prudy: "역명 변경: §O[245.GetName]§!"
+  generic_rename_okhotny_ryad: "역명 변경: §O[362.GetName]§!"
+  generic_rename_tverskaya: "역 이름 변경: §O[306.GetName]§!"
+  generic_rename_vorobyovy_gory: "역 이름 변경: §O[288.GetName]§!"
+  generic_rename_tsaritsyno: "역 이름 변경: §O[234.GetName]§!"
+  generic_rename_alekseyevskaya: "역 이름 변경: §O[317.GetName]§!"
+  generic_rename_sukharevskaya: "역 이름 변경: §O[262.GetName]§!"
+  generic_rename_state_315: "역 이름 변경: §O[315.GetName]§!"
+  generic_rename_state_353: "역 이름 변경: §O[353.GetName]§!"
+  generic_rename_vyhino: "역 이름 변경: §O[356.GetName]§!"
+
+ #Events#
+
+  generic_rename_event.1.t: "역명 변경: [330.GetName]"
+  generic_rename_event.1.d: "평화 조약의 결과로 테아트랄나야 역에 진입했습니다. 아직 할 일이 태산입니다... 우선 잔존 공산주의자들을 소탕해야 하고, 격전이 벌어졌던 기지를 수리해야 합니다. 그리고 가장 중요한 문제를 해결해야 하죠."
+  generic_rename_event.1.a: "볼쇼이 극장의 모습은 어떨지 궁금하군."
+
+  generic_rename_event.2.t: "역명 변경: [244.GetName]"
+  generic_rename_event.2.d: "사회주의자들의 손에서 인류의 요람을 되찾았습니다. 하지만 대대적인 복구 작업이 필요합니다. 알렉산드로프스키 사드 역을 다시 한번 빛나게 만듭시다!"
+  generic_rename_event.2.a: "우라!"
+
+  generic_rename_event.3.t: "역명 변경: [228.GetName]"
+  generic_rename_event.3_desc.a: "[228.GetName] 역을 장악했지만 한 가지 문제가 남았습니다... 현재 존재하지도 않는 거리의 이름을 역명으로 쓰는 건 부적절합니다. (1994년 포드벨스코고 거리는 이반테예프스카야 거리로 개칭되었습니다.) 우리에겐 두 가지 선택지가 있습니다. \n\n첫째: 대조국전쟁의 영웅이자 소련 원수인 K.K. 로코소프스키를 기리는 '마르샬 로코소프스키 대로' 역. \n\n둘째: 이반테예프스카야 거리 역."
+  generic_rename_event.3_desc.b: "[228.GetName] 역을 장악했습니다. 이제 역의 이름을 중립적인 '이반테예프스카야'로 바꿀지, 아니면 소련의 영웅 로코소프스키 원수를 기리는 이름을 유지할지 결정해야 합니다."
+  generic_rename_event.3_kill_soviet: "겨우 이 역을 장악했군. 이들은 과거에만 매몰되어 있었다. 그럴 필요는 없지. 우리는 새로운 이반테예프스카야 역을 건설하고 소비에트의 흔적을 남김없이 지울 것이다."
+  generic_rename_event.3.a: "로코소프스키 원수를 기리며, 대조국전쟁의 승리를 추억한다."
+  generic_rename_event.3.b: "소련은 죽었다! 새로운 러시아를 위하여!"
+
+  generic_rename_event.4.t: "역명 변경: [250.GetName]"
+  generic_rename_event.4.d: "역을 점령했습니다. 굳이 [250.GetName]의 이름을 바꿀 이유가 있을까요... 어떻게 되든 상관없지만, 일단 정리를 끝내고 역사적인 이름으로 되돌려 놓읍시다."
+  generic_rename_event.4.a: "좋습니다."
+
+  generic_rename_event.5.t: "역명 변경: [329.GetName]"
+  generic_rename_event.5.d: "[329.GetName] 역을 점령했습니다. 공산주의자들이 왜 역 이름을 바꿨는지는 알 수 없지만, 일단 청소와 수리를 마친 뒤 역사적인 이름으로 복구하겠습니다."
+  generic_rename_event.5.a: "훌륭합니다."
+
+  generic_rename_event.6.t: "역명 변경: [264.GetName]"
+  generic_rename_event.6.d: "[264.GetName] 기지를 차지했습니다. 이곳은 광적인 적색 혁명의 발상지였습니다. 이제 그들의 깃발과 기념물, 그리고 온갖 쓰레기와 함께 공산주의자들을 몰아내겠습니다. 기지를 청소하고 복구하고 나면, 진정한 지하 세계의 빛이 보일 것입니다."
+  generic_rename_event.6.a: "프레오브라젠스카야 플로샤드 역의 새로운 삶."
+
+  generic_rename_event.7.t: "역명 변경: [245.GetName]"
+  generic_rename_event.7.d: "[245.GetName] 기지를 장악했습니다. 가장 오래된 지하철역 중 하나이자 소중한 문화유산이었던 곳입니다. 하지만 공산주의자들이 이곳을 더럽혀 놓았군요. 다시 한번 대대적인 정화 작업이 필요합니다."
+  generic_rename_event.7.a: "문제없다. 치스티예 프루디 역은 다시 번영할 것이다."
+
+  generic_rename_event.8.t: "역명 변경: [362.GetName]"
+  generic_rename_event.8.d: "[362.GetName] 역을 장악했습니다. 가장 유서 깊은 역 중 하나이자 소콜니체스카야 선의 핵심역입니다. 지상에는 박물관과 아름다운 광장들, 그리고 크렘린이 있었죠... 이 전략적 요충지를 다시 정비해야 합니다!"
+  generic_rename_event.8.a: "오호트니 리아드 역은 러시아의 심장으로 통하는 문입니다."
+
+  generic_rename_event.9.t: "역명 변경: [306.GetName]"
+  generic_rename_event.9_desc: "고르코프스카야 역을 장악했습니다. 이곳은 구 소련을 그리워하는 이들에 의해 점령되어 있었습니다. 대조국전쟁의 영광... 그래요, 하지만 누군가는 이미 그 전쟁의 공포를 목도했습니다. 우리는 과거에 머물러서는 안 됩니다. 미래로 나아가야 합니다."
+  generic_rename_event.9_nostalgia: "트베르스카야 역을 장악했습니다. 역은 정비되었지만... 빛을 추구하는 과정에서 과거를 잊어버린 것 같군요. 우리 조상들이 대조국전쟁에서 남긴 발자취를 기억해야 합니다. 우리가 네오나치들에 어떻게 맞섰는지 잊어서는 안 됩니다. 이것은 우리의 죄이며, 용서받아야 할 일입니다."
+  generic_rename_event.9.a: "미래를 향해 나아갑시다."
+  generic_rename_event.9.b: "또 다른 제국이 탄생하지 않기를... 과거의 영웅들이여, 우리를 이끌어 주소서!"
+
+  generic_rename_event.10.t: "역명 변경: [288.GetName]"
+  generic_rename_event.10.d: "[288.GetName] 역을 점령했습니다. 공산주의자들이 왜 이름을 바꿨는지는 모르겠지만, 일단 역을 정리하고 수리하여 역사적인 이름으로 되돌려 놓으십시오."
+  generic_rename_event.10.a: "훌륭합니다."
+
+  generic_rename_event.11.t: "역명 변경: [234.GetName]"
+  generic_rename_event.11.d: "[234.GetName] 역을 점령했습니다. 공산주의자들이 왜 이름을 바꿨는지는 알 수 없지만, 상관없습니다. 청소와 수리를 마친 뒤 역사적인 이름을 되찾아 주겠습니다."
+  generic_rename_event.11.a: "훌륭합니다."
+
+  generic_rename_event.12.t: "역명 변경: [317.GetName]"
+  generic_rename_event.12.d: "[317.GetName] 역을 점령했습니다. 이름을 바꾼 이유는 모르겠지만, 일단 정리하고 수리하여 역사적인 명칭으로 복구합시다."
+  generic_rename_event.12.a: "잘했습니다."
+
+  generic_rename_event.13.t: "역명 변경: [262.GetName]"
+  generic_rename_event.13.d: "[262.GetName] 역을 점령했습니다. 공산주의자들의 의도는 알 수 없으나, 정리를 마치고 역사적인 이름으로 되돌리겠습니다."
+  generic_rename_event.13.a: "좋습니다."
+
+  generic_rename_event.14.t: "역명 변경: [315.GetName]"
+  generic_rename_event.14.d: "역을 점령했습니다. 역 이름을 바꾼 이유는 불분명하지만, 일단 청소와 수리를 마친 뒤 역사적인 이름으로 복구해 주십시오."
+  generic_rename_event.14.a: "좋습니다."
+
+  generic_rename_event.15.t: "역명 변경: [353.GetName]"
+  generic_rename_event.15.d: "[353.GetName] 역을 점령했습니다. 공산주의자들이 왜 이름을 바꿨는지는 중요하지 않습니다. 청소와 수리를 거쳐 역사적인 이름을 되찾아 주십시오."
+  generic_rename_event.15.a: "훌륭합니다."
+
+  generic_rename_event.16.t: "역명 변경: [356.GetName]"
+  generic_rename_event.16.d: "역을 점령했습니다. [356.GetName]의 이름을 바꾼 이유는 모르겠지만, 일단 정리하고 수리하여 역사적인 이름으로 되돌려 놓읍시다."
+  generic_rename_event.16.a: "좋습니다."
+
+ ### Denazification ###
+
+ #Decisions#
+  denazification_decisions: "탈나치화 단행"
+
+  denazification_tverskaya: "나치화 정화: §O[306.GetName]§!"
+  denazification_pushkinskaya: "나치화 정화: §O[275.GetName]§!"
+  denazification_chekhovskaya: "나치화 정화: §O[337.GetName]§!"
+
+ #Events#
+
+  denazification_event.1.t: "역의 정화: [306.GetName]"
+  denazification_event.1.d: "[306.GetName] 역은 한때 '제국(Reich)'이 치안을 유지하던 곳입니다. 이 쓰레기들은 이곳을 수용소로 사용했습니다. 그들은 무고한 영혼들을 돌연변이라 부르며 이곳에서 시체를 처분했습니다... 주여... 가능한 한 빨리 이곳을 청소해야 합니다."
+  denazification_event.1.a: "트베르스카야 역 청소"
+  denazification_event.1.b: "이제 막심 고리키가 무덤 속에서 분노로 뒤척이는 일은 없을 것이다..."
+
+  denazification_event.2.t: "탈나치화된 기지: [275.GetName]"
+  denazification_event.2.d: "격전 끝에 제국의 심장인 [275.GetName] 역을 탈환했다. 이곳에서 제4제국이 탄생했고 SS 본부와 메트로마흐트, 그리고 총통의 거처가 있었다... 이제 이 감염원을 완전히 박멸해야 한다."
+  denazification_event.2.a: "나치의 흔적을 완전히 소멸시켜라."
+
+  denazification_event.3.t: "탈나치화된 역: [337.GetName]"
+  denazification_event.3.d: "격전 끝에 제국의 요새인 [337.GetName] 역을 점령했다. 게슈타포 본부와 제국군 기지가 있던 곳이다... 이제 이곳에서 나치의 더러운 흔적을 모두 씻어낼 때다."
+  denazification_event.3.a: "체호프 선생, 우리를 용서해 주시오..."
+
+ ### Fighting Madness ###
+
+ #Decisions#
+  fighting_madness_decisions: "광기에 맞선 투쟁"
+
+  fighting_madness_ploschad_ilyicha: "광기 정화: §O[340.GetName]§!"
+  fighting_madness_aviamotornaya: "광기 정화: §O[292.GetName]§!"
+  fighting_madness_perovo: "광기 정화: §O[243.GetName]§!"
+  fighting_madness_pechatniki: "광기 정화: §O[410.GetName]§!"
+  fighting_madness_taganskaya_west: "광기 정화: §O[365.GetName]§!"
+  fighting_madness_taganskaya_east: "광기 정화: §O[308.GetName]§!"
+  fighting_madness_baumanskaya: "광기 정화: §O[251.GetName]§!"
+  fighting_madness_rizhskaya: "광기 정화: §O[424.GetName]§!"
+  fighting_madness_komsomolskaya_north: "광기 정화: §O[341.GetName]§!"
+  fighting_madness_tretyakovskaya_north: "광기 정화: §O[311.GetName]§!"
+  fighting_madness_tretyakovskaya_south: "광기 정화: §O[422.GetName]§!"
+  fighting_madness_tulskaya: "광기 정화: §O[405.GetName]§!"
+  fighting_madness_kiyevskaya_east: "광기 정화: §O[398.GetName]§!"
+  fighting_madness_kiyevskaya_west: "광기 정화: §O[421.GetName]§!"
+  fighting_madness_kiyevskaya_north: "광기 정화: §O[399.GetName]§!"
+  fighting_madness_mitino: "광기 정화: §O[335.GetName]§!"
+  fighting_madness_timiryazevskaya: "광기 정화: §O[303.GetName]§!"
+
+ ### Fight against banditry ###
+
+ #Decisions#
+  fight_against_banditry_decisions: "도적 소탕 작전"
+
+  fight_against_banditry_akademicheskaya: "도적 소굴 소탕: §O[236.GetName]§!"
+  fight_against_banditry_profsoyuznaya: "도적 소굴 소탕: §O[287.GetName]§!"
+
+ ### Banditry ###
+
+ #Decisions#
+  banditry_decisions: "도적 행위"
+
+  banditry_akademicheskaya: "약탈: §O[236.GetName]§!"
+  banditry_profsoyuznaya: "약탈: §O[287.GetName]§!"
+
+ ### Supporters of Socialism/restoration of the USSR (USS) ###
+
+ #Decisions#
+  communist_rename_decisions: "소련화"
+
+  communist_rename_teatralnaya: "역명 변경: §O[330.GetName]§!"
+  communist_rename_aleksandrovsky_sad: "역명 변경: §O[244.GetName]§!"
+  communist_rename_state_228: "역명 변경: §O[228.GetName]§!"
+  communist_rename_sportivnaya: "역명 변경: §O[250.GetName]§!"
+  communist_rename_sokolniki: "역명 변경: §O[329.GetName]§!"
+  communist_rename_preobrazhenskaya_ploschad: "역명 변경: §O[264.GetName]§!"
+  communist_rename_chistye_prudy: "역명 변경: §O[245.GetName]§!"
+  communist_rename_okhotny_ryad: "역명 변경: §O[362.GetName]§!"
+  communist_rename_tverskaya: "역명 변경: §O[306.GetName]§!"
+  communist_rename_vorobyovy_gory: "역명 변경: §O[288.GetName]§!"
+  communist_rename_tsaritsyno: "역명 변경: §O[234.GetName]§!"
+  communist_rename_alekseyevskaya: "역명 변경: §O[317.GetName]§!"
+  communist_rename_sukharevskaya: "역명 변경: §O[262.GetName]§!"
+  communist_rename_state_315: "역명 변경: §O[315.GetName]§!"
+  communist_rename_state_353: "역명 변경: §O[353.GetName]§!"
+  communist_rename_vyhino: "역명 변경: §O[356.GetName]§!"
+
+ #Events#
+  
+  communist_rename_event.1.t: "역명 변경: [330.GetName]"
+  communist_rename_event.1.d: "우리는 극장에서 마지막 반혁명 분자들을 몰아냈다. 이제 볼쇼이 극장의 잔해 위에 세워질 미래를 인민 투표로 결정할 때다... \n역의 이름은 무엇입니까?"
+  communist_rename_event.1.a: "레닌스카야"
+  communist_rename_event.1.b: "스베르들로프 광장"
+
+  communist_rename_event.2.t: "역명 변경: [244.GetName]"
+  communist_rename_event.2.d: "오랜 세월이 흘러, 인류의 요람인 폴리스의 한 구석에 사회주의의 횃불이... 아니, 새로운 적색 세계의 불꽃이 타올랐다! 이 위대한 사건을 기념하여, 모스크바 메트로의 시발점 중 하나를 블라디미르 일리치 레닌의 이름으로 재단장한다."
+  communist_rename_event.2.a: "코민테른 역이여 영원하라!"
+  communist_rename_event.2.b: "칼리닌스카야 역이여 영원하라!"
+
+  communist_rename_event.3.t: "역명 변경: [228.GetName]"
+  communist_rename_event.3_berilag: "이곳에서 죽어간 자들이 이토록 많단 말입니까? 여자들, 아이들, 그리고 노인들까지?! 믿을 수 없는 일입니다! 수많은 전투 끝에 평화가 찾아왔지만, 할 일이 너무나 많습니다. 이 비극을 씻어내는 데 얼마나 걸릴까요? 얼마나 더 많은 무덤을 파야 할까요?! 우리가 꿈꾸는 밝은 미래의 대가는 무엇입니까?"
+  communist_rename_event.3_trotskyist: "트로츠키의 거짓을 추종하던 무리들을 역에서 몰아냈다. 하지만 그 대가는 너무나 가혹했다... 이제 이 폐허를 어떻게 재건해야 하는가?"
+  communist_rename_event.3_desc: "우리는 인민의 적들을 섬멸하고 역사를 새로 쓰게 되었다. 우리 손으로 다시 빛을 밝힐 것이다. 그 빛은 자본주의자들이 저지른 모든 죄악보다 훨씬 더 밝게 빛날 것이다."
+  communist_rename_event.3.a: "베릴라그를 되찾아야 합니다."
+  communist_rename_event.3.b: "역겨운 스탈린의 잔재를 지워라."
+  communist_rename_event.3.c: "과거를 기억하라..."
+  communist_rename_event.3.d: "로코소프스키 원수가 우리에게 길을 보여줄 것이다."
+
+  communist_rename_event.4.t: "역명 변경: [250.GetName]"
+  communist_rename_event.4_communist: "[250.GetName] 역을 완전히 장악했습니다. 무능한 자본주의자들을 모두 소탕했습니다. 다시 한번 이 땅을 적색의 빛으로 밝히고, 역 주민들에게 인민의 지혜를 가르칠 때입니다."
+  communist_rename_event.4.a: "공산주의자들에게 영원한 영광을!"
+
+  communist_rename_event.5.t: "역명 변경: [329.GetName]"
+  communist_rename_event.5_trotskyist: "트로츠키의 거짓을 믿던 무리들을 역에서 쫓아냈다. 하지만 그 대가는 가혹했다... 이제 이 폐허를 어떻게 처리해야 하는가?"
+  communist_rename_event.5_desc: "우리는 인민의 적들을 섬멸하고 역을 되찾았다. 우리 손으로 다시 빛을 밝힐 것이며, 그 빛은 죄인 자본주의자들이 저지른 모든 것보다 훨씬 더 밝게 빛날 것이다."
+  communist_rename_event.5.a: "스탈린스카야 역의 옛 영광을 되찾아야 한다."
+  communist_rename_event.5.b: "이제는 혁명가 트로츠키를 영원히 기억하라."
+  communist_rename_event.5.c: "역을 복구하고 옛 이름으로 되돌려라."
+
+  communist_rename_event.6.t: "역명 변경: [264.GetName]"
+  communist_rename_event.6.d: "[264.GetName] 기지를 장악했다. 새로운 붉은 혁명이 탄생한 곳이자, 자본주의의 발자국에 의해 빛이 바랬던 곳이다. 이곳은 우리의 지표이며, 어떤 희생을 치르더라도 이 불꽃을 꺼트려서는 안 된다!"
+  communist_rename_event.6.a: "혁명의 기치가 우리와 함께한다! 진실은 인민의 편이다!"
+
+  communist_rename_event.7.t: "[245.GetName] 역 명칭 변경"
+  communist_rename_event.7.d: "[245.GetName] 역을 차지했습니다. 모스크바 메트로의 초기 역 중 하나입니다. 대조국전쟁 당시 소련 총사령부가 위치했던 곳이기도 하죠. 이 위대한 과거의 유산이 다시금 빛나야 합니다."
+  communist_rename_event.7.a: "키로프스카야 역이여 영원하라!"
+
+  communist_rename_event.8.t: "[362.GetName] 역 명칭 변경"
+  communist_rename_event.8.d: "자본주의자들로부터 [362.GetName] 역을 탈환했습니다. 소콜니체스카야 선의 핵심이자 유구한 역사를 가진 곳입니다. 지상에는 한때 박물관과 마네즈나야 광장, 그리고 붉은 광장으로 통하는 출구가 있었습니다... 이제 이곳을 혁명의 빛으로 밝히십시오!"
+  communist_rename_event.8.a: "마르크스 역이여 영원하라!"
+
+  communist_rename_event.9.t: "역명 변경: [288.GetName]"
+  communist_rename_event.9.d: "우리는 인민의 적들을 섬멸하고 역사를 새로 쓰기 시작했다. 우리 손으로 다시 밝히는 이 역사는, 자본주의자들이 저지른 모든 죄악보다 더 밝게 빛날 것이다."
+  communist_rename_event.9.a: "레닌스키예 고리 역이여 영원하라!"
+
+  communist_rename_event.10.t: "역명 변경: [234.GetName]"
+  communist_rename_event.10.d: "우리는 인민의 적을 물리쳐서 역사를 다시 쓰고 있습니다. 우리 손에 들린 이 역사는 그들이 저지른 모든 것보다 더 밝게 빛납니다."
+  communist_rename_event.10.a: "제르진스카야 역이여 영원하라!"
+
+  communist_rename_event.11.t: "역명 변경: [317.GetName]"
+  communist_rename_event.11.d: "우리는 인민의 적들을 섬멸하고 역사를 새로 쓰는 대열에 합류했습니다. 우리 손에서 다시 타오를 이 빛은, 악마 같은 자본주의자들이 행한 모든 것보다도 더 눈부시게 빛날 것입니다."
+  communist_rename_event.11.a: "셰르바콥스카야 역이여 영원하라!"
+
+  communist_rename_event.12.t: "역명 변경: [262.GetName]"
+  communist_rename_event.12.d: "인민의 적으로부터 역을 탈환했습니다. 우리 손으로 다시 밝혀질 이 역은, 저 악마 같은 자본주의자들이 남긴 상흔보다 더 밝게 빛날 것입니다."
+  communist_rename_event.12.a: "콜호즈나야 역이여 영원하라!"
+
+  communist_rename_event.13.t: "역명 변경: [315.GetName]"
+  communist_rename_event.13.d: "우리는 인민의 적들을 물리쳐서 역사를 새로 쓰기 시작했습니다. 우리 손에서 다시 빛날 이 역사는, 죄악을 저지른 자본주의자들의 행적보다 훨씬 더 밝게 빛날 것입니다."
+  communist_rename_event.13.a: "플로샤드 노기나 역이여 영원하라!"
+
+  communist_rename_event.14.t: "역명 변경: [353.GetName]"
+  communist_rename_event.14.d: "인민의 적들로부터 역을 되찾아 역사를 새로 쓰고자 합니다. 우리 손에서 다시 타오를 빛은 저주받은 자본주의자들이 행한 모든 것보다 더 밝게 빛날 것입니다."
+  communist_rename_event.14.a: "노긴 광장 역이여 영원하라!"
+
+  communist_rename_event.15.t: "역명 변경: [356.GetName]"
+  communist_rename_event.15.d: "우리 손으로 다시 빛을 내릴 것입니다. 그리고 그 빛은 악마 같은 자본주의자들이 저지른 모든 죄악보다 훨씬 더 밝게 빛날 것입니다."
+  communist_rename_event.15.a: "즈다놉스카야 역이여 영원하라!"

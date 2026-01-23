@@ -1,0 +1,164 @@
+﻿l_korean:
+ SEV_the_SEVHPP:0 "세바스토폴스카야 수력 발전소"
+ SEV_the_SEVHPP_desc:0 ""
+
+ SEV_improve_living_space:0 "생활 공간 개선"
+ SEV_improve_living_space_desc:0 ""
+
+ SEV_tooling:0 "개선된 연장"
+ SEV_tooling_desc:0 ""
+
+ SEV_medical:0 "의료 기술의 진보"
+ SEV_medical_desc:0 ""
+
+ SEV_expand_living_space:0 "생활 공간 확장"
+ SEV_expand_living_space_desc:0 ""
+
+ SEV_construction:0 "고급 연장"
+ SEV_construction_desc:0 ""
+
+ SEV_reconstruction:0 "세바스토폴스카야 재건"
+ SEV_reconstruction_desc:0 ""
+
+ SEV_recycle:0 "고철 재활용"
+ SEV_recycle_desc:0 ""
+
+ SEV_isolated_economy:0 "고립된 경제"
+ SEV_isolated_economy_desc:0 ""
+
+ SEV_military_industrial_complex:0 "군사 산업 복합체"
+ SEV_military_industrial_complex_desc:0 ""
+
+ SEV_strengthen_defence:0 "방어선 강화"
+ SEV_strengthen_defence_desc:0 ""
+
+ SEV_tunnel_infrastructure:0 "터널 기반 시설"
+ SEV_tunnel_infrastructure_desc:0 ""
+
+ SEV_minefields:0 "지뢰 지대"
+ SEV_minefields_desc:0 ""
+
+ SEV_weapon_bonus:0 "개선된 무기"
+ SEV_weapon_bonus_desc:0 ""
+
+ SEV_weapon_bonus_2:0 "고급 무기"
+ SEV_weapon_bonus_2_desc:0 ""
+
+ SEV_research_boost:0 "도서관 설립"
+ SEV_research_boost_desc:0 ""
+
+ SEV_research_institute:0 "연구소"
+ SEV_research_institute_desc:0 ""
+
+ SEV_hanza_trade:0 "한자 무역"
+ SEV_hanza_trade_desc:0 ""
+
+ SEV_contact_domodedovskaya:0 "도모데도보스카야와의 접촉"
+ SEV_contact_domodedovskaya_desc:0 ""
+
+ SEV_autarky:0 "자급자족"
+ SEV_autarky_desc:0 ""
+
+ SEV_hanza_joint_operations:0 "한자 동맹과의 공동 작전"
+ SEV_hanza_joint_operations_desc:0 ""
+
+ SEV_join_hanza:0 "한자 동맹 세력 합류"
+ SEV_join_hanza_desc:0 ""
+
+ SEV_empower_community:0 "공동체 역량 강화"
+ SEV_empower_community_desc:0 ""
+
+ SEV_community_takeover:0 "공동체 장악"
+ SEV_community_takeover_desc:0 ""
+
+ SEV_military_council:0 "군사 위원회 형성"
+ SEV_military_council_desc:0 ""
+
+ SEV_empire:0 "세바스토폴스카야 제국"
+ SEV_empire_desc:0 ""
+
+ SEV_joint_north_expansion:0 "북부 터널 공동 작전"
+ SEV_joint_north_expansion_desc:0 ""
+
+ SEV_eastern_expansion:0 "동부 확장"
+ SEV_eastern_expansion_desc:0 ""
+
+ SEV_depot:0 "정비창 탐사"
+ SEV_depot_desc:0 ""
+
+ SEV_domodedovskaya_faction:0 "도모데도보스카야 세력"
+ SEV_domodedovskaya_faction_desc:0 ""
+
+ SEV_invite_revolutionists:0 "혁명가 초대"
+ SEV_invite_revolutionists_desc:0 ""
+
+ SEV_military_contributions:0 "군사적 기여"
+ SEV_military_contributions_desc:0 ""
+
+ SEV_stalker_focus:0 "스토커 중심"
+ SEV_stalker_focus_desc:0 ""
+
+ SEV_army_priority:0 "군대 우선순위"
+ SEV_army_priority_desc:0 ""
+
+ SEV_extended_stalking_missions:0 "확장 스토커 임무"
+ SEV_extended_stalking_missions_desc:0 ""
+
+ SEV_improved_equipment:0 "개선된 장비"
+ SEV_improved_equipment_desc:0 ""
+
+ SEV_better_organization:0 "개선된 조직"
+ SEV_better_organization_desc:0 ""
+
+ SEV_established_surface_paths:0 "표면 경로가 확립되었습니다"
+ SEV_established_surface_paths_desc:0 ""
+
+ SEV_bandit_merchants:0 "도적 상인들"
+ SEV_bandit_merchants_desc:0 ""
+
+ SEV_the_cost_of_protection:0 "보호의 비용"
+ SEV_the_cost_of_protection_desc:0 ""
+
+ SEV_merchant_guild:0 "상인 길드"
+ SEV_merchant_guild_desc:0 ""
+
+ SEV_elite_tunnel_guards:0 "고등 터널 경비대"
+ SEV_elite_tunnel_guards_desc:0 ""
+
+ SEV_fund_military_research:0 "군사 연구를 지원하라"
+ SEV_군사연구비설명:0 ""
+
+ SEV_recruitment_drives:0 "징집 공세"
+ SEV_recruitment_drives_desc:0 ""
+
+ SEV_undead_soldiers:0 "죽은 병사들"
+ SEV_undead_soldiers_desc:0 ""
+
+ SEV_surface_attack_plan:0 "표면 공격 계획"
+ SEV_surface_attack_plan_desc:0 ""
+
+ SEV_tunnel_attack_plan:0 "터널 공격 계획"
+ SEV_tunnel_attack_plan_desc:0 ""
+
+ SEV_attack_chertanovskaya:0 "체르타노프스카야 공격"
+ SEV_attack_chertanovskaya_desc:0 ""
+
+ SEV_attack_depot:0 "공습 기지 공격"
+ SEV_attack_depot_desc:0 ""
+
+ SEV_a_major_power:0 "남부 주요 권력"
+ SEV_a_major_power_desc:0 ""
+
+ SEV_hunter:0 "헌터의 등장"
+ SEV_hunter_desc:0 ""
+
+ SEV_repel_the_mutants: "변형체를 쫓아라"
+
+ SEV_energy_1: "북쪽에 전기를 공급하는 중"
+ SEV_energy_2: "[332.GetName] 터빈을 수리하라"
+ SEV_energy_2a: "동맹에 의존하고 있지만..."
+ SEV_energy_2b: "군력을 강화하라"
+ SEV_energy_3: "[332.GetName]을 안전하게 지키라"
+ SEV_energy_3b: "무기를 구매하라"
+ SEV_energy_3a: "민간 장비를 임대하라"
+ SEV_energy_4: "[332.GetName]을 [SEV.GetName]에 통합하라"

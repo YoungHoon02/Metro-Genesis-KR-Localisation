@@ -1,0 +1,23 @@
+﻿l_korean:
+
+ HUL_uncle_misha: "미샤 삼촌"
+ HUL_misha: "미샤 삼촌"
+ HUL_BATKA_DESC: "동지들로부터 §Y미샤 삼촌§!이라 불리는 미하일의 평범한 외모와 수줍은 성격 이면에는 거대한 불꽃이 숨겨져 있습니다. 그의 연설은 굶주린 군중의 소요를 잠재우고, 가장 까칠한 역 보초병들조차 침묵하게 만들 수 있습니다. 그의 가르침을 따르는 많은 이들은 그를 네스토르 마흐노의 이름을 따서 네스토르라고 부르며 추앙합니다. 비록 공화국이 아직 §Y자모스크보레츠카야§! 선 북서부 구역 너머로 대규모 세력을 떨치지는 못하고 있으나, 한 가지 사실만은 명확합니다. 바로 §R자유 아니면 죽음을!§!"
+ HUL_philosopher_bandit: "늙은 네스토르"
+ HUL_military_unifier: "군사 통합가"
+ HUL_anarchists_with_purpose: "목적이 있는 무정부"
+ AVT_honorary_chair: "명예 의장"
+
+ HUL_militant_council: "전투 평의회"
+ HUL_anarchists_with_purpose: "무정부의 각인"
+
+ HUL_karetnikov: "세묘 카레트니코프"
+ HUL_head_of_counter_intelligence: "방첩국장"
+ HUL_karetnikov_desc: "보이코프스카야 역에 주둔한 카레트니코프는 [ROOT.GetNameDef]의 방첩국장으로 복무하고 있습니다. 그가 과거 내전 당시 네스토르 마흐노의 반란군에서 똑같이 방첩 업무를 수행했던 세묘 니키티치 카레트니코프와 이름이 같은 것은 결코 우연이 아닙니다. 세묘라는 이름이 그의 본명인지, 아니면 그저 그 이름을 따서 스스로를 그렇게 부르는 것인지는 알려지지 않았습니다."
+
+ HUL_lesya_bilokur: "레샤 빌로쿠르"
+ HUL_jurry_rigger: "임기응변의 달인"
+ HUL_BILOKUR_DESC: "3"
+
+ HUL_zakharova: "자카로바"
+ HUL_zakharova_trait: "수중 마을 무역상"

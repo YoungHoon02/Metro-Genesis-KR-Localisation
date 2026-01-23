@@ -1,0 +1,15 @@
+﻿l_korean:
+ _satellite_against_fascism_decisions:0 "문 앞의 파시스트들"
+
+ _satellite_against_fascism_perimeter_defences:0 "외곽 방어선 구축"
+ _satellite_against_fascism_perimeter_defences_desc:0 ""
+
+ _satellite_against_fascism_extended_shifts:0 "교대 근무 연장"
+ _satellite_against_fascism_extended_shifts_desc:0 ""
+
+ _satellite_against_fascism_preliminary_strike:0 "선제 타격 감행"
+ _satellite_against_fascism_preliminary_strike_desc:0 ""
+ if_we_win_tt: "국경 분쟁에서 승리 시:"
+
+ _satellite_against_fascism_factory_overtime: "초과 근무"
+ _satellite_against_fascism_factory_overtime_desc: ""

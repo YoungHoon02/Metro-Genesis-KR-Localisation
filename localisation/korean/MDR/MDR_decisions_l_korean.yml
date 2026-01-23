@@ -1,0 +1,13 @@
+﻿l_korean:
+  MDR_disease_prevention_category: "질병 예방"
+  MDR_disease_countdown_to_infection_outbreak: "감염 유행까지 남은 시간"
+  MDR_infection_plague: "현재 질병 확산에 맞서고 있습니다!"
+  MDR_disease_hygiene: "위생 연구"
+  MDR_disease_restrict_travel: "이동 제한"
+
+
+  MDR_unblock_tunnel_category: "메트로로 향하는 관문"
+  MDR_unblock_tunnel_category_desc: "우리는 메트로의 나머지 구역들과 단절되어 있습니다. 메트로 주민들이 우리를 환영해 주리라 기대하며 어둠 속으로 발을 내딛는 것은 좋지 않겠지만, 그들이 적대적이지 않다면 다른 역 국가들과 접촉하는 것이 이상적일 것입니다."
+
+  MDR_unblock_tunnel_decision: "터널 폐쇄 해제"
+  MDR_unblock_tunnel_decision_desc: "사령관님, 이 쓰레기더미를 치우려면 정말 뼈를 깎는 노력이 필요할 겁니다. 날씨가 계속 이렇고 돌연변이의 위협까지 있다면, 우리가 돌파하기까지 시간이 꽤 걸릴 것입니다."

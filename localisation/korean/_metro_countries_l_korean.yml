@@ -1,0 +1,335 @@
+﻿l_korean:
+  
+ RED:0 "붉은 라인"
+ RED_DEF:0 "붉은 라인"
+ RED_ADJ:0 "붉은 군대"
+
+ BRL: "베릴라그"
+ BRL_DEF: "베리아 동지 교정 노동 수용소"
+ BRL_ADJ: "베릴라그"
+
+ RCH:0 "제 4제국"
+ RCH_DEF:0 "제 4제국"
+ RCH_ADJ:0 "나치"
+ RCH_council:0 "제국 점령 지대"
+ RCH_council_DEF:0 "제국 점령 지대"
+ RCH_council_ADJ:0 "점령된"
+ RCH_oligarch:0 "제국 점령 지대"
+ RCH_oligarch_DEF:0 "제국 점령 지대"
+ RCH_oligarch_ADJ:0 "점령된"
+
+ HNZ:0 "한자 동맹"
+ HNZ_DEF:0 "한자 동맹 공화국"
+ HNZ_ADJ:0 "한자 동맹"
+
+ PLS:0 "폴리스"
+ PLS_DEF:0 "폴리스"
+ PLS_ADJ:0 "폴리스"
+
+ MUT:0 "돌연변이"
+ MUT_DEF:0 "돌연변이 점령지"
+ MUT_ADJ:0 "돌연변이"
+
+ ARB:0 "아르바트 연합"
+ ARB_DEF:0 "아르바트 연합"
+ ARB_ADJ:0 "아르바트 연합"
+
+ VDN:0 "베데엔하 연합"
+ VDN_DEF:0 "베데엔하 연합"
+ VDN_ADJ:0 "베데엔하 연합"
+
+ ELI:0 "베데엔하 엘리트"
+ ELI_DEF:0 "베데엔하 연합 엘리트"
+ ELI_ADJ:0 "엘리트"
+
+ KTG:0 "키타이 고로드"
+ KTG_DEF:0 "키타이 고로드 자유 상업 구역"
+ KTG_ADJ:0 "키타이 고로드"
+
+ TRT:0 "베니스"
+ TRT_DEF:0 "베니스 상인 공화국"
+ TRT_ADJ:0 "베니스"
+
+ ULI:0 "1905 연합"
+ ULI_DEF:0 "1905 연합"
+ ULI_ADJ:0 "1905 연합"
+ ULI_oligarch:0 "1905 연합"
+ ULI_oligarch_DEF:0 "1905 연합"
+ ULI_community:0 "1905 연합 공화국"
+ ULI_community_DEF:0 "1905 연합 공화국"
+ ULI_dictatorial:0 "스탈린 숭배단"
+ ULI_dictatorial_DEF:0 "스탈린 숭배 정권"
+
+ BAU:0 "보만스키 동맹"
+ BAU_DEF:0 "보만스키 동맹"
+ BAU_ADJ:0 "보만스키"
+
+ MSU:0 "유니버시티"
+ MSU_DEF:0 "유니버시티(에메랄드 시티)"
+ MSU_ADJ:0 "에메랄드 시티"
+
+ GWC:0 "큰 벌레 신봉자"
+ GWC_DEF:0 "큰 벌레 신봉자"
+ GWC_ADJ:0 "신봉자"
+
+ HMS:0 "돌연변이 사회"
+ HMS_DEF:0 "인간-돌연변이 공생 사회"
+ HMS_ADJ:0 "돌연변이체"
+
+ MIT:0 "미티노 공화국"
+ MIT_DEF:0 "미티노 공화국"
+ MIT_ADJ:0 "미티노"
+
+ EUR:0 "유로 연합"
+ EUR_DEF:0 "유로 연합"
+ EUR_ADJ:0 "유럽"
+ EUR_oligarch_DDR: "유럽 민주 공화국"
+ EUR_oligarch_DDR_DEF: "유럽 민주 공화국"
+ EUR_oligarch_DDR_ADJ: "민주"
+
+ KRY:0 "크릴라트스키예 연합"
+ KRY_DEF:0 "크릴라트스키예 연합"
+ KRY_ADJ:0 "크릴라트스키예"
+
+ BRK:0 "농장"
+ BRK_DEF:0 "자유 농장 협동조합"
+ BRK_ADJ:0 "농장"
+
+ HUL:0 "굴라이 폴 공화국"
+ HUL_DEF:0 "굴라이 폴 공화국"
+ HUL_ADJ:0 "반란군"
+
+ AVV:0 "비행기 조종사들"
+ AVV_DEF:0 "미코얀 비행기 조종사들"
+ AVV_ADJ:0 "비행기 조종사들"
+
+ DIM:0 "디미트로프스카야" 
+ DIM_DEF:0 "디미트로프스카야" 
+ DIM_ADJ:0 "디미트로프스카야"
+
+ SAT:0 "악마 신봉자 역"
+ SAT_DEF:0 "악마 신봉자 정거장"
+ SAT_ADJ:0 "악마 숭배자"
+
+ ISL:0 "이슬람 칼리파국"
+ ISL_DEF:0 "북부 이슬람 칼리파국"
+ ISL_ADJ:0 "이슬람주의자"
+
+ SCA:0 "스카벤 역"
+ SCA_DEF:0 "스카벤 역 연합"
+ SCA_ADJ:0 "스카벤"
+
+ ALT:0 "알투프예보 자유인"
+ ALT_DEF:0 "알투프예프스카야 연맹"
+ ALT_ADJ:0 "알투프예보"
+
+ YAS:0 "야세네프스카야"
+ YAS_DEF:0 "야세네프스카야 공동체"
+ YAS_ADJ:0 "야세네프스카야"
+
+ SEV:0 "세바스토폴스카야"
+ SEV_DEF:0 "세바스토폴스카야 수력 발전소"
+ SEV_ADJ:0 "세바스토폴"
+ SEV_council:0 "세바스토폴스카야 제국"
+ SEV_council_DEF:0 "세바스토폴스카야 제국"
+ SEV_dictatorial:0 "세바스토폴스카야 제국"
+ SEV_dictatorial_DEF:0 "세바스토폴스카야 제국"
+
+ MDR:0 "페로마이스카야 공화국"
+ MDR_DEF:0 "페로마이스카야 공화국"
+ MDR_ADJ:0 "페로마이스카야"
+
+ KAL:0 "칼리닌 연맹"
+ KAL_DEF:0 "칼리니스카야 선 연맹"
+ KAL_ADJ:0 "칼리닌"
+
+ PEC:0 "페로보" 
+ PEC_DEF:0 "페로보 차(茶) 무역 협동조합" 
+ PEC_ADJ:0 "페로보"
+
+ TSH:0 "투시노"
+ TSH_DEF:0 "투시노 자유시"
+ TSH_ADJ:0 "투시노"
+
+ RYZ:0 "리야잔 공동체"
+ RYZ_DEF:0 "리야잔 공동체"
+ RYZ_ADJ:0 "리야잔"
+
+ ATQ:0 "에메랄드 시티 유민"
+ ATQ_DEF:0 "고(故) 에메랄드 시티 유민들"
+ ATQ_ADJ:0 "에메랄드 시티"
+
+ KUZ:0 "기술자 역"
+ KUZ_DEF:0 "쿠즈네츠키 모스트 기술자 역"
+ KUZ_ADJ:0 "기술자"
+
+ AVT:0 "자치 역"
+ AVT_DEF:0 "아프토자보츠카야 자치 역"
+ AVT_ADJ:0 "자치"
+
+ SUN:0 "태양 신봉자"
+ SUN_DEF:0 "태양신 숭배 집단"
+ SUN_ADJ:0 "태양 교단"
+
+ PAG:0 "이교도"
+ PAG_DEF:0 "스파르타크 정거장 이교도"
+ PAG_ADJ:0 "이교도"
+
+ MOB:0 "범죄 조직"
+ MOB_DEF:0 "레닌스키 범죄 패거리"
+ MOB_ADJ:0 "마피아"
+
+ SPT:0 "스파르타 기사단"
+ SPT_DEF:0 "스파르타 기사단"
+ SPT_ADJ:0 "스파르타"
+
+ DMD:0 "도모데보스카야"
+ DMD_DEF:0 "도모데보스카야 연합"
+ DMD_ADJ:0 "도모데보스카야"
+
+ SHD:0 "쇼드넨스카야"
+ SHD_DEF:0 "쇼드넨스카야 연합"
+ SHD_ADJ:0 "쇼드넨스카야"
+
+ TRB:0 "트루브나야"
+ TRB_DEF:0 "트루브나야"
+ TRB_ADJ:0 "트루브나야"
+
+ STG:0 "스팅로진"
+ STG_DEF:0 "스팅로진 역"
+ STG_ADJ:0 "스팅로진"
+
+ RIZ:0 "리즈카야"
+ RIZ_DEF:0 "리즈카야 정거장"
+ RIZ_ADJ:0 "리즈카야"
+
+ ALK:0 "알렉세예프스카야"
+ ALK_DEF:0 "알렉세예프스카야 자치 정거장"
+ ALK_ADJ:0 "알렉세예프스카야"
+
+ DRY:0 "수하레프스카야"
+ DRY_DEF:0 "수하레프스카야 정거장"
+ DRY_ADJ:0 "수하레프스카야"
+
+ PVL:0 "파벨레츠카야"
+ PVL_DEF:0 "파벨레츠카야"
+ PVL_ADJ:0 "파벨레츠카야"
+
+ RUI:0 "지상의 폐허"
+ RUI_DEF:0 "모스크바의 폐허"
+ RUI_ADJ:0 "유적"
+
+ SRA:0 "남부 복원국"
+ SRA_DEF:0 "남부 정착지 복원국"
+ SRA_ADJ:0 "한자"
+
+ PPL:0 "버섯Revolution"
+ PPL:0 "버섯 혁명군"
+ PPL_DEF:0 "버섯 농장 혁명군"
+ PPL_ADJ:0 "반군"
+
+ RMJ:0 "붉은 군세 군사위원회"
+ RMJ_DEF:0 "붉은 군세 군사위원회"
+ RMJ_ADJ:0 "공산주의"
+
+ MYK:0 "마야코프스카야"
+ MYK_DEF:0 "마야코프스카야 자치구"
+ MYK_ADJ:0 "마야코프스카야"
+
+ STB:0 "스톨베커 부대"
+ STB_DEF:0 "스톨베커 사단"
+ STB_ADJ:0 "스톨베커"
+
+ MNA:0 "마리나 로샤" 
+ MNA_DEF:0 "마리나 로샤 공동체"
+ MNA_ADJ:0 "마리나 로샤"
+
+ SSK:0 "츠베트노이 불바르"
+ SSK_DEF:0 "츠베트노이 불바르 공동체"
+ SSK_ADJ:0 "츠베트노이"
+
+ BRN:0 "비엘로루스카야"
+ BRN_DEF:0 "비엘로루스카야 무역 정거장"
+ BRN_ADJ:0 "비엘로루스카야"
+
+ SAV:0 "세빌롭스카야 연맹"
+ SAV_DEF:0 "세빌롭스카야 통제 구역"
+ SAV_ADJ:0 "세빌롭스카야"
+ SAV_disintegrated:0 "세빌롭스카야"
+ SAV_disintegrated_DEF:0 "세빌롭스카야"
+ SAV_commonwealth:0 "세빌롭스카야 공화국"
+ SAV_commonwealth_DEF:0 "세빌롭스카야 공동체"
+
+ TSV:0 "트베르스카야"
+ TSV_DEF:0 "트베르스카야 자유시"
+ TSV_ADJ:0 "트베르스카야"
+ 
+ CKZ:0 "체르키존"
+ CKZ_DEF:0 "체르키존 부락"
+ CKZ_ADJ:0 "체르키존"
+
+ VIC:0 "승리 공원 폐허"
+ VIC_DEF:0 "포베디 공원 유적"
+ VIC_ADJ:0 "포베디"
+
+ SUF:0 "표면 돌연변이"
+ SUF_DEF:0 "지상 변종 괴물"
+ SUF_ADJ:0 "야생"
+
+ MED:0 "메드베트코보"
+ MED_DEF:0 "메드베트코보"
+ MED_ADJ:0 "메드베트코보"
+
+ LEP:0 "기지창"
+ LEP_DEF:0 "지하철 전차고"
+ LEP_ADJ:0 "관리소"
+
+ OKT:0 "옥탸브리스코예 폴레"
+ OKT_DEF:0 "옥탸브리스코예 폴레"
+ OKT_ADJ:0 "옥탸브리스코예"
+
+ MEN:0 "멘델레예프스카야"
+ MEN_DEF:0 "멘델레예프스카야"
+ MEN_ADJ:0 "멘델레예프스카야"
+
+ PRO:0 "프로스펙트 미라"
+ PRO_DEF:0 "프로스펙트 미라 정거장"
+ PRO_ADJ:0 "프로스펙트 미라"
+
+ INV:0 "보이지 않는 감시자들"
+ INV_DEF:0 "보이지 않는 감시자들"
+ INV_ADJ:0 "보이지 않는 감시자들"
+
+ DSE:0 "도스토예프스카야"
+ DSE_DEF:0 "도스토예프스카야 정거장"
+ DSE_ADJ:0 "도스토예프스카야"
+
+ TUL:0 "툴스카야"
+ TUL_DEF:0 "툴스카야"
+ TUL_ADJ:0 "툴스카야"
+
+ CAU:0 "카프카스 무슬림"
+ CAU_DEF:0 "카프카스 이슬람 공동체"
+ CAU_ADJ:0 "카프카스"
+
+ SLA:0 "슬라브 형제단"
+ SLA_DEF:0 "슬라브 형제단"
+ SLA_ADJ:0 "슬라브"
+
+ SHA:0 "샤볼롭스카야"
+ SHA_DEF:0 "샤볼롭스카야"
+ SHA_ADJ:0 "샤볼롭스카야"
+
+ LEN:0 "레닌스키 프로스펙트"
+ LEN_DEF:0 "레닌스키 프로스펙트"
+ LEN_ADJ:0 "레닌스키"
+ LEN_dictatorial:0 "레닌스키 범죄 조직"
+ LEN_dictatorial_DEF:0 "레닌스키 범죄 조직"
+
+ SHR:0 "샤라슈카-라즈굴라이"
+ SHR_DEF:0 "샤라슈카-라즈굴라이"
+ SHR_ADJ:0 "샤라슈카"
+
+ NCH:0 "노보쿠즈네츠카야"
+ NCH_DEF:0 "노보쿠즈네츠카야"
+ NCH_ADJ:0 "노보쿠즈네츠카야"

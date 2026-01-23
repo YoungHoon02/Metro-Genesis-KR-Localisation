@@ -1,0 +1,342 @@
+﻿l_korean:
+ satellite_economy:0 "보금자리의 집중"
+ satellite_economy_desc:0 ""
+
+ satellite_construction_1:0 "[ROOT.capital.GetName] 역 재건"
+ satellite_construction_1_desc:0 "아마겟돈이 일어난 지 15년이 지났지만, 시민들은 여전히 오물과 빈곤 속에서 살아가고 있습니다. [ROOT.capital.GetName] 역은 대대적인 청소가 절실합니다. 재건 노력은 그저 잔해를 치우고 선로를 어지럽히는 쓰레기더미를 제거하는 정도에 불과하겠지만, 우리 공동체의 심장인 역의 이미지는 크게 개선될 것입니다."
+
+ satellite_defend_the_bulwark:0 "방벽 사수"
+ satellite_defend_the_bulwark_desc:0 "수천 마일의 선로가 지하 깊숙이 뻗어 있는데, 메트로의 어두운 심연 속에 무엇이 도사리고 있을지 누가 알겠습니까? 세바스토폴을 괴롭히는 돌연변이 무리나, 아르바트 연합을 스토킹하는 유령, 혹은 저 멀리 타간스코-크라스노프레스넨스카야 라인에 출몰한다는 비쩍 마르고 어두운 섬뜩한 존재들에 대한 소문은 들어보셨을 겁니다. 떠돌이 악마 신봉자나 나치 같은 인간의 위협은 말할 것도 없지요. 계획적인 방어선을 구축하면 [ROOT.capital.GetName] 역이 흉흉한 소문의 진원지가 되는 일은 막을 수 있을 것입니다."
+
+ satellite_defensive_1:0 "초소 인력 배치"
+ satellite_defensive_1_desc:0 "방어선이 구축되어 있다 한들, 피에 굶주린 노살리스 무리를 막는 데는 큰 도움이 되지 않을 것입니다. 단순한 철조망만으로는 놈들의 접근을 막을 수 없습니다. 메트로의 어두운 심연을 감시할 더 많은 인력이 필요합니다... 그저 어둠 속에서 무언가가 그들을 마주 보지 않기를 기도할 뿐입니다."
+
+ satellite_military_emplacements:0 "군사 진지"
+ satellite_military_emplacements_desc:0 "정기적인 초소와 순환 근무가 이루어지는 유인 초소입니다. 우리 방어선에 남은 것은 중심 화기 한두 개뿐입니다. 화염방사기 한두 개나 지상에서 훔쳐온 DshK 기관총 정도면 어떨까요? 물론 뭐든 거저 얻을 순 없겠지만, 우리 영토가 공격받게 되면 탄약값 좀 더 쓸 걸 하고 후회하게 될 겁니다."
+
+ satellite_communication_lines:0 "통신 연결망"
+ satellite_communication_lines_desc:0 ""
+
+ satellite_ied_mines:0 "급조 지뢰"
+ satellite_ied_mines_desc:0 ""
+
+ satellite_defensive_4:0 "기술력 결집"
+ satellite_defensive_4_desc:0 ""
+
+ satellite_military_investment:0 "병기고 투자"
+ satellite_military_investment_desc:0 ""
+
+ satellite_arsenal_stockpiling:0 "무기 비축"
+ satellite_arsenal_stockpiling_desc:0 ""
+
+ satellite_ordinance_depot:0 "군수품 창고"
+ satellite_ordinance_depot_desc:0 ""
+
+ satellite_construction_3:0 "민간 시장 확장"
+ satellite_construction_3_desc:0 ""
+
+ satellite_construction_6:0 "국내 생산 장려"
+ satellite_construction_6_desc:0 ""
+
+ satellite_construction_9:0 "노동 통합"
+ satellite_construction_9_desc:0 ""
+
+ satellite_construction_5:0 "도서관 설립"
+ satellite_construction_5_desc:0 ""
+
+ satellite_economy_5:0 "강인한 노동력으로..."
+ satellite_economy_5_desc:0 ""
+
+ satellite_economy_4:0 "휘발유 발전기 수집"
+ satellite_economy_4_desc:0 ""
+
+ satellite_economy_3:0 "도구 제작"
+ satellite_economy_3_desc:0 ""
+
+ satellite_economy_2:0 "폐기물 수색"
+ satellite_economy_2_desc:0 ""
+
+ satellite_military:0 "[ROOT.GetNameDef]의 군대"
+ satellite_military_desc:0 ""
+
+ satellite_station_guard: "무장 집중"
+ satellite_station_guard_desc: ""
+
+ satellite_station_arms: "군율 위원회"
+ satellite_station_arms_desc: ""
+
+ satellite_station_arms_3: "구형 필터 재밀봉"
+ satellite_station_arms_3_desc: ""
+
+ satellite_station_special_forces: "특수부대 노력"
+ satellite_station_special_forces_desc: ""
+
+ satellite_station_arms_2: "복장 표준화"
+ satellite_station_arms_2_desc: ""
+
+ satellite_station_guard_explosive: "폭발물 무장 집중"
+ satellite_station_guard_explosive_desc: ""
+
+ satellite_station_guard_gattling: "경기관총(LMG) 집중"
+ satellite_station_guard_gattling_desc: ""
+
+ satellite_station_guard_support_1: "지원팀 집중"
+ satellite_station_guard_support_1_desc: ""
+
+ satellite_station_guard_support_2: "지원팀 집중 II"
+ satellite_station_guard_support_2_desc: ""
+
+ satellite_military_1: "교리 노력 I"
+ satellite_military_1_desc: ""
+
+ satellite_military_2: "교리 노력 II"
+ satellite_military_2_desc: ""
+
+ satellite_the_bigger_picture: "중앙 집중식 훈련 계획"
+ satellite_the_bigger_picture_desc: ""
+
+ satellite_commander_1: "군인의 길"
+ satellite_commander_1_desc: ""
+
+ satellite_commander_2: "능력 위주 승진"
+ satellite_commander_2_desc: ""
+
+ satellite_mandatory_servitude: "강제 노역"
+ satellite_mandatory_servitude_desc: ""
+
+ satellite_rigorous_training: "혹독한 훈련"
+ satellite_rigorous_training_desc: ""
+
+ satellite_rigorous_training_A: "전략적 조정"
+ satellite_rigorous_training_A_desc: ""
+
+ satellite_rigorous_training_B: "정밀한 조정"
+ satellite_rigorous_training_B_desc: ""
+
+ satellite_army_military_1: "역 경비대 조직"
+ satellite_army_military_1_desc: ""
+
+ satellite_army_military_2: "전문 군단"
+ satellite_army_military_2_desc: ""
+
+ satellite_army_military_3: "통일 훈련령"
+ satellite_army_military_3_desc: ""
+
+ satellite_military_research_1: "무기 구매"
+ satellite_military_research_1desc: ""
+
+ satellite_military_research_2: "폭발물 집중"
+ satellite_military_research_2desc: ""
+
+ satellite_military_research_3: "화력조 집중"
+ satellite_military_research_3desc: ""
+
+ satellite_military_research_4: "특수부대 우선"
+ satellite_military_research_4desc: ""
+
+ satellite_domestics_1:0 "가정 기반 사회"
+ satellite_domestics_1_desc:0 ""
+
+ satellite_trade:0 "수출 경제"
+ satellite_trade_desc:0 ""
+
+ satellite_arsenal:0 "군사 기술자"
+ satellite_arsenal_desc:0 ""
+
+ satellite_investment_redline:0 "붉은 라인에 투자 요청"
+ satellite_investment_redline_desc:0 ""
+
+ satellite_investment_hanza:0 "한자에 투자 요청"
+ satellite_investment_hanza_desc:0 ""
+
+ satellite_investment_domestics:0 "산업 조정"
+ satellite_investment_domestics_desc:0 ""
+
+ satellite_investment_trade:0 "폐품 관리 사업"
+ satellite_investment_trade_desc:0 ""
+
+ satellite_investment_arsenal:0 "부품 생산 효율화"
+ satellite_investment_arsenal_desc:0 ""
+
+ satellite_investment_4:0 "소콜의 무기"
+ satellite_investment_4_desc:0 ""
+
+ satellite_investment_5:0 "콜체바야의 화기"
+ satellite_investment_5_desc:0 ""
+
+ satellite_investment_6:0 "경제 안보"
+ satellite_investment_6_desc:0 ""
+
+ satellite_investment_alone:0 "우리만의 운명 개척"
+ satellite_investment_alone_desc:0 ""
+
+ satellite_investment_alone_3:0 "안전한 상인 경로"
+ satellite_investment_alone_3_desc:0 ""
+
+ satellite_our_own_technicians:0 "우리만의 기술자"
+ satellite_our_own_technicians_desc:0 ""
+
+ satellite_specialised_production:0 "전문화된 생산"
+ satellite_specialised_production_desc:0 ""
+
+ satellite_chemicals:0 "자체 실험실"
+ satellite_chemicals_desc:0 ""
+
+ satellite_envy_of_polis: "폴리스의 선망"
+ satellite_envy_of_polis_desc: "우리는 노력하고 고생해왔으며, 우리 공동체가 겪는 어려움에도 불구하고 우리의 연구 능력은 이웃들의 선망의 대상이 되고 있습니다. 폴리스가 옛 세계 지식의 요새일지는 몰라도, 우리는 그 지식을 실제로 필요한 현장에 적용합니다."
+
+ satellite_autarky:0 "경제적 자립"
+ satellite_autarky_desc:0 ""
+
+ satellite_defence_against_fascism:0 "파시즘에 대한 방어"
+ satellite_defence_against_fascism_desc:0 ""
+
+ satellite_antifascist_army:0 "종심 타격 작전"
+ satellite_antifascist_army_desc:0 ""
+ satellite_antifascist_army_tt: "우리 수도 역에 특수부대 분대가 생성됩니다"
+
+ satellite_antifascist_army_2: "마지막 거친 숨을 내쉴 때까지"
+ satellite_antifascist_army_2_desc: "결의도 없고, 평화도 없으며, 유혈 사태 없이는 파시스트와 어떤 결론도 낼 수 없습니다."
+
+ satellite_antifascist_army_3: "한 치마다 피를 흘리며"
+ satellite_antifascist_army_3_desc: "우리는 조용히 싸우지 않을 것입니다. 구석에 몰린 개처럼, 우리는 끌어모을 수 있는 모든 용기를 짜내어 물어뜯고, 찢어발길 것입니다."
+
+ satellite_struggle_alone:0 "홀로 투쟁"
+ satellite_struggle_alone_desc:0 ""
+
+ satellite_struggle_alone_2:0 "터널 잉여 무기"
+ satellite_struggle_alone_2_desc:0 ""
+
+ satellite_antifascist_decisions:0 "반파시스트 캠페인"
+ satellite_antifascist_decisions_desc:0 ""
+
+ satellite_enable_antifascist_decisions:0 "§Y반파시스트 캠페인 디시전 해금§!"
+
+ satellite_seek_help_from_the_redline:0 "붉은 라인에 지원 요청"
+ satellite_seek_help_from_the_redline_desc:0 "붉은 라인은 제국과 영원한 패권 다툼을 벌이고 있습니다. 적의 적은 나의 친구라는 말이 있듯이... 붉은 라인이 제국에 맞서 도움을 줄지도 모릅니다."
+
+ satellite_seek_help_from_the_redline_2:0 "협력적 봉쇄 노력"
+ satellite_seek_help_from_the_redline_2_desc:0 ""
+ satellite_seek_help_from_the_redline_2_tt: "붉은 라인은 우리 군대를 훈련시킬 것입니다. 수도 역에 정규군 2개 부대가 생성됩니다."
+
+ satellite_commander_buff:0 "과거 전쟁의 교훈"
+ satellite_commander_buff_desc:0 "100년 전쯤에 우리 러시아가 이 위협을 물리쳤다는 것은 잘 알려진 사실입니다. 이 위협을 지구상에서 박멸하고 역사의 뒤안길로 보내기 위해 엄청난 희생과 노력이 필요했습니다. 이제 그 노력을 우리가 다시 짊어져야 할 것 같습니다.\n제국은 과거 그들이 그랬던 것처럼 똑같은 전술, '전격전' 혹은 번개 같은 공세를 펼치려 할 가능성이 높습니다."
+
+ satellite_counterattacks:0 "원점 타격"
+ satellite_counterattacks_desc:0 ""
+
+ satellite_enable_direct_antifascist_decisions:0 "§Y파시스트의 위협에 정면으로 맞서기 위한 §!§R국경 분쟁§! §Y디시전을 해금합니다!§!"
+
+ satellite_attack_the_reich:0 "§C제국에 피를§!"
+ satellite_attack_the_reich_desc:0 ""
+
+ satellite_our_path:0 "우리의 길"
+ satellite_our_path_desc:0 ""
+
+ satellite_winds_of_change:0 "변화의 바람"
+ satellite_winds_of_change_desc:0 ""
+
+ satellite_kick_out_foreign_merchants:0 "외국 상인 추방"
+ satellite_kick_out_foreign_merchants_desc:0 ""
+
+ satellite_consolidate_our_own_economy:0 "자체 경제 통합"
+ satellite_consolidate_our_own_economy_desc:0 ""
+
+ satellite_against_the_proverbial_powers:0 "강대국들에 맞서"
+ satellite_against_the_proverbial_powers_desc:0 ""
+
+ satellite_not_reliant_on_no_one:0 "우리는 한자나 붉은 라인에 의존하지 않습니다."
+
+ satellite_align_the_sokol:0 "붉은 라인과 협력"
+ satellite_align_the_sokol_desc:0 ""
+
+ satellite_soviet_nostalgia:0 "소련 향수 프로젝트"
+ satellite_soviet_nostalgia_desc:0 ""
+
+ satellite_soviet_help:0 "붉은 라인에 상호 지원 요청"
+ satellite_soviet_help_desc:0 ""
+
+ satellite_strike_the_hanseatic_league:0 "한자 타격"
+ satellite_strike_the_hanseatic_league_desc:0 ""
+
+ satellite_deal_with_the_devil:0 "악마와의 거래"
+ satellite_deal_with_the_devil_desc:0 ""
+
+ _satellite_kill_hanza_assistance:0 "우리는 [RED.GetNameWithFlag]과 [HNZ.GetNameWithFlag] 사이의 갈등이 §R전면전!§!으로 확대될 경우, 전쟁에 합류하는 이벤트를 §Y받게§! 됩니다."
+ _satellite_redline_assistance:0 "그 대가로, 그들은 우리 R&D 노력에 도움을 줄 것입니다!"
+
+ satellite_our_own_path:0 "우리만의 길"
+ satellite_our_own_path_desc:0 "우리에게 맞지 않는다면 누군가의 뒤를 따를 이유가 무엇이겠습니까? 우리는 스스로 운명을 개척할 것입니다. 전쟁의 불길 속이든, 평화의 번영이든, 혹은 지하의 칠흑 같은 어둠 속이든 말입니다. 우리는 우리 운명의 주인입니다."
+
+ satellite_a_new_power_dawns:0 "새로운 세력의 여명"
+ satellite_a_new_power_dawns_desc:0 "메트로의 미래가 불확실한 가운데, 역사는 기록하는 것을 잊지 않은 자들에 의해 쓰입니다. 우리 역은 끔찍한 문맹률에도 불구하고 과거에 머물러 있지 않을 것입니다. 한자나 사회주의자들을 넘어, 우리 역은 현상 유지에 도전하는 메트로의 떠오르는 세력이 될 것입니다."
+
+ satellite_de_sovietization:0 "탈소련화"
+ satellite_de_sovietization_desc:0 ""
+
+ satellite_strike_the_redline:0 "붉은 라인 타격"
+ satellite_strike_the_redline_desc:0 ""
+
+ satellite_in_the_interests_of_the_anti_revolution:0 "반혁명의 이익을 위하여"
+ satellite_in_the_interests_of_the_anti_revolution_desc:0 ""
+
+ _satellite_kill_redline_assistance:0 "우리는 [HNZ.GetNameWithFlag]과 [RED.GetNameWithFlag] 사이의 갈등이 §R전면전!§!으로 확대될 경우, 전쟁에 합류하는 이벤트를 §Y받게§! 됩니다."
+ _satellite_hanza_assistance:0 "그 대가로, 그들은 우리 연구 개발 노력에 도움을 줄 것입니다!"
+
+ satellite_status_quo:0 "현상 유지"
+ satellite_status_quo_desc:0 ""
+
+ satellite_guarantee_polis:0 "폴리스 독립 보장"
+ satellite_guarantee_polis_desc:0 "이 지구상에서 전 세계를 기억하는 마지막 장소입니다. 가깝고 먼 위협으로부터 그들을 안전하게 지키는 것이 현명할 것입니다."
+
+ access_polis_education_decision:0 "폴리스의 도서관에 접근할 수 있는 능력을 해제하여 §G교육 수준§!을 향상시킵니다!"
+
+ satellite_assist_the_rangers:0 "레인저 지원"
+ satellite_assist_the_rangers_desc:0 "기사단 레인저는 인류의 생존 외에는 어떤 상위 권력에도 봉사하지 않는 준군사 조직입니다. 페트로프는 홀로 6명의 도적을 상대로 상처 하나 없이 살아남은 레인저를 목격했다고 맹세했습니다. 물론, 파벨은 그걸 봤을 때 술에 떡이 되어 있었죠. 하지만 어찌 됐든 레인저들은 함부로 건드릴 상대가 아닙니다."
+
+ _satellite_receive_spartan_character:0 "레인저들이 우리 군대를 훈련하는 데 도움을 줄 수 있는 군사 자문관을 보내줄 것입니다."
+
+ satellite_support_the_hanseatic_league:0 "한자 지지"
+ satellite_support_the_hanseatic_league_desc:0 ""
+
+ satellite_equal_opportunity_member:0 "동등한 기회 회원"
+ satellite_equal_opportunity_member_desc:0 ""
+
+ satellite_anti_communist_coalition:0 "반공 동맹 개혁"
+ satellite_anti_communist_coalition_desc:0 ""
+
+ satellite_red_alert:0 "빨간 경보"
+ satellite_red_alert_desc:0 ""
+
+ satellite_militarization: "무기 제작자 재정비"
+ satellite_militarization_desc: "제국군이 언제 우리 문앞에 들이닥칠지 알 수 없습니다. 내일일까요, 다음 주일까요? 아니면 이미 우리 역에 침투할 계획을 세우고 있을지도 모릅니다. 충분한 양을 생산하려면 무기 제작자들을 초과 근무시켜야 합니다. 한 사람당 총 한 자루, 아니면 세 자루씩."
+
+### Spartan stuff ###
+
+ satellite_intergrate_industries: "기술자 연락담당관"
+ satellite_intergrate_industries_desc: ""
+
+ satellite_assistance_against_MOB: "야만인들에 대항하여 지원"
+ satellite_assistance_against_MOB_desc: ""
+
+ satellite_ranger_initialisation: "레인저 초기화"
+ satellite_ranger_initialisation_desc: ""
+ satellite_path_of_ranger: "\n이것은 우리가 기사단의 §G진정한§! 일원이 되기 위한 길로 이끌어 줄 것입니다. 우리는 현재의 경제 및 징병법을 §R포기§!하는 대가로 독점적인 §C레인저 정책§!을 얻게 됩니다.\n\n"
+
+ satellite_ranger_spec_ops: "엄선된 장비"
+ satellite_ranger_spec_ops_desc: ""
+
+ satellite_bastion_of_humanity: "인류의 요새"
+ satellite_bastion_of_humanity_desc: ""
+
+ satellite_equal_amongst_peers: "동료 간의 평등"
+ satellite_equal_amongst_peers_desc: ""
+
+ satellite_allow_orderly_recruitment: "일반인 모집 허용"
+ satellite_allow_orderly_recruitment_desc: ""
+
+ satellite_draw_from_the_commoners: "역에서 신병 모집"
+ satellite_draw_from_the_commoners_desc: ""
+
+ satellite_stalker_intergration: "스토커 통합"
+ satellite_stalker_integration_desc: ""

@@ -1,0 +1,127 @@
+﻿l_korean:
+   ## TAG aligned are unique Techs. Stored here to cut down on filesize bloat
+
+   ## Equipment Modifiers
+   savage_ranged_equipment: "야만 부족 원거리 장비"
+
+   savage_society_tech_1: "석기 타제"
+   savage_society_tech_1_desc: "돌을 단순히 맞부딪히는 것만으로도 의미 있는 무언가를 만들 수 있다는 걸 누가 알았을까요? 돌을 깎아 타제하여 날카로운 날을 만드는 것은, 암석 조각을 활용 가능한 도구나 무기로 가공할 수 있게 해줍니다."
+
+   savage_society_tech_2: "전용 도구 세트"
+   savage_society_tech_2_desc: "단순히 돌 하나로 다른 돌을 내리치는 것만으로도 충분할 수 있지만, 특정한 용도로 설계된 다양한 석기 도구들을 확보하면 도구의 활용 범위와 장인들의 효율성을 더욱 높일 수 있습니다."
+
+   savage_society_tech_3: "돌자귀"
+   savage_society_tech_3_desc: "도끼와 유사하지만 날이 자루와 수직으로 되어 있어, 나무를 깎거나 가공하는 작업에서 효율성을 높일 수 있습니다."
+
+   savage_society_tech_4: "육류 보존"
+   savage_society_tech_4_desc: "고기를 단순히 익혀 먹는 대신, 밀폐된 공간에서 훈연하는 방식은 고기의 보존 기간을 비약적으로 늘려줍니다."
+
+   savage_society_tech_5: "끈 제작술 개선"
+   savage_society_tech_5_desc: "개선된 기술을 통해 강화된 밧줄을 제작하여 구조물을 견고하게 고정하거나 도구를 보강할 수 있습니다."
+
+   savage_society_tech_6: "활비비"
+   savage_society_tech_6_desc: "줄로 감은 나무 막대를 신속하게 회전시키는 장치입니다. 불을 지피는 것부터 작은 구멍을 뚫는 것까지 광범위하게 활용될 수 있습니다."
+
+   savage_tech_1a: "숫돌"
+   savage_tech_1a_desc: "돌이나 딱딱한 표면에 물을 뿌리고 도구를 문지르면 날을 더욱 날카롭게 세울 수 있습니다. 날 선 도구는 훨씬 더 치명적인 무기가 됩니다."
+
+   savage_tech_2a: "자루 감개"
+   savage_tech_2a_desc: "도구의 자루 부분에 천 조각이나 끈을 감아 보강함으로써, 사용 시의 효율성과 그립감을 향상시킵니다."
+
+   savage_tech_3a: "석기 천공"
+   savage_tech_3a_desc: "날을 나무에 억지로 박아 넣는 대신, 돌 자체에 적절한 구멍을 뚫을 수 있습니다. 구멍을 통해 끈이나 다른 재료로 고정하면 도구의 견고함이 훨씬 좋아집니다."
+
+   savage_tech_4a: "뼈 박편"
+   savage_tech_4a_desc: "보통 무기는 오랫동안 버틸 수 있도록 설계되지만, 만약 타격 시 파괴되도록 설계된다면 어떨까요? 타격 시 몸속에서 부러져 박히도록 설계된 뼛조각들을 무기에 부착하면 치명적인 살상력을 발휘할 수 있습니다."
+
+   savage_military_tech_1: "약초학"
+   savage_military_tech_1_desc: "주변에서 구할 수 있는 식물들을 활용하여 상처를 치료하고 질병을 다스리는 원시적인 의술입니다."
+
+   savage_military_tech_2: "의식용 전투 화장"
+   savage_military_tech_2_desc: "전사들에게 상징적인 문양의 화장을 입힘으로써 자부심을 고취합니다. 이 화장은 광신도들을 적으로부터 보호하고 메트로의 어둠 속에 은신하는 데 도움을 줄 것입니다."
+
+   savage_military_tech_3: "축복받은 장신구"
+   savage_military_tech_3_desc: "숭배자들이 행운을 불러오는 주술을 건 장신구들을 제작하여 전사들에게 지급합니다. 이는 전사들을 보호하고 부정한 기운을 쫓아내 줄 것입니다."
+
+   savage_military_tech_4: "군고"
+   savage_military_tech_4_desc: "전투의 열기를 돋우고 아군의 전열을 다듬으며 적들에게는 공포를 심어주는 거대한 북소리입니다."
+
+   savage_military_tech_5: "전문 추적자"
+   savage_military_tech_5_desc: "진흙 위의 발자국이나 바닥의 긁힌 자국만으로도 적의 행방을 낱낱이 파악할 수 있는 사냥꾼들입니다."
+
+   savage_military_tech_6: "군사적 퇴보"
+   savage_military_tech_6_desc: "모든 근대적인 전술을 거부하고, 원시적인 본능과 야수 같은 폭력성으로 회귀하여 전장에서 광기를 발산합니다."
+
+   savage_spec_ops_equipment_tech_2: "환각성 버섯"
+   savage_spec_ops_equipment_tech_2_desc: "터널 어두운 곳에서 자라는 특정한 버섯들은 강력한 환각 작용을 일으킵니다. 이를 정제하여 섭취한 전사들은 고통을 잊고 현실을 초월한 용맹함을 발휘하게 됩니다."
+
+   savage_spec_ops_equipment_tech_4: "성스러운 무기"
+   savage_spec_ops_equipment_tech_4_desc: "부족의 장로들이 정성껏 기도를 올린 성스러운 무기들입니다. 비록 구시대의 총기보다 조잡할지 모르나, 신앙의 힘이 깃든 이 칼날은 적들의 영혼마저 베어버릴 것입니다."
+
+
+   savage_ranged_equipment_2_tech: "마비 혼합물"
+   savage_ranged_equipment_2_tech_desc: "바람총 탄환 자체만으로는 쥐보다 큰 표적을 쓰러뜨리는 데 한계가 있습니다. 바람총의 위력을 실질적으로 높이려면, 탄환을 적의 신경을 마비시키기 위해 특별히 배합된 독에 담가 사용해야 합니다."
+
+   savage_ranged_equipment_3_tech: "깃털 다트"
+   savage_ranged_equipment_3_tech_desc: "바람총 탄환 끝에 깃털을 부착하면 비행 속도가 빨라질 뿐만 아니라, 적에게 명중할 때의 타격력을 극대화할 수 있습니다."
+
+   savage_ranged_equipment_5_tech: "맞춤형 마우스피스"
+   savage_ranged_equipment_5_tech_desc: "바람총 관에 전용 마우스피스를 장착하면 도구로서의 효율이 비약적으로 향상됩니다. 흡입 방지 링 역할을 할 뿐만 아니라, 다트를 발사하는 데 필요한 순간적인 호흡의 집중도를 높여줍니다."
+
+   underzealot_worm_rail_equipment_tech_1: "어린 벌레 산란"
+   underzealot_worm_rail_equipment_tech_1_desc: "큰 벌레의 하수인들은 벌레의 유충을 사육하여 전장에 활용합니다. 이 꿈틀거리는 생명체들은 적들에게 형언할 수 없는 공포를 선사할 것입니다."
+
+   ## PAG ##
+
+   PAG_savage_ranged_equipment_2_tech: "수염 도끼"
+   PAG_savage_ranged_equipment_2_tech_desc: "밑부분이 길게 늘어진 이 독특한 도끼는 적의 무기를 방어하거나 다리를 걸어 넘어뜨리는 데 탁월합니다. 근접전에서 적을 효율적으로 무력화할 수 있습니다."
+
+   PAG_savage_ranged_equipment_3_tech: "숫돌"
+   PAG_savage_ranged_equipment_3_tech_desc: "거친 돌을 이용해 무기를 수시로 손질함으로써, 도끼와 창끝이 언제나 최고의 살상력을 유지하도록 보장합니다."
+
+   PAG_savage_ranged_equipment_5_tech: "버들잎 모양 창날"
+   PAG_savage_ranged_equipment_5_tech_desc: "버들잎을 닮은 넓고 날카로운 창끝입니다. 고전적인 설계이지만, 적의 피부를 가르고 출혈을 유도하는 데는 이만한 것이 없습니다."
+
+   PAG_savage_spec_ops_equipment_2_tech: "풀무"
+   PAG_savage_spec_ops_equipment_2_tech_desc: "불을 다루는 데 필요한 원시적인 풀무입니다. 이를 통해 더 견고한 도구를 벼려내고 부족의 대장간에 활기를 불어넣을 수 있습니다."
+
+   PAG_savage_spec_ops_equipment_4_tech: "철대 보강"
+   PAG_savage_spec_ops_equipment_4_tech_desc: "무기에 철대를 덧대어 내구성을 높였습니다. 적의 강력한 타격을 견디면서도 무기가 부러지지 않게 보호합니다."
+
+
+
+   GWC_support_tech_stats: "\n대물 공격력과 관통 수치가 §R감소합니다.§!"
+
+   underzealot_cultist_equipment_tech_1a:0 "신봉자"
+   underzealot_cultist_equipment_tech_1a_desc:0 "큰 벌레의 부름을 받은 자들입니다. 그들은 기계 문명을 거부하고 오직 육체와 원시적인 날붙이만으로 성전을 수행합니다."
+
+   underzealot_cultist_equipment_tech_1aa:0 "신봉자"
+   underzealot_cultist_equipment_tech_1aa_desc:0 "큰 벌레의 부름을 받은 자들입니다. 그들은 기계 문명을 거부하고 오직 육체와 원시적인 날붙이만으로 성전을 수행합니다."
+
+   underzealot_cultist_equipment_tech_1b:0 "신봉자"
+   underzealot_cultist_equipment_tech_1b_desc:0 "큰 벌레의 부름을 받은 자들입니다. 그들은 기계 문명을 거부하고 오직 육체와 원시적인 날붙이만으로 성전을 수행합니다."
+
+   underzealot_cultist_equipment_tech_1bb:0 "신봉자"
+   underzealot_cultist_equipment_tech_1bb_desc:0 "큰 벌레의 부름을 받은 자들입니다. 그들은 기계 문명을 거부하고 오직 육체와 원시적인 날붙이만으로 성전을 수행합니다."
+
+   underzealot_cultist_equipment_tech_1c:0 "신봉자"
+   underzealot_cultist_equipment_tech_1c_desc:0 "큰 벌레의 부름을 받은 자들입니다. 그들은 기계 문명을 거부하고 오직 육체와 원시적인 날붙이만으로 성전을 수행합니다."
+
+   underzealot_cultist_equipment_tech_1cc:0 "신봉자"
+   underzealot_cultist_equipment_tech_1cc_desc:0 "큰 벌레의 부름을 받은 자들입니다. 그들은 기계 문명을 거부하고 오직 육체와 원시적인 날붙이만으로 성전을 수행합니다."
+
+
+   GWC_unique_tech_1:0 "불규칙한 이동 패턴"
+   GWC_unique_tech_1_desc:0 "적들이 예측할 수 없도록 예측 불가능한 경로로 기동하여 포화망을 회피합니다."
+   GWC_unique_tech_2:0 "은밀한 기동"
+   GWC_unique_tech_2_desc:0 "발소리를 죽이고 주변 환경에 녹아드는 기술을 연마하여 적들의 뒤를 노립니다."
+   GWC_unique_tech_3:0 "재활용 도구"
+   GWC_unique_tech_3_desc:0 "버려진 고철조차 우리에게는 훌륭한 도구가 됩니다. 폐품을 활용해 장비를 보수하는 능력을 높입니다."
+   GWC_unique_tech_4:0 "전선의 앞장"
+   GWC_unique_tech_4_desc:0 "공세를 펼칠 때 가장 용맹한 전사들이 선봉에 서서 적의 전열을 붕괴시킵니다."
+
+   PAG_unique_tech_1: "침묵의 분노"
+   PAG_unique_tech_2: "분노한 침묵"
+   PAG_unique_tech_3: "불굴의 정신"
+   PAG_unique_tech_4: "도끼 가방"
+

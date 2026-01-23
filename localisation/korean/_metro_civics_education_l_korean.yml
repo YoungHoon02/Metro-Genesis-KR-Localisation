@@ -1,0 +1,186 @@
+﻿l_korean:
+
+ education_cooldown: "재사용 대기시간"
+ education_cooldown_finished: "이 재사용 대기시간이 적용되는 동안에는 추가적인 교육 개혁을 진행할 수 없습니다."
+
+ education_reform_state_cost_reduction_modifier: "교육 개혁 타이머 감소"
+ education_practise: "교육 개혁"
+ education_practise_desc: "\n\n\n\n\n\n\n이 결정을 활성화하면 §Y타이머 임무§!가 시작됩니다. 임무 타이머가 §Y0§!에 도달하면 §Y교육 수준§!이 향상됩니다. §Y타이머 임무§! 완료에 걸리는 시간은 우리가 통제하는 §Y주§!의 수, §Y인구§!, 또는 현재 §Y교육 수준§!에 따라 달라집니다.\n\n개혁이 완료되면 다시 개혁을 추진할 수 있게 되기까지 약 §Y10개월§!이 소요됩니다."
+
+ is_not_bandit_nation:0 "강도단 세력이 아님"
+ not_currently_under_education_reforms:0 "현재 교육 개혁이 진행 중이지 않음"
+ not_education_cooldown: "교육 임무 재사용 대기시간이 아님"
+
+ education_reform_increase_cost_and_duration_tt:0 "이 결정의 §Y비용 및 기간§!은 실행할 때마다 점진적으로 증가합니다.\n"
+
+ improve_education_normal:0 "교육 체계 개선"
+ improve_education_normal_desc:0 "우리 스테이션 정착지들의 상태를 고려할 때, 교육 체계를 추가로 도입하면 시민들이 기본적인 일상 활동을 훨씬 더 원활하게 수행할 수 있게 될 것임이 분명해졌습니다. 또한 우리 자신의 연구 개발 역량을 향상시키는 긍정적인 부수 효과도 있을 것입니다.[metro_education_reforms_cost_tooltip]"
+
+ improve_education_normal_advanced: "교육 개선"
+ improve_education_normal_advanced_desc: "우리는 과학적 혁명의 목전에 와 있습니다. 구세계 사람들은 우리가 달성하려는 이 성과를 그저 꿈꾸기만 할 뿐이었습니다!"
+
+ improve_education_efforts_mission:0 "교육 개선 노력"
+ improve_education_efforts_mission_desc:0 "포괄적인 교육을 시행하는 것은 기념비적인 과정이 될 것입니다. 우리의 노력이 결실을 맺기까지는 상당한 시간이 걸릴 것입니다.[metro_education_reforms_cost_tooltip]"
+
+ metro_education_reforms_cost_tooltip: "\n\n인구에 의한 비용: §Y[?education_reforms_population_cost_tooltip]§!\n영토에 의한 비용: §Y[?education_reforms_state_cost_tooltip]§!\n비용 수정치: §Yx[?education_reforms_cost_from_modifiers_factor|0..2]§!\n단계별 비용 배수: §Yx[?education_reform_tier_multiplier]§!\n보유 주에 따른 비용 감소: §Y-[modifier@education_reform_state_cost_reduction_modifier]%§!"
+
+ education_efforts_mission_tooltip:0 "\n§g우리가 보유한 §!§Y스테이션§!§g의 수에 따라 상당한 시간이 소요될 것입니다.§!\n"
+
+ education_efforts_mission_completed:0 "\n타이머가 §R0§!에 도달하면, 다음 §C연구 단계§!를 §Y잠금 해제§!합니다!"
+
+ improve_education_efforts_administrate_station_chiefs:0 "역장들과의 계획 통합"
+ improve_education_efforts_administrate_station_chiefs_desc:0 "스테이션 관리자들과 만나 교육 개혁을 시행하기 위한 절차를 수립하고 청사진을 그리는 데는 시간이 걸릴 것입니다. 설령 그들이 우리의 제안에 동의하더라도 말이죠. 지역 역장들의 권위를 존중해야만 우리가 원하는 개혁을 제대로 진행하고 목표한 변화를 이행할 수 있습니다."
+
+ improve_education_efforts_collect_books:0 "도서관 설립"
+ improve_education_efforts_collect_books_desc:0 "책을 드럼통 화로나 캠프파이어의 땔감으로 쓰는 대신, 안전하게 보관할 수 있습니다. 부패를 유발하는 요소들로부터 멀리 떨어진 양호한 상태로 책들을 보존해야 합니다."
+
+ improve_education_efforts_soapbox:0 "시민 참여 독려"
+ improve_education_efforts_soapbox_desc:0 "하루하루 살아가는 사소한 일들이 사람들의 머릿속을 더 많이 지배하게 되면서, 읽고 쓰는 것 같은 기본적인 일들이 점점 잊혀지고 있습니다. 이 관념을 근본적으로 바꾸려면 청소년뿐만 아니라 시민 사회의 모든 측면을 공략해야 합니다."
+
+ improve_education_efforts_purchase_amenities:0 "도서 구입"
+ improve_education_efforts_purchase_amenities_desc:0 "수많은 물건을 파는 상인들이 우리 스테이션을 오가는 가운데, 그들이 팔고 있는 사본이나 책을 구매해 비축하는 것은 지식을 전파하는 능력을 향상시키는 데 도움이 될 것입니다. 아동 도서부터 백과사전까지 무엇이든 좋습니다."
+
+ improve_education_efforts_establish_schoolhouses:0 "교육 시설 건설"
+ improve_education_efforts_establish_schoolhouses_desc:0 "공간이 나날이 중요한 자원이 되고 있음에도 불구하고, 아이들에게 지식을 가르치고 수용하기 위한 전용 공간을 마련합니다."
+
+  ### U N I Q U E   D E S C I S I O N S ###
+
+ improve_education_efforts_RED_social_science: "리크베즈(LikBez) 계획"
+ improve_education_efforts_RED_social_science_desc: "리크베즈는 '문맹 퇴치(Likvidatsya Bezgramotnosti)'의 줄임말로, 소련 초기 연방 전역의 문해율을 높이기 위해 시행된 프로그램입니다. 특수한 선전 열차를 설계하고 우리 행정부의 먼 지역까지 파견하여 흩어져 사는 주민들에게 읽고 쓰는 법을 가르칠 수 있습니다."
+
+ improve_education_efforts_RED_pursuit_of_lenin: "공교육 투자"
+ improve_education_efforts_RED_pursuit_of_lenin_desc: "소련은 탄탄한 교육 체계를 갖추고 있었습니다. 문해력, 그리고 무엇보다 교육 자체가 일상생활의 모든 측면에 도구로 활용되었습니다. 훌륭한 교육은 마르크스주의의 이점을 이해하는 데 필수적입니다."
+
+ improve_education_efforts_RCH_1: "청소년 조직화"
+ improve_education_efforts_RCH_1_desc: ""
+
+ improve_education_efforts_RCH_2: "의무 교육 프로그램"
+ improve_education_efforts_RCH_2_desc: "땅을 물려받을 존재는 바로 청소년들입니다. 조국에 대한 진정한 헌신과 우리 민족의 순결함을 태어날 때부터 그들에게 주입해야 합니다. 이뿐만이 아니라, 광범위한 훈련과 교육, 문해력 함양을 통해 그들에게 필요한 도구를 갖춰주어야 합니다."
+
+ improve_education_efforts_RCH_3: "인종 과학"
+ improve_education_efforts_RCH_3_desc: ""
+ RCH_unlock_science: "결정 해제: 인종 과학"
+
+ improve_education_access_polis_repository:0 "폴리스 도서관 접근"
+ improve_education_access_polis_repository_desc:0 "폴리스가 우리가 찾는 정보를 독점하고 있는 동안, 우리는 어둠 속에 앉아 전구를 새로 발명하려고 애쓰고 있습니다. 나뭇가지와 돌멩이를 맞대고 있는 대신, 그들의 지식 저장소에 접근할 수 있는지 정중하게 물어볼 수 있습니다. 어떤 바보가 도스토예프스키의 마지막 온전한 판본을 땔감으로 착각할지 모른다며 책이나 지식을 영구적으로 빌려주는 것은 불신하겠지만, 인류의 보존과 지식의 보호에 헌신하는 공동체라면 우리가 잠시 훑어보는 정도는 분명 허용해 줄 것입니다."
+
+ improve_education_efforts_HANZA_unique_1: "연구 기지 투자"
+ improve_education_efforts_HANZA_unique_1_desc: "돈이 세상을 돌아가게 하는 전부는 아니지만, 뇌물을 주고 일을 매끄럽게 만드는 데는 유용합니다. 시민들에게 돈을 퍼부어준다고 해서 그들이 갑자기 글을 깨우칠 것이라 기대할 수는 없겠죠. 하지만 행정부 여기저기에 '잔돈'을 좀 배치할 여유는 있습니다. 특히 우리 행정 기반에 관해서라면요. 물론 스테이션 벽에서는 다시 점액이 흘러나오고 이고르의 잡동사니 소총은 오늘만 벌써 수십 번째 막혔지만, 책은 정말 더 필요합니다."
+
+ improve_education_efforts_HANZA_unique_2: "문해 교육 수업 지원금"
+ improve_education_efforts_HANZA_unique_2_desc: "행정관들 중 일부는 진정으로 대중의 교육 수준을 높이고 싶다면 가장 밑바닥부터 시작하여 청소년 교육을 최우선으로 삼아야 한다고 주장합니다. 각 스테이션의 청소년들을 위한 문해력 수업에 예산을 편성하는 것은 쉬운 일이 아니지만, 의심할 여지 없이 아이들이 미래의 직업을 갖고 다른 많은 이들이 누리지 못한 기회를 잡을 수 있도록 준비시켜 줄 것입니다."
+
+ allow_access_polis_education_decision:0 "폴리스 도서관 접근이 허용됨"
+
+ ## Bandit ##
+
+ is_bandit_nation: "강도단"
+ is_savage_nation: "야만인"
+
+ improve_education_bandit:0 "교육 개선"
+ improve_education_bandit_desc:0 "깡패와 부하들로 이루어진 무리를 생각할 때 '총명함'이나 영리함이라는 단어가 먼저 떠오르지는 않습니다. 잔머리는 좋겠지만, 전구를 끼우는 데 양아치가 몇 명이나 필요할까요? 이 동네에서는 그런 질문을 안 하는 게 상책입니다. 하지만 지하 세계를 지배하려면 어디선가 시작해야 한다는 점은 분명합니다. 오합지졸 멍청이들을 제대로 된 조직원으로 단련시켜야 합니다."
+
+ improve_education_efforts_bandit_mission:0 "교육 개선 노력"
+ improve_education_efforts_bandit_mission_desc:0 "개선된 모습이 보이기까지는 꽤 시간이 걸릴 것입니다. 우리 조직원들의 지식과 예지력을 연마한다고 해서 그들이 가장 기초적인 수학 문제조차 풀 수 있게 되지는 않겠지만, 확실히 그들의 실전 감각은 더 정교해질 것입니다."
+
+ improve_education_efforts_bandit_disceting_equipment:0 "'실전형' 접근법"
+ improve_education_efforts_bandit_disceting_equipment_desc:0 "똑똑한 체하는 놈 앞에 톨스토이의 책을 한 권 던져주면 그는 그걸 당신에게 다시 던져버릴 겁니다. 녀석들에게 스스로 교육을 받으라고 설득하는 것보다 훨씬 더 많은 땀과 노력이 필요할 것입니다. 더 실용적인 접근법이 필요합니다."
+
+ improve_education_efforts_bandit_sleezy_books:0 "물자 배부"
+ improve_education_efforts_bandit_sleezy_books_desc:0 "말, 말, 말... 그것들은 사람을 죽음 직전까지 몰아넣을 수 있죠. 시선을 끌 만한 좀 더 흥미로운 것이 좋습니다. 사람을 지루하게 해서 반쯤 잠들게 만들지 않을 만한 것이라면 무엇이든 괜찮습니다."
+
+ improve_education_efforts_bandit_forced:0 "타협 없는 조치"
+ improve_education_efforts_bandit_forced_desc:0 "제대로 된 갱스터처럼 처신할 능력조차 없는 우리 폭력배들의 유능함을 의심하시겠죠. 전적으로 옳은 지적입니다. 그들은 게으르고 뼈를 아끼는 놈들입니다. 하지만 상황이 급박해지면 녀석들도 일을 시작할 것입니다. 압박이 충분히 강하기만 하다면요. 그 압박이 한두 번의 매질이나 두통을 유발하는 수준이라면, 우리 부하들이 분명히 제대로 움직이기 시작할 것이라 장담합니다."
+
+ improve_education_efforts_bandit_pp_spend:0 "최고에게 배우기"
+ improve_education_efforts_bandit_pp_spend_desc:0 "물론, 우리 쪽의 풋내기들은 모두 자신의 가치를 증명하고 싶어 합니다. 그들은 제2의 미하일로프나 쿠르간 터미네이터가 되기를 꿈꾸죠. 다행히 우리 패거리 중 많은 연장자는 옛 소련 시절까지 거슬러 올라가는 경력을 가진 전직 범죄자들입니다. 이미 그 길을 걸어봤고, 이것저것 온갖 험한 일을 다 겪어본 이들보다 더 나은 지식과 지혜의 원천은 없을 것입니다."
+
+ improve_education_efforts_bandit_pinch_it_someplace_else:0 "어딘가에서 훔쳐오기"
+ improve_education_efforts_bandit_pinch_it_someplace_else_desc:0 "물론, 가장 쉬운 방법은 그냥 다른 지식인들을 구해서 지루한 일들을 시키는 것입니다. 누군가를 협박해서 우리 일을 시키면 되는데 굳이 컴퓨터 사용법을 알 필요가 있을까요? 그게 우리가 해야 할 일 아니었나요?"
+
+ ### Reward Decisions ###
+
+ education_civic_2_reward_civilian_sphere: "민간 분야에서의 노력"
+ education_civic_2_reward_civilian_sphere_desc:0 "이러한 목표를 위해, 우리는 새로 얻은 지식을 스테이션 개선에 사용할 수 있습니다. 이제 우리는 적절한 관개 방법을 알고 있으며, 더 튼튼한 기반을 구축하는 법을 더 잘 이해하고 있습니다."
+ metro_civics_civilian_boon: "안식처 개선"
+
+ education_civic_2_reward_infantry_techs: "군 내에서의 노력"
+ metro_civics_infantry_boon: "군대 개선"
+
+ education_civic_2_reward_rail_vehicles: "철도 설계도 활용"
+ metro_civics_rail_boon: "차량 기지 확장"
+
+ civics_education_level_0:0 "세뇌 교육"
+
+ civics_education_level_1:0 "국가 선전"
+
+ civics_education_level_2:0 "교육 없음"
+ has_civic_education_higher_2_tooltip:0 "교육 수준이 §Y교육 없음§!보다 높습니다."
+
+ civics_education_level_3:0 "기초 교육"
+ has_civic_education_higher_3_tooltip:0 "교육 수준이 §Y기초 교육§!보다 높습니다."
+
+ civics_education_level_4:0 "초등 교육"
+ has_civic_education_higher_4_tooltip:0 "교육 수준이 §Y초등 교육§!보다 높습니다."
+
+ civics_education_level_5:0 "포괄적 교육"
+ has_civic_education_higher_5_tooltip:0 "교육 수준이 §Y포괄적 교육§!보다 높습니다."
+
+ civics_education_level_6:0 "고급 교육"
+ has_civic_education_higher_6_tooltip:0 "교육 수준이 §Y고급 교육§!보다 높습니다."
+
+ civics_education_level_7:0 "최첨단 교육"
+
+ civic_unlock_tier_6: "시민 법률: §t고급 교육§!을 잠금 해제합니다!"
+ civic_unlock_tier_7: "시민 법률: §t최첨단 교육§!을 잠금 해제합니다!"
+
+ education_reform_cost_reduction_10: "교육 개혁 타이머 §G-10%§!"
+ education_reform_cost_reduction_20: "교육 개혁 타이머 §G-20%§!"
+ education_reform_cost_reduction_30: "교육 개혁 타이머 §G-30%§!"
+ education_reform_cost_reduction_40: "교육 개혁 타이머 §G-40%§!"
+ education_reform_cost_reduction_50: "교육 개혁 타이머 §G-50%§!"
+
+ education_reform_cost_increase_10: "교육 개혁 타이머 §R+10%§!"
+ education_reform_cost_increase_20: "교육 개혁 타이머 §R+20%§!"
+ education_reform_cost_increase_30: "교육 개혁 타이머 §R+30%§!"
+ education_reform_cost_increase_40: "교육 개혁 타이머 §R+40%§!"
+ education_reform_cost_increase_50: "교육 개혁 타이머 §R+50%§!"
+ education_reform_cost_increase_200: "교육 개혁 타이머 §R+200%§!"
+
+ ### Events ###
+
+ nf_metro_education.1.t:0 "교육 개혁"
+ nf_metro_education.1.d:0 "적절한 시행, 비축, 지식 수집이 이루어진 후, 이제 우리 영토 전역에서 교육을 시작할 수 있습니다. 우리는 더 이상 이웃 스테이션 시민들이 믿고 싶어 하는 것과 같은 '무식한 부랑자들'이 아닙니다."
+ nf_metro_education.1.a:0 "좋은 소식"
+
+ nf_metro_education.2.t:0 "교육 개혁"
+ nf_metro_education.2.d:0 "지루한 몇 주가 지난 후, 우리 패거리의 머저리들이 마침내 감을 잡기 시작했습니다. 이 멍청이들이 총 쏘고 술 마시는 것 말고 다른 일을 할 수 있을 거라고 누가 생각했겠습니까? 이고르는 더 이상 20년도 더 된 연예계 가십이 담긴 온갖 잡지들을 읽을 때 심하게 말을 더듬지 않습니다. 표트르는 이제 자기 이름을 직접 쓸 수도 있죠. 오늘은 비록 오합지졸 폭력배들이지만, 내일은 또 누가 알겠습니까? 어쩌면 한자동맹 군인들이 우리를 함부로 건드리지 못하게 될지도 모릅니다!"
+ nf_metro_education.2.a:0 "좋은 소식"
+
+ nf_metro_education.3.t: "행정의 갈등"
+ nf_metro_education.3.d: "최근 보고에 따르면 스테이션 당국이 우리의 교육 개혁을 방해하고 있다고 합니다. 우리가 제공한 책과 팜플렛을 시민들에게 나누어주는 대신, 당국자들이 지나가는 상인들에게 팔아넘기거나 자기들끼리 매매하고 있습니다. 심지어 책을 땔감으로 쓰고 있다는 충격적인 소식까지 들려오고 있습니다."
+ nf_metro_education.3.a: "우리가 할 수 있는 일이 아무것도 없습니다"
+ nf_metro_education.3.b: "스테이션 당국을 문책하십시오"
+
+ nf_metro_education.4.t: "교육 보고"
+ nf_metro_education.4.d: "우리 시민들이 상황 파악을 제대로 못 하고 있는 것 같습니다. 스며든 방사능이 그들의 뇌에 영향을 미친 것일 수도 있고, 변종들에게 언제 끌려갈지 모른다는 공포가 그들의 마음속에서 배울 의지를 꺾어버린 것일 수도 있습니다. 어쨌든 우리의 개혁이 예상보다 더 오래 걸리고 있습니다."
+ nf_metro_education.4.a: "나쁜 소식이군요"
+
+ nf_metro_education.5.t: "교육 보고"
+ nf_metro_education.5.d: "현재 교육 개혁은 계획대로 진행될 것으로 예상되지만, 지역 스테이션 당국의 비위를 맞춰준다면 예상 마감일보다 더 빨리 프로세스를 진행할 수 있을 것으로 보입니다."
+ nf_metro_education.5.a: "속도를 높이는 일이라면 무엇이든 좋다"
+ nf_metro_education.5.b: "스테이션 당국에 맡기는 것이 최선이다"
+
+ nf_metro_education.6.t: "교육"
+ nf_metro_education.6.d: "시민들이 새로운 교육 수준에 적응했으므로, 원한다면 추가적인 교육 개혁을 계속 추진할 수 있습니다."
+ nf_metro_education.6.a: "곧 진행해 보도록 하죠."
+ 
+
+ 
+
+
+
+
+
+
+

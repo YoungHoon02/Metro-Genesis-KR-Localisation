@@ -1,0 +1,185 @@
+﻿l_korean:
+ GWC_bump_in_the_night:0 "어둠 속의 소란"
+ GWC_bump_in_the_night_desc:0 "어둠 속에는 쥐새끼들보다 훨씬 더 위험한 것이 도사리고 있습니다..."
+
+ GWC_purged_cannibals:0 "정화된 식인귀들"
+ GWC_purged_cannibals_desc:0 "한때 메트로 전역의 공포였던 그들은, 이제 어머니들이 말 안 듣는 아이들을 겁줄 때나 꺼내는 옛날이야기가 되었습니다. 하지만 어둠 속을 배회하던 그 창백한 그림자들의 기억은 영원히 잊히지 않을 것입니다."
+
+ GWC_infiltrated_small:0 "어둠 속에서 들려오는 소리"
+ GWC_infiltrated_small_desc:0 "터널의 그림자 속에 무언가가 도사리며 우리를 지켜보고 있습니다."
+
+ GWC_infiltrated_medium:0 "어둠 속을 배회하는 자들"
+ GWC_infiltrated_medium_desc:0 "창백한 그림자들이 역 근처를 맴돌며 주민들의 공포를 자극합니다."
+
+ GWC_infiltrated_sabotage:0 "파괴 공작"
+ GWC_infiltrated_sabotage_desc:0 "누군가 교묘하게 시설을 망가뜨리고 질서를 어지럽히고 있습니다."
+
+
+ GWC_infiltrated_frighten:0 "공포에 질린 시민들"
+ GWC_infiltrated_frighten_desc:0 "보이지 않는 위협이 우리 역 주변을 맴돌고 있으며, 사람들은 공포에 질려 얼어붙었습니다."
+
+ GWC_infiltrated_stolen_resources:0 "탈취된 자원"
+ GWC_infiltrated_stolen_resources_desc:0 "교묘한 수법으로 우리의 소중한 식량과 물자가 도난당했습니다."
+
+ GWC_infiltrated_kidnapped_children:0 "사라진 아이들"
+ GWC_infiltrated_kidnapped_children_desc:0 "부모들의 눈물 섞인 통곡이 울려 퍼집니다. 아이들이 흔적도 없이 사라졌습니다."
+
+
+ GWC_blowgun_1:0 "바람총 제작"
+ GWC_blowgun_1_desc:0 "지하의 재료들을 활용해 효과적인 바람총을 만드는 공정을 확립합니다."
+ GWC_blowgun_2:0 "강화된 바람총"
+ GWC_blowgun_2_desc:0 "치명적인 촉을 장착하여 살상력을 극대화합니다."
+
+ GWC_infiltrated_trade_stall:0 "습격당한 상단"
+ GWC_infiltrated_trade_stall_desc:0 "우리 무역용 수레들이 정체모를 위협에게 공격받았습니다. 인간이나 짐승의 흔적은 전혀 없었으며, 마치 다른 무언가의 소행인 듯합니다. 상단은 당분간 우리 영토를 지나가는 것을 꺼리고 있습니다."
+
+ savage_cannibals:0 "위대한 지렁이의 야만적 식인귀들"
+ savage_cannibals_desc:0 "야만적 식인귀들은 기술을 혐오하며 인육을 먹는 집단입니다. 주변 역에서 납치해 세뇌시킨 아이들로 구성된 이들은 메트로의 터널을 창조하고 자신의 위장에서 인간을 만들어냈다는 신성한 존재 '위대한 지렁이'를 숭배합니다. 그들의 사제들은 2013년의 재앙이 전적으로 기술 때문이라고 주장하며, 외부인들을 '기계의 종자'라 부르며 극도로 적대시합니다."
+
+ GWC_priest_will:0 "\n우리는 §Y[GWC.GetLeader]§!께서 직접 전하시는 §t위대한 지렁이§!의 가르침을 따릅니다. 그분이 우리의 지도자로 계시는 한, §t위대한 지렁이§!의 갈망을 §Y무작위 이벤트§!의 형태로 우리에게 계시하실 것입니다. 이는 때로는 §Y축복§!이 될 수도, 때로는 §R형벌§!이 될 수도 있습니다."
+
+ GWC_technophobes:0 "기술 혐오자들"
+ GWC_technophobes_desc:0 "위대한 지렁이께서는 기술이 언제나 전쟁 무기의 개발로 이어지기 때문에 그 자체로 죄악이라 가르치십니다. 지상의 황폐한 폐허가 그 증거입니다. 교단은 아주 사소한 기술적 진보조차 경계합니다.\n\n§R우리는 이 국가 정신을 절대로 제거할 수 없습니다.§!"
+
+ GWC_sickened_3:0 "전염병 창궐"
+ GWC_sickened_3_desc:0 "파크 포베디의 거주민들은 깨끗한 식수도, 정화된 공기도 마실 수 없는 상태입니다. 이들은 가혹한 환경과 유출되는 방사능의 자비에 전적으로 내맡겨져 있습니다."
+ GWC_sickened_2:0 "회복 중인 인구"
+ GWC_sickened_2_desc:0 "치명적인 고비를 넘긴 이들이 조금씩 기력을 되찾고 있습니다."
+ GWC_sickened_1:0 "내성 획득"
+
+ GWC_sickened_1_desc:0 "오염된 공기와 불결한 물속에서 대를 이어 살아온 이들은 방사능의 가혹한 영향에 어느 정도 저항력을 갖게 되었습니다."
+
+ GWC_supremacy_of_force_1:0 "무력의 우월성"
+ GWC_supremacy_of_force_1_desc:0 "우리는 이교도들이 휘두르는 부정한 기술에 결코 미칠 수 없겠지만, 우리의 굴하지 않는 의지와 잔혹함은 그들의 무기를 무용지물로 만들 것입니다."
+
+ GWC_supremacy_of_force_2:0 "약육강식"
+ GWC_supremacy_of_force_2_desc:0 "옳고 그름은 주관적인 것이며, 도덕성 따위는 무의미합니다. 가장 중요한 사실은 강자가 결국 약자를 굴복시킨다는 것입니다. 폭력이야말로 새로운 시대의 외교 수단입니다."
+
+ GWC_brawling_pits:0 "격투장"
+ GWC_brawling_pits_desc:0 "우리 전사들이 실력을 단련하고 투쟁심을 불태울 수 있는 거친 구덩이입니다."
+
+ GWC_drums_snare:0 "울려 퍼지는 북소리"
+ GWC_drums_snare_desc:0 "터널 전체에 울려 퍼지는 육중한 북소리는 아군에게는 용기를, 적에게는 공포를 선사합니다."
+
+ GWC_armament_crafting:0 "무기 제작 공정"
+ GWC_armament_crafting_desc:0 "사제들의 감독하에 지령이님의 의지에 어긋나지 않는 수준의 원시적인 무기들을 생산합니다."
+
+ GWC_supremacy_of_wit_1:0 "기지의 우월성"
+ GWC_supremacy_of_wit_1_desc:0 "무력만으로는 부족합니다. 교활한 기지가 때로는 날카로운 창보다 더 효과적입니다."
+
+ GWC_supremacy_of_wit_2:0 "물질을 넘어서는 정신"
+ GWC_supremacy_of_wit_2_desc:0 "우리의 정신은 불신자들의 조잡한 기계 장치 따위보다 훨씬 고결하고 강력합니다."
+
+ GWC_tunnel_navigation_1:0 "신성한 통로"
+ GWC_tunnel_navigation_1_desc:0 "우리는 지렁이님이 파놓으신 신성한 선로의 흐름을 잘 알고 있으며, 누구보다 빠르게 움직일 수 있습니다."
+
+ GWC_tunnel_navigation_2:0 "지하 넝쿨 터널"
+ GWC_tunnel_navigation_2_desc:0 "복잡하게 뒤엉킨 터널은 우리에게는 안식처지만, 이교도들에게는 무덤이 될 것입니다."
+
+
+ GWC_wit_1:0 "주도권 장악"
+ GWC_wit_1_desc:0 "적들의 숨통을 조이기 위해 한발 앞서 생각하고 행동하겠습니다."
+
+ GWC_wit_2:0 "일당백의 군대"
+ GWC_wit_2_desc:0 "훈련된 소수의 전사들이 수십 명의 오합지졸 불신자들을 압도할 것입니다."
+
+ GWC_no_remorse:0 "후회는 없다"
+ GWC_no_remorse_desc:0 "지렁이님의 뜻을 수행함에 있어 그 어떤 자비나 주저함도 있을 수 없습니다."
+
+ GWC_sharper_sticks_idea:0 "날카로운 말뚝"
+ GWC_sharper_sticks_idea_desc:0 "단순하지만 치명적입니다. 이 말뚝 하나가 이교도의 심장을 뚫기에 충분합니다."
+
+ GWC_scarier_stakes_idea:0 "공포의 말뚝"
+ GWC_scarier_stakes_idea_desc:0 "적들의 시신을 꿰어 터널 입구에 전시함으로써 침입자들에게 경고를 보냅니다."
+
+ GWC_toolmaking_smiths_idea:0 "뼈 세공인"
+ GWC_toolmaking_smiths_idea_desc:0 "뼈와 가죽을 다루는 장인들이 우리 전사들의 장비를 더욱 견고하게 만듭니다."
+
+ GWC_cave_fungus_idea:0 "동굴 버섯"
+ GWC_cave_fungus_idea_desc:0 "터널 구석구석에서 자라나는 이 신비한 버섯들은 우리의 귀중한 식량이자 약재가 됩니다."
+
+ GWC_medicinal_wonders_idea:0 "의학적 기적"
+ GWC_medicinal_wonders_idea_desc:0 "약초와 고대부터 내려온 지식을 이용해 상처를 치유하고 고통을 달랩니다."
+
+
+ GWC_worm_provides_idea:0 "지렁이님의 신성한 선물"
+ GWC_worm_provides_idea_desc:0 "위대한 지렁이님께서 주시는 은총은 고립된 우리에게 커다란 힘이 됩니다."
+
+ GWC_worm_punishes_idea:0 "지렁이의 분노"
+ GWC_worm_punishes_idea_desc:0 "우리의 믿음이 부족할 때, 지렁이님께서는 가혹한 형벌로 우리를 시련에 들게 하십니다."
+
+
+ GWC_slavery:0 "이교도들을 노예로"
+ GWC_slavery_desc:0 "쓸모없는 불신자들에게는 지렁이님의 영광을 위해 강제 노동으로 속죄할 기회가 주어집니다."
+
+ GWC_child_snatchers:0 "아이 납치꾼들"
+ GWC_child_snatchers_desc:0 "어린 영혼들을 어둠 속으로 끌어들여, 기계의 유혹으로부터 구원하고 진정한 전사로 키워냅니다."
+
+ GWC_scary_bone_effigies:0 "기괴한 뼈 형상"
+ GWC_scary_bone_effigies_desc:0 "뼈를 엮어 만든 기괴한 형상들이 우리 영토의 경계를 지키고 있습니다."
+
+ GWC_against_the_heathens:0 "이교도들에 대항하여"
+ GWC_against_the_heathens_desc:0 "부정한 기술을 숭배하는 자들과의 끝없는 전쟁을 준비합니다."
+
+ GWC_rend_for_worm:0 "지렁이를 위해 찢어라"
+ GWC_rend_for_worm_desc:0 "적들의 숨통을 끊고 그 살육의 성과를 위대한 지렁이님께 바칩니다."
+
+ GWC_wanderlust:0 "방랑벽"
+ GWC_wanderlust_desc:0 "새로운 터널을 탐험하고 지령이님의 흔적을 찾고자 하는 끊임없는 갈망입니다."
+
+ GWC_antediluvian_armaments:0 "먼 옛날의 무장"
+ GWC_antediluvian_armaments_desc:0 "태초부터 전해 내려온 원시적이고 강력한 무기들입니다."
+
+ GWC_bone_armor:0 "뼈 갑옷"
+ GWC_bone_armor_desc:0 "강인한 짐승의 뼈로 만든 갑옷은 그 어떤 탄환보다도 우리의 믿음을 더 잘 지켜줍니다."
+
+ GWC_warriors_of_the_worm:0 "지렁이의 전사들"
+ GWC_warriors_of_the_worm_desc:0 "지렁이님의 축복을 받은 이 전사들은 전장에서 죽음을 두려워하지 않습니다."
+
+
+ GWC_weapon_smithing_1:0 "기초 제작"
+ GWC_weapon_smithing_1_desc:0 "뼈와 금속 파편을 이용해 기본적인 근접 무기들을 제작합니다."
+
+ GWC_weapon_smithing_2:0 "정교한 제작"
+ GWC_weapon_smithing_2_desc:0 "더 날카롭고 더 견고한 무기를 만들기 위한 고급 공정을 도입합니다."
+
+ GWC_weapon_smithing_defence:0 "강화된 손잡이"
+ GWC_weapon_smithing_defence_desc:0 "손잡이를 가죽으로 보강하여 전투 시 무기를 놓치지 않게 합니다."
+
+ GWC_weapon_smithing_offence:0 "날카로운 칼날"
+ GWC_weapon_smithing_offence_desc:0 "날을 더욱 날카롭게 갈아 적의 갑옷을 쉽게 뚫을 수 있게 합니다."
+
+ GWC_culture_of_conflict:0 "투쟁의 문화"
+ GWC_culture_of_conflict_desc:0 "갈등과 싸움이야말로 우리 공동체를 강하게 만드는 유일한 길입니다."
+
+ GWC_culture_of_conflict_2:0 "불신자들과의 전쟁"
+ GWC_culture_of_conflict_2_desc:0 "세상 모든 이교도가 정화될 때까지 우리의 전쟁은 멈추지 않을 것입니다."
+
+ GWC_warriors_unbound:0 "속박에서 풀려난 전사들"
+ GWC_warriors_unbound_desc:0 "두려움과 제약에서 벗어난 전사들은 그 자체로 살육의 기계가 됩니다."
+
+ GWC_doped_shrooms:0 "환각 버섯"
+ GWC_doped_shrooms_desc:0 "이 버섯을 섭취한 전사들은 고통을 느끼지 못하며 광기 서린 용맹함을 보여줍니다."
+
+ GWC_prepare_for_conflict:0 "전쟁 준비"
+ GWC_prepare_for_conflict_desc:0 "다가올 거대한 투쟁을 위해 모든 가용한 자원을 무장화하는 데 집중합니다."
+
+ GWC_general_wanderlust:0 "광범위한 방랑벽"
+ GWC_general_wanderlust_desc:0 "우리 민족 전체가 새로운 영토를 향한 끝없는 이주와 갈망에 빠져 있습니다."
+
+ GWC_warriors_unleashed:0 "해방된 전사들"
+ GWC_warriors_unleashed_desc:0 "모든 구속을 끊어내고 오직 지렁이님의 파괴적인 의지만을 따르는 정예 전사들입니다."
+
+
+ GWC_blowguns:0 "바람총"
+ GWC_blowguns_desc:0 "원거리에서 소리 없이 적을 무력화할 수 있는 우리의 주력 무기입니다."
+ GWC_blowguns_1:0 "기본형 바람총"
+ GWC_blowguns_1_desc:0 "가장 단순한 형태의 바람총이지만, 전사의 숙련도에 따라 치명적인 무기가 됩니다."
+ GWC_blowguns_2:0 "전투용 바람총"
+ GWC_blowguns_2_desc:0 "더 길고 정교하게 제작되어 사거리와 명중률을 높였습니다."
+
+ GWC_espionage_1:0 "첩보 활동"
+ GWC_espionage_1_desc:0 "어둠 속에 숨어 이교도들의 동태를 살피고 기회를 엿봅니다."
+ GWC_espionage_2:0 "어둠 속의 은신"
+ GWC_espionage_2_desc:0 "그림자와 하나가 되어 누구에게도 들키지 않고 적진 깊숙이 침투합니다."
+

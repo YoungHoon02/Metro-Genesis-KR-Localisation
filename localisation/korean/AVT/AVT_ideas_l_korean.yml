@@ -1,0 +1,128 @@
+﻿l_korean:
+
+AVT_permanent_revolution: "영구 혁명"
+AVT_permanent_revolution_desc: "혁명가들의 핵심 신념 중 하나는 영구 혁명입니다. 그들은 자본주의자, 공산주의자, 파시스트를 가리지 않고 메트로에서 모든 폭압적인 오물을 쓸어버리기 위해 분투합니다. 모든 독재자는 사라져야만 합니다!"
+
+AVT_army_without_a_state: "국가 없는 군대"
+AVT_army_without_a_state_desc: "이 역에서 저 역으로 옮겨 다니는 체 게바라 여단은 끊임없이 진군 중입니다. 제4제국의 파시스트들과 붉은 라인의 스탈린주의 위협에 맞서 거의 상시적인 게릴라전을 치르고 있기에, 자리를 잡고 전열을 가다듬을 시간조차 부족합니다."
+
+AVT_ammo_reserves: "탈취한 탄약 비축분"
+AVT_ammo_reserves_desc: "붉은 라인과의 결별 과정에서, 혁명가들은 혁명을 지원하기 위해 가져갈 수 있는 만큼 최대한 많은 장비들을 빼돌렸습니다. 메트로의 외진 곳이나 깊숙이 숨겨진 장소들에는 비밀 보급품 은닉처들이 흩어져 있습니다. 혁명 동지들만이 그 장소들을 알고 있습니다."
+
+revolutionaries: "혁명가"
+revolutionaries_desc: "혁명가, 즉 트로츠키주의자들은 영구 혁명을 신봉하는 공산주의 집단입니다. 이는 메트로 내부의 모든 역과 집단이 봉기하여 서로를 지원함으로써 전 세계적인 공산주의를 실현해야 한다는 것을 의미합니다. 이는 하나의 공산주의 국가를 지향하는 붉은 라인의 스탈린주의적 관점과는 차이가 있습니다. 대중의 눈을 피해 교묘하게 숨어있기에 외부에는 이들의 조직에 대해 거의 알려진 바가 없습니다. 붉은 라인과는 사상적으로 대립하고 있지만, 제4제국의 파시스트들을 상대로 게릴라전을 수행하는 데에는 누구보다 단호합니다."
+
+AVT_gun_siphoned: "탈취한 총기" 
+AVT_gun_siphoned_desc: "여단이 메트로를 돌아다니며 여러 보관소에서 횡령하거나 '징발'한 총기들이 이제 표준 무장으로 지급되고 있습니다. 품질은 제각각이지만, 수치적으로는 큰 보탬이 됩니다."
+
+AVT_gun_siphoned_research: "탈취한 도면"
+AVT_gun_siphoned_research_desc: "붉은 라인에서 빼돌린 무기 설계도와 제조 공정 자료들은 여단의 무장 수준을 한 단계 끌어올릴 것입니다."
+
+AVT_station_planning: "역 계획"
+AVT_station_planning_desc: "효율적인 역 관리를 위한 계획을 수립하여 한정된 자원을 최적으로 배분합니다."
+
+AVT_improve_infrastructure: "터널 개선"
+AVT_improve_infrastructure_desc: "무너진 터널을 보수하고 선로 상태를 개선하여 물자 운송과 병력 이동 효율을 증대시킵니다."
+
+AVT_economy: "코뮌 경제" 
+AVT_economy_desc: "모든 생산 수단을 공유하고 필요에 따라 배분하는 코뮌 경제 체제를 통해 혁명의 기반을 다집니다."
+
+AVT_computer_research: "데이터뱅크" 
+AVT_computer_research_desc: "메트로 곳곳에 흩어진 전산 자료들을 수집하고 복원하여 과거의 지식을 혁명을 위해 활용합니다."
+
+AVT_world_tomorrow: "내일의 세계"
+AVT_world_tomorrow_desc: "압제가 사라진 내일을 꿈꾸며, 우리는 오늘 혁명의 불꽃을 지핍니다."
+ 
+AVT_world_today: "오늘의 세계"
+AVT_world_today_desc: "투쟁하는 오늘이 있기에 자유로운 내일이 있을 것입니다."
+
+AVT_economy_path_1: "공산주의 경제"
+AVT_economy_path_1_desc: "사회주의적 계획 경제를 통해 모든 자원을 인민의 복리와 혁명을 위해 집중합니다."
+
+AVT_economy_path_2: "공산주의 경제"
+AVT_economy_path_2_desc: "급진적인 배분 정책을 통해 불평등을 해소하고 전시 경제 체제를 확립합니다."
+
+AVT_gun_improvement: "총기 개량"
+AVT_gun_improvement_desc: "조잡한 급조 총기들을 보수하고 성능을 개량하여 병사들이 전장에서 신뢰할 수 있는 무기를 갖추게 합니다."
+
+AVT_our_own_technicians_idea: "우리만의 기술자"
+AVT_our_own_technicians_idea_desc:0 "폴리스나 한자에 의존하지 않고, 우리 스스로 장비를 유지보수할 수 있는 우수한 기술진을 양성했습니다."
+
+AVT_eco_buff_1: "사회주의적 노동 윤리"
+AVT_eco_buff_1_desc: "모두를 위해 헌신하는 노동자들의 자발적인 열정이 생산 효율을 끌어올리고 있습니다."
+
+AVT_eco_buff_2: "사회주의적 노동 윤리" 
+AVT_eco_buff_2_desc: "공동의 목표를 위한 단결된 노동은 자본주의적 경쟁보다 강력합니다."
+
+AVT_eco_buff_3: "사회주의적 노동 윤리"
+AVT_eco_buff_3_desc: "혁명적 열망이 가득한 일터에서는 그 어떤 어려움도 극복할 수 있습니다."
+
+AVT_eco_buff_4: "사회주의적 노동 윤리"
+AVT_eco_buff_4_desc: "인민의 승리를 위해 흘리는 땀방울은 새로운 시대를 여는 원동력이 됩니다."
+
+AVT_kvass_for_the_people: "인민을 위한 크바스"
+AVT_kvass_for_the_people_desc: "모든 인민에게 신선한 크바스를 제공하여 혁명에 대한 사기와 활력을 높입니다."
+
+AVT_combined_force: "연합군"
+AVT_combined_force_desc: "서로 다른 역의 자소군과 여단이 하나로 뭉쳐 강력한 통합 전투력을 발휘합니다."
+
+AVT_redline_liaison: "붉은 라인 전령" 
+AVT_redline_liaison_desc: "붉은 라인과의 연락망을 유지하며 전술적 정보를 공유하고 사상적 연대를 확인합니다."
+
+AVT_equality_in_armed_forces: "군대 내 평등" 
+AVT_equality_in_armed_forces_desc: "계급이 아닌 동지애에 기반한 지휘 체계는 군대의 결속력을 공고히 합니다."
+
+AVT_guerilla_schemes: "게릴라 전술"
+AVT_guerilla_schemes_desc: "메트로의 복잡한 지형을 활용한 정교한 게릴라 전술로 적의 허를 찌릅니다."
+
+AVT_vengeance: "복수" 
+AVT_vengeance_desc: "무고하게 희생된 동지들의 피에 대한 복수심은 병사들을 전장에서 더욱 용맹하게 만듭니다."
+
+revolutionary_oil_stockpiling: "석유 비축"
+revolutionary_oil_stockpiling_desc: "미래의 작전과 공업 발전을 위해 폐허 속에서 윤활유와 연료를 찾아 비축합니다."
+
+AVT_freedom_from_tyranny: "폭정으로부터의 자유"
+AVT_freedom_from_tyranny_desc: "모든 억압과 폭정으로부터 해방된 진정한 인민의 자치를 실현합니다."
+
+AVT_against_tyranny: "제국주의에 맞서" 
+AVT_against_tyranny_desc: "자본과 힘의 논리로 약역들을 병합하려는 제국주의 세력에 단호히 맞섭니다."
+
+AVT_die_standing: "서서 죽기를 택하라"
+AVT_die_standing_desc: "무릎 꿇고 사느니 서서 죽겠다는 각오로 투쟁에 임합니다."
+
+AVT_fight_against_RCH: "파시즘에 맞선 투쟁"
+AVT_fight_against_RCH_desc: "인종주의적 광기에 젖은 제4제국의 도발을 분쇄하고 전 메트로의 정의를 바로 세웁니다."
+
+AVT_firearm_manufacturing: "화기 제조"
+AVT_firearm_manufacturing_desc: "여단만의 독자적인 무기 제조 공정을 확립하여 지속적인 군사력 증강을 도모합니다."
+
+AVT_socialist_sciences: "비사회적 과학"
+AVT_socialist_sciences_desc: "낡은 관습과 형식에 얽매이지 않고, 오직 실용적이고 혁명적인 발전을 추구하는 과학 연구입니다."
+
+AVT_industrial_complex_building: "공동체 우선"
+AVT_industrial_complex_building_desc: "개인의 이익이 아닌 공동체 전체의 발전을 위한 산업 단지 건설을 추진합니다."
+
+AVT_arms_factory_building: "무기 생산 우선순위"
+AVT_arms_factory_building_desc: "혁명을 수호하기 위해 모든 산업 역량을 무기 제조에 집중할 것을 명령합니다."
+
+ AVT_STB_attack: "파시스트와 돌연변이 쓰레기들!"
+ AVT_PVL_attack: "파벨레츠카야 해방"
+ AVT_death_to_all_fascists: "모든 나치에게 죽음을"
+ AVT_SEV_trade_offer_deal: "세바스토폴 공동 무역"
+ AVT_rail_draisines: "기동 혁명군"
+ AVT_pervomayskaya_trade: "페르보마이스카야 무역"
+ AVT_spec_ops_equipment: "특수 작전 장비"
+ AVT_rail_cars: "철도 차량"
+ AVT_partizanskaya_idea: "파르티잔스카야 개발"
+ AVT_pro_redline_1: "붉은 라인 연대"
+ AVT_pro_redline_2: "혁명을 위하여"
+ AVT_fight_on_authority: "권위에 맞서 싸우다"
+ AVT_mayakov_guns: "마야코프 총기"
+ AVT_mayakov_guns_desc: "마야코프 역의 숙련된 기술자들이 생산한 신뢰성 높은 총기들입니다."
+ AVT_mayakov_piercing: "나치 깡통 따개"
+ AVT_RCH_buff_1: "총통의 면전에서"
+ AVT_RCH_buff_2: "거물에게 한 방"
+ AVT_RCH_debuff_1: "불온한 소문"
+ AVT_RCH_debuff_2: "불안한 민심"
+ AVT_scrappers_of_mayakov: "마야코프의 고철상"
+ AVT_MYK_dregs: "드레그스의 충성심"

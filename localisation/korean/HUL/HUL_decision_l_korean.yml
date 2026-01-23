@@ -1,0 +1,28 @@
+﻿l_korean:
+ HUL_war_with_aviators_category: "비행사와의 갈등"
+ HUL_aviator_war_countdown: "교전 카운트다운"
+ HUL_aviator_war_countdown_desc: "우리는 오래전 비행사들과 싸워 그들을 메트로에서 몰아냈습니다. 하지만 그들은 그동안 지하철로 다시 들이닥치기 위해 비밀리에 음모를 꾸며왔습니다."
+
+ HUL_aviator_mission_category: "설계국 지원"
+ HUL_aviator_mission_give_electronics: "전자제품 대여"
+ HUL_aviator_mission_give_electronics_desc: "우리가 그들의 원정군을 몰아낸 후, 그들의 자원 조달 노력은 수포로 돌아갔습니다. 그들이 단순한 야만인으로 전락하지 않은 것은 놀라운 일이나, 그들의 컴퓨터는 여전히 연산 작업을 수행하며 돌아가고 있습니다. 그들은 자신들의 의도가 본질적으로 선하며, 거래 조건을 가볍게 하는 데 큰 도움이 될 것이라고 맹세합니다. 그들을 믿어도 될까요...?"
+ HUL_already_assisting_aviators: "이미 §Y[AVV.GetName]§!을 지원하고 있습니다."
+ HUL_aviator_mission_give_fuel: "발전기 임대"
+ HUL_aviator_mission_give_fuel_desc: "[AVV.GetName]은 장기 거주를 염두에 두고 굴착되었습니다. 소박한 생활이지만 메트로의 환경에 비하면 훨씬 낫습니다. 하지만 최근 몇 달간 연구가 급격히 늘어나면서 과부하가 걸렸습니다. 연구를 계속하기 위해 에너지 배급제를 실시하고 촛불에 의지해야 할 정도이며, 연구를 계속하기 위해 촛불로 돌아가야만 합니다."
+ HUL_aviator_mission_give_research: "기술 지원 제공"
+ HUL_aviator_mission_give_research_desc: "그들의 지하 벙커는 폭발적으로 늘어나는 조사를 감당하기 위해 최근에야 확장되고 있습니다. 지하실, 하수도 터널, 주차장 등이 이들에 의해 점령되고 견고하게 요새화되고 있습니다. 그들은 심각한 성장통을 겪고 있으며, 일정을 맞추기 위해 우리의 도움을 구하고 있습니다."
+
+ HUL_aviator_mission_final_research_mission: "마지막 단계"
+ HUL_aviator_mission_final_research_mission_desc: "이제 조금만 더 가면 됩니다... 마지막 고비 하나만 남았습니다."
+ HUL_aviator_assistance_give_guns: "무기 수송 요청"
+ HUL_aviator_assistance_give_guns_desc: "오래된 펀치 프레스와 CNC 기계들은 가동을 멈췄지만 잊힌 것은 아닙니다. 우리가 좋게 말한다면 그들은 무기를 보내줄 용의가 있습니다."
+ HUL_aviator_assistance_produce_combat_ai: "전투 로봇 생산"
+ HUL_aviator_assistance_produce_combat_ai_desc: "단순하고 투박하지만 치명적으로 효율적입니다. 이것들을 이용해 우리 군을 강화할 수 있습니다."
+ HUL_aviator_assistance_gear: "방어구 개량"
+ HUL_aviator_assistance_gear_desc: "기술자들은 [AVV.GetName]에서 폐기된 복합 재료를 사용해 우리 군의 장비를 개량할 수 있다고 제안합니다."
+ HUL_aviator_assistance_industry: "기술자 지원"
+ HUL_aviator_assistance_industry_desc: "[AVV.GetName]은 우리 총기 제작소의 개선을 도와줄 의향이 있을지도 모릅니다. 분명 그들에게는 우리가 살펴볼 수 있는 기술 서적이나 여분의 펀치 프레스 기계가 어딘가 남아있을 것입니다."
+
+ HUL_newpaper_category: "자유 언론"
+ HUL_newspaper_spread_mischief: "[FROM.GetName]에 대한 헛소문 유포"
+ HUL_newspaper_spread_support: "[FROM.GetName]에 대한 지지 호소"

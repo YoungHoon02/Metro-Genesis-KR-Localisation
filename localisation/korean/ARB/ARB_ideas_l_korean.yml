@@ -1,0 +1,177 @@
+﻿l_korean:
+
+### Starting Ideas ###
+
+  arbat: "아르바트 연합"
+  arbat_desc: "아르바트 연합은 온건한 자본주의 체제의 공동체입니다. 이곳은 러시아인들과 카프카스 출신 민족들이 어우러져 살아가고 있습니다. 한때 이 공동체는 막강한 인구와 영향력을 자랑했으나, 한자와 붉은 라인 사이의 전쟁에서 온갖 고초를 겪으며 그 세력이 크게 위축되었습니다. 그럼에도 불구하고 오늘날 아르바트는 수많은 실력 있는 스토커들을 보유하고 있습니다. 비록 아르바트의 옛 영향력과 영광은 이제 지나간 시대의 몽상처럼 느껴지기도 하지만 말입니다."
+
+  bump_in_the_night: "밤의 불길한 소음"
+  bump_in_the_night_desc: "키예프스카야 역에서 주민들이 실종되고 있다는 보고가 연합을 뒤흔들고 있습니다. 어둠을 틈타 아이들이 납치당하고 있다는 소문은 공포를 자아내며 역과 공동체 전체를 불안에 빠뜨리고 있습니다. 형편이 좀 나은 시민들은 자신과 자녀들의 안전을 위해 이미 이웃 역들로 피신하고 있습니다.\n\n§g아이들을 훔쳐가는 정체를 밝혀내고 그 위협을 제거하는 것만이 우리 시민들에게 안도감을 줄 수 있을 것입니다.§!"
+
+  ARB_lack_of_expertise: "전문성 부족"
+  ARB_lack_of_expertise_desc: "한자와 붉은 라인 사이의 전쟁 이후, 유능한 전문 인력을 확보하는 데 큰 어려움을 겪고 있습니다. 총기 제작자와 행정관 모두 일상적인 업무를 지원할 유능한 신규 인력을 간절히 원하고 있는 실정입니다."
+
+  ARB_swords_to_ploughs: "" 
+  ARB_swords_to_ploughs_desc: ""
+
+  ARB_new_expertise: "신규 전문성"
+  ARB_new_expertise_desc: ""
+
+### Ideas: Domestic Policy ###
+
+  ARB_soothe_population: "불안 잠재우기"
+  ARB_soothe_population_desc: ""
+
+  ARB_dedicated_stalker_units: "전담 스토커 팀"
+  ARB_dedicated_stalker_units_desc: ""
+
+  ARB_scrapping_the_refuse: "폐품 수거 및 재활용"
+  ARB_scrapping_the_refuse_desc: ""
+
+  ARB_construction_efforts: "재건 노력"
+  ARB_construction_efforts_desc: ""
+
+  ARB_selling_surface_goods: "지상을 활용한 수익 창출"
+  ARB_selling_surface_goods_desc: ""
+
+  ARB_peddling_wares: "상품 판매 장려"
+  ARB_peddling_wares_desc: ""
+
+  ARB_improving_the_station_community: "정거장 공동체 개선"
+  ARB_improving_the_station_community_desc: ""
+
+  ARB_economic_revitalisation_idea: "경제 활성화"
+  ARB_economic_revitalisation_idea_desc: ""
+
+  ARB_stalker_arms: "스토커 제작 무기"
+  ARB_stalker_arms_desc: ""
+
+  ARB_better_arms_1: "자체 개발 무장"
+  ARB_better_arms_1_desc: ""
+
+  ARB_better_arms_2: "총기 제작 구역"
+  ARB_better_arms_2_desc: ""
+
+  ARB_better_arms_3: "제조 단지"
+  ARB_better_arms_3_desc: ""
+
+  ARB_manned_guard_posts: "경비 초소 인력 증원"
+  ARB_manned_guard_posts_desc: ""
+
+  ARB_keep_on_lookout: "경계 태세 유지"
+  ARB_keep_on_lookout_desc: ""
+ 
+  ARB_the_draft: "징병 실시"
+  ARB_the_draft_desc: ""
+
+  ARB_align_key_traders: "총기 제작자의 지원"
+  ARB_align_key_traders_desc: ""
+
+  ARB_crackdown_operations: "일제 단속 작전"
+  ARB_crackdown_operations_desc: ""
+
+  ARB_lighting: "조명 시설 확충"
+  ARB_lighting_desc: ""
+
+  ARB_spec_ops_boost: "특수 작전 장비 지원"
+  ARB_spec_ops_boost_desc: ""
+
+  ARB_curtail_activities_idea: "활동 위축"
+  ARB_curtail_activities_idea_desc: ""
+
+  ARB_devastation: "참사"
+  ARB_devastation_desc: "\n\n이 §Y국가 정신§!은 §Y@GWC[GWC.GetNameDef]§!가 멸망하거나, 아르바트의 전쟁 지지도가 §Y50%§! 이상이며 군대에 §Y150§!명 이상의 인력이 있을 때 제거됩니다."
+
+### Ideas: Foreign Policy ###
+
+  ARB_revanchist_propaganda: "복수주의 선전"
+  ARB_revanchist_propaganda_desc: ""
+
+  ARB_revanchist_propaganda_2: "복수주의 선전"
+  ARB_revanchist_propaganda_2_desc: ""
+
+ ## Interaction with Hanza ##
+  hanza_under_sphere_of_influence: "독수리의 감시 아래"
+  hanza_under_sphere_of_influence_desc: "강대국인 한자 동맹의 곁에 위치한다는 것은 양날의 칼과 같습니다. 그들은 끊임없이 우리의 정치적, 경제적 정당성을 훼손하여 아르바트를 자신들의 물자와 보호에 의존하는 종속적인 상태로 만들려 하기 때문입니다."
+
+  hanza_satellite: "한자의 위성 정거장"
+  hanza_satellite_desc: "독립국으로서의 정체성은 나날이 희미해지고 있지만, 한자의 보호를 받는 것은 확실한 경제적 이득을 제공합니다. 하지만 한자라는 거대 조직에 얽매이는 것은 완전히 다른 차원의 문제입니다."
+
+  hanza_puppet: "한자의 괴뢰"
+
+  ARB_HNZ_spec_op_training: "아르바트 연합-한세틱 훈련"
+  ARB_HNZ_spec_op_training_desc: ""
+
+  ARB_HNZ_joint_committee: "합동방위위원회"
+  ARB_HNZ_joint_committee_desc: ""
+
+  ARB_HNZ_spec_op_corps: "특수작전부대"
+  ARB_HNZ_spec_op_corps_desc: ""
+
+  ARB_revive_coalition_war: "동맹 전쟁의 감정 다시 살리기"
+  ARB_revive_coalition_war_desc: ""
+
+ ## Caucasian Way ##
+  ARB_foster_caucasian_nationalism: "칼루스인 공동체"
+  ARB_foster_caucasian_nationalism_desc: ""
+
+  ARB_new_age_peoples: "새로운 시대 인민들"
+  ARB_new_age_peoples_desc: ""
+
+  ARB_ethnonationalism_idea: "민족주의적 통일"
+  ARB_ethnonationalism_idea_desc: ""
+
+  ARB_new_identity: "새로운 정체성"
+  ARB_new_identity_desc: ""
+
+  ARB_reconstruction: "재건"
+  ARB_reconstruction_desc: ""
+
+ ## Free Stalkers ## 
+  ARB_neutral_station: "중립성"
+  ARB_neutral_station_desc: ""
+
+  ARB_our_slice_of_home_idea: "우리 집의 조각"
+  ARB_our_slice_of_home_idea_desc: ""
+
+  ARB_free_stalker_authority_idea: "자유 스탤커 당국"
+  ARB_free_stalker_authority_idea_desc: ""
+
+  ARB_arms_processing: "무기 처리"
+  ARB_arms_processing_desc: ""
+
+ ## Cooperation with the Order and Polis ##
+  ARB_SPT_spec_ops_cap: "엄격한 훈련"
+  ARB_SPT_spec_ops_cap_desc: ""
+
+  ARB_SPT_stalker_integration: "스토커-레인저어 인터그레이션"
+  ARB_SPT_stalker_integration_desc: ""
+
+  ARB_SPT_bastion_of_humanity: "인간의 요새"
+  ARB_SPT_bastion_of_humanity_desc: ""
+
+  ARB_spartan_intergration: "스파르타 통합"
+  ARB_spartan_intergration_desc: ""
+  
+### Military ###
+
+  ARB_fireteam_emplacements: "화기팀 배치지"
+  ARB_fireteam_emplacements_desc: "긴 통로의 아래쪽으로 위치한 이 강체화된 포지션은 침입자를 막아줄 것입니다."
+
+  ARB_seasoned_leaders: "시련을 겪은 리더십"
+  ARB_seasoned_leaders_desc: "전쟁은 아직도 기억에 남아 있지만, 그 기억은 점점 희미해지고 있다. 우리는 이전에 배운 것을 회상해야 한다. 만약 우리가 동일한 살육 기계를 반복할 운명이라면."
+
+  ARB_theorist_hiring: "군사위원회"
+  ARB_theorist_hiring_desc: "아르바트 연합 연방은 아직도 많은 사람들이 부족해 보이는 지혜를 가지고 있다. 이러한 마음을 최대한 적합한 용도로 사용해야 한다."
+
+  ARB_mobilization: "모빌리제이션"
+  ARB_mobilization_desc: ""
+
+  ARB_conscript_2b: "징병된 대중들"
+  ARB_conscript_2b_desc: ""
+
+  ARB_conscript_2a: "징집된 대중들"
+  ARB_conscript_2a_desc: ""
+
+  ARB_conscript_1: "역병제 개혁"
+  ARB_conscript_1_desc: ""

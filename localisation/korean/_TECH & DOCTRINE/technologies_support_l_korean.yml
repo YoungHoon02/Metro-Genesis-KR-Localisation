@@ -1,0 +1,116 @@
+﻿l_korean:
+
+  tech_explosive_infantry_gear: "민병대 수류탄 훈련"
+  tech_explosive_infantry_gear_desc: "비정규군에 수류탄을 지급하면 전투 효율성을 크게 높일 수 있습니다. 그저 안전핀을 뽑고, 표적에 맞기를 신께 기도하며 던지기만 하면 됩니다."
+  technology_irregulars_explosive_gear_tt: "\n§Y비정규 보병§!이 효과적으로 전투를 수행하기 위해 이제 분대에 §Y폭발물 장비§!가 필요하게 됩니다.§!"
+
+  tech_explosive_infantry_gear_regular: "보병 폭발물 훈련"
+  technology_regulars_explosive_gear_tt: "\n§Y정규 보병§!이 효과적으로 전투를 수행하기 위해 이제 분대에 §Y폭발물 장비§!가 필요하게 됩니다.§!"
+
+  tech_flamethrower_infantry_gear_regular: "보병 화염방사기 훈련"
+  technology_regulars_flamethrower_gear_tt: "\n§Y정규 보병§!이 효과적으로 전투를 수행하기 위해 이제 분대에 §Y화염방사기 장비§!가 필요하게 됩니다.§!"
+
+  tech_explosive_nail_bomb: "못 폭탄"
+  tech_explosive_nail_bomb_desc: "빈 캔에 화약과 못, 고철 조각을 채워 넣은 것입니다. 외관은 형편없지만, 좁은 터널 안에서 폭발하면 수십 개의 날카로운 못이 사방으로 비산하며 적들의 살을 파고들 것입니다."
+
+  tech_explosive_flechette: "플레체트 탄환"
+  tech_explosive_flechette_desc: "공압 무기나 산탄총에서 발사할 수 있는 작은 화살 모양의 탄환입니다. 장갑을 뚫는 데는 한계가 있지만, 방어구가 없는 돌연변이나 보병들에게는 지옥 같은 고통을 선사할 것입니다."
+
+  tech_explosive_high_explosive: "고폭 탄환"
+  tech_explosive_high_explosive_desc: "수제치고는 꽤 정밀하게 배합된 고성능 폭약을 사용합니다. 단순히 파편을 흩뿌리는 것을 넘어, 강력한 충격파로 적의 고막을 터뜨리고 내장을 뒤흔들어 놓을 것입니다."
+
+  tech_explosive_revolving_chamber: "회전식 약실 기구"
+  tech_explosive_revolving_chamber_desc: "폭발물을 하나씩 장전하는 것은 너무 느립니다. 기술자들이 고안한 회전식 약실을 이용하면, 여러 발의 폭발 탄환을 연속적으로 발사하여 전장을 불바다로 만들 수 있습니다."
+
+  tech_explosive_spring_mechanism: "스프링 작동식 기구"
+  tech_explosive_spring_mechanism_desc: "화약의 폭발력 대신 강력한 스프링의 힘으로 투척물을 날려 보냅니다. 소음이 거의 없어 적이 폭탄이 날아오는 것을 알아차렸을 때는 이미 늦었을 것입니다."
+
+  tech_explosive_breakable_container: "파쇄성 용기"
+  tech_explosive_breakable_container_desc: "충격에 쉽게 깨지는 얇은 유리나 플라스틱 용기에 가연성 물질이나 독소를 담았습니다. 바닥에 닿는 순간 내용물이 퍼져나가 적들을 무력화할 것입니다."
+
+  tech_explosive_electric_fuse: "전기식 신관"
+  tech_explosive_electric_fuse_desc: "심지에 불을 붙이는 구식 방식은 위험하고 오차가 큽니다. 전기식 신관을 사용하면 원하는 순간에 정확하게 폭발을 일으킬 수 있으며, 불발탄의 위험도 획기적으로 줄어듭니다."
+
+  tech_explosive_clockwork_spring: "태엽 스프링"
+  tech_explosive_clockwork_spring_desc: "정교하게 깎아 만든 태엽 장치를 이용해 신관을 작동시킵니다. 전기가 부족한 메트로에서 기계식 타이머는 가장 신뢰할 수 있는 지연 신관입니다."
+
+  tech_gatling_belt_fed: "탄띠 급탄 방식"
+  tech_gatling_belt_fed_desc: "이 무거운 쇳덩이를 진정으로 무섭게 만드는 것은 쉬지 않고 쏟아지는 탄환입니다. 탄띠 급탄 시스템을 도입하면 장전 걱정 없이 터널 전체를 총탄으로 도배할 수 있습니다."
+
+  tech_gatling_cartridge: "카트리지 방식" 
+  tech_gatling_cartridge_desc: "탄띠를 수급하기 어려운 상황을 대비해 개량된 카트리지 방식입니다. 급탄 신뢰성을 높여 치열한 교전 중에도 총기가 잼(Jam)이 걸리는 사태를 방지합니다."
+
+  tech_gatling_five_barrel_assembly: "5연장 총열 뭉치"
+  tech_gatling_five_barrel_assembly_desc: "단일 총열은 연사 시 발생하는 열을 견디지 못합니다. 5개의 총열을 번갈아 가며 사격하게 함으로써, 장시간 사격 시에도 명중률을 유지하고 총신이 뒤틀리는 것을 막아줍니다."
+
+  tech_gatling_shortened_barrel: "단축 총열"
+  tech_gatling_shortened_barrel_desc: "좁고 구불구불한 메트로 터널에서 긴 총열은 거추장스러울 뿐입니다. 총열 길이를 줄여 휴대성을 높이고, 근접한 돌연변이들에게 신속하게 대응할 수 있도록 합니다."
+
+  tech_gatling_quadrant_magazine: "부채꼴 탄창" 
+  tech_gatling_quadrant_magazine_desc: "특수 설계된 부채꼴 모양의 대용량 탄창입니다. 탄띠보다는 장탄수가 적지만, 훨씬 빠르고 간편하게 재장전할 수 있다는 장점이 있습니다."
+
+  tech_gatling_spring_mechanism: "스프링 기구"
+  tech_gatling_spring_mechanism_desc: "총열을 회전시키기 위한 강력한 스프링 기구입니다. 전기가 없는 상황에서도 수동으로 태엽을 감아 개틀링 기구의 회전력을 얻을 수 있습니다."
+
+  tech_gatling_stabilizer: "안정기 지원"
+  tech_gatling_stabilizer_desc: "개틀링건의 막대한 반동을 제어하기 위한 고정식 지지대와 평형추입니다. 사수가 더 오래, 더 정확하게 사격할 수 있도록 뒷받침해 줍니다."
+
+  tech_gatling_handcrank_engine: "수동 크랭크 엔진"
+  tech_gatling_handcrank_engine_desc: "가장 원시적이지만 가장 확실한 방식입니다. 사수가 직접 크랭크를 돌려 총열을 회전시킵니다. 체력 소모가 극심하겠지만, 총알이 빗발치는 전장에서 전기가 끊겼을 때 유일하게 믿을 수 있는 수단입니다."
+
+  tech_gatling_rotary_machine: "회전식 장치"
+  tech_gatling_rotary_machine_desc: "총열 회전 메커니즘을 전반적으로 개선하고 최적화하여, 분당 발사 속도를 비약적으로 상승시킵니다."
+
+  tech_flamethrower_infantry_gear: "민병대 화염 훈련"
+  tech_flamethrower_infantry_gear_desc: "불은 어둠 속의 공포를 몰아내고 터널의 독충들을 소탕하는 가장 효과적인 수단입니다. 병사들에게 화염방사기 운용법과 연료 관리 교육을 실시하여 실전 화력을 극대화합니다."
+  technology_irregulars_flamethrower_gear_tt: "\n§Y비정규 보병§!이 효과적으로 전투를 수행하기 위해 이제 분대에 §Y화염방사기 장비§!가 필요하게 됩니다."
+
+  tech_flamethrower_ballast: "칵테일 밸러스트"
+  tech_flamethrower_ballast_desc: "연료에 부유물을 섞어 화염이 표적에 더 잘 달라붙게 만듭니다. 한 번 붙은 불은 쉽게 꺼지지 않으며 적들에게 끔찍한 고통을 줄 것입니다."
+
+  flamethrower_restriction_treaty_negative_impact: "\n만약 우리가 조약 체결국이라면, 다른 체결국들은 우리가 필요한 §Y결정§!을 먼저 완료하지 않고 이 §Y기술§!을 연구할 경우 §R더욱 엄격하게§! 반응할 것입니다."
+
+  tech_flamethrower_airtight_pneumatic_system: "밀폐식 공압 시스템"
+  tech_flamethrower_airtight_pneumatic_system_desc: "연료 누출은 사수에게 사형 선고나 다름없습니다. 모든 연결 부위를 완벽하게 밀폐하여 연료 효율을 높이고 사수의 안전을 보장합니다."
+
+  tech_flamethrower_automatic_pneumatic_system: "자동 공압 시스템"
+  tech_flamethrower_automatic_pneumatic_system_desc: "수동으로 압력을 조절할 필요 없이 자동으로 최적의 분사 압력을 유지해 줍니다. 사수는 그저 방아쇠를 당기는 데만 집중하면 됩니다."
+
+  tech_flamethrower_larger_tank: "대형 연료통"
+  tech_flamethrower_larger_tank_desc: "터널 깊숙한 곳에서 연료가 떨어지는 것만큼 절망적인 상황은 없습니다. 연료통의 용량을 늘려 작전 지속 시간을 대폭 연장합니다."
+
+  tech_flamethrower_fuel_petrochemical: "석유화학 추진제"
+  tech_flamethrower_fuel_petrochemical_desc: "수제로 만든 조잡한 알코올 연료 대신, 지상에서 수습한 석유화학 물질을 정제하여 사용합니다. 화력이 훨씬 강력하며 사거리도 늘어납니다."
+
+  tech_flamethrower_fuel_gasoline: "휘발유 연료"
+  tech_flamethrower_fuel_gasoline_desc: "귀한 휘발유를 화염용으로 전용합니다. 고열의 화염은 적의 방어구는 물론이고 돌연변이들의 단단한 가죽조차 순식간에 녹여버릴 것입니다."
+
+  tech_flamethrower_ergonomic_handgrip: "인체공학적 손잡이"
+  tech_flamethrower_ergonomic_handgrip_desc: "무거운 화염방사기를 들고 장시간 대치하는 것은 고역입니다. 손잡이의 각도와 재질을 개선하여 장비 조작 시의 피로도를 줄이고 반응 속도를 높입니다."
+  
+  tech_flamethrower_pneumatic_high_capacity: "고용량 공압 시스템"
+  tech_flamethrower_pneumatic_high_capacity_desc: "더 많은 공기를 더 높은 압력으로 압축하여 저장합니다. 이제 화염을 이전보다 훨씬 더 멀리, 더 강력하게 뿜어낼 수 있습니다."
+
+  tech_piercing_elongated_barrel: "연장 총열"
+  tech_piercing_elongated_barrel_desc: "총열을 길게 늘리면 명중률과 화력 잠재력이 모두 상승합니다. 정확한 이유는 모르겠지만 엔지니어 놈들이 그렇다니 믿는 수밖에요. 대학 학위라도 있는 게 아니라면 입 닥치고 듣기나 하쇼, 이 프리두록아."
+
+  tech_piercing_sniper_handle_stock: "저격용 손잡이 및 개머리판"
+  tech_piercing_sniper_handle_stock_desc: "단순한 나무 개머리판과 실제 저격총에서 떼어온 듯한 맞춤형 장식입니다. 손에 착 감기는 느낌이 일품이죠. 총이 손에 쥐기 편했던 시절을 떠올리게 하는 서글픈 물건입니다. 요즘은 총 한 번 쏘고 나면 손가락에 물집과 상처가 가득하니 말입니다."
+
+  tech_piercing_assault_handle_stock: "돌격용 손잡이 및 개머리판"
+  tech_piercing_assault_handle_stock_desc: "수제 제작품이라 저격용 손잡이에 비하면 훨씬 조잡해 보이지만, 성능만은 확실합니다. 투박한 겉모습과는 달리 불필요한 무게를 상당히 깎아냈죠. 구성이 좀 어설프고 우울해 보이더라도 참고 쓸만할 겁니다."
+
+  tech_piercing_extended_magazine: "확장 탄창"
+  tech_piercing_extended_magazine_desc: "우리 기술자들도 마침내 단발 소총으로는 밀려오는 적들의 파상공세를 막아낼 수 없다는 사실을 깨달은 모양입니다. 밀주를 너무 마셔 머리가 어떻게 된 게 아니라면, 탄창을 장착하는 게 당연한 선택이죠. 재장전 시간을 아껴서 그만큼 적의 정수리를 더 조준할 수 있으니까요. 도대체 왜 진작에 이 생각을 못 했는지 의문일 뿐입니다."
+  
+  tech_piercing_laser: "레이저 장치"
+  tech_piercing_laser_desc: "지나가던 상인에게서 구한 레이저 포인터를 총열에 부착한 조잡한 물건입니다. 표적에 작은 빨간 점이 찍히니 조준하기는 훨씬 편하겠죠. 문제는 레이저 포인터를 충분히 수급할 수 있느냐는 겁니다. 설마 지상에 레이저 공장이 남아 있을 거라고 생각하는 건 아니겠지, 이고르?"
+
+  tech_piercing_telescopic_sight: "망원 조준경"
+  tech_piercing_telescopic_sight_desc: "쓸데없는 잡동사니를 주렁주렁 매달지 않고도 더 정밀하고 확실한 유효 사거리를 보장해 줍니다. 다만 조준경을 장착하면 시야가 다소 좁아질 수 있다는 단점이 있습니다."
+
+  tech_piercing_collimator_sight: "콜리메이터 조준경"
+  tech_piercing_collimator_sight_desc: "전쟁 전의 유물인 이 조준경은 시야를 크게 가리지 않으면서도 근거리에서 중거리 사이의 표적을 훨씬 수월하게 조준할 수 있게 해줍니다."
+
+  tech_piercing_flame_trap: "소염기"
+  tech_piercing_flame_trap_desc: "반동을 줄여 사격 정확도를 높여줍니다. 특히 발사 시 발생하는 눈부신 섬광을 억제해 주는데, 이는 영원한 암흑이나 다름없는 터널 내부에서는 아주 중요한 요소입니다."

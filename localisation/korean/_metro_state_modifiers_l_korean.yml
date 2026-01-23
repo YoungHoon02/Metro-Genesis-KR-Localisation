@@ -1,0 +1,15 @@
+﻿l_korean:
+metro_population_modifier: "인구 밀집 구역"
+surface_passageway: "지상 통로"
+surface_track: "지상 궤도"
+surface_station: "지상 역"
+flooded_state_modifier: "침수된 지역"
+
+berilag_modifier: "베릴라그"
+state_berilag_tooltip: ""
+
+library_of_lenin_modifier: "레닌 도서관"
+state_lenin_library_tooltip: "평화 상태에서 이 주를 점령하면 모든 §Y비야만§! 국가들을 대상으로 §Y고급§! £research_speed_texticon §C교육법§!을 사용할 수 있게 됩니다!"
+
+d6_modifier: "D6"
+state_D6_tooltip: ""

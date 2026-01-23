@@ -1,0 +1,60 @@
+﻿l_korean:
+  
+  _spartan_representative:0 "이익 대표"
+  _spartan_scientist:0 "과학자"
+  _spartan_recruiter:0 "모집관"
+  _spartan_quartermaster:0 "군수 장교"
+  _spartan_technician:0 "기술 전문가"
+  _spartan_drill_instructor:0 "훈련 교관"
+  _spartan_surgeon:0 "샷건 외과의"
+  _spartan_topside_surveyor:0 "전문 스토커"
+  _spartan_sniper:0 "저격수"
+  _spartan_doctrine_theorist:0 "교리 이론가"
+
+  SPT_MILLER_NAME:0 "밀러"
+  SPT_MILLER_DESC:0 "§9«그는 진지하고 주의 깊었으며, 이곳처럼 조용하고 밝은 역에서조차 언제든 위험에 맞설 준비가 된 것처럼 보였습니다. 결코 방심하는 법이 없었죠.»§!\n\n그는 복잡하고 대조적인 면모를 지닌 인물입니다. 까다롭고 때로는 가혹할 정도로 실용적이며, 진지하고 집중력 있는 모습은 언뜻 보기에 이상적인 스토커의 화신처럼 보입니다. 하지만 완벽한 군인이라는 가면 아래에는 진정한 영웅의 자질이 숨어 있습니다. 밀러는 구할 수 있다는 희망이 조금이라도 있다면 결코 부상당한 대원을 뒤에 남겨두지 않습니다. 그의 타고난 권위는 공포에 질린 소부대를 순식간에 재정비할 수 있습니다. 밀러 대령을 아는 모든 이들은 그를 두려움과 경탄이 섞인 시선으로 바라봅니다."
+  _SPT_miller_country_leader_trait: "대령"
+
+  SPT_HUNTER_NAME:0 "헌터"
+
+ ### Advisors ###
+
+  _SPT_miller_trait:0 "엄격한 지도자"
+  _SPT_hunter_trait:0 "적대적이라면, 죽여라"
+  _SPT_ulman_trait:0 "민중의 장교"
+  _SPT_yermak_trait:0 "한자 기술자"
+  _SPT_tokarev_trait:0 "전문 무기 제작자"
+  _SPT_anna_trait:0 "유명한 저격수"
+  _SPT_stepan_trait:0 "폭파 전문가"
+  _SPT_vladimir:0 "블라디미르"
+  _SPT_vladimir_trait:0 "수석 군수 장교"
+  _SPT_tomilin_trait:0 "경험 많은 분대장"
+  _SPT_idiot_trait:0 "대령의 철학자"
+  SPT_polis_advisor_1:0 "티콘 보그다노프"
+  SPT_polis_advisor_2:0 "예고르 쿠즈네초프"
+  PLS_spartan_advisor_1:0 "루키 코슬로프"
+  PLS_spartan_advisor_2:0 "스타니슬로프 오피시브"
+  SPT_arbat_advisor_1:0 "로디온 안토노프"
+  SPT_korneyev: "코르네예프 중위"
+  _SPT_korneyev_trait: "불굴의 방어자"
+  SPT_ulman:0 "울만"
+  SPT_yermak:0 "예르마크"
+  SPT_tokarev:0 "토카레프"
+  SPT_anna:0 "안나"
+  SPT_stepan:0 "스테판"
+  SPT_vladimir:0 "블라디미르"
+  SPT_tomilin:0 "토밀린"
+  SPT_idiot:0 "이디엇"
+
+ ### Party ###
+  SPT_community_party:0 "오더"
+  SPT_community_party_long:0 "스파르타 오더"
+
+  SPT_council_party:0 "오더"
+  SPT_council_party_long:0 "스파르타 오더"
+
+  SPT_dictatorial_party:0 "헌터 일파"
+  SPT_dictatorial_party_long:0 "헌터 일파"
+
+  SPT_oligarch_party:0 "오더"
+  SPT_oligarch_party_long:0 "스파르타 오더"

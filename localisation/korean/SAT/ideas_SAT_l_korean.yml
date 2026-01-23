@@ -1,0 +1,87 @@
+﻿l_korean:
+
+# SAT_satanists:0 "The Satanists of Timiryazevskaya"
+# SAT_satanists_desc:0 "A community of savage, degenerate and malevolent people, who believe that the end of the world has already occurred, and that the Moscow metro is the gate to the underworld. Enslaving neighbouring inhabitants to dig a hole deeper from their home station, to the depths of hell itself, to unleash Satan himself."
+
+ SAT_domain_of_hell_idea:0 "지옥의 영토"
+ SAT_domain_of_hell_idea_desc:0 "사탄의 교리를 굳게 믿는 야만적이고 사악한 폭도들의 공동체입니다. 이들은 지구 깊숙이 거대한 구덩이를 파기 위해 인근 역과 먼 곳의 주민들을 노예로 삼으려 합니다."
+
+ SAT_armies_of_shaytan:0 "사탄의 군대"
+ SAT_armies_of_shaytan_desc:0 "사탄의 군대라고 불리기는 하지만, 사실 이들은 다량의 약물에 취한 약탈자 무리에 불과합니다. 계급 간의 규율은 거의 존재하지 않으며, 군사 조직이라기보다는 무장을 잘 갖춘 폭도 집단에 더 가깝습니다."
+
+ SAT_utter_conviction:0 "완전한 확신"
+ SAT_utter_conviction_desc:0 "사탄주의자들은 성경에 예언된 세상의 종말이 이미 일어났으며, 악의 세력이 선의 세력을 압도했다고 굳게 믿고 있습니다. 모스크바 메트로는 지하 세계의 입구이며, 이들은 사탄 본인을 인간들의 세계로 불러내려 합니다.\n§R...그들이 조금만 더 깊이 파 내려갈 수만 있다면...§!"
+
+ SAT_brutal_restructuring:0 "무자비한 재편성"
+ SAT_brutal_restructuring_desc:0 "너무 오랫동안 우리는 무질서한 폭도에 불과했습니다. 이제 티미리야제프스카야를 차지했으니, 제대로 된 세력으로 재편성할 때가 왔습니다. 쭉정이는 솎아내야겠지만, 남겨진 이들은 진정한 강자가 될 것입니다."
+
+ SAT_inventory_management:0 "재고 관리"
+ SAT_inventory_management_desc:0 ""
+
+ SAT_devotion_1:0 "불경한 자에 대한 헌신"
+ SAT_devotion_1_desc:0 ""
+
+ SAT_devotion_2:0 "뒤틀린 자에 대한 경외"
+ SAT_devotion_2_desc:0 ""
+
+ SAT_hell_panzers:0 "지옥 탱크"
+ SAT_hell_panzers_desc:0 ""
+
+ SAT_fallen_cohorts:0 "타락한 자들의 군단"
+ SAT_fallen_cohorts_desc:0 ""
+
+ SAT_thralls_to_sin:0 "죄악의 노예들" 
+ SAT_thralls_to_sin_desc:0 ""
+
+ SAT_industry_reshuffling:0 "산업 재편"
+ SAT_industry_reshuffling_desc:0 ""
+
+ SAT_ind_labour_hands:0 "수많은 손으로..."
+ SAT_ind_labour_hands_desc:0 ""
+
+ SAT_whipped_into_overtime:0 "채찍질을 통한 초과 노동"
+ SAT_whipped_into_overtime_desc:0 ""
+
+ SAT_the_unclean:0 "불결한 자들"
+ SAT_the_unclean_desc:0 ""
+
+ SAT_the_profane:0 "성스러운 자들" 
+ SAT_the_profane_desc:0 ""
+
+ SAT_construction_excavation:0 "건설 발굴"
+ SAT_construction_excavation_desc:0 ""
+
+ SAT_kidnapped_technics: "납치된 기술자들"
+
+ SAT_ritual_sacrifices: "인신공양 의식"
+ SAT_ritual_sacrifices_desc: ""
+
+ SAT_driven_rats_out: "몰아낸 쥐떼"
+ SAT_driven_rats_out_desc: ""
+
+ SAT_texts_2: "불경한 경전"
+ SAT_texts_2_desc: ""
+
+ SAT_texts_1: "불경한 경전" 
+ SAT_texts_1_desc: ""
+
+ SAT_troop_drill_1: "무질서의 노예들"
+ SAT_troop_drill_1_desc: ""
+
+ SAT_troop_drill_2: "빈곤의 순례자들"
+ SAT_troop_drill_2_desc: ""
+
+ SAT_troop_drill_3: "종말의 전령들"
+ SAT_troop_drill_3_desc: ""
+
+ SAT_indoctrination: "교화"
+ SAT_indoctrination_desc: ""
+
+ SAT_excursion: "동맹국 탐사"
+ SAT_excursion_desc: ""
+
+ SAT_disciples: "부도덕의 제자들" 
+ SAT_disciples_desc: ""
+
+ SAT_burn_burn_burn: "불타라 불타라 §RBURN!!§!"
+ SAT_burn_burn_burn_desc: ""

@@ -1,0 +1,10 @@
+﻿l_korean:
+
+CHECK_CORE_STATE_DESC: "§Y계산된 코어 비용:§! \n\n£population_icon §Y상태 인구§! 비용을 2로 나눕니다.\nThe cost will be §Y절반§! if you have a §YClaim§!.\n[check_core_button_enabled_desc]§!"
+CORE_STATE_DESC: "§Y핵심 상태§!\n[core_state_claimed]이 핵심을 장악하려면 £pol_power_icon£§Y[?ROOT.cost_to_core]§! 만큼의 권력을 지불해야 합니다.\n[core_state_button_desc]§!"
+
+core_state_req_no_compliance_94: "\n£trigger_no [PREV.GetName] §R95% 준수§!"
+core_state_req_compliance_94: "\n£trigger_yes [PREV.GetName] §R95% 준수§!"
+
+core_state_req_not_owned_war: "\n£trigger_no §Y[PREV.GetName]§!는 §Y[ROOT.GetFlag][ROOT.GetNameDEF]§!에 의해 소유되고 있습니다."
+core_state_req_already_cored: "[PREV.GetName]이 이미 §Y[ROOT.GetFlag][ROOT.GetNameDEF]§!의 코어입니다."

@@ -1,0 +1,15 @@
+﻿l_korean:
+ SPT_instigate_revolution_in_mobsters: "범죄 조직 영토 내 봉기 사주"
+ SPT_instigate_revolution_in_mobsters_desc: "수년 동안 칼루가의 시민들은 잔혹한 조직 폭력배들의 압제 아래 살아왔습니다. 그들의 비공식적인 통치 아래 있는 각 역들은 서로 남은 미약한 권력을 차지하기 위해 경쟁하며 갈등하고 있습니다."
+
+ SPT_operation_MOB_phase_1: "동조자들과 접촉"
+ SPT_operation_MOB_phase_1_desc: "칼루가 전역의 은밀한 장소에는 여전히 현지 동조자들이 존재합니다. 이들과 접촉하는 것이 풀뿌리 작전을 구상하는 데 핵심적인 역할을 할 것입니다."
+ SPT_operation_MOB_phase_1_outcome: "현지 주민들이 우리의 대의를 지지하는 성향이 강해질 것입니다!"
+
+ SPT_operation_MOB_phase_2: "불만의 씨앗 유포"
+ SPT_operation_MOB_phase_2_desc: "벽면의 낙서, 범죄 조직원들의 악행을 폭로하는 선전, 전반적인 혼란 야기는 폭력배들을 긴장하게 할 것입니다. 그들의 권력이 견고하다는 환상을 깨부수고, 그들이 얼마나 파렴치한 자들인지 실체를 드러내야 합니다!"
+ SPT_operation_MOB_phase_2_outcome: "현지의 우두머리들이 서로 충돌하며, 그들 사이의 분열이 더욱 심화될 것입니다!"
+
+ SPT_operation_MOB_phase_3: "범죄 조직 간의 내분 유도"
+ SPT_operation_MOB_phase_3_desc: "각 역의 범죄 조직 우두머리들 사이에 거짓 정보를 퍼뜨리고 불만을 심어 내분을 유발합니다."
+ SPT_operation_MOB_phase_3_outcome: "범죄 조직들이 서로 권력을 다투며 충돌하는 동안 권력의 공백이 생길 것이며, 이를 틈타 우리의 선동자들이 일어설 수 있게 될 것입니다!"

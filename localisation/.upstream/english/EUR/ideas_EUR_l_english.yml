@@ -1,0 +1,192 @@
+﻿l_english:
+ europa:0 "Commonwealth of Europe"
+ europa_desc:0 "Comprised of Immigrants, ambassadors and other §YEuropeans§! stranded in Moscow when the bombs dropped. Over time they cultivated a community. §YA Europe away from Europe§!. Primarily preferring to keep amongst themselves and far, far away from the rest of the vastly Russian inhabitants of the Moscow Metro."
+ _unorganized_collective:0 "Unorganized Collective"
+ _elected_decisions:0 "Elected Decision"
+ _elected_representatives:0 "Elected Representatives"
+
+ shrewd_diplomats:0 "Shrewd Diplomats"
+ shrewd_diplomats_desc:0 "Considering their circumstances for their existence. The §YCommonwealth§! possesses clever ambassadors who are able to weave and pull the landscape of the Metro to their favour. Often at time resolving inter-stational disputes or trading in secrecy with outside stations. Who often at times forget Europe's participation in WW3."
+ 
+ immigrant_military:0 "Military Dedications"
+ immigrant_military_desc:0 "The Collective came together on the decision that the people of Europe should be put towards a militaristic push"
+ EUR_military_flag:0 "Europe is Militaristic"
+ 
+ immigrant_industrial:0 "Industrial Dedications"
+ immigrant_industrial_desc:0 "The Collective came together on the decision that the people of Europe should be put towards an industrial push"
+ EUR_industrial_flag:0 "Europe is Industrial"
+ 
+ EUR_military_drive_1:0 "Issued Propaganda"
+ EUR_military_drive_2:0 "Workers in the Armed Forces"
+ EUR_military_drive_3:0 "Everyone does their duty"
+ 
+ EUR_economy_1:0 "Booming Economy"
+ EUR_economy_2:0 "Stable Economy"
+ EUR_economy_3:0 "Damaged Economy"
+ EUR_economy_4:0 "Fractured Economy"
+ EUR_has_economy:0 "Europe's economy has been established"
+ EUR_activate_2nd_focus_tree:0 "Our Faction has been fully established"
+ 
+ EUR_italian_power_1:0 "Very Low Italian Popularity"
+ EUR_italian_power_2:0 "Low Italian Popularity"
+ EUR_italian_power_3:0 "Moderate Italian Popularity"
+ EUR_italian_power_4:0 "High Italian Popularity"
+ EUR_italian_power_5:0 "Overwhelming Italian Popularity"
+ 
+ eur_council_gui_name:0 "European Commonwealth Council"
+ 
+ british_majority_1:0 "British Majority"
+ british_majority:0 "British Majority"
+ italian_majority:0 "Italian Majority"
+ italian_majority_1:0 "Italian Majority"
+ italian_majority_2:0 "Italian Majority"
+ british_majority_2:0 "British Majority"
+ 
+ remove_majorities_tt:0 "Removes both §YItalian§! and §YBritish§! majorities"
+ _military_realist:0 "Military Realist"
+ 
+ EUR_mil_power_5:0 "Military Inefficiency"
+ EUR_mil_power_5_desc: "Ever since the collapse of the §Y2nd Paris Commune§! during the early 20s - a revolutionary state stylized upon that of the same name of ages past, our armed forces are sat in a precariously sordid state. More than a new set of armaments or boots with actual intact soles will do, but rather the complete and unmitigated overhaul of the entire command structure will only suffice."
+ EUR_mil_power_4:0 "Military Inefficiency IV"
+ EUR_mil_power_3:0 "Military Inefficiency III""
+ EUR_mil_power_2:0 "Military Inefficiency II"
+ EUR_mil_power_1:0 "Military Inefficiency I"
+ EUR_competent_military_power: "Armed forces of Europa"
+ 
+ EUR_interventionism_idea:0 "Interventionism"
+ EUR_neutrality_idea:0 "Neutrality"
+ 
+ westernisation_1:0 "Westernisation"
+ westernisation_2:0 "Westernisation"
+ 
+ militia_formalisation_eu:0 "Militia Formalisation"
+ EUR_worm_cult_hold_line:0 "Hold the line"
+ EUR_worm_cult_hold_line2:0 "Hold the line"
+ EUR_worm_cult_offensive:0 "A New Offensive"
+ EUR_worm_cult_offensive2:0 "A New Offensive"
+ 
+ europe_pro_immigration:0 "Pro Immigration"
+ worm_rehabilitation:0 "Rehabilitate Great Worm Cultists"
+ industrial_reform_europe:0 "Industrial Reform"
+ schulz_project:0 "The Schulz Project"
+ lessons_from_reds:0 "Lessons from the Reds"
+ 
+ european_unity:0 "European Unity"
+ blood_and_bullets:0 "Blood and Bullets"
+ blood_and_bullets1:0 "Blood and Bullets"
+ words_and_wisdom:0 "Words and Wisdom"
+ 
+ europe_industrial_powerhouse_more_output:0 "Increased Output"
+ europe_industrial_powerhouse_more_build_speed:0 "Increased Construction Speed"
+ 
+ schulz_speech:0 "Schulz's Speech"
+ 
+ europe_hanza_payment:0 "Payment towards Hanza"
+ 
+ commonwealth_army:0 "Commonwealth Army"
+ 
+ hub_of_trade:0 "Hub of Trade"
+ hub_of_trade2:0 "Hub of Trade"
+ hub_of_trade3:0 "Hub of Trade"
+ hub_of_trade4:0 "Hub of Trade"
+ 
+ hub_of_science:0 "Hub of Science"
+ hub_of_science2:0 "Hub of Science"
+ hub_of_science3:0 "Hub of Science"
+ hub_of_science4:0 "Hub of Science"
+
+ EUR_kill_GWC:0 "I Conquered..."
+
+ europe_rising_rome_sentiment:0 "Rising Anti-Council Beliefs"
+
+ sabotaged_industry_despot:0 "Sabotaged Industry"
+ sabotaged_industry_despot2:0 "Sabotaged Industry"
+
+ italian_majority_3:0 "Italian Majority"
+
+ nova_roma:0 "Nova Roma"
+
+ ad_glorium_idea:0 "Ad Glorium"
+ for_europa_idea:0 "For Europa"
+
+ united_army_europe:0 "United Army"
+ united_army_europe_fascist:0 "United Army" 
+ united_army_europe_democrat:0 "United Army"
+
+ pax_romana_1:0 "A Pax Romana"
+ pax_romana_2:0 "A Pax Romana"
+ pax_romana_3:0 "A Pax Romana"
+
+ buff_against_hanza:0 "Anti-Hanza Army"
+
+ rome_slavery_1:0 "Slavery"
+ rome_slavery_2:0 "Slavery"
+
+ europe_red_army:0 "People's Liberation Army"
+
+ europe_red_army_2:0 "People's Liberation Army"
+
+ remain_centralized:0 "Remain Decentralized"
+
+ brit_economy_1:0 "The European Bullet Economy"
+ brit_economy_2:0 "The European Bullet Economy"
+ brit_economy_3:0 "The European Bullet Economy"
+ brit_economy_4:0 "The European Bullet Economy"
+ brit_economy_5:0 "The European Bullet Economy"
+
+ commie_mutiny:0 "Mutinies"
+ sabotaged_industry_community:0 "Sabotaged Industry"
+
+ EUR_mikhail:0 "Mikhail Ivanov"
+ _red_europe_mil_advisor:0 "Red Line Military Advisor"
+
+ EUR_french_crow:0 "French Crow"
+
+ eur_com_equality:0 "True Equality"
+
+ steam_engines: "Steam Engines"
+ steam_engines_desc: ""
+
+ EUR_industry_militarized: "Militarized Industries"
+ EUR_industry_militarized_desc: ""
+
+ EUR_occupation_woe_to_the_vanquished: "Woe to the Vanquished"
+ EUR_occupation_woe_to_the_vanquished_desc: "Conquered, we conquer."
+
+ EUR_old_world_blues_leader: "Old World Blues"
+ EUR_old_world_blues_leader_desc: ""
+
+ ## DDR Larp!
+
+ EUR_europa_is_RED: "European Future"
+ EUR_europa_is_RED_desc: ""
+
+ EUR_mandatory_conscription_service: "Mandatory Conscription Servitude"
+ EUR_mandatory_conscription_service_desc: ""
+
+ EUR_stasi: "Establish the Stasi"
+ EUR_stasi_desc: ""
+
+ EUR_DDR_education: "Germanization"
+ EUR_DDR_education_desc: ""
+
+ EUR_german_or_ELSE: "German or ELSE!"
+ EUR_german_or_ELSE_desc: ""
+
+ EUR_stasi_networks: "Covert Networks"
+ EUR_stasi_networks_desc: ""
+
+ EUR_5_year_plan: "5 Year Plan"
+ EUR_5_year_plan_desc: ""
+
+ EUR_diversity_is_weakness: "Weakness in Diversity"
+ EUR_diversity_is_weakness_desc: "§YEuropa§! is comprised of a mishmash of distraught groups of §YEuropeans§! - each station fractured by a distinct microcosm of European languages and cultures.\n§YThe 2nd Paris Commune§! - formed soon after the nuclear apocalypse assumed complete domination over the 3 isolated Stations. Ruthlessly seeking, attempting and ultimately completely failing beneath its own conceited assuredness to unify the disparate groups into one collectivized identity. Ever since its collapse those differences amongst each of the stations have only intensified."
+ EUR_diversity_is_weakness_2: "Ties Which Bind Us"
+ EUR_diversity_is_weakness_2_desc: ""
+ EUR_diversity_is_weakness_shared_identity: "Collective Identity"
+ EUR_diversity_is_weakness_shared_identity_desc: ""
+ EUR_diversity_is_weakness_intergration: "Cohesive Intergration"
+ EUR_diversity_is_weakness_intergration_desc: ""
+ EUR_RD_talents: "Our own R&D Committee"
+ EUR_RD_talents_desc: ""
+ 

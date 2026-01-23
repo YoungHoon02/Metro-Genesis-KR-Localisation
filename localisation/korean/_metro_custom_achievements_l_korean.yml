@@ -1,0 +1,116 @@
+﻿l_korean:
+  ##§Y[KUZ.GetFlag][KUZ.GetName]§!
+
+ metro_formable_domain_of_hell_NAME: "다니엘의 지옥"
+ metro_formable_domain_of_hell_DESC: "저자 §YSatanists§!로, §Y지옥의 영토§!를 형성하라."
+
+ metro_formable_vdnkh_commonwealth_NAME: "베데엔하 연합"
+ metro_formable_vdnkh_commonwealth_DESC: "베데엔하 연합을 형성하십시오."
+
+ metro_formable_hyperborea_NAME: "활발한 HYPERBOREAN VRIL 영감"
+ metro_formable_hyperborea_DESC: "그리스도인들처럼, 활발한 Hyperborea를 형성하라."
+
+ metro_formable_skavendom_NAME: "13대 경계..."
+ metro_formable_skavendom_DESC: "스카벤으로서, 스카벤돔을 형성하라."
+
+ metro_formable_venice_china_town_NAME: "모스크바 연결"
+ metro_formable_venice_china_town_DESC: "이ITHER §Y베네치아§! 또는 §Y키타이-고로드§! §YSINO-베네치아 동맹§!을 형성하십시오."
+
+ metro_formable_arbat_stalker_authority_NAME: "도로변 야영회"
+ metro_formable_arbat_stalker_authority_DESC: "아르바트 연합로, 자유 스토커 당을 형성하라."
+
+ metro_formable_human_mutant_commonwealth_NAME: "인간 변형 미래"
+ metro_formable_human_mutant_commonwealth_DESC: "인간-변형 사회로써, 인간-변형 국가를 형성하라."
+
+ metro_formable_voikov_commonwealth_NAME: "보이코프 공화국"
+ metro_formable_voikov_commonwealth_DESC: "구리야-폴레를 형성하여 보이코프 공화국을 건설하라!"
+
+ metro_i_am_killing_machine_NAME: "나는 살인기계가 되었다"
+ metro_i_am_killing_machine_DESC: "어느 나라도 최상의 §§Y전투용 무기§§를 연구하라!"
+
+ metro_the_last_redoubt_NAME: "최후의 요새"
+ metro_the_last_redoubt_DESC: "§YPolis§를 점령하라!"
+
+ metro_unrivaled_army_NAME: "나의 군대!"
+ metro_unrivaled_army_DESC: "§Y1000§ 이상의 정예병력을 보유하라!"
+
+ metro_road_to_56_NAME: "56로 가는 길"
+ metro_road_to_56_DESC: "연속 게임을 §Y2056§까지 즐겨라!"
+
+ metro_the_new_order_NAME: "새로운 질서"
+ metro_the_new_order_DESC: "독재 국가로써, §Y붉은라인§!, §YP올리스§!, 및 §Y한세아틱 리그§!의 수도를 점령하라."
+
+ metro_loadsamoney_NAME: "로드샘머니"
+ metro_loadsamoney_DESC: "100만 달러 이상을 가지고 있습니다. 스톡필드에 총알이 많습니다"
+
+ metro_the_great_war_NAME: "대전쟁"
+ metro_the_great_war_DESC: "한자동맹나§Y§! 또는 붉은라인§Y§!으로, 서로에게 연장된 전쟁에 휩삭이집니다."
+
+ metro_ensieg_NAME: "엔드시크"
+ metro_ensieg_DESC: "제국(§YReich§!)과 한자동맹(Hanza!), 붉은라인(The Redline!)이 동시에 전쟁을 치르는 것을 의미한다."
+
+ metro_old_world_blues_NAME: "구세계의 푸른노래"
+ metro_old_world_blues_DESC: "§Y6§! 이상 연구 슬롯이 있습니다."
+ 
+ metro_fuhrerredux_NAME: "퓌레리히"
+ metro_fuhrerredux_DESC: "레히§Y의 수단으로 유럽§!"
+
+ metro_red_world_NAME: "적세계"
+ metro_red_world_DESC: "공산주의 국가로써 한자동맹, 폴리스, 레인저스, 아르바트 연합가 존재하지 않도록 하라"
+
+ metro_and_nothing_was_learned_NAME: "그리고 아무것도 배워지지 않았다"
+ metro_and_nothing_was_learned_DESC: "¥Y100¥! 세계 긴장"
+
+ metro_darkest_hour_NAME: "darkesteun시기"
+ metro_darkest_hour_DESC: "§YPolis§!가 방어 전쟁에 있다."
+
+ metro_shattered_wasteland_NAME: "파괴된 황무지"
+ metro_shattered_wasteland_DESC: "빨간 선§Y와 한자동맹§Y가 존재하지 않도록 하라"
+
+ metro_kalterkrieg_NAME: "칼테르기어"
+ metro_kalterkrieg_DESC: "2033년까지 §Y10%§ 만으로 세계 긴장도 §Y2033§ 를 달성하라"
+
+ metro_ours_for_the_taking_NAME: "나의 것으로부터 취약점을 노리자"
+ metro_ours_for_the_taking_DESC: "§YD-6§를 점령하라!"
+
+ metro_in_the_interest_of_the_revolution_NAME: "혁명에 대한 관심"
+ metro_in_the_interest_of_the_revolution_DESC: "혁명가들로써, §Y베릴라그§를 점령하라!"
+
+ metro_commission_NAME: "도둑의 법칙"
+ metro_commission_DESC: "어떤 §Y부랑자§! 국가와 다른 §Y부랑자§! 국가와 연합되어 있어야 합니다."
+
+ metro_z_the_revolution_lives_lenin_lives_NAME: "혁명은 살아있다, §RLENIN§! 살아있어라!"
+ metro_z_the_revolution_lives_lenin_lives_DESC: "코프쇼프로써, 총비서를 폐하라."
+
+ metro_z_fuck_it_once_struggle_NAME: "그냥 해라, 한 번의 투쟁"
+ metro_z_fuck_it_once_struggle_DESC: "자신이 §Y붉은라인§! 또는 §Y라이히§! 인 경우 다른 사람과 파벌을 구성하십시오."
+
+ metro_z_all_in_the_name_NAME: "군부는 영원하다!"
+ metro_z_all_in_the_name_DESC: "§Y1905 연합 년 군부§!에서 시작하여 §Y2035§!까지 모든 핵심이 유지되도록 도달하십시오."
+
+ metro_z_bomb_you_bomb_you_NAME: "폭탄을 날려라! 너를 죽여라!"
+ metro_z_bomb_you_bomb_you_DESC: "어느 나라도 최고의 폭발 장비를 잠금 해제하고, §Y100§! 이상의 폭발물이 보유되어 있다."
+
+ metro_z_signalis_NAME: "§R이 공간은고의로 비어있다.§!"
+ metro_z_signalis_DESC: "유럽 민주국가로서, §Y디나모§!를 점령하라."
+
+ metro_z_polis_delenda_est_NAME: "폴리스 델렌다 에스트"
+ metro_z_polis_delenda_est_DESC: "노바 로마!로, 폴리스의 수도를 점령하라."
+
+ metro_z_ought_to_crawl_NAME: "오ught to Crawl"
+ metro_z_ought_to_crawl_DESC: "자황색 동맹인 §YBrotherhood in Yellow§!으로, 자황색 카르코사§!를 형성하라."
+
+ metro_z_invisible_watcher_NAME: "모스크바를 되찾자!"
+ metro_z_invisible_watcher_DESC: "§Y한자 동맹§!으로 §Y모스크바 방위위원회§!를 결성하십시오."
+
+ metro_z_novorossiya_NAME: "신을 모르는 왕도 없다"
+ metro_z_novorossiya_DESC: "카리닌스카야(§YKalininskaya§!)를 형성하고, 노보로시야(§YNovorossiya§!)의 수도는 키테즈(§YKitezh§!)이다."
+
+ metro_z_when_there_is_a_whip_NAME: "도구가 있다면..."
+ metro_z_when_there_is_a_whip_DESC: "전쟁 경제 상태거나 전시 기간 중에 모든 극단적인 노동 시민 법을 갖고 있어야 한다."
+
+ metro_z_lord_of_the_ring_NAME: "링의 주인"
+ metro_z_lord_of_the_ring_DESC: "어떤 나라도 마찬가지로 §YKoltsevskaya§ 라인 전체를 완전히 통제하라!"
+
+ metro_z_sokol_secured_NAME: "레닌의 후계자들"
+ metro_z_sokol_secured_DESC: "붉은라인으로서, §Y소콜니체스카야§ 노선을 완전히 제어하라!"

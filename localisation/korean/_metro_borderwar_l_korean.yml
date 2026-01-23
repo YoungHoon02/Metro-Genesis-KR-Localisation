@@ -1,0 +1,86 @@
+﻿l_korean:
+ redline_reich_borderwar_stage_1: "제국 붉은라인 국경 전쟁 §tI 단계§!"
+ redline_reich_borderwar_stage_1_desc: ""
+ redline_reich_borderwar_stage_2: "제국 붉은라인 국경 전쟁 §tII 단계§!"
+ redline_reich_borderwar_stage_2_desc: ""
+ redline_reich_borderwar_stage_3: "제국 붉은라인 국경 전쟁 §tIII 단계§!"
+ redline_reich_borderwar_stage_3_desc: ""
+ redline_reich_borderwar_stage_4: "제국 붉은라인 국경 전쟁 §tIV 단계§!"
+ redline_reich_borderwar_stage_4_desc: ""
+ redline_reich_borderwar_stage_5: "제국 붉은라인 국경 전쟁 §tV 단계§!"
+ redline_reich_borderwar_stage_5_desc: ""
+
+ ## Decisions ##
+
+ RCH_RED_border_war: "철과 철의 전쟁"
+ RCH_RED_border_war_desc: "역사를 거슬러 올라간 과거의 전쟁과 마찬가지로, 제국은 철갑병을 이끌고 레닌의 아들들은 영원한 전쟁에 휩쓸린다. 땅이나 영광을 위해 싸우지 않으며, 반대편의 완전한 멸망을 위한 것이다. 더는 절대로 suffice하지 않을 것이다.\n\n 국경전쟁 비용 - §t[?initiate_borderwar_cost]§!\n국경전쟁 쿨타임 - §t[?borderwar_base_cooldown]§! 일"
+ RED_RCH_borderwar_cost: "£command_power [?initiate_borderwar_cost|Y]"
+ RED_RCH_borderwar_cost_blocked: "£command_power [?initiate_borderwar_cost|R]"
+
+ border_conflict_initiate_incident: "경계 갈등을 시작하라"
+ border_conflict_initiate_incident_desc: "적이 먼저 행동하는 것을 허용할 수 없다. 철이 뜨는 것이 좋다. 적군과 소규모 전투를 벌일 계획을 세우고, 우리의 군대가 준비되면 적군의 선을 공격할 것이다"
+
+ border_conflict_incident_warning_defender: "국경 충돌 경보"
+ border_conflict_incident_warning_defender_desc: "" 공격 사고 경보 수비자 설명"
+
+ border_conflict_escalation_warning_defender: "전투 경고"
+ border_conflict_escalation_warning_defender_desc: ""
+
+ escalate_incident_to_border_conflict: "경계 충돌로 사태를 확대하라"
+ escalate_incident_to_border_conflict_desc: ""
+
+ border_conflict_time_until_cancelled: "취소가 이루어질 때까지의 시간"
+ border_conflict_time_until_cancelled_desc: ""
+
+ border_conflict_escalate_conflict: "갈등을 더욱 높여라"
+ border_conflict_escalate_conflict_desc: ""
+
+ border_conflict_escalate_to_war: "전쟁으로 확대되다"
+ border_conflict_escalate_to_war_desc: ""
+
+ ## Events
+
+ borderwar_introduction.0.t: "경계에서 폭발이 일어납니다!"
+ borderwar_introduction.0.d: "전선의 보고서에 따르면 적군은 힘을 모으고 공격할 계획입니다."
+ borderwar_introduction.0.a: "적군을 흩어져라! 모든 유닛 mobilize!"
+
+ RED_RCH_borderwar_mechanic:0 "RED와 RCH는 영원한 전쟁에 맞서있다. 양측은 §Y306§!과 §Y330§! 사이의 터널 시스템을 통해 §YDecision§!을 통해 국경 침략§YBorder Raids§!를 할 수 있다. 성공적인 국경전쟁으로 인해 터널 통제가 뒤집히게 된다. 만약 국경 분쟁이 역할에 벌어지면, 방위측이 패배하면 전쟁§RWar§!으로 확대된다."
+
+ border_conflict_won_attacker.1.t: "경계 충돌에서 승리했다."
+ border_conflict_won_attacker.1.desc: ""
+ border_conflict_won_attacker.1.a: "굿!"
+
+ border_conflict_won_defender.1.t: "방어에 대한 폭격"
+ border_conflict_won_defender.1.desc: ""
+ border_conflict_won_defender.1.a: ““위대한!"
+
+ border_conflict_lost_attacker.1.t: "경계에서 패배하다"
+ border_conflict_lost_attacker.1.desc: "국경 분쟁에서너의군대가 패배했습니다."
+ border_conflict_lost_attacker.1.a: ""
+
+ border_conflict_lost_defender.1.t: "경계에서의 실패"
+ border_conflict_lost_defender.1.desc: "전쟁의 패배자"
+ border_conflict_lost_defender.1.a: ""
+
+ border_conflict_canceled_attacker.1.t: "승리"
+ border_conflict_canceled_attacker.1.desc: "경계 충돌 취소 공격자"
+ border_conflict_canceled_attacker.1.a: ""
+
+ border_conflict_canceled_defender.1.t: "공격자가 줄어들었다"
+ border_conflict_canceled_defender.1.desc: ""
+ border_conflict_canceled_defender.1.a: "좋다"
+
+ border_incident_defender_warning.1.t: "적이 성문에 있습니다"
+ border_incident_defender_warning.1.desc: "" 경계 사고 방위 경보.
+ border_incident_defender_warning.1.a: "알RIGHT"
+
+ border_conflict_escalation.1.t: "경계 갈등 확산"
+ border_conflict_escalation.1.desc: "우리"
+ border_conflict_escalation.1.a: "됐다"
+
+ border_conflict_escalate_to_war.1.t: "전쟁으로의 전환"
+ border_conflict_escalate_to_war.1.desc: "경계 갈등이 전쟁으로 확대된다."
+ border_conflict_escalate_to_war.1.a: ""
+ 
+
+

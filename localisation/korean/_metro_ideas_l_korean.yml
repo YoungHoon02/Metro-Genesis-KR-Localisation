@@ -1,0 +1,95 @@
+﻿l_korean:
+ savage_industry: "기술 혐오 사회"
+ savage_industry_desc: "이 사회는 문명과 '기계 인간'들을 혐오하며, 소수의 핵심 도구 제작자나 장인들을 제외하고는 기술적 진보나 산업적 숙련도라는 개념 자체를 완전히 거부합니다."
+
+ backwards_industry: "낙후된 산업 구조"
+ backwards_industry_desc: "제대로 된 산업 기반이 부족하여 전력 수요는 최저 수준으로 유지되고 있으나, 정거장 주민들의 제조품 수요를 충족시키기 위해 고군분투하고 있습니다.\n\n§Y15개 이상의 공장§!을 보유하면 이 §Y국가 정신§!이 제거됩니다."
+ backwards_industry_countdown: "에너지 소비 증가"
+
+ poor_and_backwards: "참혹한 빈곤"
+ poor_and_backwards_desc: "정거장 벽을 장식하던 곰팡이 핀 타일과 도자기 예술품조차 헐값의 탄환으로 팔려나가고 있습니다. 정거장이 노인들을 잡아먹는 생지옥으로 변하거나 완전한 야만 사회로 전락하는 것을 막기 위한 처절한 몸부림입니다."
+
+ giant_enemy_spider: "암흑 거미"
+ giant_enemy_spider_desc: "트루브나야로 이어지는 터널 속에는 사악한 존재가 숨어 있습니다. 그 존재가 너무나도 악랄하고 불길한 탓에, 도스토예프스카야의 주민들은 어두운 심연을 통과하느니 차라리 방독면도 쓰지 않은 채 지상을 횡단하는 위험을 감수하려 할 정도입니다."
+ metro_ruins:0 "지하철 폐허"
+ metro_ruins_desc:0 "끝없이 이어진 선로, 지구의 어두운 구석구석을 파고드는 수많은 미로와 통로들. 잊혀진 괴수들과 저주받은 영혼들이 숨 쉬는 썩어가는 어둠. 이제 이곳이 당신의 집입니다."
+
+ hanza_redline_war:0 "한자 동맹-붉은 라인 전쟁의 유산"
+ hanza_redline_war_desc:0 "대재앙 이후 전체 메트로에서 발생한 가장 참혹한 충돌입니다. 이 전쟁은 급격히 세력을 확장하던 §R소콜니체스카야 선§!(붉은 라인)의 권력을 억누르기 위해 §Y한자 동맹§!과 §B반공산주의 연합§! 사이에서 벌어졌습니다. 전쟁은 삽시간에 처참한 도살극으로 변했습니다. 공방전과 게릴라전이 반복되면서 역과 터널은 시체들의 산으로 뒤덮였습니다. 낮에 역을 점령해도 저녁이면 다시 적에게 밀려나는 소모전이 계속되었습니다. 전쟁이 길어지면서 메트로의 자원과 인구는 고갈되었고, 양측의 시민들은 극심한 피로와 분노에 휩싸였습니다. 비록 진정한 승자가 누구인지에 대해서는 이견이 있을 수 있으나, §R붉은 라인§!을 견제하고 §Y콜체바야 선§!(순환선)을 완전히 장악하려던 §Y한자 동맹§!의 목적이 달성된 것만은 분명합니다. 그러나 그 끔찍한 충돌이 남긴 흉터는 여전히 메트로 주민들의 가슴속에 깊이 새겨져 있습니다.\n\n시민들이 다시 군대에 자진해서 입대하기까지는 상당한 시간이 필요할 것입니다."
+
+ metro_thump_in_the_night: "밤의 불청객"
+ metro_thump_In_the_night_desc: "§Y아르바츠코-포크로프스카야 선§!에서 분리되어 메트로의 나머지 부분으로부터 완전히 고립된 이 공동체들은 돌연변이와 약탈자, 그리고 그보다 더 끔찍한 위협들 앞에 무방비로 노출되어 있습니다. 이 고립된 정거장들을 하나로 통합하는 것은 거의 불가능에 가까운 험난한 과업이 될 것입니다."
+ metro_thump_in_the_night_modifier: "\n§R무역§! 및 §R국경 법률§!이 제한됩니다. 이 국가 정신을 제거하려면 §Y[GWC.GetFlag][GWC.GetName]§!가 더 이상 우리 사회에 위협이 되지 않아야 합니다!\n"
+ 
+ ### 기술 아이디어
+ 
+ tech_punch_press_1: "기초적인 펀치 프레스"
+ tech_punch_press_2: "범용 펀치 프레스"
+ tech_punch_press_3: "정밀 펀치 프레스"
+ tech_punch_press_4: "산업용 자동 프레스"
+
+ ## Scavenging Rewards ## 
+
+ scavenging_eq_gun_production_buff:0 "화기 생산 설계도"
+ scavenging_eq_gun_production_buff_desc:0 "세밀한 화기 제작 공정이 담긴 설계도입니다. 생산 효율을 개선할 수 있습니다."
+
+ scavenging_eq_gun_stat_buff:0 "군용 탄약 비축분"
+ scavenging_eq_gun_stat_buff_desc:0 "전쟁 전 생산된 고품질 군용 탄약 상자입니다."
+
+ scav_reward_eq_spec_ops_production_buff:0 "폴리머 섬유 롤"
+ scav_reward_eq_spec_ops_production_buff_desc:0 "방호구 제작에 필수적인 전후 고성능 소재입니다."
+
+ scav_reward_eq_spec_ops_stat_buff:0 "방독면 상자"
+ scav_reward_eq_spec_ops_stat_buff_desc:0 "미개봉 상태의 방독면과 필터 비축분입니다."
+
+ scav_reward_eq_flamethrower_production_buff:0 "압축 연료통"
+ scav_reward_eq_flamethrower_production_buff_desc:0 "화염방사기 연료를 저장하고 안전하게 운반하기 위한 용기들입니다."
+
+ scav_reward_eq_flamethrower_stat_buff:0 "휘발유 저장 탱크"
+ scav_reward_eq_flamethrower_stat_buff_desc:0 "터널 깊숙한 곳에서 발견된 거대한 휘발유 저장 탱크입니다."
+
+ scav_reward_eq_gatling_production_buff:0 "총열 조립 키트"
+ scav_reward_eq_gatling_production_buff_desc:0 "개틀링 건의 고속 사격을 견딜 수 있는 정밀 총열 부품군입니다."
+
+ scav_reward_eq_gatling_stat_buff:0 "조준 보정 장치 비축분"
+ scav_reward_eq_gatling_stat_buff_desc:0 "중화기의 명중률과 반동 제어를 돕는 기계식 조준 보조기들입니다."
+
+ scav_reward_eq_explosive_production_buff:0 "발사기 어댑터 부품함"
+ scav_reward_eq_explosive_production_buff_desc:0 "개조된 화기에서 폭발물을 발사할 수 있게 해주는 어댑터 부품들입니다."
+
+ scav_reward_eq_explosive_stat_buff:0 "고성능 폭약 뭉치"
+
+ scav_reward_resource_scrap_timed_idea:0 "고철 매장지"
+ scav_reward_resource_scrap_timed_idea_desc:0 ""
+
+ scav_reward_resource_alloys_timed_idea:0 "합금 매장지"
+ scav_reward_resource_alloys_timed_idea_desc:0 ""
+
+ scav_reward_resource_electronics_timed_idea:0 "전자 부품 보관함"
+ scav_reward_resource_electronics_timed_idea_desc:0 ""
+
+ scav_reward_resource_components_timed_idea:0 "기계 부품 비축함"
+ scav_reward_resource_components_timed_idea_desc:0 ""
+
+ scav_reward_resource_chemicals_timed_idea:0 "화학 물질 보관소"
+ scav_reward_resource_chemicals_timed_idea_desc:0 ""
+
+ ## 화염방사기 제한 시스템 ## 
+
+ flamethrower_restriction_ban:0 "화염방사기 사용 제한"
+ flamethrower_restriction_ban_desc:0 "화염방사기의 소유 자체가 금지된 것은 아니나, 같은 인간을 상대로 이를 사용하는 행위는 극도로 비난받을 일로 간주됩니다.\n§C한자 동맹 - 붉은 라인 전쟁§! 당시 양측 모두에서 화염방사기가 무분별하게 사용됨에 따라, 전쟁의 참혹함을 줄이기 위해 체결된 §Y[361.GetName]§! 조약은 대규모 교전에서의 화염방사기 사용을 금지했습니다."
+
+ flamethrower_ban: "\n이 조약의 서명국으로서, 우리의 §Y화염방사기§! 연구 속도가 §R제한됩니다!§!\n"
+ lifting_flamethrower_restriction_ban: "\n이 제한을 해제할 경우 다른 국가들이 §R부정적으로§! 반응할 것입니다!\n\n"
+
+ GENERIC_inexperienced_military_4: "미숙한 공병단"
+ GENERIC_inexperienced_military_4_desc: "동부 메트로는 상대적으로 안전하고 안정적인 환경 덕분에 무기보다는 식량과 민간 물자 생산에 치중해 왔습니다. 이로 인해 숙련된 엔지니어나 총기 제작자가 턱없이 부족하며, 이는 현재 동부에서 가장 시급히 해결해야 할 과제입니다."
+
+ GENERIC_inexperienced_military_3: "기술 인력 부족"
+ GENERIC_inexperienced_military_3_desc: "장비를 정비하고 유지할 수 있는 숙련된 기술진이 부족하여 군 전력 유지에 차질을 빚고 있습니다."
+
+ GENERIC_inexperienced_military_2: "취약한 정비 역량"
+ GENERIC_inexperienced_military_2_desc: "병사들의 기본적인 장비 취급 능력과 정비 지식이 미비하여 실전에서 잦은 고장을 유발합니다."
+
+ GENERIC_inexperienced_military_1: "신참 공병들의 적응"
+ GENERIC_inexperienced_military_1_desc: "새롭게 양성된 공병들이 전장에 투입되기 시작했습니다. 비록 경험은 일천하나, 그들의 열정은 점차 부대의 기술적 역량을 강화해 줄 것입니다."

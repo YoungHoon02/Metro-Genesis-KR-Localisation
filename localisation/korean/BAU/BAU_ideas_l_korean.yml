@@ -1,0 +1,19 @@
+﻿l_korean:
+  BAU_technocratic_alliance:0 "기술주의 동맹"
+  BAU_technocratic_alliance_desc:0 "각 역이 자체적인 행정부를 유지하고 있지만, 바우만 동맹의 실질적인 권력은 지도부로부터 나옵니다. 지도자들은 그들의 뛰어난 기술적 전문 지식을 바탕으로 동맹을 지휘하고 이끌어 나갑니다."
+
+  BAU_specialised_industry:0 "특성화 산업"
+  BAU_specialised_industry_desc:0 "바우만 동맹의 주요 수출 분야는 전전(Pre-war) 기술을 복구 및 재생하여 다른 기지에 유료로 판매하는 것입니다. 덕분에 동맹은 상대적으로 안정적인 재정을 유지하며 주민들에게 풍요로운 생활을 제공할 수 있었습니다. 하지만 생산 체계가 특정 목적에만 지나치게 최적화되어 있어, 경제 불황 없이는 생산 품목을 다양화하기 어렵다는 문제도 안고 있습니다."
+
+  BAU_specialised_industry_2: "독보적인 전문성"
+  BAU_specialised_industry_2_desc: "바우만 동맹의 주요 수출품인 기술은 연맹이 가장 진지하게 임하는 전문 분야입니다. 동맹은 경제적 영향력을 이용해 생존을 도모해 왔으며, 전례 없는 경제 성장을 기록하고 있습니다."
+
+  BAU_stalker_waypoints:0 "숙련된 스토커들"
+  BAU_stalker_waypoints_desc:0 "인접한 고객 역들 외에도, 바우만 동맹은 기술자들이 활용할 귀중한 장비들을 수집하기 위해 지상으로 파견되는 스토커들에게 크게 의존합니다. 동맹의 성공은 이들이 현장에서 거두는 성과에 달려 있습니다."
+
+  BAU_HNZ_joint_trade_liaison: "합동 무역 협정"
+  BAU_HNZ_joint_trade_liaison_desc: "바우만 동맹과 한자 동맹 사이의 특화된 관계 덕분에, 동맹은 무이자 및 저렴한 가격으로 물자를 공급받을 수 있습니다."
+
+  BAU_fuel: "개선된 전기 터빈"
+  BAU_synthetics: "개선된 합성물"
+  BAU_MDR_friendship_pact: "OMON의 친구들"

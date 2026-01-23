@@ -1,0 +1,98 @@
+﻿l_korean:
+  formable_nations_category:0 "형성 가능 국가"
+  
+  arbat_stalker_authority:0 "아르바트 스토커 통치령"
+  
+  arbat_stalker_authority_formable_tooltip:0 "\n§g우리의 손을 거쳐간 모든 노선의 정거장과 터널을 통제하고, 스토커들의 권위를 공고히 할 것입니다.§!"
+
+  domain_of_hell:0 "§R지상의 지옥§!"
+
+  domain_of_hell_formable_tooltip:0 "\n§g지옥의 문이 열릴 것이다! 우리는 세르푸홉스코-티미라제프스카야 노선의 모든 정거장과 터널을 장악할 것이다!§!"
+  has_formed_SAT_domain_of_hell:0 "지옥의 영토가 형성되었습니다."
+  SAT_domain_of_hell:0 "지옥"
+  SAT_domain_of_hell_DEF:0 "사탄의 영토"
+  SAT_domain_of_hell_ADJ:0 "악마 신봉자"
+
+  northern_emirate:0 "§R북부 토후국§!"
+  northern_emirate_formable_tooltip:0 "\n§g우리는 세르푸홉스코-티미라제프스카야 노선의 모든 정거장과 터널을 차지할 것이다!§!"
+
+  ISL_northern_emirate:0 "북부 이슬람 토후국"
+  ISL_northern_emirate_DEF:0 "북부 이슬람 토후국"
+  ISL_northern_emirate_ADJ:0 "이슬람"
+
+  vdnkh_commonwealth:0 "베데엔하 연합"
+
+  VDN_commonwealth:0 "베데엔하 연합"
+  VDN_commonwealth_DEF:0 "베데엔하 연합"
+  VDN_commonwealth_ADJ:0 "베데엔하 연합"
+
+  hyperborea:0 "§R하이퍼보레아§!"
+
+  PAG_hyperborea:0 "하이퍼보레아"
+  PAG_hyperborea_DEF:0 "하이퍼보레아"
+  PAG_hyperborea_ADJ:0 "이교도"
+
+  pagan_hyperborea_tooltip:0 "\n§g우리는 타간스코-크라스노프레스넨스카야 노선의 모든 정거장과 터널을 장악할 것이다.§!"
+
+
+  skavendom:0 "§R스카벤 연방§!"
+
+  SCA_skavendom:0 "스카벤 연방"
+  SCA_skavendom_DEF:0 "스카벤 연방"
+  SCA_skavendom_ADJ:0 "스카벤"
+
+  skavendom_formable_tooltip:0 "\n§g우리는 세르푸홉스코-티미라제프스카야 노선의 모든 정거장과 터널을 차지할 것이다.§!"
+
+  venice_china_town:0 "베니스-중국타운 동맹"
+
+  HMS_human_mutant_commonwealth:0 "인간-돌연변이 공화국"
+  HMS_human_mutant_commonwealth_DEF:0 "인간-돌연변이 공화국"
+  HMS_human_mutant_commonwealth_ADJ:0 "인간-돌연변이"
+  human_mutant_commonwealth:0 "인간-돌연변이 공화국"
+
+  HNZ_invisible_observers_tag:0 "모스크바 방위 사령부"
+  HNZ_invisible_observers_tag_DEF:0 "모스크바 방위 사령부"
+  HNZ_invisible_observers_ADJ:0 "라이히"
+
+  GUL_voikov_commonwealth:0 "보이코프 공화국"
+  GUL_voikov_commonwealth_DEF:0 "보이코프 공화국"
+  GUL_voikov_commonwealth_ADJ:0 "자유주의"
+  voikov_commonwealth:0 "보이코프 공화국"
+
+  own_all_states_on_mother_line:0 "우리는 본 노선의 §Y모든§! 주를 점령해야 합니다. 우리의 수도 §Y[ROOT.Capital.GetName]§!가 해당 노선에 위치해야 합니다."
+  no_already_formation:0 "다른 어떤 세력도 이 노선을 형성하려 시도하지 않았습니다."
+
+  form_zamoskvoretskaya_line:0 "자모스크보레츠카야 선 재건"
+  3_strat_name:0 "자모스크보레츠카야"
+  3_strat_name_DEF:0 "자모스크보레츠카야 노선"
+
+  form_arbatsko_pokrovskaya_line:0 "아르바츠코-포크로프스카야 선 형성"
+  4_strat_name:0 "아르바츠코-포크로프스카야"
+  4_strat_name_DEF:0 "아르바츠코-포크로프스카야 노선"
+
+  form_filyovskaya_line:0 "필룝스카야 선 형성"
+  5_strat_name:0 "필룝스카야"
+  5_strat_name_DEF:0 "필룝스카야 노선"
+
+  form_kaluzhsko_rizhskaya_line:0 "칼루슈코-리즈스카야 선 형성"
+  7_strat_name:0 "칼루슈코-리즈스카야"
+  7_strat_name_DEF:0 "칼루슈코-리즈스카야 노선"
+
+  form_tagansko_krasnopresnenskaya_line:0 "타간스코-크라스노프레스넨스카야 선 형성"
+  8_strat_name:0 "타간스코-크라스노프레스넨스카야"
+  8_strat_name_DEF:0 "타간스코-크라스노프레스넨스카야 노선"
+
+  form_kalininsko_solntsevskaya_line:0 "칼리닌스코-솔른체브스카야 선 형성"
+  9_strat_name:0 "칼리닌스코-솔른체브스카야"
+  9_strat_name_DEF:0 "칼리닌스코-솔른체브스카야 노선"
+
+  form_serpukhovsko_timiryazevskaya_line:0 "세르푸홉스코-티미라제프스카야 선 형성"
+  10_strat_name:0 "세르푸홉스코-티미라제프스카야"
+  10_strat_name_DEF:0 "세르푸홉스코-티미라제프스카야 노선"
+
+  form_lyublinsko_dmitrovskaya_line:0 "루블린스코-드미트롭스카야 선 형성"
+  11_strat_name:0 "루블린스코-드미트롭스카야"
+  11_strat_name_DEF:0 "루블린스코-드미트롭스카야 노선"
+
+  form_ktg: "형제단§Y키타이-고도§! "
+  form_mob: "형제단§Y조직 범죄§!"

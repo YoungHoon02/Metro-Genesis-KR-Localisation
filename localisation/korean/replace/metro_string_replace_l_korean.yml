@@ -1,0 +1,6 @@
+﻿l_korean:
+ SPEED_STRATEGIC_REDEPLOYMENT_DESC:1 "전략적 재배치 속도 $VALUE|H$ M/h"
+ MOVING_STRATEGIC_REDEPLOYMENT:1 "전략적 재배치 모드.\n속도: $VALUE|H1$ M/h\n  기지: $BASE|H1$ M/h\n  인프라 추가: $ADD|=G1$ M/h."
+ MOVING_STRATEGIC_REDEPLOYMENT_RAIL:1 "전략적 재배치 모드.\n속도: $VALUE|H1$ M/h\n  기지: $BASE|H1$ M/h\n  철로 추가: $ADD|=G1$ M/h."
+ MOVING_STRATEGIC_REDEPLOYMENT_ORG:1 "전략적 재배치 모드에서 이동 중입니다. 이동하는 동안 조직은 항상 $VALUE|H%$로 설정됩니다."
+ MOVEMENT_SPEED_DESC:1 "속도: $VALUE|H$ M/h\n기지: $BASE|H$ M/h"

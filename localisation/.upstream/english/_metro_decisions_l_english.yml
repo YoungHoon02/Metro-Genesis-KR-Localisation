@@ -1,0 +1,164 @@
+﻿l_english:
+
+  electronics_decisions_cost_text: "[?temp_electronics_cost|Y.0] £resource_electronics_texticon"
+  electronics_decisions_cost_text_blocked: "[?temp_electronics_cost|R.0] £resource_electronics_texticon"
+  alloys_decisions_cost_text: "[?temp_alloys_cost|Y.0] £resource_alloys_texticon"
+  alloys_decisions_cost_text_blocked: "[?temp_alloys_cost|R.0] £resource_alloys_texticon"
+  components_decisions_cost_text: "[?temp_components_cost|Y.0] £resource_components_texticon"
+  components_decisions_cost_text_blocked: "[?temp_components_cost|R.0] £resource_components_texticon"
+  scrap_decisions_cost_text: "[?temp_scrap_cost|Y.0] £resource_scrap_texticon"
+  scrap_decisions_cost_text_blocked: "[?temp_scrap_cost|R.0] £resource_scrap_texticon"
+  chemicals_decisions_cost_text: "[?temp_chemicals_cost|Y.0] £resource_chemicals_texticon"
+  chemicals_decisions_cost_text_blocked: "[?temp_chemicals_cost|R.0] £resource_chemicals_texticon"
+
+  command_power_decisions_cost_text: "[?temp_command_power_cost|Y.0] £command_power_texticon"
+  command_power_decisions_cost_text_blocked: "[?temp_command_power_cost|R.0] £command_power_texticon"
+  army_experience_decisions_cost_text: "[?temp_army_experience_cost|Y.0] £experience_neutral_texticon"
+  army_experience_decisions_cost_text_blocked: "[?temp_army_experience_cost|R.0] £experience_neutral_texticon"
+
+ flamethrower_restriction_treaty:0 "Arms of the Metro"
+ flamethrower_restriction_treaty_abandon_enforce:0 "Enforce Arms Restriction Treaty"
+ flamethrower_restriction_treaty_abandon_enforce_desc:0 ""
+
+ flamethrower_restriction_treaty_abandon_brute_force:0 "Refute the Treaty"
+ flamethrower_restriction_treaty_abandon_brute_force_desc:0 "This treaty is obviously a ploy deployed by the Capitalist Hanseatic League to opress the denizens of the Metro to their will. We won't stand to be bullied by beneath their greasy fingers!"
+ 
+ flamethrower_restriction_treaty_abandon:0 "Abandon Arms Restriction Treaty"
+ flamethrower_restriction_treaty_abandon_desc:0 "The powers which be wish to make us wriggle and writhe beneath the dirt in the mud at the mercy of the elements! We won't stand for this no further!\n\n§gAs more nations abandon the Treaty, the cost of taking the decision will be§! §GReduced§!"
+
+ flamethrower_restriction_treaty_abandon_silently:0 "Silently Back Out from Treaty"
+ flamethrower_restriction_treaty_abandon_silently_desc:0 "As jackboots march, and war finally returns to the underground who will notice? As tension boils into conflict the Hanseatic league will have better priorities to attend to."
+
+ flamethrower_restrictions_timer_until_reapply:0 "Conceeded to @HNZHanseatic Demands"
+ flamethrower_restrictions_timer_until_reapply_desc:0 "We will not be able to try and abandon the treaty until the decision timer runs out"
+
+ flamethrower_restriction_ban_backdown:0 "Conceeded to @HNZHanseatic Demands"
+
+ sanctity_of_life:0 "Sancity of Life"
+ sanctity_of_life_desc: " "
+
+ military_signing: "Recruit Mercenaries"
+ military_signing_desc: ""
+
+ allow_creation_faction:0 "Create a Faction"
+ allow_creation_faction_desc:0 "The world stands on the brink, we must not stand idly by and relegate ourselves to the dustbin of history. All for one, and one for all!"
+ 
+ ration_food:0 "Ration Food"
+ ration_food_desc:0 "Ensure a campaign of fair and equal distribution of food during times of strife. Whilst the farmers and affluent dwellers will grumble, it will give a semblance of hope to the hungry and desperate.
+
+ hygiene_education:0 "Hire Rat Catchers"
+ hygiene_education_desc:0 "In the dingy cramped conditions of the metro, the mildest of diseases have the chance to create havoc throughout the station. Disease carrying rats and squalor. Hiring Rat catchers to place traps and hunt down feral packs of vermin should curtail the spread of viruses, and improve the health of our inhabitants."
+
+ rouse_the_people:0 "Rouse the People"
+ rouse_the_people_desc:0 "Campaigns of propaganda will instill a sense of dilligence within our populace. Gearing and preparing them for whatever conflict may come."
+
+ warfare_drastic_measures:0 "Drastic Measures"
+
+ draw_short_straws:0 "Draw the Straws"
+ draw_short_straws_desc:0 "War approaches our nation, direct measures must be taken. Gather all the able-bodied folks in our stations together and make them draw straws. Those who draw the shortest must serve in combat. Its draconian, but a necessary evil to protect our homes."
+
+ siphon_equipment:0 "Siphon Resources to Armaments"
+ siphon_equipment_desc:0 "As war approaches, our supplies dwindle. We have much in regards of resources, which can be pinched from other industries and put towards our armaments. Any refurbished weapon which can fire will do."
+
+ extended_shifts:0 "Extended Shifts"
+ extended_shifts_desc:0 "More muscle must be put into our workforce, more hours laboured to produce equipment for the war effort. Extending the shifts will help, however our workforce will begrudgingly comply. But they won't hide their grumbles. They will eventually understand that it is for the better good of all of them."
+
+ scavenge_electronics:0 "Scavenge Electronics"
+ scavenge_electronics_desc:0 "Send an expedition team to go scout for any usable electronics that we can use. It will take some time before they return with what they find"
+
+ rouse_the_people_2:0 "Rouse the People"
+ rouse_the_people_2_desc:0 "The Enemy lie at our very doorstep. If we are willing to just lay down and submit so be it, but we.. ..humanity have chosen to go down in a triumphant blaze of glory!"
+
+ give_back_to_the_people:0 "Give back to the Commonfolk"
+ give_back_to_the_people_desc:0 "The people have suffered long enough. Let them eat cake and be merry. This may be our last night, but tonight we feast and drink and eat like old!"
+
+ give_back_to_the_people_2: "Invest in the Community"
+ give_back_to_the_people_2_desc: "We have a bunch of bullets just lying around. Why don't we equally distribute the excess amongst our populace? A token gesture charity should go a long way."
+
+ construction_renovations:0 "Construction Renovations"
+ construction_renovations_desc:0 "Use our spare resources we have lying around to improve our station. Improve structural stability, infrastructure and renovate planning"
+
+  ## To Do : Find a better way I.E. scripted LOC to localize scripted costs without having to log every single string
+  #### DEPRECIATED
+  command_power_5: "£command_power §Y5§!"
+  command_power_5_blocked: "£command_power §R5§!"
+
+  command_power_10: "£command_power §Y10§!"
+  command_power_10_blocked: "£command_power §R10§!"
+
+  command_power_15: "£command_power §Y15§!"
+  command_power_15_blocked: "£command_power §R15§!"
+
+  command_power_20: "£command_power §Y20§!"
+  command_power_20_blocked: "£command_power §R20§!"
+
+  command_power_25: "£command_power §Y25§!"
+  command_power_25_blocked: "£command_power §R25§!"
+
+  command_power_30: "£command_power §Y30§!"
+  command_power_30_blocked: "£command_power §R30§!"
+
+  command_power_35: "£command_power §Y35§!"
+  command_power_35_blocked: "£command_power §R35§!"
+
+  command_power_40: "£command_power §Y40§!"
+  command_power_40_blocked: "£command_power §R40§!"
+
+  command_power_50: "£command_power §Y50§!"
+  command_power_50_blocked: "£command_power §R50§!"
+
+  command_power_100: "£command_power §Y100§!"
+  command_power_100_blocked: "£command_power §R100§!"
+
+  ## Army Experience ## 
+  army_experience_5: "£army_experience §Y5§!"
+  army_experience_5_blocked: "£army_experience §R5§!"
+
+  army_experience_10: "£army_experience §Y10§!"
+  army_experience_10_blocked: "£army_experience §R10§!"
+
+  army_experience_15: "£army_experience §Y15§!"
+  army_experience_15_blocked: "£army_experience §R15§!"
+
+  army_experience_20: "£army_experience §Y20§!"
+  army_experience_20_blocked: "£army_experience §R20§!"
+
+  army_experience_25: "£army_experience §Y25§!"
+  army_experience_25_blocked: "£army_experience §R25§!"
+
+  army_experience_30: "£army_experience §Y30§!"
+  army_experience_30_blocked: "£army_experience §R30§!"
+
+  army_experience_40: "£army_experience §Y40§!"
+  army_experience_40_blocked: "£army_experience §R40§!"
+
+  army_experience_50: "£army_experience §Y50§!"
+  army_experience_50_blocked: "£army_experience §R50§!"
+
+  army_experience_100: "£army_experience §Y100§!"
+  army_experience_100_blocked: "£army_experience §R100§!"
+
+
+
+  allow_to_conduct_war_operations:0 "Enables A series of £political_power_texticon §YDecisions§! to Improve our Military"
+  ONE_TIME_DECISION_TT: "\nThis £political_power_texticon §YDecisions§! Is a §ROne-Time§! Ability."
+  military_theory_committee:0 "Military Theory Committee"
+  military_theory_committee_desc: " "
+
+  establish_military_committee:0 "Establish a Military Committee"
+
+  hold_exercise_routines:0 "Exercise Routines"
+
+  centralise_military_command:0 "Centralise Military Command"
+
+  conduct_war_games:0 "Conduct War Games"
+  conduct_war_games_desc:0 "Joint combination of all facets of our military, even if its the bare understanding of combined arms and basic training is indispensable to our forces. "
+
+  military_theory_analysis:0 "Military Theory Analysis"
+  military_theory_analysis_desc:0 "Wars from yesterday and tomorrow have much to tell. Any foresight is valuable; merticulous planning and preparation saves lives. But most importantly wins wars."
+
+  conduct_r_and_d:0 "Conduct R&D on the Frontlines"
+  conduct_r_and_d_desc:0 "We aren't fortunate enough to have grime & muck-free testing facilities where we can put new and elaborate prototypes to the test. A more comprehensive approach is to put it right into the hands of our own soldiers on in the field."
+
+  train_the_troops:0 "Training the Recruits"
+  train_the_troops_desc:0 ""

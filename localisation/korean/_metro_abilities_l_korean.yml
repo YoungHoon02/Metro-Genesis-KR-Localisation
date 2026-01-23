@@ -1,0 +1,10 @@
+﻿l_korean:
+	use_MGR: "군용 탄환 사용"
+	ABILITY_USE_MGR: "군용 탄환 보급"
+  ABILITY_USE_MGR_DESC: "군대에 귀중한 군용 탄환을 보급하여 전투력을 향상시킵니다. 목숨보다 비싼 탄환인 만큼, 분명 그 값을 톡톡히 해낼 것입니다."
+
+  enable_tactic_overwhelming_rush_tt: "군대 능력 §Y$ABILITY_OVERWHELMING_RUSH$§! 해제"
+  ABILITY_OVERWHELMING_RUSH: "압도적 돌진"
+  ABILITY_OVERWHELMING_RUSH_DESC: "압도적인 수적 우위를 앞세워, 적들을 피비린내 나는 시체 더미 속에 파묻어 버릴 것입니다!"
+  ABILITY_OVERWHELMING_RUSH_TOOLTIP: "압도적인 병력으로 적을 짓밟으십시오."
+

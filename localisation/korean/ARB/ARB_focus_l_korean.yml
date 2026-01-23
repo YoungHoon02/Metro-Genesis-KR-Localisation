@@ -1,0 +1,431 @@
+﻿l_korean:
+
+### First steps ###
+
+  ARB_economic_revitalisation: "경제 개정안"
+  ARB_economic_revitalisation_desc: "아르바트 연합. 그 이름을 새긴 A 문양은 한때 그 아래 거주하며 살아가는 이들에게 자부심의 상징이었습니다. 하지만 이제 그 문양은 더 이상 열의를 불러일으키지 못합니다. 한때 찬란했던 위력의 유산은 고난의 세월 속에 희미해져 가고 있습니다."
+
+  ARB_economic_revitalisation_2: "운송 기사단 동원"
+  ARB_economic_revitalisation_2_desc: ""
+
+  ARB_economic_revitalisation_3: "재고 조사"
+  ARB_economic_revitalisation_3_desc: ""
+  ARB_recruited_arman: "아르만을 영입했습니다"
+
+  ARB_economic_revitalisation_4: "노동자 플랫폼"
+  ARB_economic_revitalisation_4_desc: ""
+
+  ARB_economic_revitalisation_contact_hanza: "한자와의 관계"
+  ARB_economic_revitalisation_contact_hanza_desc: ""
+
+  ARB_economic_revitalisation_choice_1: "상인의 비밀"
+  ARB_economic_revitalisation_choice_1_desc: "그들은 현실을 바닥부터 다시 만들고, 역사의 장을 새로 쓰며, 사람들은 그 거짓말을 게걸스럽게 삼켜버립니다. 상인 드라이진이 실어 나를 수 있는 한 그들의 상품을 최대한 멀리, 넓게 퍼뜨리면서 말입니다. 풍요와 부는 총보다 훨씬 더 치명적인 무기가 될 수 있습니다. 한자는 이 사실을 잘 알고 있습니다. 과거의 전쟁은 화약과 강철로 치러졌지만, 내일의 전쟁은 전혀 다른 방식으로 전개될 것입니다."
+
+  ARB_economic_revitalisation_choice_2: "정직과 성실"
+  ARB_economic_revitalisation_choice_2_desc: "상인들에게 정직조차도 결국은 금전적 투기일 뿐입니다."
+
+### Darkness has penetrated ###
+
+  ARB_the_cover_up: "은폐 공작"
+  ARB_the_cover_up_desc: "죽은 자들이 파르크 포베디에서 일어났다고? 말도 안 되는 소리! 시민들에게 이건 그저 아이들이나, 혹은 더 나쁜... 공산주의자들이 지어낸 거짓말일 뿐이라고 알리십시오. 행정부의 핵심 인원 몇 명을 제외하고는 이 소문이 퍼져나가서는 안 됩니다! 이 근거 없는 추측이 우리 역에 들불처럼 번지기 전에 확실히 차단하십시오. 이건 분명 우리의 권위를 실추시키려는 파괴 공작원들의 짓입니다."
+
+  ARB_sedate_the_public: "진정된 마음, 마비된 민중"
+  ARB_sedate_the_public_desc: ""
+
+  ARB_mandatory_draft: "추가 교대 근무"
+  ARB_mandatory_draft_desc: ""
+
+  ARB_forfeit_arms: "총기 제작자 영입"
+  ARB_forfeit_arms_desc: ""
+
+  ARB_crackdowns: "강력 단속 작전"
+  ARB_crackdowns_desc: ""
+
+  ARB_mitigate_travel: "사악한 것이 이리로 온다"
+  ARB_mitigate_travel_desc: ""
+
+  ARB_military_curfew: "군사 야간 통행금지령"
+  ARB_military_curfew_desc: ""
+  ARB_spawn_curfew_div: "수도에서 1개 보병 편대가 창설될 것입니다.\n"
+
+  ARB_twenty_four_seven_lighting: "24시간 상시 조명"
+  ARB_twenty_four_seven_lighting_desc: ""
+
+  ARB_curtail_activities: "활동 제약"
+  ARB_curtail_activities_desc: ""
+
+  ARB_manned_posts: "강화된 감시 초소"
+  ARB_manned_posts_desc: ""
+
+  ARB_keep_watch_keep_guard: "경계를 서고, 파수하라"
+  ARB_keep_watch_keep_guard_desc: ""
+
+  ARB_oh_its_on: "뼈에 부딪히는 강철"
+  ARB_oh_its_on_desc: ""
+  ARB_war_with_GWC_decisions: "\n벌레 신봉자 문제를 처리하기 위한 전시 결정을 활성화합니다!\n"
+
+  ARB_do_or_die: "야만적인 위협"
+  ARB_do_or_die_desc: ""
+
+  ARB_cleanse_park_pobedy: "파르크 포베디 정화"
+  ARB_cleanse_park_pobedy_desc: ""
+
+### Domestic policy ###
+
+  ARB_stalker_civilian_prioritisation: "민간 복구"
+  ARB_stalker_civilian_prioritisation_desc: ""
+
+ ## Kill the Mutants ##
+  ARB_that_pygmy_thing_in_smolensk: "..그리고 스몰렌스카야의 그 난쟁이 놈들"
+  ARB_that_pygmy_thing_in_smolensk_desc: "스몰렌스카야에서 날뛰는 돌연변이들을 레인저들조차 처리하지 못했습니다. 제대로 된 놈들 15명과 탄환 몇 상자만 주신다면, 그 괴물 놈들은 이번 주가 끝나기 전에 산 너머로 도망치게 될 겁니다."
+  
+  ARB_that_pygmy_thing_in_smolensk_2: "우리만의 작은 안식처"
+  ARB_that_pygmy_thing_in_smolensk_2_desc: "이제 저 괴물들을 몰아냈으니, 스몰렌스카야에 다시 사람들을 정착시킬 수 있습니다."
+ 
+ ## Economy and Stalkers ##
+  ARB_resurfacing_old_rooms: "구역 재정비"
+  ARB_resurfacing_old_rooms_desc: ""
+
+  ARB_kicking_in_the_generator: "발전기 가동"
+  ARB_kicking_in_the_generator_desc: ""
+
+  ARB_kicking_in_the_generator_2: "디젤 동력"
+  ARB_kicking_in_the_generator_2_desc: ""
+
+  ARB_scrapping_it_all: "폐자재 수거"
+  ARB_scrapping_it_all_desc: ""
+
+  ARB_weapons_to_ploughs: "총칼을 쟁기로"
+  ARB_weapons_to_ploughs_desc: ""
+
+  ARB_keep_surface_wares: "지상 물자 보관"
+  ARB_keep_surface_wares_desc: ""
+
+  ARB_improve_the_hearth: "생활 환경 개선"
+  ARB_improve_the_hearth_desc: ""
+
+  ARB_use: "공동체 개선"
+  ARB_use_desc: ""
+
+  ARB_use_2: "경제 활성화"
+  ARB_use_2_desc: ""
+
+  ARB_construction_refurbishments: "건설 보수"
+  ARB_construction_refurbishments_desc: ""
+
+  ARB_reclamation: "수복"
+  ARB_reclamation_desc: ""
+
+  ARB_rail_vehicles: "다용도 드라이진 개조"
+  ARB_rail_vehicles_desc: ""
+
+  ARB_reclamation_plots: "버섯 재배 구획"
+  ARB_reclamation_plots_desc: ""
+
+  ARB_fed_populace: "공동체 조직 농장"
+  ARB_fed_populace_desc: ""
+
+  ARB_armories_of_the_west: "무기 비축고"
+  ARB_armories_of_the_west_desc: ""
+
+  ARB_dedicated_stalkers: "정예 스토커 부대"
+  ARB_dedicated_stalkers_desc: ""
+
+  ARB_sell_surface_wares: "지상 물자 판매"
+  ARB_sell_surface_wares_desc: ""
+
+  ARB_peddle_wares: "물자 행상"
+  ARB_peddle_wares_desc: ""
+
+  ARB_peddle_wares2: "고철 탄환 개조"
+  ARB_peddle_wares2_desc: ""
+
+  ARB_peddle_wares3: "총열 재건 작업"
+  ARB_peddle_wares3_desc: ""
+
+  ARB_peddle_wares4: "기본 도구함"
+  ARB_peddle_wares4_desc: ""
+
+  ARB_bazaar_of_the_west: "서부의 프로스펙트 미라"
+  ARB_bazaar_of_the_west_desc: ""
+
+  ARB_scrounging_the_good_stuff: "우수한 물자 수색"
+  ARB_scrounging_the_good_stuff_desc: ""
+
+  ARB_scrounging_the_good_stuff3: "금속 공작"
+  ARB_scrounging_the_good_stuff3_desc: ""
+
+  ARB_scrounging_option_1: "사체 수거 작전"
+  ARB_scrounging_option_1_desc: ""
+
+  ARB_scrounging_option_2: "군수품 창고 우선"
+  ARB_scrounging_option_2_desc: ""
+
+  ARB_scrounging_option_3: "샅샅이 뒤지기"
+  ARB_scrounging_option_3_desc: ""
+
+  ARB_scrounging_option_4: "구 산업 지구 수색"
+  ARB_scrounging_option_4_desc: ""
+
+  ARB_scrounging_option_5: "전전 연구소 수색"
+  ARB_scrounging_option_5_desc: ""
+
+
+### Foreign Policy ###
+
+  ARB_political: "정치적 책략"
+  ARB_political_desc: ""
+
+ ## Cooperation with Hanza ##
+  ARB_hanza_alignment: "한자와의 협력"
+  ARB_hanza_alignment_desc: ""
+
+  ARB_liason_surveyor: "연락 조사관"
+  ARB_liason_surveyor_desc: ""
+
+  ARB_worthwhile_allies: "가치 있는 동맹"
+  ARB_worthwhile_allies_desc: ""
+
+  ARB_hiring_economic_expertise: "경제 전문가 고용"
+  ARB_hiring_economic_expertise_desc: ""
+
+  ARB_hiring_technical_expertise: "기술 전문가 고용"
+  ARB_hiring_technical_expertise_desc: ""
+
+  ARB_heavy_soldiers: "강권 정치"
+  ARB_heavy_soldiers_desc: ""
+
+  ARB_heavy_soldiers_2: "중무장 특수부대 팀 배치"
+  ARB_heavy_soldiers_2_desc: ""
+
+  ARB_worthwhile_allies_2: "군사 연락"
+  ARB_worthwhile_allies_2_desc: ""
+
+  ARB_worthwhile_allies_4: "군대 전면 개편"
+  ARB_worthwhile_allies_4_desc: ""
+
+  ARB_worthwhile_allies_3: "한자 위원회"
+  ARB_worthwhile_allies_3_desc: ""
+
+  ARB_worthwhile_allies_5: "강철의 보루"
+  ARB_worthwhile_allies_5_desc: ""
+
+  ARB_worthwhile_allies_6: "붉은 라인과의 전쟁 재개"
+  ARB_worthwhile_allies_6_desc: ""
+
+  ARB_worthwhile_allies_final: "연합의 동등한 일원"
+  ARB_worthwhile_allies_final_desc: ""
+
+ ## Revanchism ##
+  ARB_revaunchism: "강토 회복주의"
+  ARB_revaunchism_desc: ""
+
+  ARB_bargain_state_1: "쿠르스카야 매입"
+  ARB_bargain_state_1_desc: ""
+
+  ARB_bargain_state_2: "쿠르스카야 확보"
+  ARB_bargain_state_2_desc: ""
+
+  ARB_bargain_state_3: "보만스키 동맹에 대한 권한 회복"
+  ARB_bargain_state_3_desc: ""
+
+  ARB_war_against_hanza: "한자에 대한 선전포고"
+  ARB_war_against_hanza_desc: ""
+
+  ARB_war_against_polis: "폴리스에 대한 선전포고"
+  ARB_war_against_polis_desc: ""
+
+  ARB_expand_east: "동부 확장"
+  ARB_expand_east_desc: ""
+
+  ARB_bargain_reds: "빨갱이들과의 거래"
+  ARB_bargain_reds_desc: ""
+
+  ARB_revival_of_an_empire: "제국의 부활"
+  ARB_revival_of_an_empire_desc: ""
+
+  ARB_expand_west: "서부 원정"
+  ARB_expand_west_desc: ""
+
+ ## Caucasian path ###
+  ARB_revive_caucasian_movement: "카프카스 운동의 부활"
+  ARB_revive_caucasian_movement_desc: ""
+
+  ARB_reverence_to_old_world: "구세계에 대한 경의"
+  ARB_reverence_to_old_world_desc: ""
+
+  ARB_house_refugees: "난민 수용"
+  ARB_house_refugees_desc: ""
+
+  ARB_a_new_age_people: "새로운 시대의 민중"
+  ARB_a_new_age_people_desc: ""
+
+  ARB_a_construction: "재건"
+  ARB_a_construction_desc: ""
+
+  ARB_ethnonationalism: "민족국가주의" 
+  ARB_ethnonationalism_desc: ""
+
+  ARB_promote_an_identity: "정체성 고취"
+  ARB_promote_an_identity_desc: ""
+
+  ARB_faction_with_europa: "유로파와의 동맹"
+  ARB_faction_with_europa_desc: ""
+
+  ARB_up_and_coming: "구역의 실세"
+  ARB_up_and_coming_desc: ""
+
+ ## Free Stalkers ##
+  ARB_our_slice_of_home: "우리만의 안식처"
+  ARB_our_slice_of_home_desc: ""
+
+  ARB_free_stalker_authority: "자유 스토커 자치구"
+  ARB_free_stalker_authority_desc: ""
+
+  ARB_stalker_council: "스토커 평의회 결성"
+  ARB_stalker_council_desc: ""
+  ARB_recruit_mercenaries_tt: "\n§G메트로 전역에서 용병을 고용할 수 있는 일회성 결정§!을 §G활성화§!합니다.\n\n"
+
+  ARB_come_near_come_far: "천하 인재 모집"
+  ARB_come_near_come_far_desc: ""
+
+  ARB_stalker_free_zone: "스토커 자유 구역"
+  ARB_stalker_free_zone_desc: ""
+  ARB_free_stalker_authority_formable_tt: "£trigger_yes 형성 가능한 국가 활성화: §C자유 스토커 자치구§!"
+
+  ARB_neutral_grounds_2: "중립 지대"
+  ARB_neutral_grounds_2_desc: ""
+  expert_scavengers_tt: "\n이제 수색 §G결정§!이 §G무료§!가 됩니다."
+
+  ARB_neutral_grounds_3: "" 
+  ARB_neutral_grounds_3_desc: ""
+
+  ARB_ce: "지정된 수색 경로"
+  ARB_ce_desc: ""
+
+  ARB_accommodate_new_folks: "새로운 인원 수용"
+  ARB_accommodate_new_folks_desc: ""
+
+  ARB_sb1: "스튜덴체스카야에 기지 구축"
+  ARB_sb1_desc: ""
+
+  ARB_sb2: "필룝스카야에 추가 기지 구축"
+  ARB_sb2_desc: ""
+
+  ARB_sb3: "필룝스카야를 따라 서부로 확장"
+  ARB_sb3_desc: ""
+
+  ARB_sb4: "쿤체브스카야에 기지 구축"
+  ARB_sb4_desc: ""
+
+  ARB_depot: "창고 수색"
+  ARB_depot_desc: ""
+
+ ## Cooperation with the Order and Polis ##
+  ARB_polis: "폴리스와 협력"
+  ARB_polis_desc: ""
+
+  ARB_tech_sharing: "공동 연구 추진"
+  ARB_tech_sharing_desc: ""
+
+  ARB_assist_the_rangers: "레인저 지원"
+  ARB_assist_the_rangers_desc: ""
+
+  ARB_ranger_polis_collaboration: "폴리스 방위"
+  ARB_ranger_polis_collaboration_desc: ""
+
+  ARB_intergrate_industries: "기술 연락망 통합"
+  ARB_intergrate_industries_desc: ""
+
+  ARB_assistance_against_GWC: "야만인들에 대항할 원군"
+  ARB_assistance_against_GWC_desc: ""
+
+  ARB_technical_application: "기술적 응용"
+  ARB_technical_application_desc: ""
+
+  ARB_ranger_initialisation: "레인저 서약"
+  ARB_ranger_initialisation_desc: ""
+  ARB_path_of_ranger: "\n이것은 우리를 오더의 §G진정한§! 일원으로 만드는 길로 인도할 것입니다. 우리는 기존의 경제 및 군사 법률을 §R포기§!하는 대신, 오직 §C레인저 정책§!만을 따르게 될 것입니다.\n\n"
+
+  ARB_ranger_spec_ops: "선별된 장비"
+  ARB_ranger_spec_ops_desc: ""
+
+  ARB_bastion_of_humanity: "인류의 보루"
+  ARB_bastion_of_humanity_desc: ""
+
+  ARB_equal_amongst_peers: "동료들 사이의 평등"
+  ARB_equal_amongst_peers_desc: ""
+
+  ARB_allow_orderly_recruitment: "민간인 모집 허용"
+  ARB_allow_orderly_recruitment_desc: ""
+
+  ARB_draw_from_the_commoners: "정거장에서 신병 모집"
+  ARB_draw_from_the_commoners_desc: ""
+
+  ARB_stalker_intergration: "스토커 통합"
+  ARB_stalker_intergration_desc: ""
+
+### Against Darkness ###
+
+  ARB_claim_GWC: "어둠에 맞서는 분노"
+  ARB_claim_GWC_desc: ""
+
+  ARB_what_of_them: "파르크 포베디에서 꿈틀대는 무언가"
+  ARB_what_of_them_desc: ""
+
+  ARB_what_of_them2: "파르크 포베디 재통합"
+  ARB_what_of_them2_desc: ""
+
+### ??? ###
+
+  ARB_restore_tunnel: "키예프스카야 - 파르크 포베디 사이의 터널 복구"
+  ARB_restore_tunnel_desc: ""
+
+### Human-Mutant ##
+
+  ARB_question_of_HMS_1: "돌연변이 숙청"
+  ARB_question_of_HMS_1_desc: ""
+
+  ARB_question_of_HMS_2: "우호의 손길"
+  ARB_question_of_HMS_2_desc: ""
+
+### Military ###
+
+  ARB_standing_guard: "상비 경비대 강화"
+  ARB_standing_guard_desc: ""
+
+  ARB_deploy_conscripts: "징집병 배치"
+  ARB_deploy_conscripts_desc: ""
+
+  ARB_emergency_mobilization: "비상 동원 계획 수립"
+  ARB_emergency_mobilization_desc: ""
+
+  ARB_military_branch_4: "한자-붉은 라인 분쟁의 유산"
+  ARB_military_branch_4_desc: ""
+
+  ARB_military_branch_5: "역량 결집"
+  ARB_military_branch_5_desc: ""
+
+  ARB_military_branch_6: "노련한 부관 승진"
+  ARB_military_branch_6_desc: ""
+
+  ARB_military_branch_6a: "한자식 규율 모방"
+  ARB_military_branch_6a_desc: ""
+
+  ARB_military_branch_6b: "야간 투시 전술"
+  ARB_military_branch_6b_desc: ""
+
+  ARB_military_branch_6c: "기술 전문 인물 기용"
+  ARB_military_branch_6c_desc: ""
+
+  ARB_military_branch_7: "징병제 개혁"
+  ARB_military_branch_7_desc: ""
+
+  ARB_military_branch_7a: "집중된 무력"
+  ARB_military_branch_7a_desc: ""
+
+  ARB_military_branch_7b: "지원용 후방 경비"
+  ARB_military_branch_7b_desc: ""
+
+  ARB_military_branch_8: "신형 군집 교리"
+  ARB_military_branch_8_desc: ""

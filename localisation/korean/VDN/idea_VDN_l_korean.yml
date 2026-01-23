@@ -1,0 +1,28 @@
+﻿l_korean:
+ VDNK_commonwealth_formed: "연합의 결성"
+ VDN_dark_ones_idea: "검은 존재들"
+
+
+ VDN_stable_society: "안정된 사회"
+ VDN_beyond_the_yard: "터널 너머"
+ VDN_estranged_from_everyone: "메트로로부터의 소외"
+ VDN_mushroom_cultivations: "버섯 산업"
+
+ ## Everything below most likely will be removed. If you still see this localisation when translating, there is no point bothering to translate strings below.
+ VDN_economic_reforms_idea:0 "경제 개혁"
+ VDN_railway_repair_idea:0 "철도 수리 기술"
+ VDN_private_industry:0 "민간 산업"
+ VDN_quick_deployments:0 "신속 배치"
+ VDN_consumer_act:0 "소비자법"
+ VDN_major_power:0 "주요 세력"
+ VDN_army_priority_idea:0 "군사 우선순위"
+ VDN_trade_priority_idea:0 "무역 우선순위"
+ VDN_merchant_caravans:0 "상인 일행"
+ VDN_travel_together_idea:0 "상인 이동 일정"
+ VDN_silk_road_tt:0 "탄환 경제 시스템이 게임에 추가될 때 중점이 확장될 것입니다."
+ VDN_merc_debts:0 "용병 부채"
+ VDN_improved_merc_tactics:0 "개선된 용병 전술"
+ VDN_caravan_guards_idea:0 "카라반 경비대"
+ VDN_unraidable_caravans_idea:0 "습격 불가능한 카라반"
+ VDN_solidified_government:0 "공고해진 정부"
+ VDN_war_on_crime_idea:0 "범죄와의 전쟁"

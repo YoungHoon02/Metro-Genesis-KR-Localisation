@@ -1,0 +1,121 @@
+﻿l_english:
+
+ conscripted_militia: "Conscripted Militia"
+ standing_force: "Standing Force"
+ mandatory_service: "Mandatory Service"
+ all_adults: "All Adults"
+ young_and_old: "Young and Old"
+ all_serve: "All Serve"
+
+ ## Bandit Laws ##
+
+ bandit_law_1:0 "Gopnik Gangbangers"
+ bandit_law_1_desc:0 "The Lowest-ranking members of any criminal organization. Gopniks are petty gang-bangers, outcast convicts and young thugs who strut and pretend they are amongst our ranks proper. Loud, ignorant and not particularly bright, they paint the stereotypical image of Bandits living in the Moscow Underground"
+
+ bandit_law_2:0 "Bratok Band"
+ bandit_law_2_desc:0 "Often called Patsan or Brodyaga. The Bratok are the indispensable associates of any criminal enterprise similar to that of the soldato or buttonmen of the Cosa Nostra. Although without proper authority or any title, the Bratok are still low on the hierarchy and are very much seen as more intelligent, but still dim Gopniks who have proved they can infact fire and shoot a gun. They aren't dumb yokels, but still don't fit the bill of fully fledged gangsters.\n\nHaving some semblance of Tunnel-smarts and a wise fortitude to hustle, Mortality rates amongst them are notoriously high. Most end up dead along the precarious ladder to the top. Many who manage to survive against station watch-guards or the preying eyes of other gangsters will quite simply always remain at the bottom to be used and abused by the higher rungs."
+
+ bandit_law_3:0 "Avtoriet Assembly"
+ bandit_law_3_desc:0 "The Middle Management of the criminal world. Those that have had grit in their eyes and have seen all that this life can muster. Experience of countless years of stealing and criminal activities, bestowing their wisdom onto his lesser brothers in this thing of ours. Inaugurated into the underworld most typically in groups or small-crews of childhood friends, Avtoriet are usually the last surviving members of those bonds; Older, wiser and most often than not, solemn members who seek to dispense their wisdom onto the younger generation in hopes they don't make the same mistakes as they did."
+
+ bandit_law_4:0 "A vor v zakone"
+ bandit_law_4_desc:0 "Thief in law, the high-ranking members of the criminal world. Similar to the italian wiseguy. It is the highest rank that the Organizatsiya may dispose upon a person. Those with incredible wit, loyalty or charisma may achieve this title. Inaugurated members are to swear by Vor v Zakone, similar to that of the Italian-American Omerta. Thief in Law. Unlike the Italian-American Mafia, non-slavs may join and hold the title. Formerly those of the post-soviet State. Armenians, Kazakhs, Georgians are able to be inner-members of the brotherhood. Even allowing those without ties to the old Soviet Union to bolster the ranks, although in extreme circumstances where the individual has shown complete loyalty, talents and dedication to the Connection.\n\nEmblazoned with symbolic tattoos across their bodies. A testament to the life they lead and beckoning the emblems to their clan of thieves. Many icons and phrases which obscure definitions have been lost to time. Those which have been ripped apart and pieced together to indicate new meanings.\n\nThe more powerful A vor v zakone may seek to start their own outfit or membership. Since there is no Caporegime, this has allowed the organization to sprout and fester quickly in the underground. Able to operate in more dispersed groups, ensuring the network may stay afloat if one cluster comes crashing down through conflict, or utter annihilation."
+
+ bandit_law_5:0 "Kings of the Deep"
+ bandit_law_5_desc:0 "The Bratva are not an organized mob group similar to that of the Italian or Sicilian families. They are loose structures that connect to a much bigger web. Drawing connections and drawing upon personnel in a number of different areas. This has not only allowed them to survive nuclear obliteration, but instead proliferate.\n\nHaving a jingoistic view and policy on the various train lines and stations in which they rule. Seeing themselves much rather like feudal lords straight from history of yore; messianic figureheads of authority which dictate justice upon their turf, and dispense their own twisted form of law upon their subjects. Bastardized to fit a brave new world. Although truthfully there is no chivalry between thieves. Especially those who operate where the sun does not shine." 
+
+ ## CIVICS ##
+
+ civics_work_ethics_cost_factor:0 "Labour Ethics Cost Factor"
+ civics_child_labour_cost_factor:0 "Child Labour Ethics Cost Factor"
+ civics_support_cost_factor:0 "Support Ethics Cost Factor"
+ civics_property_cost_factor:0 "Personal Property Ethics Cost Factor"
+ civics_border_cost_factor:0 "Border Security Ethics Cost Factor"
+ civics_education_cost_factor:0 "Education Ethics Cost Factor"
+
+ civics_work_ethics: "Labour Ethics"
+ civics_child_labour: "Child Labour Ethics"
+ civics_support: "Support of Population"
+ civics_property: "Personal Property Laws"
+ civics_border: "Border Security"
+ civics_education: "Education"
+
+ civics: "Policies & Ethics"
+
+ civics_work_ethics_1: "Recreational Hours"
+ civics_work_ethics_1_desc: "Our Stations allow for hours between shifts and workloads for our citizens to relax. The pursuit of happiness and non-work related activities is encouraged by the Administration. We haven't forgotten how the word human sounds, and what the word should mean in this decaying world.
+
+ civics_work_ethics_2: "Work Exemptions"
+ civics_work_ethics_2_desc: "Inhabitants are expected to work a required amount of shifts. However some exemptions can be made to certain groups and peoples. The old, frail, sick and young are usually exempt from work expectations."
+
+ civics_work_ethics_3: "Everybody Works"
+ civics_work_ethics_3_desc: "Every individual is expected to earn their share and keep. From labourers to clerks and farmers. All ages who can, and are abled-body are demanded to work... And remember. §YNo Slacking!§Y"
+
+ civics_work_ethics_4: "Indentured Labour"
+ civics_work_ethics_4_desc: "You're not working unless you break a sweat. Shifts are long, and grueling. If the work won't break your back, the pay innevitably will. You will work to earn the right to work, and to earn the right to live and to eventually die."
+
+ civics_work_ethics_5: "Borderline-Slavery"
+ civics_work_ethics_5_desc: "Where theres a whip, theres a way. Toil all day at the workbenches, farms or behind the desk. You are little more than a cog in the machine. If the state of the world hasn't broken you in yet, indentured servitude will."
+
+ civics_work_ethics_6: "Coerced Servitude"
+ civics_work_ethics_6_desc: ""
+ 
+ civics_child_labour_1: "Child Labour"
+ civic_child_labour_disapproval: "\nOur inter-stational relations will §RSour§! as a result."
+ civics_child_labour_2: "Safe Labour Only"
+ civics_child_labour_3: "Labour Exempt"
+ civics_child_labour_4: "Mandatory Schooling"
+ civics_child_labour_5: "Indoctrination"
+
+
+ civics_support_1: "Reduced Salaries"
+ civics_support_1_desc: "With the state of our economy as of right now we cannot afford to pay our soldiers adequate salaries. Unfortunately we're not running a charity here. Reduced wages will come as a shock to our soldiers; they won't be content to hide their disgruntlement"
+ civics_support_2: "Standard Wages"
+ civics_support_2_desc: "Any prospect of earning more pay shall be done by experience and experience only, by doing what soldiers do best. Shoot and kill."
+ civics_support_3: "Cartridge Pay"
+ civics_support_3_desc: "As it turns out our soldiers are quite fond of the increased wages, and cheer the station administration. Huzzah!"
+ civics_support_4: "Bumper Pay"
+ civics_support_4_desc: "Our armed forces are elated to hear we are deciding to pay them extra wages. Hopefully our economy will be able to brace the exponential expenses."
+ military_wages_cooldown_tooltip: "Has not Changed Wages Law in 120 Days."
+ military_wages_cooldown_set: "Wages Law is locked for 120 Days."
+
+ civics_support_savage: "Rage and Despoil"
+
+ civics_property_1: "Private Property"
+ civics_property_1_desc: ""
+
+ civics_property_2: "Personal Property"
+ civics_property_2_desc: ""
+
+ civics_property_3: "Open-Access Property"
+ civics_property_3_desc: ""
+
+ civics_property_4: "Communal Ownership"
+ civics_property_4_desc: ""
+
+ civics_property_5: "Bandit Property"
+ civics_property_5_desc: "Property belongs to the Pakhan, so listen up! Whats yours is mine, and mine is also mine!
+
+ civics_property_6: "Communist Property"
+ civics_property_6_desc: "In the words of Vladimir Lenin himself, 'Law is Power', and the state is above all else. This community closely adheres to the tenets of Socialism. Other than the few and far between domestic products citizens frantically safeguard from their neighbours, there is virtually zero schemes in-place to ensure the allowance of private property."
+
+ civics_border_1: "Open Access"
+ civics_border_1_desc: ""
+
+ civics_border_2: "Open Hours"
+ civics_border_2_desc: ""
+
+ civics_border_3: "Passport Requirements"
+ civics_border_3_desc: ""
+
+ civics_border_4: "Isolationism"
+ civics_border_4_desc: ""
+
+ ## Occupation Laws ##
+
+ metro_no_occupation: "No Occupation"
+ metro_tunnel_sentries: "Tunnel Sentries"
+ metro_militia_oversight: "Militia Oversight"
+ metro_curfew: "Citizen Curfew"
+ metro_martial_law: "Martial Law"
+ metro_forced_work: "Forced Labor"

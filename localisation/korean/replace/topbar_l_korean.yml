@@ -1,0 +1,7 @@
+﻿l_korean:
+ TOPBAR_ENERGY_DEMAND:0 "에너지수구: $DEMAND_VAL|H1$ ($ENERGY_RATIO|H1%$)"
+ TOPBAR_ENERGY_GENERATED:0 "생산된 에너지: $ENERGY_GENERATED|H1$"
+ TOPBAR_COAL_CURRENTLY_USED:1 "§Y$COUNT$§! £resource_electricity_texticon 현재 사용 중인 에너지"
+ TOPBAR_MAXIMUM_ENERGY_GENERATED:1 "£energy_texticon 최대 에너지 생산량: $ENERGY_GENERATED|H1$"
+ TOPBAR_TOTAL_COAL:1 "§Y$COUNT$§! £resource_electricity_texticon 사용 가능한 총 에너지"
+ 

@@ -1,0 +1,11 @@
+﻿l_korean:
+  PLS_power_balance:0 "폴리스 내 영향력"
+  PLS_default_left_side:0 "브라만"
+  PLS_default_right_side:0 "크샤트리아"
+  PLS_mid_range:0 "폴리스의 권력이 경합 중입니다!"
+  PLS_left_side_range:0 "브라만 우세"
+  PLS_middle_left_side_range:0 "브라만 영향력 압도적"
+  PLS_far_left_side_range:0 "브라만 완전 장악"
+  PLS_right_side_range:0 "크샤트리아 우세"
+  PLS_middle_right_side_range:0 "크샤트리아 영향력 압도적"
+  PLS_far_right_side_range:0 "크샤트리아 완전 장악"

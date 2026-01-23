@@ -1,0 +1,63 @@
+﻿l_korean:
+  PLS_vitaly_misko: "비탈리 미스코"
+  PLS_vitaly_misko_trait: "폴리스 총리"
+  PLS_vitaly_misko_desc: "§9«키가 작고 대머리인 한 남성. 그의 안경은 그가 내뿜는 권위적인 인상을 더욱 강조했습니다. 그는 정장에 넥타이를 매고 있었으며, 관자놀이에는 자신의 카스트를 나타내는 문신이 없었습니다.»§!\n\n전직 러시아 대통령 고문이었던 미스코는 크샤트리아든 브라만이든 누구의 말을 들어야 할지 잘 알고 있으며, 필요할 때 갈등을 해결하는 법 또한 알고 있습니다.\n\n엄숙하고 때로는 권위적인 비탈리는 가벼움을 혐오하는 실용주의자입니다. 그를 가까이서 지켜본 이들은 그가 웃는 모습을 단 한 번도 본 적이 없다고 주장하며, 이는 충분히 개연성이 있는 이야기입니다. 인류의 마지막 날들이라는 파괴적인 무게를 고고한 어깨에 짊어지는 것은 너무나도 무거운 일이며, 그의 모든 노력이 그저 피할 수 없는 종말을 늦추는 것에 불과하다는 절망적인 목소리가 내면에서 속삭입니다. 그는 아무리 도망치려 해도 그 운명을 피할 수 없습니다."
+
+  scientist_krasnov:0 "알렉산드르 크라스노프"
+  PLS_alexander_krasnov:0 "알렉산드르 크라스노프"
+
+  PLS_polis_council:0 "폴리스 행정부"
+  PLS_council_of_polis:0 "폴리스 집행위원회"
+
+
+  PLS_kshatriya: "폴리스 의장"
+  PLS_KSHATRIYA_DESC: ""
+  PLS_kshatriya_leader: "크샤트리아"
+
+  PLS_brahmin: "폴리스 의장"
+  PLS_BRAHMIN_DESC: ""
+  PLS_brahmin_leader_trait: "브라만"
+
+  PLS_detachment_1: "티혼 키로프"
+  PLS_DETACHMENT_1_DESC: ""
+  PLS_detachment_1_trait: "레인저"
+
+  PLS_detachment_3: "카지미르 페트로프"
+  PLS_DETACHMENT_3_DESC: ""
+  PLS_detachment_3_trait: "스파르타인"
+
+  PLS_detachment_4: "안드레이 카호프스키"
+  PLS_DETACHMENT_4_DESC: ""
+  PLS_detachment_4_trait: "스파르타인"
+
+  PLS_alexander_rasanov: "알렉산드르 라사노프"
+  PLS_RASANOV_DESC: "폴리스의 젊은 외교부 장관으로, 한자동맹과의 관계를 담당하고 있습니다. 메트로의 혼란스러운 역사에서 가장 젊은 정치인 중 한 명으로 꼽힙니다."
+  PLS_alexander_rasanov_trait: "외교부 장관"
+
+  PLS_colonel_sychev: "시체프 대령"
+  PLS_COLONEL_SYCHEV_DESC: "크샤트리아이자 폴리스 의회의 일원인 시체프의 역할은 폴리스를 방어하기 위해 새로 모집된 신병들을 훈련시키고 감독하는 것입니다."
+  PLS_colonel_sychev_trait: "훈련 교관"
+
+  PLS_chukchi: "축치"
+  PLS_CHUKCHI_DESC: "D-6 타워 시뮬레이터 프로젝트의 전 책임자였습니다. 시설이 대피된 후 그는 조수와 함께 폴리스로 도망쳤고, 나중에 폴리스 의회에 합류했습니다. D-6이 다시 발견되자 그는 예기치 않게 중단되었던 부분부터 작업을 다시 시작하기를 고집하고 있습니다."
+  PLS_chukchi_trait: "전 D6 과학자"
+
+  PLS_anastasius: "아나스타시우스"
+  PLS_ANASTASIUS_DESC: "그의 그리스 혈통 때문에 동료들로부터 우스갯소리로 «게크(Gek)»라고 불리는 아나스타시우스는 D-6 타워 시뮬레이터 프로젝트의 개발 책임자였던 축치 교수의 오른팔이었습니다. 바이오매스의 위협 이후 폴리스로 이주하여 의회의 일원이 되었습니다."
+  PLS_anastasius_trait: "전 D6 «보조» 과학자"
+
+  PLS_elder: "엘더 비탈리"
+  PLS_elder_trait: "명예 의회 의원"
+  PLS_ELDER_DESC: "폴리스의 주요 브라만 중 한 명이자 의회의 명예직을 맡고 있는 비탈리는 한때 핵물리학자였습니다. 현재 그는 폴리스의 역장으로서, 인류의 마지막 애가(dirge)가 울려 퍼지기 전 인류의 마지막 흔적들을 정리하고 보관하는 임무를 맡고 있습니다."
+
+  PLS_ivashov: "이바쇼프"
+  PLS_ivashov_trait: "보로비츠키야 역장"
+  PLS_IVASHOV_DESC: "보로비츠키야의 수장인 이바쇼프는 남부 보안 경계 지휘를 맡고 있습니다. 폴리앙카에서 불어오는 온갖 위협을 어떤 대가를 치르더라도 저지하라는 임무를 부여받았습니다."
+
+  PLS_captain: "더 캡틴"
+  PLS_CAPTAIN_DESC: "축치 교수와 그의 조수 아나스타시우스를 도와 가상 전투 시뮬레이터의 효율성을 계산하는 일을 도왔습니다. 시뮬레이션의 여러 문제들 속에서도 캡틴은 성공적으로 장애물들을 통과했습니다. 그러나 과학자들이 도망쳤던 D-6 사건 이후 캡틴은 흔적도 없이 사라졌습니다. 사망한 것으로 여겨졌으나, D-6의 재정착과 부활 이후 캡틴이 돌아와 다시 한번 폴리스에 충성을 맹세하고 있습니다."
+  PLS_captain_trait: "타워의 챔피언"
+
+
+
+

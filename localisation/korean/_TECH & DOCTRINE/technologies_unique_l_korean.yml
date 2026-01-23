@@ -1,0 +1,42 @@
+﻿l_korean:
+  ## RED ##
+   TOOLTIP_UNIQUE_RED: "붉은 라인"
+   nkvd_technology_1: "NKVD 훈련 지침서"
+   nkvd_technology_1_desc: "NKVD 대원들은 공화국의 수호자이자 당의 눈귀입니다. 그들을 위한 특수 훈련 지침서는 단순한 전투 능력을 넘어, 사상 검증과 체제 전복 시도를 감지하는 법을 다룹니다."
+   nkvd_technology_2: "정치위원 통합 가이드"
+   nkvd_technology_2_desc: "정치위원들을 일선 부대에 완전히 통합하여 병사들의 투쟁심을 고취하고, 패배주의의 싹을 잘라내겠습니다. 공산주의의 승리는 보장될 것입니다."
+   nkvd_technology_3: "체벌 시스템"
+   nkvd_technology_3_desc: "공포는 가장 강력한 통제 수단입니다. 규률을 위반하거나 전장에서 후퇴하는 자들에게는 자비 없는 체벌이 가해질 것임을 명시하여, 군기에 죽고 군기에 사는 강군을 육성합니다."
+   truth_serum: "자백 유도제"
+   truth_serum_desc: "인민의 적들은 정보를 숨기려 합니다. 비인도적이라는 비판이 있을 수 있으나, 공화국의 안위를 위해 자백 유도제를 사용하여 적들의 내밀한 음모를 파헤치겠습니다."
+
+  ## VDNKh ##
+   TOOLTIP_UNIQUE_VDN: "베데엔하 연합"
+   sentries_unlock: "터널 경비병"
+   sentries_unlock_desc: "터널 경비병들은 고향인 베데엔하를 지키기 위해 일생을 바친 자들입니다. 그들은 터널의 모든 구불구불한 길과 어두운 구석을 꿰뚫고 있으며, 어떠한 돌연변이의 침공도 허용하지 않을 것입니다."
+   sentries_buff_1: "터널 경비병 숙련"
+   sentries_buff_2: "터널 경비병 정예화"
+
+  ## Other ##
+   riot_shield_specops: "진압용 방패"
+   riot_shield_specops_desc: "과거 모스크바 경찰이 분노한 시위대에 대응하기 위해 사용했던 진압용 방패는 날아오는 투사체로부터 사용자를 보호할 수 있는 튼튼한 장비입니다. 고대 그리스의 팔랑크스처럼, 병사들의 방패를 촘촘히 맞대어 모든 위협을 막아내는 난공불락의 장벽을 형성합니다."
+
+  ## Equipment upgrade ##
+   tech_infantry_equipment_cost: "보병 장비: 생산 비용 감소"
+   tech_infantry_equipment_stats:  "보병 장비: 성능 개선"
+   tech_infantry_equipment_reliability:  "보병 장비: 신뢰도 개선"
+   tech_flamethrower_equipment_cost: "화염방사기 장비: 생산 비용 감소"
+   tech_flamethrower_equipment_stats:  "화염방사기 장비: 성능 개선"
+   tech_flamethrower_equipment_reliability: "화염방사기 장비: 신뢰도 개선"
+   tech_explosive_equipment_cost: "폭발물 장비: 생산 비용 감소"
+   tech_explosive_equipment_stats:  "폭발물 장비: 성능 개선"
+   tech_explosive_equipment_reliability: "폭발물 장비: 신뢰도 개선"
+   tech_gatling_equipment_cost: "개틀링 장비: 생산 비용 감소"
+   tech_gatling_equipment_stats:  "개틀링 장비: 성능 개선"
+   tech_gatling_equipment_reliability: "개틀링 장비: 신뢰도 개선"
+   tech_piercing_equipment_cost: "관통 장비: 생산 비용 감소"
+   tech_piercing_equipment_stats:  "관통 장비: 성능 개선"
+   tech_piercing_equipment_reliability: "관통 장비: 신뢰도 개선"
+   tech_special_forces_equipment_cost: "특수부대 장비: 생산 비용 감소"
+   tech_special_forces_equipment_stats: "특수부대 장비: 성능 개선"
+   tech_special_forces_equipment_reliability: "특수부대 장비: 신뢰도 개선"

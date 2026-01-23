@@ -1,0 +1,88 @@
+﻿l_korean:
+ DMD_the_DMD:0 "도모데도프스카야-오레호보 연합"
+ DMD_the_DMD_desc:0 ""
+
+ DMD_improve_Orekhovo:0 "오레호보 개선"
+ DMD_improve_Orekhovo_desc:0 ""
+
+ DMD_improve_Domodedovskaya:0 "도모데도프스카야 개선"
+ DMD_improve_Domodedovskaya_desc:0 ""
+
+ DMD_Orekhovo_workshop:0 "오레호보 작업장"
+ DMD_Orekhovo_workshop_desc:0 ""
+
+ DMD_Domodedovskaya_workshop:0 "도모데도프스카야 작업장"
+ DMD_Domodedovskaya_workshop_desc:0 ""
+
+ DMD_reconstruct_Orekhovo:0 "오레호보 재건"
+ DMD_reconstruct_Orekhovo_desc:0 ""
+
+ DMD_reconstruct_Domodedovskaya:0 "도모데도프스카야 재건"
+ DMD_reconstruct_Domodedovskaya_desc:0 ""
+
+ DMD_reconstruct_Krasnogvardeyskaya:0 "크라스노그바르데이스카야 재건"
+ DMD_reconstruct_Krasnogvardeyskaya_desc:0 ""
+
+ DMD_tunnel_infrastructure:0 "터널 기반 시설"
+ DMD_tunnel_infrastructure_desc:0 ""
+
+ DMD_military_drill:0 "크라스노그바르데이스카야 군사 훈련"
+ DMD_military_drill_desc:0 ""
+
+ DMD_Krasnogvardeyskaya_weaponsmith:0 "크라스노그바르데이스카야 무기 제작소"
+ DMD_Krasnogvardeyskaya_weaponsmith_desc:0 ""
+
+ DMD_surface_exploration:0 "지상 탐사"
+ DMD_surface_exploration_desc:0 ""
+
+ DMD_pechatniki_trade:0 "페차트니키 무역"
+ DMD_pechatniki_trade_desc:0 ""
+
+ DMD_contact_sevastopolskaya:0 "세바스토폴스카야와 접촉"
+ DMD_contact_sevastopolskaya_desc:0 ""
+
+ DMD_trade:0 "정기 무역 상단"
+ DMD_trade_desc:0 ""
+
+ DMD_weapon_bonus:0 "개량형 무기"
+ DMD_weapon_bonus_desc:0 ""
+
+ DMD_weapon_bonus_2:0 "첨단 무기"
+ DMD_weapon_bonus_2_desc:0 ""
+
+ DMD_airship:0 "비행선 탐사"
+ DMD_airship_desc:0 ""
+ airship:0 "비행선 탐사"
+
+ DMD_generator:0 "복구된 발전기"
+ DMD_generator_desc:0 ""
+ generator_found:0 "복구된 발전기"
+
+ DMD_M2:0 "메트로-2 발견"
+ DMD_M2_desc:0 ""
+ metro2:0 "메트로-2 발견"
+
+ DMD_strengthen_defense:0 "방어 강화"
+ DMD_strengthen_defense_desc:0 ""
+ defense_focus:0 "방어 강화"
+
+ DMD_research_boost:0 "도서관 설립"
+ DMD_research_boost_desc:0 ""
+
+ DMD_research_institute:0 "연구소"
+ DMD_research_institute_desc:0 ""
+
+ DMD_isolated_economy:0 "고립된 경제"
+ DMD_isolated_economy_desc:0 ""
+
+ DMD_tooling:0 "도구 개량"
+ DMD_tooling_desc:0 ""
+
+ DMD_medical:0 "의학적 진보"
+ DMD_medical_desc:0 ""
+
+ DMD_recycle:0 "고철 재활용"
+ DMD_recycle_desc:0 ""
+
+ DMD_construction:0 "고급 도구"
+ DMD_construction_desc:0 ""

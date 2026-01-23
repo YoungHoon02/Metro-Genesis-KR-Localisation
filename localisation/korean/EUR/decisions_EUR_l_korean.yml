@@ -1,0 +1,36 @@
+﻿l_korean:
+
+  EUR_council_gui_decision_category: "유로파 연방 결의"
+  EUR_council_gui_decision_category_desc: "유로파 연방은 인종적, 정치적으로 매우 다양한 배경을 가진 이민자들로 구성되어 있어 권력 균형이 매우 취약하고 유동적입니다. 우리는 이 권력 균형을 우리에게 유리하게 조종하여 메트로에서의 운명을 결정짓는 선택을 내릴 수 있습니다."
+
+ EUR_decision_add_council_low: "의회 지지도 소폭 증가"
+ EUR_decision_add_council_med: "의회 지지도 보통 증가"
+ EUR_decision_add_council_high: "의회 지지도 대폭 증가"
+ 
+ EUR_decision_scare_the_nation_council: "공포 분위기 조성"
+ europe_mil_is_good_again_tt: "모든 §Y군사적 불이익§! 상태를 제거합니다."
+ 
+ EUR_decision_increase_public_services_budget: "공공 복지 예산 증액"
+ EUR_decision_increase_military_services_budget: "군사 서비스 예산 증액"
+ EUR_decision_increase_industrial_services_budget: "산업 서비스 예산 증액"
+ 
+ EUR_decision_decrease_military_inefficiency: "§Y군사적 효율성 개선§!"
+
+ EUR_decision_add_dictatorial_low: "독재 지지율 소폭 증가"
+ EUR_decision_add_dictatorial_med: "독재 지지율 보통 증가"
+ EUR_decision_add_dictatorial_high: "독재 지지율 대폭 증가"
+
+ EUR_decision_hostile_industry: "강제 노동 착취"
+ EUR_decision_hostile_display: "무력 과시"
+ EUR_decision_add_slavery_industry: "산업 현장에 노예 투입"
+
+ EUR_purchase_arms_category: "군비 도입"
+
+ EUR_purchase_RED_revolvers: "[RED.GetName]제 무기 구입"
+ EUR_purchase_HNZ_revolvers: "[HNZ.GetName]제 무기 구입"
+ EUR_purchase_rarer_arms: "희귀 무기 구입"
+
+ EUR_purchase_gattling_gun_tech: "개틀링 기관총 구입"
+ EUR_purchase_flamethrower_gun_tech: "화염방사기 장비 구입"
+ EUR_purchase_explosive_gun_tech: "폭발성 무기 구입"
+ EUR_purchase_experimental_gun_tech: "실험용 화기 구입"

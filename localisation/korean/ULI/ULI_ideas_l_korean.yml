@@ -1,0 +1,39 @@
+﻿l_korean:
+ ULI_1905_confederation: "§Y1905년 거리 연합§!"
+ ULI_1905_confederation_desc: "타간스코-크라스노프레스넨스카야(§YTagansko-Krasnopresnenskaya§!) 노선에 자리한 온건 좌파 성향의 공동체입니다. 집단주의적 이상을 지향하며, 전체 연합의 결속력을 강화하고자 평등과 복지를 강조하는 마르크스주의 신조를 따르고 있습니다. 1905년 거리 연합은 §C중앙 메트로 사령부§!가 갑작스럽게 붕괴한 이후 자생력을 길러야 했습니다. 원래는 새로이 부상한 §R붉은 라인§!과 우호적인 관계를 맺으려 했으나, 붉은 라인이 연합의 권력을 찬탈하려 시도하자 현재의 통치자인 §Y일야 자토프§!가 신속하게 정권을 잡았고, 스스로 연합의 수장이 되었습니다."
+
+ ULI_1905_station_factionalism: "역내 §R파벌주의§!"
+ ULI_1905_station_factionalism_desc: "이름만 연합일 뿐, 정치적 모순과 사소한 분쟁으로 인해 내부적으로 분열되어 있는 상태입니다. 경제적 이해관계에 따라 파벌이 나뉘어 있으며, 각 역 사이의 협상 과정이 매끄럽지 못해 의미 있는 협력 시도가 무위로 돌아가는 일이 잦습니다."
+
+ ULI_1905_station_hanseatic_troubles: "한자 동맹의 문제"
+ ULI_1905_station_hanseatic_troubles_desc: "한자 동맹의 순환선인 §Y콜체프스카야§! 노선 바로 옆에 위치하고 있다는 점은 막대한 경제적 기회를 제공합니다. 하지만 이는 한자 상인들과 독립 무역 캐러밴들이 드나드는 통로가 되기도 합니다. 질 좋은 상품, 강력한 무기, 그리고 그나마 덜 망가진 장식품들까지. 이러한 경제적 유혹 앞에서 이념적 원칙은 여지없이 뒷전으로 밀려나곤 합니다. 부를 쌓는 것이 원칙을 지키는 것보다 훨씬 이득이니까요... 안 그런가요?"
+
+ ULI_polezhaevsky_incident: "폴레자옙스카야 사건"
+ ULI_polezhaevsky_incident_desc: "100명 이상의 연합 시민들이 기이하게 실종되는 사건이 발생하자, 지도부는 북부 영토를 포기하기로 결정했습니다. 이는 의도치 않게 지도부의 역량에 대한 강한 의구심을 불러일으켰고, 이 사건으로 인해 그들의 권위는 심각하게 훼손되었습니다."
+
+ ULI_1905_aftermath_coup: "권력 장악 시도 실패"
+ ULI_1905_aftermath_coup_desc: "과거 1905년 거리 연합은 붉은 라인과 밀접한 관계를 유지하고자 했습니다. 사실 두 정치체 사이에는 통합에 관한 논의가 오갈 정도였습니다. 하지만 붉은 라인이 우리 정부 내부에 자신들의 요원을 심어 정권을 완전히 찬탈하려던 계획이 발각되면서 논의는 급격히 파탄 났습니다. 외부의 개입을 기다리지 않고 자토프가 신속하게 정권을 장악하여 스스로 연합의 수장이 되었으며, 그 이후로 붉은 라인과 연합의 관계는 매우 껄끄러운 상태입니다."
+
+ ULI_1905_ULI_defences: "방어 시설"
+ ULI_1905_ULI_defences_desc: ""
+ ULI_1905_ULI_fascist_troubles: "파시스트 문제"
+ ULI_1905_ULI_fascist_troubles_desc: ""
+ ULI_1905_ULI_mutant_troubles: "돌연변이 문제"
+ ULI_1905_ULI_mutant_troubles_desc: ""
+ ULI_1905_ULI_education: "교육"
+ ULI_1905_ULI_education_desc: ""
+ ULI_rising_tension: "고조되는 긴장"
+ ULI_rising_tension_desc: ""
+ ULI_1905_women_soldiers: "여성 징집"
+ ULI_1905_revaunchism: "영토 회복주의 수사"
+ ULI_rage_rage_rage: "분노, 타오르는 분노"
+ ULI_stalkers: "스토커"
+ ULI_rebuild_relief_fund: "긴급 구호 자금"
+ ULI_rebuild_seek_external: "외부 지원 모색"
+ ULI_trade_west: "외부인과의 무역"
+ ULI_conscription_rounds: "순환 징집제"
+ ULI_fuel_sell: "연료 판매"
+ ULI_fuel_forfeit: "연료 유정 징발"
+ ULI_building: "건축 시설물"
+ ULI_1905_women_squads: "여성 지원 분대"
+

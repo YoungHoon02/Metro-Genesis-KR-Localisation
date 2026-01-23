@@ -1,0 +1,574 @@
+﻿l_korean:
+ ### Rebuild The Ring Line ###
+
+  HNZ_rebuild_koltsevskaya: "환상선 복원"
+  HNZ_rebuild_koltsevskaya_desc: "콜체보스카야(환상선)의 상태는 양호한 편이지만, 여전히 손봐야 할 곳이 많습니다. 터널의 쓰레기와 난민들을 정리하고 돌연변이의 흔적을 지워내십시오. 역을 깨끗하게 유지하는 것 역시 한자의 품격을 증명하는 길입니다."
+  HNZ_south_arc_1: "남부 아크 수리"
+  HNZ_south_arc_1_desc: "한자-붉은 라인 전쟁의 참화 속에서도 남부 아크는 어느 정도 원형을 유지했습니다. 언뜻 보기엔 평화로워 보이지만, 실상은 터널마다 굶주린 강도들이 득실거리고 구석구석에 치명적인 이상현상이 도사리고 있습니다. 이제 이 혼돈을 정리할 때입니다."
+  must_complete_centralisation_tt: "이 중점을 완료한 후 §Y중앙화 아크(Centralize Arc)§! 중점을 통해 다음 중앙화 계통으로 진행하기 전에 반드시 완료해야 합니다.\n\n"
+  HNZ_south_arc_military_1: "타간스카야의 무기고"
+  HNZ_south_arc_military_1_desc: "타간스키 삼각지대는 메트로에서 가장 안전하고 요새화된 구역 중 하나입니다. 안전이 곧 권력인 이곳에서, 상인과 군용 셔틀들이 몰려드는 것은 당연한 일입니다. 칼리닌스카야로 향하는 길목인 이곳은 한자의 핵심 무역 허브로 기능하게 될 것입니다."
+  HNZ_south_arc_military_2: "남부 돌연변이 방어"
+  HNZ_south_arc_military_2_desc: "한자동맹 구역 내의 돌연변이 위협은 상대적으로 낮은 편이지만, 파벨레츠카야 인근 수직갱도 너머에서 들려오는 울음소리는 결코 무시할 수 없는 경고입니다. 경계를 늦춰선 안 됩니다."
+  HNZ_south_arc_industry_1: "기술자 팀 통합"
+  HNZ_south_arc_industry_1_desc: "한자 전역에 흩어져 있는 기술자 팀과 숙련된 장인 가문들을 하나의 체계적인 조직으로 통합해야 합니다. 분산된 기술력을 한데 모으는 것이야말로 산업 재건의 첫걸음입니다."
+  HNZ_south_arc_industry_2: "보호주의 강제"
+  HNZ_south_arc_industry_2_desc: "자유로운 무역도 중요하지만, 연맹 외부로의 자원 유출은 철저히 막아야 합니다. 높은 관세와 엄격한 검문을 통해 우리의 자원이 경쟁 세력의 손에 들어가지 않도록 보호하십시오."
+  HNZ_south_arc_trade_1: "무역로 확보"
+  HNZ_south_arc_trade_1_desc: "남부 환상선은 북부보다 훨씬 안전하며 보안 수단도 잘 갖춰져 있습니다. 상인 카라반들이 돌연변이의 습격을 걱정하지 않고 이동할 수 있게 됨에 따라, 페차트니키와 칼리닌스카야를 포함한 남부 정거장들은 유례없는 번영을 맞이할 것입니다."
+  HNZ_south_arc_trade_2: "자립 경제 체제"
+  HNZ_south_arc_trade_2_desc: "대외 무역은 자칫 타국이 우리에게 영향력을 행사하는 통로가 될 수 있습니다. 외산 제품의 유입을 제한하고 자국 생산자들을 보호함으로써, 타국에 의존하지 않는 자립 경제의 기틀을 마련해야 합니다."
+  HNZ_south_arc_trade_3: "자원 재활용 계획"
+  HNZ_south_arc_trade_3_desc: "메트로 곳곳에 방치된 폐기물을 회수하고 재활용하기 위한 공동 기금을 설립하십시오. 버려진 쓰레기조차 한자의 손을 거치면 귀중한 자산이 될 것입니다."
+  HNZ_south_arc_centralize: "남부 아크 중앙화"
+  HNZ_south_arc_centralize_desc: "각 정거장들이 지역 문제에 대해 어느 정도 자치권을 누리고 있지만, 결국 한자의 지배력 아래에 있음을 명확히 해야 합니다. 모든 역장들에게 연맹에 대한 절대적인 충성을 서약받으십시오."
+  HNZ_south_arc_centralize_factory_tt: "모든 남부 §Y환상선 주(Koltsevaya State)§!에 §Y5 기반 시설§!과 §Y1 민간 공방§!을 건설합니다."
+  HNZ_north_arc_centralize_factory_tt: "모든 북부 §Y환상선 주(Koltsevaya State)§!에 §Y5 기반 시설§!과 §Y1 민간 공방§!을 건설합니다."
+  HNZ_north_arc_1: "북부 아크 재건"
+  HNZ_north_arc_1_desc: "한자 동맹의 중심부인 북부는 견고하게 설계되었으며 수비 또한 삼엄합니다. 우리는 외부의 탐욕스러운 시선으로부터 이 막대한 부를 지켜내야 합니다."
+  HNZ_north_arc_trade_1: "무역의 활성화"
+  HNZ_north_arc_trade_1_desc: "한자의 권력을 유지하는 핵심은 무역이며, 이는 메트로 전체의 기능과 생존을 위해서도 필수적입니다. 최소한의 시민 권리를 보장하고 총기로 질서를 다잡는 것은 동맹의 공동 이익을 지키는 길입니다."
+  HNZ_north_arc_trade_2: "고정 관세 체계"
+  HNZ_north_arc_trade_2_desc: "우리 역에 도착하는 상선들에 부과되는 관세와 수수료를 우리가 독점적으로 결정할 것입니다. 마약이나 인신매매 같은 불법 행위만 아니라면, 최대한의 이윤을 뽑아내기 위해 어떤 압박도 불사할 것입니다."
+  HNZ_north_arc_trade_3: "에너지 독립"
+  HNZ_north_arc_trade_3_desc: "에너지는 경제 성장을 넘어 생존 그 자체와 직결된 문제입니다. 폭증하는 수요를 감당하고 완전한 자급자족을 이루기 위해 안정적인 에너지 생산 시설을 확보해야 합니다."
+  HNZ_north_arc_industry_1: "번영을 위한 투자"
+  HNZ_north_arc_industry_1_desc: "공동체의 성장은 곧 인구의 성장에서 시작됩니다. 신중한 투자를 통해 시민들의 구매력을 회복시키고 소비 시장을 강화함으로써 밝은 내일의 번영을 보장하십시오."
+  HNZ_north_arc_industry_2: "상인 중앙 은행"
+  HNZ_north_arc_industry_2_desc: "환상선의 상인들은 상상 이상으로 거대한 부를 축적했습니다. 이들의 막대한 자산을 안전하게 보호하고 유통하기 위해 독립적인 금융 기관을 설립해야 합니다."
+  HNZ_north_arc_military_1: "지속되는 붉은 공포"
+  HNZ_north_arc_military_1_desc: "공산주의 세력과의 대규모 전쟁은 끝났지만, 갈등의 불씨는 여전히 남아있습니다. 붉은 라인은 현재 우리의 주요 무역 파트너이지만, 그들의 뒤틀린 야욕이 언제 다시 발동할지 모르니 항상 경계의 끈을 놓지 말아야 합니다."
+  HNZ_north_arc_military_2: "자체 방위 구상"
+  HNZ_north_arc_military_2_desc: "안정적인 무역은 강력한 무력이 뒷받침될 때에만 가능합니다. 이제 더 이상 외부의 무기 상인들에게 의존하지 않고, 탄환 한 발부터 총기 부속품 하나까지 우리 손으로 직접 생산하여 자국군의 군사력을 강화해야 합니다."
+  HNZ_north_arc_centralize: "북부 아크 중앙화"
+  HNZ_north_arc_centralize_desc: "북부 아크의 부유한 정거장들은 연맹의 심장부입니다. 이들이 독자적인 행보를 걷지 않도록 중앙 집권화된 통제 체제를 강력히 구축해야 합니다. 한자의 권위는 절대적이어야 합니다."
+  HNZ_internal_branch_1: "최고 평의회의 권위"
+  HNZ_internal_branch_1_desc: "한자 동맹의 실질적인 통제권은 수도에서 운영되는 최고 평의회로부터 나옵니다. 모든 권력의 흐름은 이곳으로 집중되어야 합니다."
+  HNZ_internal_branch_2: "평의회 내부 개혁"
+  HNZ_internal_branch_2_desc: "시대의 변화에 발맞춰 연맹 내부의 의사결정 구조를 개편하고 효율성을 높여야 합니다."
+  HNZ_internal_branch_2A: "빈민층 통제"
+  HNZ_internal_branch_2A_desc: "번영하는 한자의 외곽에는 여전히 부랑자와 난민들이 몰려듭니다. 이들이 동맹의 안정을 해치지 못하도록 기강을 단단히 잡아야 합니다."
+  HNZ_internal_branch_3: "이사회 규모 조정"
+  HNZ_internal_branch_3_desc: "이사회 멤버들을 재구성하여 우리에게 우호적인 상권 대표들의 목소리를 키워야 합니다."
+  HNZ_internal_branch_3A: "부패 척결"
+  HNZ_internal_branch_3A_desc: "한자의 신뢰도는 투명한 거래에서 나옵니다. 무역로와 관세 수입에서 발생하는 도둑질을 더 이상 묵인해선 안 됩니다."
+  HNZ_internal_branch_4: "압도적인 화력의 방벽"
+  HNZ_internal_branch_4_desc: "한자 동맹은 메트로 전체에서 가장 강력하고 효율적인 군사력을 보유한 집단입니다. 비록 이 힘을 직접 목격한 생존자는 드물지만, 그 압도적인 무용에 대한 소문만으로도 적들의 기세를 꺾기에 충분합니다."
+  HNZ_internal_branch_5: "전후의 번영"
+  HNZ_internal_branch_5_desc: "무역의 교차로를 장악한 자는 부를 누릴 자격이 있습니다. 한자는 단순한 운 덕분이 아니라, 철저한 안정화 정책과 정치적 영향력을 통해 메트로 최고의 권력을 손에 넣었습니다."
+  HNZ_all_power_to_general_manager: "관리자에게 모든 권력을"
+  HNZ_all_power_to_general_manager_desc: "모든 정치적 통제권을 총관리자(General Manager)에게 위임합니다. 강력한 1인 지휘 체제만이 한자의 번영을 지속시킬 것입니다."
+  HNZ_all_power_to_the_board: "이사회에게 모든 권력을"
+  HNZ_all_power_to_the_board_desc: "연맹의 의사 결정권을 각계각층의 상인 대표들이 모인 이사회가 담당하게 합니다. 집단 지도체제를 통해 균형 잡힌 정책을 추진하십시오."
+  
+ ### The New Quarter ###
+
+  HNZ_new_quarter: "새로운 구역"
+  HNZ_new_quarter_desc: "아르바트, 폴리스, 붉은 라인 사이의 평화 조약이 체결된 지 5년, 우리는 환상선 공동체라는 새로운 시대를 열었습니다. 이 짧은 시간 동안 우리는 메트로 전체에서 가장 부유하고 강력한 세력으로 거듭났습니다."
+
+  HNZ_agenda_once_completed: "\n§Y의제가 완료되면:§!"
+  HNZ_gain_political_control: "§C1§! £political_authority_texticon §O정치력§! 획득"
+  HNZ_agenda_missions: "이 중점은 §Y의제§! 중점입니다. 완료 시 §Y기간 한정 결정§!이 활성화됩니다. 제한 시간 내에 요구 조건을 달성하면, 강력한 §G상인 길드§!와 §C정치 세력§!으로부터 전폭적인 지지를 얻게 될 것입니다. 이는 §Y[HNZ.GetLeader]§!의 통치 기반을 더욱 공고히 해줄 것입니다.\n\n"
+
+  HNZ_year_1_defensive_priority: "§0년 1§! 메트로 방어 우선순위"
+  HNZ_year_1_defensive_priority_desc: "대전쟁이 끝난 지 3년, 평화는 위태롭기만 합니다. 동맹의 막대한 부를 노리는 약탈자들과 돌연변이들의 위협에 대비해, 이제는 메트로 공화국의 방벽을 굳건히 세워야 할 때입니다."
+  HNZ_agenda_defensive_priority: "§C의제§!를 완료하려면, 우리 영토 내에 방어 시설을 구축해야 합니다.\n\n"
+
+  HNZ_year_1_economic_priority: "§0년 1§! 경제 번영 우선순위"
+  HNZ_year_1_economic_priority_desc: "부유한 메트로는 곧 강력한 메트로를 의미합니다. 산업 기반을 공고히 다져 시민들의 신뢰를 얻으십시오."
+  HNZ_agenda_economic_priority: "§C의제§!를 완수하려면, 우리의 산업 기반시설을 확충해야 합니다.\n"
+
+  HNZ_year_1_neutrality_priority: "§0년 1§! 중립 유지 우선순위"
+  HNZ_year_1_neutrality_priority_desc: "권력에는 책임이 따르며, 한자의 선택은 메트로의 미래를 결정합니다. 다른 역들 사이의 사소한 분쟁에 휘말리지 않고 중립을 지키는 것이 우리에겐 경제적으로 가장 유리한 선택입니다. 전쟁의 공포를 다시 불러와선 안 됩니다."
+  HNZ_agenda_neutrality_priority: "§C의제§!를 완수하려면, 외교적 중립을 유지하며 내부 역량을 강화해야 합니다.\n"
+
+  HNZ_year_2_military_priority: "§1년 2§! 재군비 우선순위"
+  HNZ_year_2_military_priority_desc: "지속되는 평화는 군사력이 뒷받침되어야만 가능합니다. 우리 군대를 근대화하고 잠재적인 적들에게 우리의 위용을 과시하십시오."
+  HNZ_agenda_military_priority: "§C의제§!를 완수하려면, 우리의 전쟁 준비 태세를 대폭 강화해야 합니다.\n"
+
+  HNZ_year_2_armament_priority: "§1년 2§! 재무장 우선순위"
+  HNZ_year_2_armament_priority_desc: "전쟁터에서 탄환은 곧 목숨입니다. 비축된 장비의 양이 곧 우리 군의 생존 가능성임을 잊지 마십시오."
+  HNZ_agenda_armament_priority: "§C의제§!를 완수하려면, 충분한 양의 군사 장비를 비축해야 합니다.\n"
+
+  HNZ_year_2_reclamation_priority: "§1년 2§! 지상 재건 우선순위"
+  HNZ_year_2_reclamation_priority_desc: "과거 세계의 유물들이 지상에서 우리를 기다리고 있습니다. 위험을 무릅쓰고 지상의 자원들을 선점해야 합니다."
+  HNZ_agenda_reclamation_priority: "§C의제§!를 완료하려면, 지상을 탐사하고 가치 있는 자원들을 회수해야 합니다.\n"
+
+  HNZ_year_2_research_priority: "§1년 2§! 연구 개발 우선순위"
+  HNZ_year_2_research_priority_desc: "지식은 곧 힘입니다. 다른 세력들이 원시적인 투쟁에 매몰되어 있을 때, 우리는 새로운 기술을 선점하여 앞서 나가야 합니다."
+  HNZ_agenda_research_priority: "§C의제§!를 완수하려면, 핵심적인 새로운 기술들을 연구해야 합니다.\n"
+
+  HNZ_year_3_draisine_priority: "§2년 3§! 철도 차량 우선순위"
+  HNZ_year_3_draisine_priority_desc: "철도는 한자의 생명선입니다. 더 강력하고 빠른 궤도 차량을 확보하여 메트로의 지배권을 공고히 하십시오."
+  HNZ_agenda_draisine_priority: "§C의제§!를 완수하려면, 최신형 철도 차량을 개발하고 운용해야 합니다.\n"
+
+  HNZ_year_3_mutant_purge_priority: "§2년 3§! 돌연변이 소탕 우선순위"
+  HNZ_year_3_mutant_purge_priority_desc: "괴물들이 터널을 배회하는 한 진정한 무역은 불가능합니다. 우리 영토 인근의 돌연변이 위협을 완전히 제거하십시오."
+  HNZ_agenda_mutant_purge_priority: "§C의제§!를 완수하려면, 우리의 주요 노선을 위협하는 돌연변이들과 야만 세력들을 소탕해야 합니다.\n"
+
+  HNZ_year_3_polis_priority: "§2년 3§! 메트로의 위상 재확인"
+  HNZ_year_3_polis_priority_desc: "폴리스와의 협력은 메트로의 안정을 유지하는 축입니다. 그들의 문명적 가치를 보호하며 우리의 영향력을 유지하십시오."
+  HNZ_agenda_polis_priority: "§C의제§!를 완수하려면, 폴리스와의 우호 관계를 유지하며 그들에게 필요한 지원을 계속해야 합니다.\n"
+
+  HNZ_year_4_generals_priority: "§3년 4§! 새로운 군 지휘부 수립"
+  HNZ_year_4_generals_priority_desc: "구시대적인 지휘 구조를 타파하고 승리를 보장할 수 있는 유능한 장성들을 전면에 배치하십시오."
+  HNZ_agenda_generals_priority: "§C의제§!를 완수하려면, 우리의 군 작전 사령부를 현대화하고 확장해야 합니다.\n"
+
+  HNZ_year_4_containment_priority: "§3년 4§! 위협 억제 우선순위"
+  HNZ_year_4_containment_priority_desc: "붉은 라인과 제국의 확장은 우리에게 직접적인 위협이 됩니다. 이들이 선을 넘지 못하도록 철저히 봉쇄해야 합니다."
+  HNZ_agenda_containment_priority: "§C의제§!를 완료하려면, 붉은 라인과 제국의 세력 팽창을 효과적으로 억제해야 합니다.\n"
+
+  HNZ_year_4_puppet_priority: "§3년 4§! 영향력 확대 우선순위"
+  HNZ_year_4_puppet_priority_desc: "직접적인 정복보다 경제적인 지배가 더 효율적일 때가 있습니다. 주변 세력들을 우리의 영향력 아래에 두십시오."
+  HNZ_agenda_puppet_priority: "§C의제§!를 완수하려면, 주변 정거장들에 대한 우리의 지배력을 높여 한자의 꼭두각시로 만들어야 합니다.\n"
+
+  HNZ_year_4_industry_priority: "§3년 4§! 산업 생산 극대화"
+  HNZ_year_4_industry_priority_desc: "한자의 진정한 힘은 쉼 없이 돌아가는 작업장에서 나옵니다. 그 어떤 세력도 따라올 수 없는 생산력을 확보하십시오."
+  HNZ_agenda_industry_priority: "§C의제§!를 완수하려면, 메트로 최강의 산업 생산력을 입증해야 합니다.\n"
+
+  HNZ_year_5_hegemony_priority: "§4년 5§! 메트로 연맹 확장"
+  HNZ_year_5_hegemony_priority_desc: "우리의 리그는 더욱 넓어져야 합니다. 더 많은 정거장들을 한자의 깃발 아래로 불러들이십시오."
+  HNZ_agenda_hegemony_priority: "§C의제§!를 완수하려면, 새로운 정거장들을 우리 연맹의 정식 회원으로 가입시켜야 합니다.\n"
+
+  HNZ_year_5_expansion_priority: "§4년 5§! 외곽 확장 우선순위"
+  HNZ_year_5_expansion_priority_desc: "이미 확보된 구역에 만족해선 안 됩니다. 외곽 정거장들을 공화국 체제에 편입시키십시오."
+  HNZ_agenda_expansion_priority: "§C의제§!를 완수하려면, 주요 외곽 거점들을 우리 통제하에 두어야 합니다.\n"
+
+  HNZ_year_5_coalition_priority: "§4년 5§! 반대연합 부활"
+  HNZ_year_5_coalition_priority_desc: "적색의 위협이 다시 고개를 들고 있습니다. 과거의 반공 동맹을 부활시켜 메트로의 질서를 수호하십시오."
+  HNZ_agenda_coalition_priority: "§C의제§!를 완수하려면, 과거의 우방들과 협력하여 강력한 반공 연합을 결성해야 합니다.\n"
+
+  HNZ_year_6: "§5년 6§! 2034년..." 
+  HNZ_year_6_desc: "우리는 또 다른 1년을 버텨냈습니다. 2034년은 한자에게 있어 승리의 해가 될 것인가, 아니면 몰락의 시작이 될 것인가..."
+
+  #HNZ_steady_as_she_goes: "현상 유지 정책"
+  #HNZ_steady_as_she_goes_desc: ""
+  #HNZ_steady_as_she_goes_1: "양가적인 태도..."
+  #HNZ_steady_as_she_goes_1_desc: "한자는 극단적인 경제력을 공고히 하기 위해 모호한 외교 정책을 선택했습니다. 경제 제재는 우리가 전쟁을 수행하는 핵심 도구입니다."
+  #HNZ_steady_as_she_goes_5: "...오로지 이름뿐인"
+  #HNZ_steady_as_she_goes_5_desc: "하지만 때로는 한자도 직접 나서서 위협을 제거해야 할 때가 있습니다."
+  #HNZ_steady_as_she_goes_6: "...그리고 무자비하게"
+  #HNZ_steady_as_she_goes_6_desc: "혹은 우리의 권위를 위협하는 모든 문제를 신속하게 잠재우기 위해서 말입니다."
+  #HNZ_steady_as_she_goes_2: "군 재무장 기금"
+  #HNZ_steady_as_she_goes_2_desc: ""
+  #HNZ_steady_as_she_goes_2A: "자유의 총구"
+  #HNZ_steady_as_she_goes_2A_desc: ""
+  ### Military ###
+
+  HNZ_armed_forces_1: "환상선 방위군"
+  HNZ_armed_forces_1_desc: "한자를 지탱하는 무력의 핵심입니다. 우리의 금고만큼이나 견고한 군대를 조직해야 합니다."
+  HNZ_armed_forces_2: "소총병 장비 표준화"
+  HNZ_armed_forces_2_desc: "조잡한 급조 총기들을 밀어내고, 모든 보병들에게 표준화된 고성능 화기를 보급하십시오."
+  HNZ_armed_forces_3: "지원국 장비 임대"
+  HNZ_armed_forces_4: "긴급 동원령"
+  HNZ_armed_forces_4_desc: "비상 상황 발생 시, 한자의 모든 자원과 인력을 군수 체제로 즉각 전환할 수 있도록 준비하십시오."
+  HNZ_armed_forces_5: "초과 무기 비축"
+  HNZ_armed_forces_5_desc: "생산된 무기들을 체계적으로 보관하여 장기전에 대비한 예비 물자를 확보하십시오."
+  HNZ_armed_forces_6: "장비 현대화 투자"
+  HNZ_armed_forces_6_desc: "병사들의 생존율과 전투 효율을 높이기 위해 최신 전술 장비 개발에 아낌없이 투자하십시오."
+  HNZ_armed_forces_7: "고용된 스토커들"
+  HNZ_armed_forces_7_desc: "숙련된 스토커들을 용병으로 고용하여 정규군이 수행하기 힘든 지상 작전을 맡기십시오."
+  HNZ_armed_forces_8: "상비군 정규화"
+  HNZ_armed_forces_8_desc: "민병대 수준의 조직을 탈피하여 고도의 훈련을 받은 상비군 체제를 확립하십시오."
+  HNZ_armed_forces_9: "생산력 중심주의"
+  HNZ_armed_forces_9_desc: "군사력의 척도는 곧 공방의 생산 능력에서 결정됩니다."
+  HNZ_armed_forces_10: "총력 생산 체제"
+  HNZ_armed_forces_10_desc: "모든 공업 역량을 군수품 생산에 집중시켜 압도적인 물량을 확보하십시오."
+  HNZ_armed_forces_11: "메트로의 수호자"
+  HNZ_armed_forces_11_desc: "한자의 군대가 메트로 전역에 존재감을 드러내어 평화를 강제하도록 하십시오."
+  HNZ_armed_forces_12: "군사 전문성 강화"
+  HNZ_armed_forces_12_desc: "장교단의 교육과 훈련 수준을 끌어올려 메트로 최정예의 지휘부를 육성하십시오."
+  HNZ_armed_forces_13: "압도적인 저지력"
+  HNZ_armed_forces_13_desc: "적들이 결코 넘볼 수 없는 강력한 무력을 과시하여 분쟁을 사전에 차단하십시오."
+  HNZ_motorization_effort_1: "궤도 순찰 부대 수립"
+  HNZ_motorization_effort_1_desc: "빠른 기동력을 갖춘 순찰대를 조직하여 터널 내의 돌발 상황에 즉각 대응하십시오."
+  HNZ_establish_OVMSB: "OVMSB 창설"
+  HNZ_establish_OVMSB_desc: "OVMSB(독립 고속 타격 부대)를 조직하십시오. 이 최정예 충격 부대는 고성능 철도 차량을 활용하여 그 유능함을 전장에서 이미 증명해 보였습니다."
+  HNZ_motorization_effort_3: "기계화 추진"
+  HNZ_motorization_effort_3_desc: "보병의 이동 효율을 높이기 위해 모든 전선에 전동 차량을 도입하십시오."
+  HNZ_motorization_effort_4: "보급 차량 수리"
+  HNZ_motorization_effort_4_desc: "노후화된 수송 차량들을 수리하여 보급선의 혈액 순환을 원활하게 하십시오."
+  HNZ_motorization_effort_5: "수도 방어선 구축"
+  HNZ_motorization_effort_5_desc: "동맹의 심장부를 지키기 위해 요새화된 방어 거점들을 강화하십시오."
+  HNZ_motorization_effort_6: "제13 충격대대 창설"
+  HNZ_motorization_effort_6_desc: "적의 방어선을 돌파할 수 있는 강력한 중화기로 무장한 전문 타격대를 구성하십시오."
+  HNZ_motorization_effort_7: "강철의 방벽"
+  HNZ_motorization_effort_7_desc: "궤도 장갑차량들로 난공불락의 차단선을 형성하여 한자의 영토를 수호하십시오."
+  HNZ_prepatory_department: "군비 준비처 설립"
+  HNZ_prepatory_department_desc: "전쟁 발생 가능성을 분석하고 원활한 군수 동원을 전담할 기관을 세우십시오."
+  HNZ_encourage_inter_cooperation: "군관 협력 강화"
+  HNZ_encourage_inter_cooperation_desc: "민간 경제와 군 지휘부 사이의 긴밀한 협조를 통해 급진적인 군사력 증강을 추진하십시오."
+  HNZ_preparedness_3: "재무장 계획"
+  HNZ_preparedness_3_desc: "장기적인 안정과 안보를 위해 체계적인 재무장 계획을 수립하고 실행해야 합니다."
+  HNZ_invisible_observer_bunker: "보안 구역 GO-42 재건"
+  HNZ_invisible_observer_bunker_desc: "타간스카야 인근의 GO-42 지하 통제소는 제2차 세계대전 당시부터 건설된 삼엄한 벙커입니다. 이곳을 복구하여 우리의 작전을 은밀하게 통제할 거점으로 삼으십시오."
+  HNZ_invisible_observer_bunker_2: "타간스카야 직할 통제"
+  HNZ_invisible_observer_bunker_2_desc: "GO-42 벙커와 타간스카야 역 사이의 직접적인 통신망을 구축하여, 수도에서 메트로 전역의 행정력을 투사하십시오."
+  HNZ_state_457_national_spirit: "§Y국가 정신(National Spirit)§!은 [457.GetName]이 패배할 경우 제거됩니다.\n\n"
+  HNZ_invisible_observer_bunker_3: "메트로의 진정한 권좌"
+  HNZ_invisible_observer_bunker_3_desc: "보이지 않는 곳에서 메트로의 운명을 결정하는 진정한 권력의 자리를 확고히 하십시오."
+  HNZ_war_prep_1: "전시 민간 자원 징발법"
+  HNZ_war_prep_1_desc: "전쟁 발생 시 민간의 자원을 효율적으로 동원하기 위한 법적 근거를 마련하십시오."
+  HNZ_CP_1: "통합 사령부 체계"
+  HNZ_CP_1_desc: "분산된 지휘 체계를 하나로 묶어 효율적인 작전 수행 능력을 확보하십시오."
+  HNZ_war_planning_4: "전문직 장교단"
+  HNZ_war_planning_4_desc: "단순한 병사가 아닌, 고도의 전략적 사고가 가능한 전문 장교단을 육성하십시오."
+  HNZ_war_planning_5: "외국인 보조 부대"
+  HNZ_war_planning_5_desc: "말은 통하지 않더라도 싸움에는 일가견이 있는 외국인 용병들을 부대에 편입시키십시오."
+  HNZ_war_planning_6: "통신 네트워크 확장"
+  HNZ_war_planning_6_desc: "터널 구석구석까지 닿는 통신망은 전쟁터의 안개를 걷어내는 가장 강력한 무기가 될 것입니다."
+  HNZ_war_planning_7: "예방 조치 위원회"
+  HNZ_war_planning_7_desc: "위협이 실체화되기 전에 미리 차단하고 대처할 수 있는 전담 위원회를 구성하십시오."
+  HNZ_war_planning_8: "체계적인 중앙 지휘"
+  HNZ_war_planning_8_desc: "중앙화된 지휘 체계는 혼란스러운 터널 전투에서 승리를 거머쥐는 열쇠가 될 것입니다."
+  HNZ_doctrine_1: "구시대 전술의 계승"
+  HNZ_doctrine_1_desc: "과거 러시아 군대의 찬란한 군사 전술을 연구하고 메트로의 환경에 맞게 계승하십시오."
+  HNZ_doctrine_2: "적극적인 공세 전술"
+  HNZ_doctrine_2_desc: "방어에만 급급하지 않고, 선제 타격을 통해 주도권을 쥐는 공격 지향적인 전술을 도입하십시오."
+  HNZ_doctrine_3: "디 오더와의 협력"
+  HNZ_doctrine_3_desc: "메트로 최고의 전사 집단인 디 오더(The Order)의 레인저들을 지원하고 그들의 전술 노하우를 공유받으십시오."
+  HNZ_doctrine_4: "소모적 방어 체계"
+  HNZ_doctrine_4_desc: "적들의 진격을 늦추고 끊임없는 소모전을 강요하여 그들의 야욕을 꺾어버리십시오."
+  HNZ_doctrine_5: "철벽의 방어 저지선"
+  HNZ_doctrine_5_desc: "그 어떤 적도 뚫을 수 없는 불투과성의 방어벽을 형성하여 한자의 영토를 수호하십시오."
+  HNZ_war_plans: "전쟁 계획국 수립"
+  HNZ_war_plans_desc: "미래의 위협에 기민하게 대응하기 위해, 한자의 안팎에서 발생할 수 있는 모든 잠재적 적대 세력에 맞서 싸울 전담 부서를 설립해야 합니다. 평화는 철저한 준비 위에서만 유지됩니다."
+  HNZ_war_plans_tt: "한자동맹이 마주할 수 있는 위험 요소들에 대응할 수 있는 §Y표적 결정(Targeted Decisions)§!을 해제합니다."
+  HNZ_war_plans_from_witin: "내부의 적들"
+  HNZ_전쟁 계획_Within_설명: "우리 내부에 도사린 불순 세력과 반체제 인사들을 색출하고 제거하기 위한 계획을 수립하십시오."
+  HNZ_war_plans_from_within_tt: "한자 국가 내부에 존재하는 세력과의 §R전쟁§!을 준비합니다.\n\n"
+  HNZ_war_plans_from_without_tt: "환상선 외부의 국가와 §R전쟁§! 중일 때 얻는 이점입니다.\n\n"
+  HNZ_war_plans_from_without: "링 라인 너머의 적들"
+  HNZ_전쟁계획_외부설명: "환상선 경계 밖에서 침입을 노리는 외부 세력들을 억제하고 격퇴할 방안을 모색하십시오."
+  HNZ_general_foreign_mercenary: "외국인 전문가 초빙"
+  HNZ_general_foreign_mercenary_desc: "우리는 군사 이사회에 '루터 데 브리스'를 초빙할 수 있습니다. 전 세계의 수많은 전장을 누빈 그는 전쟁의 본질을 누구보다 깊이 꿰뚫고 있는 인물입니다."
+  HNZ_general_russian_badass: "러시아의 맹장 초빙"
+  HNZ_general_russian_badass_desc: "우리는 군사 이사회에 '빅토로비치 보흐카레프'를 초빙할 수 있습니다. 러시아의 불굴의 기개를 상징하는 그는 수많은 승전보를 통해 병사들에게 승리의 확신을 심어줄 것입니다."
+  HNZ_general_grizzled_veteran: "노련한 노병 초빙"
+  HNZ_general_grizzled_veteran_desc: "우리는 군사 이사회에 '세르게이 야스노프'를 초빙할 수 있습니다. 한자-적색선 전쟁 이전부터 산전수전을 다 겪은 그의 지혜는 우리 군의 든든한 버팀목이 될 것입니다."
+  HNZ_if_grizzled_veteran_focus: "군 사령관이 §Y세르게이 야스노프§!인 경우:"
+  HNZ_if_russian_badass_focus: "군 사령관이 §Y빅토로비치 보흐카레프§!인 경우:"
+  HNZ_if_foreign_mercenary_focus: "군 사령관이 §Y루터 데 브리스§!인 경우:"
+  HNZ_army_general_1: "정예 장교단 육성"
+  HNZ_army_general_1_desc: "능력 있는 장교들이 군의 중추를 담당할 수 있도록 체계적인 육성 환경을 조성하십시오."
+  HNZ_army_general_1_tt: "우리의 §Y군사력 강화 방향§!을 결정할 수 있게 해줍니다."
+  HNZ_army_centralization: "명령 체계 중앙화"
+  HNZ_army_centralization_desc: "분산된 군 지휘권을 중앙으로 집중시켜 일사불란한 지휘 통제 능력을 확보하십시오."
+  HNZ_centralization_army_tt: "§Y군사 중앙화(Army Centralization)§! 징집법을 해제합니다.\n\n"
+  HNZ_army_centralization_branch: "§Y군사 중앙화§! 경로를 선택했습니다.\n\n"
+  HNZ_mercenary_army_branch: "§Y용병 군대§! 경로를 선택했습니다.\n\n"
+  HNZ_mercenary_army: "용병 계약 군대"
+  HNZ_mercenary_army_desc: "막대한 총알을 미끼로 메트로 전역의 실력 있는 용병들을 한자의 깃발 아래로 불러모으십시오."
+  HNZ_mercenary_army_tt: "한자 동맹의 §Y용병 모집§! 법률을 해제합니다."
+  HNZ_army_centralization_2: "일상적 군사 훈련"
+  HNZ_army_centralization_2_desc: "군기가 바짝 든 상비군을 기르기 위해 매일같이 고된 훈련을 실시하십시오."
+  HNZ_army_centralization_2_tt: "보유 장비가 §Y보병 장비 600개§! 이상이어야 합니다.\n\n"
+  HNZ_army_centralization_3: "강군 육성 체계"
+  HNZ_army_centralization_3_desc: "훈련을 마친 병사들을 실전 기반의 고도화된 전문 군인으로 탈바꿈시키십시오."
+  HNZ_army_centralization_3_tt: "보유 장비가 §Y보병 장비 1000개§! 이상이어야 합니다.\n\n"
+  HNZ_mercenary_army_2: "한자의 용병 대장"
+  HNZ_mercenary_army_2_desc: "유능한 용병 대장들에게 더 큰 권한을 부여하고 그들의 충성심을 경제력으로 매수하십시오."
+  HNZ_mercenary_army_3: "전쟁터의 부나방들"
+  HNZ_mercenary_army_3_desc: "전쟁이 있는 곳엔 돈, 즉 총알이 있습니다. 그리고 한자의 막대한 총알을 쫓아 숙련된 칼잡이들이 모일 것입니다."
+  HNZ_grand_army_of_the_league: "동맹 대육군"
+  HNZ_리그 대군의 설명: "분산된 모든 무력을 하나로 묶어 메트로 최대 규모의 강력한 대군을 창설하십시오."
+
+  HNZ_establish_war_committee: "전쟁 위원회 수립"
+  HNZ_establish_war_committee_desc: "한자-적색선 전쟁 당시의 효율적이었던 전쟁 위원회 체제를 부활시키십시오. 점점 고조되는 메트로의 긴장감 속에서, 각부 인사들을 소집해 빈틈없는 전략을 수립해야 합니다."
+  HNZ_general_grizzled_veteran_oob: "노병의 귀환"
+  HNZ_general_grizzled_veteran_oob_desc: "세르게이 야스노프가 과거 전우들을 다시 불러 모으고 있습니다. 신병들의 패기도 좋지만, 전장의 피 냄새를 기억하는 노련한 이들의 경험이야말로 지금 가장 절실한 자산입니다."
+
+  HNZ_grizzled_better_arms: "장비의 질적 향상"
+  HNZ_grizzled_better_arms_desc: "병사의 실력은 곧 무기의 신뢰성에서 나옵니다. 조잡한 사제 무기들을 폐기하고 정교하게 개량된 최신 화기들을 지급하여 전투 효율을 높이십시오."
+
+  HNZ_grizzled_not_another_bloodbath: "비극의 교훈"
+  HNZ_grizzled_not_another_bloodbath_desc: "지난 전쟁은 살육이나 다름없었습니다. 야스노프는 수많은 전우를 잃었던 끔찍한 기억을 가슴에 묻은 채, 다시는 메트로가 그런 지옥으로 변하지 않도록 신중하게 군을 이끌 것입니다."
+
+  HNZ_general_conscription_reforms: "징집 제도 개혁"
+  HNZ_general_conscription_reforms_desc: "우리는 붉은 라인이 아닙니다. 아무나 붙잡아 총을 쥐여주고 전선으로 밀어넣는 야만적인 짓은 하지 않습니다. 우리는 오직 자격을 갖춘 이들만을 선별하여 훈련시킬 것입니다."
+
+  HNZ_an_elite_army: "연맹의 최정예군"
+  HNZ_an_elite_army_desc: "메트로 최강의 경제력이 낳은 정예 군대입니다. 철저한 훈련과 정교한 장비로 무장한 이들은 폴리스의 카샤트리아나 스파르탄 조차 경계해야 할 수준의 전투력을 발휘할 것입니다."
+
+  HNZ_general_foreign_mercenary_oob: "외국인 용병 모집"
+  HNZ_general_foreign_mercenary_oob_desc: "데 브리스는 먼저 메트로 곳곳에서 활동 중인 용병단들을 포섭할 것입니다. 그의 인맥은 지상의 유럽 연합 생존자들에게까지 뻗어 있으며, 메트로의 러시아어를 이해하진 못해도 살생에는 누구보다 능숙한 전문가들을 데려올 것입니다."
+
+  HNZ_mercenary_war_never_changes: "전쟁은 변하지 않는다"
+  HNZ_mercenary_war_never_changes_desc: "데 브리스는 전쟁의 속성이 변하지 않는다는 사실을 잘 알고 있습니다. 아프리카의 정글에서든 이라크의 사막에서든, 전쟁은 결국 지략과 의지의 싸움입니다. 그에게 이데올로기는 중요치 않습니다. 오직 계약과 보상만이 있을 뿐입니다."
+
+  HNZ_lessons_from_conflict: "역사에서 배우는 전략"
+  HNZ_lessons_from_conflict_desc: "과거의 수많은 충돌은 우리에게 뼈아픈 교훈을 남겼습니다. 승리의 무용담 뒤에 숨겨진 희생의 대가를 잊지 말고, 더욱 정교한 전략을 구축해야 합니다."
+
+  HNZ_planning_first: "계획 우선주의"
+  HNZ_planning_first_desc: "충분한 계획과 정교한 전술이 뒷받침되지 않은 공격은 학살로 끝날 뿐입니다. 모든 작전의 시작은 치밀한 계획이어야 합니다."
+
+  HNZ_planning_military_advisor_3: "터널 전문가"
+  HNZ_planning_military_advisor_3_desc: "메트로의 복잡하고 어두운 터널 구조를 꿰뚫고 있는 이들입니다. 마치 육감이 발달한 것처럼 비밀 통로와 보급로를 순식간에 찾아내어 적의 허를 찌를 것입니다."
+
+  HNZ_planning_military_advisor_2: "어둠의 병사"
+  HNZ_planning_military_advisor_2_desc: "메트로의 어두운 곳은 항상 영원한 어둠에 빠져있다. 여우나 새처럼 그는 공허를 뚫고 적을 발견할 수 있다."
+
+  HNZ_planning_military_advisor_1: "전략가"
+  HNZ_planning_military_advisor_1_desc: "미세한 계획을 세우는 엄격한 전략가. 메트로 깊숙이 있는 물류의 복잡성을 고려하여 순간적으로상세한 전투 계획을 수립할 수 있다."
+
+  HNZ_logistics_first: "물류보다 모든 것"
+  HNZ_logistics_first_desc: "물류를 우선하고 그 위에 전쟁 전략을 수립하는 것."
+
+  HNZ_logistics_military_advisor_3: "더 커맨트란트"
+  HNZ_logistics_military_advisor_3_desc: "레히의 전임 사령관으로, Fuhrer와 타인들이 대위에 합류한 것에 대한 불만을 품고 퇴출되었다. 2027년 후반 Fuhrer가 권력을 잡은 후 한자동맹 영토로 도망쳤다. 충분한 전투력으로 증명되었다."
+
+  HNZ_logistics_military_advisor_2: "겨울 용사"
+  HNZ_logistics_military_advisor_2_desc: "혹한의 지상 환경에서도 부대를 유지하고 작전을 수행할 수 있는 역량을 가졌습니다. 추위가 적이 아닌 우리의 동맹이 되게 하십시오."
+
+  HNZ_logistics_military_advisor_1: "이단아 전술가"
+  HNZ_logistics_military_advisor_1_desc: "기존의 정형화된 틀을 깨는 비전통적인 전술을 구사합니다. 적들이 우리의 다음 행보를 예상조차 할 수 없도록 변칙적인 타격을 입히십시오."
+
+  HNZ_planning_general_boost: "대규모 공세 기획"
+  HNZ_planning_general_boost_desc: "계획이 곧 승리입니다. 치밀한 준비가 선행되지 않은 대규모 공세는 자살 행위나 다름없음을 명심하십시오."
+
+  HNZ_logistics_general_boost: "메트로 물류 전략"
+  HNZ_logistics_general_boost_desc: "메트로에서의 전쟁은 절반이 전투라면 나머지 절반은 보급입니다. 장비와 물자가 적시에 전선에 도달할 수 있도록 체계적인 보급망을 구축하십시오."
+
+ ### The Reclamation Bureau ###
+
+  HNZ_establish_reclamation_bureau: "지구 재건청 설립"
+  HNZ_establish_reclamation_bureau_desc: "환상선 내부조차 아직 지도로 만들어지지 않은 미탐사 구역이 많습니다. 이 구역들을 체계적으로 탐색하고, 잔해를 치우며 운송 네트워크를 개선할 '지구 재건청'을 설립하는 것이 연맹의 전략적 이익에 부합합니다."
+
+  HNZ_reclamation_train_technicians: "기술자 육성 센터"
+  HNZ_reclamation_train_technicians_desc: "메트로의 미래를 이끌어갈 차세대 기술 인력들을 선발하고 교육하여 산업 역량을 강화하십시오."
+
+  HNZ_reclamation_clearing_tunnels: "터널 정화 작업"
+  HNZ_reclamation_clearing_tunnels_desc: "주요 간선의 돌연변이 둥지와 방치된 쓰레기들을 치워내십시오. 무역 카라반과 군대가 안전하게 통과할 수 있는 청정 지대를 확보해야 합니다."
+
+  HNZ_reclamation_organise_workforce: "노동력 효율화"
+  HNZ_reclamation_organise_workforce_desc: "한정된 노동력을 가장 시급한 재건 사업에 우선적으로 배치할 수 있도록 조직 구조를 개편하십시오."
+
+  HNZ_reclamation_engineering_academy: "재건 공학 아카데미"
+  HNZ_reclamation_engineering_academy_desc: "구세계의 공학 기술을 보존하고 메트로의 열악한 환경에 맞게 응용할 수 있는 최고급 엔지니어들을 양성하십시오."
+
+  HNZ_engineering_academy_2: "수거 길드 조직"
+  HNZ_engineering_academy_2_desc: "연맹 내의 다양한 자원 수거 조직들을 통합 관리하십시오. 스토커들이 가져오는 폐기물들이 낭비 없이 핵심 산업으로 흘러가게 해야 합니다."
+
+  HNZ_engineering_academy_1: "거주 구역 설계 표준화"
+  HNZ_engineering_academy_1_desc: "좁고 한정된 지하 공간에 거주지, 농경지, 보호 시설을 효율적으로 배치하기 위한 설계 표준을 확립하십시오."
+
+  HNZ_engineering_academy: "중화기 지원 체계"
+  HNZ_engineering_academy_desc: "간단한 보병 화기만으로는 한계를 마주할 것입니다. 기술력을 총동원하여 군의 화력을 극대화할 수 있는 특수 지원 팀을 구성하십시오."
+
+  HNZ_engineering_academy_5: "총기 개량 사업"
+  HNZ_engineering_academy_5_desc: "조잡한 총기 대신, 한자의 경제력을 상징하는 정밀하고 강력한 무기들을 생산하십시오. 우리의 무기가 곧 우리의 부를 대변할 것입니다."
+
+  HNZ_reclamation_engineering_chemicals: "화학 연구소"
+  HNZ_reclamation_engineering_chemicals_desc: "군수품 생산과 터널 유지 보수에 필수적인 화학 약품들을 자체적으로 합성하고 생산할 수 있는 능력을 확보하십시오."
+
+  HNZ_engineering_academy_4: "합성 가솔린 개발"
+  HNZ_engineering_academy_4_desc: "메트로에서 화석 연료는 사라져가는 자원입니다. 경제와 군대의 기동력을 유지하기 위해 대체 연료를 합성하거나 효율적으로 회수할 방안을 찾아야 합니다."
+
+  HNZ_reclamation_bureau_2_civilian: "민간 산업 지원금"
+  HNZ_reclamation_bureau_2_civilian_desc: "연맹의 핵심 산업체들이 경쟁력을 유지하고 성장할 수 있도록 전략적인 자금 지원을 아끼지 마십시오."
+
+  HNZ_reclamation_bureau_2_civilian_2: "운송단 간부직 창설"
+  HNZ_reclamation_bureau_2_civilian_2_desc: "전국적인 운송망을 관리할 전문 관리직들을 선발하여, 물류가 정체되지 않고 빠르게 흐르도록 관리하십시오."
+
+  HNZ_reclamation_bureau_2_military: "다음 충돌에 대비"
+  HNZ_reclamation_bureau_2_military_desc: "평화의 수명은 그 누구도 알 수 없습니다. 전쟁이 내일 터질지 5년 뒤일지 모르기에, 우리는 항상 검을 갈아두어야 합니다."
+
+  HNZ_reclamation_bureau_2_military_2: "전략 자원 비축"
+  HNZ_reclamation_bureau_2_military_2_desc: "대규모 분쟁 발생 시 무기 생산이 중단되지 않도록 필수 자재와 물자들을 안전하게 비축해 두십시오."
+
+  HNZ_reclamation_bureau_2_civilian_3: "통합 예술인 평의회"
+  HNZ_reclamation_bureau_2_civilian_3_desc: "시민들의 정서적 안정을 꾀하고 한자의 문화적 우월성을 과시하기 위해 예술 단체들을 지원하고 통합 관리하십시오."
+
+  HNZ_reclamation_bureau_2_military_3: "군비 산업 확장"
+  HNZ_reclamation_bureau_2_military_3_desc: "미래의 세력 확장에 걸맞은 무기 생산 능력을 확보하기 위해 군수 공장들을 대대적으로 증설하십시오."
+
+  HNZ_reclamation_bureau_2_improve: "재건청 확장"
+  HNZ_reclamation_bureau_2_improve_desc: "연맹의 성장에 발맞추어 재건청의 인원과 규모를 늘려 더 거대한 사업들을 추진하십시오."
+
+  HNZ_reclamation_bureau_2_research_slot: "연구 개발 가속"
+  HNZ_reclamation_bureau_2_research_slot_desc: "우리가 폴리스의 실험실만큼 정교하진 않을지 몰라도, 한자의 자금력이라면 그들에 준하는 성과를 낼 수 있을 것입니다."
+
+  HNZ_reclamation_repair_rail_carts: "궤도 트롤리 수리"
+  HNZ_reclamation_repair_rail_carts_desc: "방치된 궤도 트롤리들을 수거하고 개조하십시오. 약간의 장갑판과 중기관총만 더해진다면 훌륭한 이동식 요새로 거듭날 수 있습니다."
+
+  HNZ_reclamation_railcart_2: "전투 드레진 조립"
+  HNZ_reclamation_railcart_2_desc: "평범한 드레진에 두꺼운 장갑과 DShK 기관총을 장착하여 적의 방어선을 분쇄할 강력한 전투 수단으로 탈바꿈하십시오."
+
+  HNZ_reclamation_railcart_3: "철도 유물 회수"
+  HNZ_reclamation_railcart_3_desc: "메트로 곳곳의 버려진 보관소에서 회수할 수 있는 철도 자재들을 긁어모으십시오. 고철 더미 속에서도 쓸만한 유물들이 여전히 남아 있습니다."
+
+  HNZ_reclamation_railcart_1: "신속 전개 부대"
+  HNZ_reclamation_railcart_1_desc: "역사가 우리에게 가르쳐 주는 교훈은, 적을 저지하기 위해 군대를 신속하게 배치하고 이동시키는 것이 승리의 핵심이라는 것입니다. 지난 대전쟁 당시 한자 동맹군은 종종 기동력 부족으로 발이 묶이곤 했습니다. 이제는 더 빠른 이동과 정찰 능력을 확보해야 합니다."
+
+  HNZ_reclamation_railcart_4: "강철의 전쟁 기계"
+  HNZ_reclamation_railcart_4_desc: "과거의 군대는 대규모로 동원되어 기차와 자동차로 수송되었습니다. 하지만 오늘날 수많은 이들은 군화조차 제대로 신지 못하며, 제대로 된 운송 수단은 꿈도 꾸지 못합니다. 오직 메트로에서 가장 부유하고 강력한 한자만이 이런 위협적인 기갑군을 유지할 수 있습니다."
+
+  HNZ_reclamation_rail_carts_boost: "트롤리 개량 기술"
+  HNZ_reclamation_rail_carts_boost_desc: "회수된 수많은 매뉴얼과 기술 문서들은 레일 트롤리를 수리하고 그 성능을 비약적으로 향상시킬 방법을 제시해 줍니다."
+
+  HNZ_reclamation_railcart_5: "철도의 고동"
+  HNZ_reclamation_railcart_5_desc: "터널 속을 가로지르던 거대한 열차의 고동을 기억하는 이들은 이제 얼마 남지 않았습니다. 하지만 방치된 무인 차량들은 이제 우리의 손을 거쳐 새로운 목적을 위해 다시 달릴 준비를 마쳤습니다."
+
+  HNZ_reclamation_railcart_34: "바우만-한자동맹 기술 협정"
+  HNZ_reclamation_railcart_34_desc: "바우만 연합은 때로 냉담해 보일 정도로 기술에 집착하는 이들의 동맹이며, 정교한 기계를 복구하고 수리하는 데 타의 추종을 불허합니다. 우리가 자원과 보안을 보장해 주는 대가로, 그들은 우리의 레일 드레진들을 군사적 용도에 맞게 개량해 줄 것입니다."
+  HNZ_baumansky_joint_trade: "우리는 §Y[BAU.GetFlag][BAU.GetName]§!의 기술 지원을 통해 §Y장비 생산성§!을 향상시켰습니다."
+
+  HNZ_reclamation_railcart_36: "긴밀한 협력"
+  HNZ_reclamation_railcart_36_desc: "바우만 연합은 한자의 영향력 아래 있는 프로스펙트 미라 정부와 더욱 긴밀한 관계를 유지하고 있습니다. 보수적인 구세대 지도자들은 이에 불만을 품고 분노를 삭이지만, 젊은 기술자들은 연맹과의 협력을 열렬히 환영하고 있습니다."
+  HNZ_amble_crops: "작물 생산 다양화"
+  HNZ_amble_crops_desc: "구시대의 농경은 수천 년 전 인류가 사냥꾼에서 정착 농민으로 탈바꿈하게 만든 혁명이었습니다. 하지만 태양광이 차단된 메트로에서 작물 재배는 매우 어려운 과제입니다. 버려진 터널에서 인공 조명과 화학 비료 아래 성장한 빈약한 작물들의 생산량을 늘리기 위한 연구가 절실합니다."
+
+  HNZ_reclamation_electric_cables: "환상선 전기화 사업"
+  HNZ_reclamation_electric_cables_desc: "터널을 따라 연맹의 모든 역을 잇는 전력망을 구축하십시오. 환한 전깃빛은 시민들에게 안도감을 줄 뿐만 아니라, 공장의 기계들을 가동해 생산력을 비약적으로 높여줄 것입니다."
+
+  HNZ_reclamation_tools_of_the_trade: "장인의 도구"
+  HNZ_reclamation_tools_of_the_trade_desc: "무기를 단순히 수리하는 단계를 넘어, 고철 더미를 정교한 장비로 탈바꿈시키려면 고도의 정밀 도구들이 필요합니다. 메트로에서 이런 도구들을 찾기란 하늘의 별 따기이며, 이를 소유한 자들은 모두의 질투를 받습니다. 우리가 확보한 도구들을 철저히 관리하십시오."
+
+  HNZ_reclamation_train_stalkers: "정예 스토커 부대"
+  HNZ_reclamation_train_stalkers_desc: "지상은 방사능과 맹렬한 추위, 그리고 알 수 없는 돌연변이들로 가득 찬 지옥입니다. 하지만 그곳은 여전히 우리가 필요로 하는 수많은 구시대의 보물이 잠들어 있는 금광이기도 합니다. 체계적으로 훈련된 중앙 스토커 팀을 구성하여 지상의 자원들을 선점해야 합니다."
+
+  HNZ_reclamation_stalker_combat_training: "스토커 전투 훈련"
+  HNZ_reclamation_stalker_combat_training_desc: "단순히 돌연변이를 피하는 것만으로는 부족합니다. 지상의 위협은 때로 다른 파벌의 경쟁자들로부터 오기도 합니다. 우리의 스토커들은 어떤 위협 상황에서도 자신과 연맹의 자산을 지킬 수 있도록 철저한 전투 교육을 받아야 합니다."
+
+  HNZ_reclamation_call_stalkers_military_duty: "스토커 예비역 소집령"
+  HNZ_reclamation_call_stalkers_military_duty_desc: "메트로에 본격적인 전쟁의 포화가 닥친다면, 거친 지상에서 단련된 스토커들을 일선 부대원으로 소집하여 승기를 잡을 수 있을 것입니다."
+
+  HNZ_reclamation_survey_posts: "자원 탐색 거점"
+  HNZ_reclamation_survey_posts_desc: "자원이 풍부한 구역이나 복구 가능한 장비가 발견된 위치에 탐색 포스트를 설치하십시오. 이를 통해 더 빠르고 효율적으로 자원을 회수할 수 있게 됩니다."
+
+  HNZ_reclamation_stalker_scour_north: "모스크바 북부 수색"
+  HNZ_reclamation_stalker_scour_north_desc: "모스크바 북부 지구는 여전히 불타는 폐허와 위험으로 가득 차 있지만, 용기와 기술을 갖춘 스토커들에게는 그 무엇보다 매력적인 사냥터가 될 것입니다."
+
+  HNZ_reclamation_stalker_scour_south: "모스크바 남부 수색"
+  HNZ_reclamation_stalker_scour_south_desc: "남부 모스크바는 이미 수많은 약탈자의 손을 탔을지도 모르지만, 아직도 깊숙한 지하 창고와 버려진 자택 속에는 진귀한 보석들이 숨겨져 있습니다."
+
+  HNZ_reclamation_stalker_jackpot: "스토커들의 대수확"
+  HNZ_reclamation_stalker_jackpot_desc: "사선을 넘나들며 지상을 수색하던 스토커들이 마침내 연맹의 경제를 한 단계 도약시킬 막대한 규모의 전략 물자를 찾아냈습니다."
+
+  HNZ_renovate_vehicles: "지상 차량 복구"
+  HNZ_renovate_vehicles_desc: "스토커들은 지상에 여전히 수리가 가능할 정도로 양호한 상태의 차량들이 방치되어 있다고 보고했습니다. 이들을 회수하여 연맹의 기술력으로 복구한다면, 운송 능력의 혁명적인 개선을 기대할 수 있습니다."
+
+  HNZ_getting_an_upgrade: "장비 개량 작업"
+  HNZ_getting_an_upgrade_desc: "회수된 지상 차량의 성능 개량 작업이 진행 중입니다. 이를 통해 스토커들이 더 먼 곳까지 탐색하고 더 많은 자원을 안전하게 운송할 수 있게 될 것입니다."
+
+  HNZ_salvage_haul_depot: "구난 수송 거점 구축"
+  HNZ_salvage_haul_depot_desc: "기동 차량들을 활용하여 과거에는 도보로 접근할 수 없었던 원거리 구역까지 자원 수색 범위를 넓히십시오."
+
+  HNZ_burn_tire: "엔진 점화"
+  HNZ_burn_tire_desc: "모든 준비가 끝났습니다. 개량된 차량들의 엔진을 점화하고 한자의 위상을 지상에 떨치십시오!"
+
+ ### Hanseatic Sphere of Influence ###
+
+  HNZ_external_sphere: "연맹 세력권 확장"
+  HNZ_external_sphere_desc: "수많은 역을 통과하는 무역 카라반은 한자의 심장박동과 같습니다. 하지만 이 자유로운 통행권은 동시에 위협적인 인물들의 침투 경로가 될 수도 있습니다. 모든 통행인에게 연맹의 여권과 문서를 요구함으로써, 불순 분자들을 걸러내고 우리 공동체의 안전을 보장해야 합니다."
+  HNZ_passport_projection: "우리는 이웃 역들에 §Y여권 시스템§!을 도입하여 사람들의 유동을 철저히 통제할 것입니다."
+
+  HNZ_redline_stance: "붉은 라인에 대한 입장"
+  HNZ_redline_stance_desc: "강력한 군사 국가인 붉은 라인과는 긴장 관계를 유지해야 합니다. 그들을 잠재적인 위협으로 보고 대응책을 마련하십시오."
+  HNZ_redline_relation_decisions: "우리는 RED.GetFlag ][RED.GetName]§!와 거래하고 처리하는 방법을 결정할 것입니다."
+
+  HNZ_reich_stance: "제4제국에 대한 태도"
+  HNZ_reich_stance_desc: "제4제국의 확장은 연맹의 이익에 반할 수 있습니다. 그들과의 외교적, 군사적 거리를 조절하며 실리를 챙기십시오."
+  HNZ_reich_relation_decisions: "우리는 §Y[RCH.GetFlag][RCH.GetName]§!와 거래하고 잠재적으로 대처하는 방법을 결정할 것입니다"
+
+  HNZ_trade_with_MOB: "모비스 연합과의 무역"
+  HNZ_trade_with_MOB_desc: "칼루즈스코-리즈스카야 선의 모비스(MOB)는 네 개의 역이 뭉친 강력한 무역 집단입니다. 아직 연맹에 직접적인 위협은 아니지만, 그들과의 거래는 우리에게 막대한 이윤을 가져다줄 것입니다. 총알로 우정을 사는 것만큼 확실한 방법은 없으니까요."
+
+  HNZ_old_comrades3: "연맹 영향력 확대"
+  HNZ_old_comrades3_desc: "우리와 우호적인 관계를 맺고 있는 주변 역들이 점점 연맹의 경제 체제에 의존하게 되도록 유도하십시오."
+  HNZ_bind_to_influence: "§Y주변 역들§!이 우리와 §Y긍정적인§! 관계를 맺으면, 점차 §Y[HNZ.GetFlag][HNZ.GetName]§!에 경제적으로 의존하게 될 것입니다."
+
+  HNZ_new_friends: "새로운 우방 지원: [PEC.GetName]"
+  HNZ_new_friends_desc: "PEC와의 동맹을 강화하여 동부 메트로의 거점을 확보하십시오."
+
+  HNZ_new_friends_2: "신규 지원: [KAL.GetName]"
+  HNZ_new_friends_2_desc: "KAL 연합을 지원하여 우리 세력권의 안정을 도모하십시오."
+
+  HNZ_new_friends_3: "동부 기술 인력 확보"
+  HNZ_new_friends_3_desc: "비교적 평온한 메트로 동부 구역에는 [PEC.GetName]과 [KAL.GetName] 같은 독립 세력들이 존재합니다. 이들과의 우호 관계를 유지하며 그들의 기술 인력들을 연맹의 프로젝트로 영입하십시오."
+  HNZ_PEC_KAL_relations_factory: "§Y[PEC.GetFlag][PEC.GetName]§! 또는 §Y[KAL.GetFlag][KAL.GetName]§!과의 관계도가 §Y35§! 이상일 경우, 수도와 우방국 수도에 각각 §Y2§!개의 민간 공장을 건설합니다.\n\n"
+
+  HNZ_unbound_influence: "동부 전선 확보"
+  HNZ_unbound_influence_desc: "동부 메트로는 비교적 안정적이지만, 권력의 공백은 언제나 새로운 갈등을 낳습니다. PEC나 KAL 같은 세력들이 혼란에 빠지기 전에, 연맹의 영향력을 투사하여 이 구역을 안정시키고 우리의 통제 아래 두어야 합니다."
+  HNZ_PEC_KAL_relations_military: "관계도가 §Y40§! 이상이면 군사 공장을 증설하고 해당 국가들을 §Y한자 동맹 연합§!에 초대합니다."
+
+  HNZ_old_comrades: "아르바트 유산과의 유대"
+  HNZ_old_comrades_desc: "아르바트 연합과 한자는 오랜 역사를 공유해 온 형제와 같은 관계입니다. 이 긴밀한 유대를 더욱 공고히 하십시오."
+
+  HNZ_external_sphere_6: "아르바트 연합 민병대 지원"
+  HNZ_external_sphere_6_desc: "형제 역인 아르바트 연합의 치안 유지를 위해 무기와 장비를 지원하십시오."
+
+  HNZ_external_sphere_5: "경제 통합 추진"
+  HNZ_external_sphere_5_desc: "아르바트 연합의 경제를 우리 체제에 완전히 통합하여 시너지 효과를 창출하십시오."
+  ARB_intergrate_economies: "§Y[ARB.GetFlag][ARB.GetName]§!과 §Y[HNZ.GetFlag][HNZ.GetName]§!의 §Y경제 통합§! 방식을 결정합니다."
+
+  HNZ_external_sphere_9: "산업 재지표 설정"
+  HNZ_external_sphere_9_desc: "아르바트의 낙후된 산업 시설을 현대화하고 연맹의 기준에 맞게 재정비하십시오."
+  HNZ_arbat_economic_chief: "우리는 §Y경제 전문가§!들을 §Y[ARB.GetFlag][ARB.GetName]§!로 파견하여 그들의 경제 회복을 지원할 것입니다."
+
+  HNZ_external_sphere_8: "연합 작전 전개"
+  HNZ_external_sphere_8_desc: "경계 지역의 안전을 위해 주변 세력들과의 공동 군사 행동을 조율하십시오."
+
+  HNZ_old_comrades1: "형제의 무장"
+  HNZ_old_comrades1_desc: "아르바트 연합군에게 우리 수준의 현대적 무기를 보급하십시오."
+  HNZ_old_comrade_arbat: "\n만약 §Y[ARB.GetFlag][ARB.GetName]§!이 극도로 불안정해질 경우, 우리는 평화적으로 그들을 §Y[HNZ.GetFlag][HNZ.GetName]§!의 직접적인 영향권 아래 편입시킬 수 있습니다."
+
+  HNZ_reaffirm_polis_state: "폴리스와의 협약 확인"
+  HNZ_reaffirm_polis_state_desc: "폴리스 도서관원들과의 관계는 언제나 우호적이었습니다. 그들의 지식과 우리의 자본이 결합한다면 메트로의 미래를 주도할 수 있을 것입니다."
+
+  HNZ_assistance_to_the_rangers: "메트로 기사단 지원"
+  HNZ_assistance_to_the_rangers_desc: "메트로의 수호자인 기사단(Rangers)을 후원하여 그들이 연맹의 안보에 기여하도록 유도하십시오."
+  
+  HNZ_support_the_VDNKh_commonwealth: "베데엔하 연합 지지"
+  HNZ_support_the_VDNKh_commonwealth_desc: "북부의 베데엔하 연합(VDNKh)은 소중한 협력자입니다. 그들의 안정이 곧 우리의 이익입니다."
+ 
+  HNZ_external_sphere_7: "결속의 무게"
+  HNZ_external_sphere_7_desc: "연맹의 이웃 역들은 지정학적 위치상 우리에게 의존할 수밖에 없습니다. 경제적, 정치적 수단을 동원해 그들을 확실한 우방으로 만드십시오."
+  HNZ_spartan_military_tie: "\n우리는 §Y[SPT.GetFlag][SPT.GetName]§!의 지원 방식을 선택할 수 있습니다. 상호 방위 조약을 체결하거나, 그들로부터 특수부대 훈련 과정을 전수받을 수 있습니다."
+
+  HNZ_old_comrades0: "세바스토폴 연계 유지" 
+  HNZ_old_comrades0_desc: "안보와 무역의 핵심 거점인 세바스토폴 역과의 유대 관계를 강화하십시오."
+
+  HNZ_old_comrades2: "리즈스카야 진출" 
+  HNZ_old_comrades2_desc: "리즈스카야 방면으로의 경제적 영향력 확대를 꾀하십시오."
+
+  HNZ_satanists_trade: "사탄 숭배자들과의 거래"
+  HNZ_satanists_trade_desc: "사탄 숭배자들은 북부 메트로를 배회하는 광신적이고 폭력적인 집단입니다. 그들은 자신들의 의식이 지옥으로 통하는 길을 열어준다고 믿으며 다른 역의 주민들을 노예로 삼아 끝도 없는 터널을 파헤치게 강요합니다. 혐오스럽고 위험한 자들이지만, 그들이 확보한 미지의 연료원은 연맹에 큰 도움이 될 수 있습니다. 실리를 위해 그들과 거래를 트는 것을 고려해 보십시오."
+
+  HNZ_north_trade_diminish: "§Y[SAT.GetFlag][SAT.GetName]§! 및 §Y[SAV.GetFlag][SAV.GetName]§! 양측과 거래할 경우 중점 보상이 §R감소§!합니다.\n\n"
+
+  HNZ_support_savyolovskaya: "사뵤롭스카야 지원"
+  HNZ_support_savyolovskaya_desc: "북부의 사뵤롭스카야 역이 광신도들의 위협으로부터 자생할 수 있도록 물자를 지원하십시오."
+
+  HNZ_scaven_wth: "북부의 돌연변이 위협" 
+  HNZ_scaven_wth_desc: "북부 터널 깊숙한 곳에서 인간이라 부를 수 없는 기괴한 존재들이 목격되고 있습니다. 이 '쥐인간'들에 대한 대응책을 마련해야 합니다."
+
+  HNZ_PVL_1: "파벨레츠카야 지원"
+  HNZ_PVL_1_desc: "파벨레츠카야 역의 주민들은 차단문이 고장 난 탓에 지상으로부터 쏟아져 들어오는 돌연변이들의 위협에 무방비로 노출되어 있습니다. 빈곤과 공포에 찌든 그들에게 연맹의 보호를 약속하고 진입로 경비 병력을 파견하십시오. 또한 기술자들을 보내 차단문을 수리할 수 있습니다."
+
+  HNZ_PVL_2: "파벨레츠카야 합병"
+  HNZ_PVL_2_desc: "보호의 대가로 파벨레츠카야를 연맹의 정식 지부로 편입시켜 체계적인 관리를 시작하십시오."
+
+  HNZ_BRN_1: "브로니 구역 질서 유지"
+  HNZ_BRN_1_desc: "안전 지대 바로 밖의 치안을 안정시켜 연맹으로 유입되는 위협을 사전에 차단하십시오."
+
+  HNZ_BRN_2: "무역 기지 확보"
+  HNZ_BRN_2_desc: "벨로루시야 북동쪽에는 연맹 영토 바로 밖에서 수많은 상인이 모여드는 거대한 무역 기지가 형성되어 있습니다. 이 기지는 연맹 행정부가 눈독을 들일 만큼 막대한 이익을 창출하고 있습니다. 그들에게 연맹의 인프라와 관리를 제공하는 대신 정식 기지로 편입할 것을 제안하십시오."
+
+  HNZ_ULI_1: "1905 연합에 대한 입장" 
+  HNZ_ULI_1_desc: "서쪽의 강자, 1905 연합과의 관계 설정을 명확히 하십시오."
+
+  HNZ_ULI_3: "연합체 재통합"
+  HNZ_ULI_3_desc: "과거 연합의 일원이었던 구역들을 다시 연맹의 깃발 아래 불러모으십시오."
+
+  HNZ_ULI_2: "잔존 세력 흡수"
+  HNZ_ULI_2_desc: "붕괴된 세력의 잔재를 수습하여 연맹의 자산으로 전환하십시오."
+
+  HNZ_organized_mobsters_war: "범죄 조직 소탕"
+  HNZ_organized_mobsters_war_desc: "메트로의 치안을 위협하는 조직범죄 세력에게 연맹의 철퇴를 내리십시오."
+
+  HNZ_organized_mobsters_trade: "경제적 대안 제시"
+  HNZ_organized_mobsters_trade_desc: "범죄보다는 합법적인 무역이 더 큰 이득이 된다는 것을 그들에게 깨닫게 해 주십시오."
+
+  HNZ_organized_mobsters_war2: "중화기 부대 투입"
+  HNZ_organized_mobsters_war2_desc: "소탕 작전을 완결 짓기 위해 레일 판저와 중화기 보병대를 전역에 배치하십시오."

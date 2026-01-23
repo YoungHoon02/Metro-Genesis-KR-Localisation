@@ -1,0 +1,8 @@
+﻿l_korean:
+ autonomy_collaboration_government: "협력 자치 정부"
+ autonomy_hanza_satellite_dependent: "한자 동맹 종속국"
+ autonomy_hanza_satellite_puppet: "한자 동맹 괴뢰국"
+
+ ##DEPRECIATED##
+ autonomy_satellite_independent: "독립 위성국"
+ autonomy_satellite_unincorporated_territory: "미편입 위성 영토"

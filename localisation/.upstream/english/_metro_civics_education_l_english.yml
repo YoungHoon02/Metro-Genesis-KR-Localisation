@@ -1,0 +1,186 @@
+﻿l_english:
+
+ education_cooldown: "Cooldown"
+ education_cooldown_finished: "While this cooldown is in effect, we wont be able to make any further education reforms."
+
+ education_reform_state_cost_reduction_modifier: "Education Reform Timer Reduction"
+ education_practise: "Education Reforms"
+ education_practise_desc: "\n\n\n\n\n\n\nActivating this Decision will start a §YTimed Mission§!. Once the mission timer reaches §Y0§!, we will advance our §YEducation Level§!. The time it will take to complete the §YTimed Mission§! will be modified depending on the amount of §YStates§! we control, our §YPopulation§! or our current §YEducation Level§!. \n\nOnce our reforms have been completed, it will take approximately §Y10 Months§! before we can pursue reforms again"
+
+ is_not_bandit_nation:0 "Not Bandits"
+ not_currently_under_education_reforms:0 "Not Currently Undergoing Education Reforms"
+ not_education_cooldown: "Education Mission Cooldown is in effect"
+
+ education_reform_increase_cost_and_duration_tt:0 "§YCost & Duration§! of Decision will increase incrementally with every usage\n"
+
+ improve_education_normal:0 "Improve Education System"
+ improve_education_normal_desc:0 "It has been made abundantly clear given the state of our station-settlements by the additional implementations of education practises our citizenry will have a much easier time conducting simple normal day-to-day activities. With the added benefit of improving our own R&D conducts as a positive benefit.[metro_education_reforms_cost_tooltip]"
+
+ improve_education_normal_advanced: "Improve Education"
+ improve_education_normal_advanced_desc: "We are on the brink of a scientific revolution. The old world could only dream of what we on the cusp of achieving!"
+
+ improve_education_efforts_mission:0 "Improving Education Efforts"
+ improve_education_efforts_mission_desc:0 "Undertaking comprehensive teaching will be a monumental process. It will take a serious amount of time before we start seeing the fruits of our labour.[metro_education_reforms_cost_tooltip]"
+
+ metro_education_reforms_cost_tooltip: "\n\nCost From Population : §Y[?education_reforms_population_cost_tooltip]§!\nCost From Territory : §Y[?education_reforms_state_cost_tooltip]§!\nCost Modifier : §Yx[?education_reforms_cost_from_modifiers_factor|0..2]§!\nCost Multiplier by tier §Y: x[?education_reform_tier_multiplier]§!\nCost Reduction from States §Y-[modifier@education_reform_state_cost_reduction_modifier]%§!"
+
+ education_efforts_mission_tooltip:0 "\n§gIt will take a considerable amount of time depending on the amount of§! §YStations§! §gwe possess.§!\n"
+
+ education_efforts_mission_completed:0 "\nOnce the Timer reaches §R0§!. We will §YUnlock§! the next §CResearch Tier!§!"
+
+ improve_education_efforts_administrate_station_chiefs:0 "Intergrate planning with Station Chiefs"
+ improve_education_efforts_administrate_station_chiefs_desc:0 "Meeting with our station administrators to formulate and blueprint the procedure of implementing these reforms will take time. Even if they agree with our proposals. Only by respecting local chiefs authority can we properly go ahead with our desired reforms whilst also ennacting our desired changes."
+
+ improve_education_efforts_collect_books:0 "Establish libraries"
+ improve_education_efforts_collect_books_desc:0 "Instead of using books as fuel for our burn barrels and campfires we could instead keep them safely away. Ensuring they're kept in decent conditions away from decomposing elements."
+
+ improve_education_efforts_soapbox:0 "Encourage Citizen Participation"
+ improve_education_efforts_soapbox_desc:0 "As the minusa of day-by-day living takes a more prevalent thought in peoples minds, simple things like writing and reading become less and less commonplace. If we are going to radically change this notion, we'll have to target all facets of our citizenry. Not just within the youth."
+
+ improve_education_efforts_purchase_amenities:0 "Purchase Books"
+ improve_education_efforts_purchase_amenities_desc:0 "As trades come to and from our station peddling their many wares, purchasing any manuscripts and books they may be selling and stockpiling them will lend itself towards improving our ability to dispense knowledge. Anything from children's books to encyclopedias will do."
+
+ improve_education_efforts_establish_schoolhouses:0 "Constructing Schoolhouses"
+ improve_education_efforts_establish_schoolhouses_desc:0 "Despite space becoming a more critical resource day-by-day. Setting out a space dedicated to accommodating and teaching knowledge to children."
+
+  ### U N I Q U E   D E S C I S I O N S ###
+
+ improve_education_efforts_RED_social_science: "LikBez Scheme"
+ improve_education_efforts_RED_social_science_desc: "LikBez - shorthand for Likvidatsya Bezgramotnosti - elimination of illiteracy is a program implemented in the early days of the Soviet Union to bring literacy rates up across the Union. Special Propaganda Carriages may be designed and dispatched to far off regions of our administration to teach the disparate population how to read or write."
+
+ improve_education_efforts_RED_pursuit_of_lenin: "Invest in Public Education"
+ improve_education_efforts_RED_pursuit_of_lenin_desc: "The Soviet Union had a robust education system. Literacy, and more chiefly education itself was instrumentalized into all facets of daily life. A good education is critical to understanding the benefits of Marxism."
+
+ improve_education_efforts_RCH_1: "Organize the Youth"
+ improve_education_efforts_RCH_1_desc: ""
+
+ improve_education_efforts_RCH_2: "Mandated Education Programs"
+ improve_education_efforts_RCH_2_desc: "It is the youth that will inherit the earth. True devotion to the fatherland, and to the purity of our nation must be instilled upon them from birth. Not only this, but extensive training, education and literacy will give them the necessary tools."
+
+ improve_education_efforts_RCH_3: "Racial Science"
+ improve_education_efforts_RCH_3_desc: ""
+ RCH_unlock_science: "Unlock Decision : Racial Science"
+
+ improve_education_access_polis_repository:0 "Access Polis' libraries"
+ improve_education_access_polis_repository_desc:0 "We're sitting in the dark trying to reinvent the lightbulb whilst Polis retains any information that we may seek. Instead of banging sticks and stones together we could politely ask if we are allowed access to their knowledge reserves. Albeit distrusting of permanently lending us any books or pieces of knowledge to keep, incase of some idiot mistaking possibly the last intact book from Dostoyevsky as fire kindling. Surely a community dedicated to the preservation of humanity and the safeguarding of knowledge would let us take a brief peek?"
+
+ improve_education_efforts_HANZA_unique_1: "Invest in our Research Base"
+ improve_education_efforts_HANZA_unique_1_desc: "Money doesn't exactly make the world go round, but it greases palms and makes things go smoother. We cant exactly throw money at our populace, and expect them to become literate. However can can afford to «place» some spare change here and there. Especially when it comes to our Administrative base. Sure, the station walls are leaking slime again, and Igor's scrap-gun has jammed for the upteenth time today, but we could really do with some more books."
+
+ improve_education_efforts_HANZA_unique_2: "Funding Literacy Classes"
+ improve_education_efforts_HANZA_unique_2_desc: "Some amongst Administrators argue that if we seriously want to improve the education of our populace we should probably start from the very bottom and prioritise the education of our youth. Putting aside funding towards literacy classes for the youth in each station is no easy feat, but will undoubtedly prepare those children to pursue future careers and give them opportunities that many, many others will lack."
+
+ allow_access_polis_education_decision:0 "Has Been Allowed Access to Polis' Libraries"
+
+ ## Bandit ##
+
+ is_bandit_nation: "Bandits"
+ is_savage_nation: "Savages"
+
+ improve_education_bandit:0 "Improve Education"
+ improve_education_bandit_desc:0 "The word «bright» or smarts doesn't come to mind when it comes to a band of thugs and goons. Street-smarts sure, but how many hoodlums does it take to screw in a lightbulb? Better not asking that around these parts. Though its clear if we're going to be running the underground we'd better start somewhere. Whipping the lads into shape from being a disparate band of boneheads."
+
+ improve_education_efforts_bandit_mission:0 "Improving Education Efforts"
+ improve_education_efforts_bandit_mission_desc:0 "Its going to take a fair while until we start seeing improvements. Honing in the knowledge and foresight of our crew might not make them be able to solve even the most basic of mathematics, but it'll refine their street-smarts certainly."
+
+ improve_education_efforts_bandit_disceting_equipment:0 "'Hands On' Approach"
+ improve_education_efforts_bandit_disceting_equipment_desc:0 "Throw a book from Tolstoy in front of any wiseguy and he'll hurl it back towards you. Its gonna take more spit and elbow grease than trying to get the lads to educate themselves. More practical approach is gonna be needed"
+
+ improve_education_efforts_bandit_sleezy_books:0 "Dole Out Material"
+ improve_education_efforts_bandit_sleezy_books_desc:0 "Words words words, it can drive a man to death and beyond. Something better to gawk at is better. Just about anything which wont bore a man half-to-sleep will do."
+
+ improve_education_efforts_bandit_forced:0 "No Half-Measures"
+ improve_education_efforts_bandit_forced_desc:0 "You'd doubt the competency of our thugs at outfitting themselves as capable when it came to acting like proper gangsters. You'd be perfectly right. Lazy and bone-idle. When push comes to shove they'll get around to doing shit. As long as the push is great enough they'll come around. When that push is a beating or two, you bet our goons will start behaving."
+
+ improve_education_efforts_bandit_pp_spend:0 "Learning from the Best"
+ improve_education_efforts_bandit_pp_spend_desc:0 "Of course, all thug in the green are looking to earn their stripes. They're looking to be the next Mikhailov or Kurgan Terminator. Thankfully many of the old lads in our posse are former gangsters with traces back even to pre-soviet times. No better places for knowledge and wisdom then with the ones that have been there, done this and that and whatever else."
+
+ improve_education_efforts_bandit_pinch_it_someplace_else:0 "Pinching It From Someplace Else"
+ improve_education_efforts_bandit_pinch_it_someplace_else_desc:0 "Of course, the easier thing we can do is just find some other four-eyes to do all the boring stuff. Who needs to know about computers when we can just threaten someone to do our shit? Isn't that we're supposed to do?"
+
+ ### Reward Decisions ###
+
+ education_civic_2_reward_civilian_sphere: "Efforts within civilian Sphere"
+ education_civic_2_reward_civilian_sphere_desc:0 "And to this end. We may use our newfound knowledge to help improve the station. Now that we know how to properly irrigate and have a better understanding about constructing better foundations."
+ metro_civics_civilian_boon: "Improving the Hearth"
+
+ education_civic_2_reward_infantry_techs: "Efforts within our Military Forces"
+ metro_civics_infantry_boon: "Improving the Military"
+
+ education_civic_2_reward_rail_vehicles: "Utilise Rail Schematics"
+ metro_civics_rail_boon: "Expanding the Depot"
+
+ civics_education_level_0:0 "Indoctrination"
+
+ civics_education_level_1:0 "State Propaganda"
+
+ civics_education_level_2:0 "No Education"
+ has_civic_education_higher_2_tooltip:0 "Has Education Level Higher than §YNo Education§!."
+
+ civics_education_level_3:0 "Basic Education"
+ has_civic_education_higher_3_tooltip:0 "Has Education Level Higher than §YBasic Education§!."
+
+ civics_education_level_4:0 "Primary Education"
+ has_civic_education_higher_4_tooltip:0 "Has Education Level Higher than §YPrimary Education§!."
+
+ civics_education_level_5:0 "Comprehensive Education"
+ has_civic_education_higher_5_tooltip:0 "Has Education Level Higher than §YComprehensive Education§!."
+
+ civics_education_level_6:0 "Advanced Education"
+ has_civic_education_higher_6_tooltip:0 "Has Education Level Higher than §YAdvanced Education§!."
+
+ civics_education_level_7:0 "Cutting-Edge Education"
+
+ civic_unlock_tier_6: "Unlocks §tAdvanced Education§! Civic Law!"
+ civic_unlock_tier_7: "Unlocks §tCutting-Edge Education§! Civic Law!"
+
+ education_reform_cost_reduction_10: "Education Reform Timer §G-10%§!"
+ education_reform_cost_reduction_20: "Education Reform Timer §G-20%§!"
+ education_reform_cost_reduction_30: "Education Reform Timer §G-30%§!"
+ education_reform_cost_reduction_40: "Education Reform Timer §G-40%§!"
+ education_reform_cost_reduction_50: "Education Reform Timer §G-50%§!"
+
+ education_reform_cost_increase_10: "Education Reform Timer §R+10%§!"
+ education_reform_cost_increase_20: "Education Reform Timer §R+20%§!"
+ education_reform_cost_increase_30: "Education Reform Timer §R+30%§!"
+ education_reform_cost_increase_40: "Education Reform Timer §R+40%§!"
+ education_reform_cost_increase_50: "Education Reform Timer §R+50%§!"
+ education_reform_cost_increase_200: "Education Reform Timer §R+200%§!"
+
+ ### Events ###
+
+ nf_metro_education.1.t:0 "Education Reforms"
+ nf_metro_education.1.d:0 "After proper implementation, stockpiling, and collection of knowledge we can now start to roll out education across our territory. We are no longer illiterate bums like the citizenry of the neighbouring station would want you to believe."
+ nf_metro_education.1.a:0 "Good News"
+
+ nf_metro_education.2.t:0 "Education Reforms"
+ nf_metro_education.2.d:0 "After a tiresome amount of weeks, the bumfucks in our outfit are finally getting the jist of it. Who would've thought these knuckleheads could amount to anything other than shooting and drinking? Igor no longer stutters profusely when he's reading the various tabloids of pop-gossip from over two decades ago. Whilst Piotr can actually write out his name now. A motely crew of thugs today, who knows about tomorrow? Maybe we'll make the soldiers of Hanza think twice fuckin' around with us!"
+ nf_metro_education.2.a:0 "Good News"
+
+ nf_metro_education.3.t: "Estrange Administration"
+ nf_metro_education.3.d: "Recent reports indicate our station authorities are working against our education reforms. Instead of dispersing books and pamphlets we provide to individual stations to its citizenry, the authorities are instead selling them off to passing merchants, or amongst themselves. Some alarming news even suggests they're using the books as burnfire fuel."
+ nf_metro_education.3.a: "There is simply nothing we can do about it"
+ nf_metro_education.3.b: "Reprimand the station authorities"
+
+ nf_metro_education.4.t: "Education Reportings"
+ nf_metro_education.4.d: "It just seems our populace aren't getting the memo. Perhaps the seeping radiation has gotten to their brains, or the thought of being ripped from their beds by mutants have struck the fear of literacy in their hearts, but our reforms seem to be taking longer than originally anticipated"
+ nf_metro_education.4.a: "That is not good news"
+
+ nf_metro_education.5.t: "Education Reports"
+ nf_metro_education.5.d: "The current education reforms are expected to meet plans, however through currying favour with the local station administration we believe we can fasten the process further than initial expected deadlines."
+ nf_metro_education.5.a: "Anything to speed up the process"
+ nf_metro_education.5.b: "Best to leave it to the station authorities"
+
+ nf_metro_education.6.t: "Education"
+ nf_metro_education.6.d: "With our population adapting to the new levels of education, we may now continue to pursue further Education Reforms if we so desire."
+ nf_metro_education.6.a: "We should crack on with that soon."
+ 
+
+ 
+
+
+
+
+
+
+

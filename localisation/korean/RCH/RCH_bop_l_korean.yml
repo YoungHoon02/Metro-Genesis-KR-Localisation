@@ -1,0 +1,25 @@
+﻿l_korean:
+
+ RCH_power_balance:0 "리히트의 권력균형"
+ 
+ RCH_power_balance_category:0 "리히트의 피"
+ RCH_mid_range:0 "퓌러"
+ RCH_default_left_side:0 "§CSS§!"
+ RCH_default_right_side:0 "§t메트로마흐트§!"
+
+ RCH_unquestioned:0 "우리의 권위는 의심의 여지가 없다!"
+ RCH_no_focus_block:0 "중점 차단 없음!"
+
+ RCH_left_side_range:0 "최소한의 SS 영향력"
+ RCH_middle_left_side_range:0 "증가된 SS 영향력"
+ RCH_far_left_side_range:0 "광범위한 SS 영향력"
+
+ RCH_SS_control:0 "§YSS 영향력 증가!§!"
+ RCH_MM_focus_block:0 "§R메트로마흐트 관련 중점이 차단됩니다§!"
+
+ RCH_right_side_range:0 "최소한의 메트로마흐트 영향력"
+ RCH_middle_right_side_range:0 "증가된 메트로마흐트 영향력"
+ RCH_far_right_side_range:0 "광범위한 메트로마흐트 영향력"
+
+ RCH_MM_control:0 "§Y메트로마흐트 영향력 증가!§!"
+ RCH_SS_focus_block:0 "§RSS 관련 중점이 차단됩니다§!"

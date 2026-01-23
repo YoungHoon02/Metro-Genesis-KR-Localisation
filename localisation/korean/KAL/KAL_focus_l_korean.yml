@@ -1,0 +1,109 @@
+﻿l_korean:
+ KAL_intro:0 "칼리닌스카야 연방"
+
+ KAL_the_kalinin_bulletin:0 "칼리닌 회보"
+
+ KAL_invest_in_paper_production:0 "종이 생산 투자"
+
+ KAL_foreign_policy:0 "연맹 외교 정책"
+
+ KAL_tea_trade:0 "페차트니키 차 무역"
+
+ KAL_hanza_cooperation:0 "한자 협력"
+
+ KAL_benefits_of_trade:0 "한자 무역의 이점"
+
+ KAL_dispel_rumors:0 "구라이폴레 유언비어 일소"
+
+ KAL_counter_the_anarchists:0 "적들에게 보복하기"
+
+ KAL_baumansky_contact:0 "바우만 연합과 접촉"
+
+ KAL_surface_expansion:0 "지상 확장"
+
+ KAL_demand_rimskaya:0 "[232.GetName] 요구"
+
+ KAL_demand_marksistskaya:0 "[355.GetName] 요구"
+
+ KAL_ready_for_war:0 "전쟁 준비"
+
+ KAL_strengthen_north:0 "페차트니키 국경 강화"
+
+ KAL_strengthen_west:0 "한자 국경 강화"
+
+ KAL_modernize_the_military:0 "군 현대화"
+
+ KAL_call_up_reserves:0 "예비군 소집"
+
+ KAL_stalker_revitalization:0 "스토커 활성화"
+
+ KAL_investments_from_the_hanza:0 "한자의 투자"
+
+ KAL_scavenge_the_surface:0 "지상 수색"
+
+ KAL_open_the_stockpiles:0 "비상 비축고 개방"
+ 
+ KAL_cooperation_factory_tt:0 "§Y[HNZ.GetFlag][HNZ.GetName]§!와의 관계가 §Y35§! 이상인 경우, 수도에 민간 공장이 §Y2§!개 추가로 건설됩니다.\n\n"
+
+ KAL_standoff_in_perovo:0 "페로보의 대치"
+
+ KAL_tsarist_victory:0 "차르 지지파 승리"
+
+ KAL_counter_coup:0 "역쿠데타"
+
+ KAL_levies_of_sol:0 "솔의 징집병"
+
+ KAL_corpse_thy_enemy:0 "적들을 시체로"
+
+ KAL_pledge_allegiance_to_sol:0 "솔을 향한 충성 맹세"
+
+ KAL_make_examples:0 "본보기 보이기"
+
+ KAL_knights_of_sol:0 "솔의 기사단"
+
+ KAL_thy_will_be_done:0 "주의 뜻이 이루어지리다"
+
+ KAL_bring_back_feudalism:0 "봉건제 부활"
+
+ KAL_in_the_name_of_the_tsar:0 "차르의 이름으로"
+
+ KAL_the_new_white_army:0 "백군의 재건"
+
+ KAL_traditions_of_old:0 "고대 전통"
+
+ KAL_foster_nationalism:0 "민족주의 육성"
+
+ KAL_establish_okhrana:0 "오크라나 창설"
+
+ KAL_the_dvoryanstvo:0 "드보랸스트보 소집"
+
+ KAL_reclaiming_the_empire:0 "제국 수복"
+
+ KAL_back_the_army:0 "군부 지원"
+
+ KAL_the_ultimate_revenge:0 "우리와 함께하시는 하느님!"
+
+ KAL_loyalist_victory:0 "연맹 충성파 승리"
+
+ KAL_troshin_victory:0 "트로신의 권력 장악"
+
+ KAL_stalker_expertise:0 "스토커의 전문성"
+
+ KAL_only_the_best_for_the_best:0 "최고를 위한 최선"
+
+ KAL_the_experts_of_the_surface:0 "지상의 전문가들"
+
+ KAL_status_quo:0 "현상 유지"
+
+ KAL_civilian_industrial_sectors:0 "민간 산업 확장"
+ 
+ KAL_military_industrial_sectors:0 "군사 산업 확장"
+
+ KAL_protector_of_the_east:0 "동부의 수호자"
+
+ KAL_troshin_chosen:0 "§4트로신의 스토커들이 권력을 장악했습니다!§!"
+ KAL_council_chosen:0 "§4연맹 의회가 권력을 유지했습니다!§!"
+ KAL_master_tt:0 "§6보안 감독관이 조문가로 고용되었습니다§!"
+ KAL_inquisitor_tt:0 "§7대심문관이 조문가로 고용되었습니다§!"
+ KAL_minister_tt:0 "§8검문소 고위 장관이 조문가로 고용되었습니다§!"
+ KAL_knights_tt:0 "§8암흑에 대항하는 성전을 돕기 위해 2개의 엘리트 특수부대가 배치됩니다!§!"

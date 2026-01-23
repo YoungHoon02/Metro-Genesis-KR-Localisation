@@ -1,0 +1,31 @@
+﻿l_korean:
+ hanza_satellite_immigrant_processing_category:0 "성문 앞에서"
+ hanza_satellite_immigrant_processing_category_desc:0 ""
+
+ hanza_satellite_immigrant_processing_countdown_until_wave:0 "망명을 요청하는 피난민들"
+ hanza_satellite_immigrant_processing_country_flag:0 "이민 문제에 직면함"
+ hanza_satellite_immigrant_processing_countdown_until_wave_desc:0 "메트로가 다시 한번 재앙의 구렁텅이로 빠져들면서, 모든 재산을 버리거나 몸만 간신히 빠져나온 피난민들이 늘어나고 있습니다."
+ hanza_satellite_immigrant_countdown_tooltip:0 "타이머가 0이 되면, 우리 역 앞에 몰려온 이민자 무리를 어떻게 처리할지 결정하는 이벤트가 발생합니다."
+ hanza_satellite_immigrant_processing_increase_regulations:0 "규제 강화"
+ hanza_satellite_immigrant_processing_increase_regulations_desc:0 "이곳은 부랑자들을 위한 무료 급식소가 아닙니다. 자신의 가치를 증명할 수 있는 자들만이 입성할 수 있습니다."
+ hanza_satellite_immigrant_processing_bar_the_gates:0 "성문 봉쇄"
+ hanza_satellite_immigrant_processing_bar_the_gates_desc:0 "더 이상 수용할 공간이 없습니다! 여길 떠나서 다른 역이나 알아보십시오!"
+
+ hanza_satellite_trade_category:0 "무역 상단"
+ hanza_satellite_trade_category_desc:0 ""
+ hanza_satellite_bastion_launch_caravan:0 "§Y[From.Capital.GetName]§! 역으로 상단 파견"
+ hanza_satellite_bastion_launch_caravan_desc:0 "상인들이 우리에게 오지 않는다면, 우리가 직접 그들에게 갈 것입니다."
+ hanza_satellite_commerce_launch_caravan:0 "$hanza_satellite_bastion_launch_caravan$"
+ hanza_satellite_commerce_launch_caravan_desc:0 "$hanza_satellite_bastion_launch_caravan_desc$"
+ hanza_satellite_trade_launch_caravan:0 "$hanza_satellite_bastion_launch_caravan$"
+ hanza_satellite_trade_launch_caravan_desc:0 "$hanza_satellite_bastion_launch_caravan_desc$"
+
+ hanza_satellite_lobby_for_arms_category:0 "독수리의 날개 아래"
+ hanza_satellite_lobby_for_guns:0 "무기 보급 요청"
+ hanza_satellite_lobby_for_support:0 "지원 장비 요청"
+ hanza_satellite_lobby_for_manpower:0 "인력 지원 요청"
+ hanza_satellite_lobby_for_advisor:0 "기술 지원 요청"
+ hanza_satellite_unlock_advisor_tt:0 "자재 설계 전문가를 자문관으로 영입할 수 있게 됩니다."
+ hanza_satellite_lobby_for_defense_spending:0 "국방비 지원 요청"
+ hanza_satellite_lobby_for_contracts:0 "기술 원조 요청"
+

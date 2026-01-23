@@ -1,0 +1,301 @@
+﻿l_korean:
+
+ RCH_the_thousand_year_reich: "천년 제국"
+
+ RCH_reclusive_nazis:0 "독재자 나치"
+ RCH_reclusive_nazis_desc:0 "모든 지혜로운 메트로 주민들에게 혐오스럽고 증오받는 나치들은 자신의 요새역에 틀어박혀 있다. 그들의 이웃들은 방어의 어두운 점검 장소 너머에서 기다리고 있다; 공포와 혐오가 섞인 음성으로, 제국의 영토로 향하는 터널을 따라 발차기 소리가 들릴 때마다."
+ RCH_reclusive_state_tt:0 "£trigger_no 폐허된 국가를 되찾을 수 없다."
+
+ RCH_reich_stirs:0 "제국이 일어나고 있다"
+ RCH_reich_stirs_desc:0 ""
+
+ RCH_genetic_supremacy:0 "유전적 우월성"
+ RCH_genetic_supremacy_desc:0 "제국는 메트로 내에서 세계에 존재하는 마지막진정의 §t'인간'§! 인간을 보관하고 있다고 믿는다. 제국의 무리의 것은 유전적 결함으로부터 자유롭다. 이러한 표준은 항상 §t'순수'§! 로 간주되는 것이 고도화되고 정교화된다. 이상이있는 것들은 단순히 폐기된다."
+
+ RCH_the_metromacht:0 "메트로마흐트"
+ RCH_the_metromacht_desc:0 ""
+
+ RCH_internalized_industry:0 "내부화된 산업"
+ RCH_internalized_industry_desc:0 "제국는 완전한 자급자족 경제를 추구하는 엄격한 정책을 따릅니다 - 고립된 자가 규제되고 생산되는 경제."
+
+ RCH_cemented_authority:0 "콘크리트 권위"
+ RCH_cemented_authority_desc:0 ""
+
+ RCH_plot_against_fuhrer:0 "퓌러 플롯?"
+ RCH_plot_against_fuhrer_desc:0 ""
+
+ RCH_campaigns_of_terror_idea:0 "공포 캠페인"
+
+ RCH_campaign_of_terror_modifier:0 "공포의 캠페인"
+ RCH_campaign_of_terror_modifier_desc:0 ""
+ RCH_modify_campaign_of_terror_modifier_tt: "§Y$RCH_campaign_of_terror_modifier$§! 심각성이 증가, 효과적인 변화:"
+ ##dictatorial_drift_tt: "£boost_popularity_texticon Despotism Drift"
+
+ RCH_iron_legion_advisors:0 "철기 연맹 고문들"
+ RCH_iron_legion_advisors_desc:0 ""
+
+ RCH_ss_advisors:0 "SS 고문들"
+ RCH_ss_advisors_desc:0 ""
+
+ RCH_firearm_production:0 "무기 생산"
+ RCH_firearm_production_desc:0 ""
+
+ RCH_cheaper_arms:0 "저렴한 무기"
+ RCH_cheaper_arms_desc:0 ""
+
+ RCH_streamlined_labour:0 "stream라인된 노동"
+ RCH_streamlined_labour_desc:0 ""
+
+ HNZ_RCH_trade: "순환선과 무역"
+
+ RCH_volkssturm_armaments:0 "국민군 무기"
+ RCH_volkssturm_armaments_desc:0 ""
+
+ RCH_german_imitation_arms:0 "독일 무기를 모방하라"
+ RCH_german_imitation_arms_desc:0 ""
+
+ RCH_precision_arms_idea:0 "정밀 무기"
+ RCH_precision_arms_idea_desc:0 ""
+
+ RCH_gattling_proficiency:0 "가틀링 무기 숙련도"
+ RCH_gattling_proficiency_desc:0 ""
+
+ RCH_draisine_tech_bonus:0 "드라이진 연구"
+ RCH_draisine_tech_bonus_desc:0 ""
+
+ RCH_draisine_tech_bonus_2:0 "드라이진 연구"
+ RCH_draisine_tech_bonus_2_desc:0 ""
+
+ RCH_gasoline_for_vehicles:0 "드라이진 연구소"
+ RCH_가솔린_차량_설명:0 ""
+
+ RCH_improved_vehicles:0 "개선된 차량 설계"
+ RCH_improved_vehicles_desc:0 ""
+
+ RCH_rail_consumption: "연료 절약"
+ RCH_철도소비량설명: ""
+
+ RCH_panzer_1:0 "판저"
+ RCH_panzer_1_desc:0 ""
+
+ RCH_panzer_2:0 "판저"
+ RCH_panzer_2_desc:0 ""
+
+ RCH_panzer_3:0 "판저"
+ RCH_panzer_3_desc:0 ""
+
+ RCH_panzer_focusing: "판저 지배"
+ RCH_panzer_focusing_desc: ""
+
+ RCH_domestic_role_1_idea:0 "효과적으로 정치적"
+ RCH_domestic_role_1_idea_desc:0 ""
+
+ RCH_domestic_role_2_idea:0 "정치적 능력"
+ RCH_domestic_role_2_idea_desc:0 ""
+
+ RCH_nationalism_foster_1:0 "민족주의 조장"
+ RCH_nationalism_foster_1_desc:0 ""
+
+ RCH_nationalism_foster_2:0 "국민주의 조장"
+ RCH_nationalism_foster_2_desc:0 ""
+
+ RCH_nationalism_foster_3:0 "국가주의 조장"
+ RCH_nationalism_foster_3_desc:0 ""
+
+ RCH_metro_for_the_russians:0 "러시아인들을 위한 메트로"
+ RCH_metro_for_the_russians_desc:0 ""
+
+ RCH_purity_1:0 "혈통의 순수성"
+ RCH_purity_1_desc:0 ""
+
+ RCH_purity_2:0 "일족의 순수함"
+ RCH_purity_2_desc:0 ""
+
+ RCH_purity_3:0 "인간의 순수함"
+ RCH_purity_3_desc:0 ""
+
+ RCH_total_mutant_death:0 "총괄 독립체 파괴"
+ RCH_total_mutant_death_desc:0 ""
+
+ RCH_no_more_mutant_2:0 "모든 변형자를 죽여라"
+ RCH_no_more_mutant_2_desc:0 ""
+
+ RCH_worker_stalags:0 "노역수용소"
+ RCH_worker_stalags_desc:0 ""
+
+ RCH_worker_stalags_2:0 "전쟁 노동 수용소"
+ RCH_worker_stalags_2_desc:0 ""
+
+ RCH_construction_priority:0 "건설 스킵"
+ RCH_construction_priority_desc:0 ""
+
+ RCH_research_priority:0 "연구 급진화"
+ RCH_research_priority_desc:0 ""
+
+ RCH_rearmament_priority:0 "재무장 대쉬"
+ RCH_rearmament_priority_desc:0 ""
+
+ RCH_metromacht_drills:0 "메트로마흐트 드릴"
+ RCH_metromacht_drills_desc:0 ""
+
+ RCH_metromacht_conscription:0 "추가 징집"
+ RCH_metromacht_conscription_desc:0 ""
+
+ RCH_NSB_counter_intelligence_operations: "반역자 간첩 정보 수집"
+ RCH_NSB_counter_intelligence_operations_desc: ""
+
+ RCH_festung_reich:0 "펠텐그 리히"
+ RCH_festung_reich_desc:0 ""
+
+ RCH_SS_idea_1:0 "SS 참여"
+ RCH_SS_idea_1_desc:0 ""
+
+ RCH_SS_idea_2:0 "SS 참여"
+ RCH_SS_idea_2_desc:0 ""
+
+ RCH_SS_idea_3:0 "SS 참여"
+ RCH_SS_idea_3_desc:0 ""
+
+ RCH_SS_elites:0 "SS 엘리트"
+ RCH_SS_elites_desc:0 ""
+
+ RCH_SS_recruitment:0 "SS 모집 허용"
+ RCH_SS_recruitment_desc:0 ""
+
+ RCH_final_victory:0 "최종 승리"
+ RCH_final_victory_desc:0 ""
+
+ RCH_academy:0 "학원"
+ RCH_academy_desc:0 ""
+
+ RCH_align_SS: "SS 정렬"
+ RCH_align_metromacht: "메트로마흐트 정렬"
+
+ RCH_victory_even_in_defeat:0 "승리도 패배도"
+ RCH_victory_even_in_defeat_desc:0 ""
+
+ RCH_SS_outside_recruitment:0 "외부 모집 표준 허용"
+ RCH_SS_outside_recruitment_desc:0 ""
+
+ RCH_racial_supremacy:0 "유전적 우월성"
+ RCH_racial_supremacy_desc:0 "제국는 메트로 내에서 아니면 전 세계에 남아 있는 마지막진정 인류를 가지고 있다고 믿는다. 제국는 유전적 결함으로부터 자유롭다. '순수'라는 기준은 끊임없이 개선된다. 이상이 없는 것은 단순히 청소되거나 직접 폐기된다."
+ 
+ RCH_a_final_war:0 "최후의 전쟁"
+ RCH_a_final_war_desc:0 "제국의 핵심 가치 중 하나는 '최후의 전쟁'이라는 아이디어이다. 이 끔찍한 돌연변이를 메트로에서 완전히 멸종시키고, «순수» 인종이 승리하는 최후의 전투이다. 제국의 주민들은 곧 도래할 그 결말을 준비하기 위해 노력해야 한다."
+
+ RCH_metromacht:0 "메트로마흐트"
+ RCH_metromacht_desc:0 "제국 군인들은 철저하게 훈련되어 있으며, 이념적으로나 육체적으로 무너지지 않는다. 질보다 양을 중시하지만 항상 모집자 부족에 시달린다."
+
+ fourth_reich:0 "네 번째 제국"
+ fourth_reich_desc:0 "전쟁 전의 네오나치 조직에서 발전한 권위주의 독재정치. 메트로에서 악랄한 돌연변이, 볼셰비키를 청산하고 히틀러의제삼제국의 후손이라고 생각하는 것에 집착"
+
+ fourth_reich_2:0 "네 번째 제국"
+ fourth_reich_2_desc:0 "전쟁 전 네오나치 조직으로부터 진화한 권위주의 독재정치. 메트로에서 악랄한 돌연변이, 볼셰비키를 청산하고 히틀러의 세 번째 제국을 계승하는 자들"
+
+ fourth_reich_3:0 "네 번째 제국"
+ fourth_reich_3_desc:0 "전쟁 전 네오나치 조직에서 진화한 것으로 보인다. 메트로에서 혐오스러운 돌연변이, 볼셰비키들을 청산하고자 하는 총통제국으로, 히틀러의 세 번째 제국의 후손이라고 자신을 부르는 것이다"
+
+ RCH_fortify_the_demense: "축복된 제국"
+ RCH_fortify_the_demense_desc: "제국은 유전적 오염에서 자유롭게 될 것입니다; 내부와 외부."
+
+ RCH_superior_hubris: "불굴의 정신"
+ RCH_superior_hubris_desc: "인간의 마지막 흔적 속에 불굴의 정신이 존재한다. 한 사람만 남아도 그 빛은 끓어지지 않을 것이다."
+
+ RCH_clean_up_the_metro_spirit: "메트로 정신 청소"
+ RCH_outsider_recruitment: "외인 모집"
+
+ purge_mutant:0 "괴물 퇴치"
+
+ gestapo:0 "게스탑오"
+
+ anti_mutant_rhetoric:0 "반인간 반대 논리"
+
+ competently_political:0 "정치적으로 능숙한"
+
+ politically_competent:0 "정치적으로 능력있는"
+
+ education_propaganda:0 "교육 선전"
+
+ family_promotion:0 "가족 승진"
+
+ RCH_reforms:0 "개혁"
+
+ RCH_true_enemy:0 "진짜 적"
+
+ foreign_staff:0 "외국인 직원"
+
+ RCH_production_boost:0 "네 개의 계단 계획"
+
+ RCH_industry:0 "내부 산업"
+
+ RCH_topside_excavation:0 "위쪽 지하철 노선"
+
+ RCH_stalker_expeditions:0 "스톨커 탐험대"
+
+ RCH_stalker_tactics:0 "스토커 전술"
+
+ RCH_political_army:0 "당의 가운렛"
+
+ RCH_cult_of_personality_idea:0 "인격주의 교도"
+ RCH_cult_of_personality_idea_desc:0 "최고 지도자 인 퓌허어의 지휘 아래 우리는 번영할 것입니다. 하일 라이히!"
+
+ RCH_labour_civilian:0 "민간 노동"
+
+ RCH_labour_military:0 "군사 노동"
+
+ RCH_recruitment:0 "새로운 혈액"
+
+ RCH_rail_panzer_production:0 "판저 생산"
+
+ RCH_rail_panzer_boost:0 "블리츠크라이그!"
+
+ RCH_expansion_polis_annex:0 "네 번째 무기"
+
+ RCH_expansion_polis_tunnel:0 "남부 터널에 진출하라"
+
+ RCH_spec_ops_increase:0 "특수작전 훈련"
+ 
+ RCH_dreams_of_kreipp:0 "크립의 꿈 실현"
+
+ RCH_volkssturm_idea_1: "국민군"
+ RCH_volkssturm_idea_2: "조직된 민간군대"
+
+RCH_metromacht_upset:  "메트로마흐트 불만"
+RCH_SS_upset: "게스토파 불만"
+
+#### Random Events ####
+
+RCH_recruitment_shortage: "채용 부족"
+RCH_recruitment_shortage_desc: ""
+
+RCH_recruitment_surplus: "채용 초과"
+RCH_recruitment_surplus_desc: ""
+
+RCH_clamour_for_conflict: "충돌을 원하는 소란"
+RCH_clamour_for_conflict_desc: ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

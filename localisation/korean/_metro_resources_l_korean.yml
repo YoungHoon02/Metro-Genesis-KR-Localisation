@@ -1,0 +1,25 @@
+﻿l_korean:
+ PRODUCTION_MATERIALS_ALLOYS:0 "합금"
+ alloys_desc:0 "부식과 산화에 강한 합성 금속으로, 일반 금속보다 강도가 훨씬 뛰어납니다. 고가의 장비를 제작하는 데 필수적입니다."
+
+ PRODUCTION_MATERIALS_ELECTRONICS:0 "전자기기"
+ electronics_desc:0 "회로 기판, 트랜지스터, 마이크로칩 등 정밀 군사 장비와 차량 가동에 필요한 다양한 핵심 부품들입니다."
+
+ PRODUCTION_MATERIALS_COMPONENTS:0 "부품"
+ components_desc:0 "첨단 무기, 드레진, 그리고 정밀 장비 생산에 필요한 다양한 고급 기계 및 산업용 부품입니다."
+
+ PRODUCTION_MATERIALS_SCRAP:0 "고철"
+ scrap_desc:0 "버려지거나 재활용된 금속 조각들입니다. 도구, 임시 차량, 그리고 무엇보다 조잡한 무기를 만드는 데 널리 사용됩니다."
+
+ PRODUCTION_MATERIALS_CHEMICALS:0 "화학물질"
+ chemicals_desc:0 "의료 용품이나 방독면 필터 같은 스토커 장비 생산에 쓰이며, 정예 지원 장비를 제조하는 데도 사용됩니다."
+
+ PRODUCTION_MATERIALS_GASOLINE:0 "가솔린"
+ gasoline_desc: "발전기나 철도 드레진을 가동하는 데 사용됩니다. 기존 비축분은 이미 오래전 변질되어 쓸모없게 되었으므로, 대부분 상인에게 구매하거나 약탈을 통해 확보해야 합니다."
+
+ country_resource_alloys:0 "£resource_alloys_texticon 합금"
+ country_resource_electronics:0 "£resource_electronics_texticon 전자 부품"
+ country_resource_components:0 "£resource_components_texticon 부품"
+ country_resource_scrap:0 "£resource_scrap_texticon 고철"
+ country_resource_chemicals:0 "£resource_chemicals_texticon 화학 물질"
+ country_resource_gasoline:0 "£resource_gasoline_texticon 가솔린"

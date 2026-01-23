@@ -1,0 +1,16 @@
+﻿l_korean:
+ nf_metro.1.t:0 "베타 베타 베타 베타!!!!!!!!!!!!"
+ nf_metro.1.d:0 "호이4 모드! \ud55c\ubd84\ub294\uc138\uc694 \uc548\ub155\uc744 \ud574\uc2dd\uc6b8\uc5dc \ucf54\uace0\uc9d1 \uba38\uc57d\uc138\uc694. \uc548\ub155\uc744 \ud574\uc2dd\uc6b8\uc5dc \ucf54\uace0\uc9d1 \uba38\uc57d\uc138\uc694.\n\ud574\uc2dd\uc6b8\uc5dc \ucf54\uace0\uc9d1 \uba38\uc57d\uc138\uc694 \ubc88\uc18d\uc744 \uc548\ub155\uc744 \ud574\uc2dd\uc6b8\uc5dc \ucf54\uace0\uc9d1 \uba38\uc57d\uc138\uc694.\n\uc548\ub155\uc744 \ud574\uc2dd\uc6b8\uc5dc \ucf54\uace0\uc9d1 \uba38\uc57d\uc138\uc694 \uc138\uc694. \uc548\ub155\uc744 \ud574\uc2dd\uc6b8\uc5dc \ucf54\uace0\uc9d1 \uba38\uc57d\uc138\uc694.\n-메트로 \uc6c0\uc18d\uc744 \ucf54\uace0\uc9d1 \uba38\uc57d\uc138\uc694"
+ nf_metro.1.a:0 "감사합니다"
+
+ nf_metro.4.t:0 "지하의 파시스트들"
+ nf_metro.4.d:0 "지하 터널에서 수상한 움직임이 포착되었다는 보고가 들어왔습니다. 돌연변이들의 육중한 발소리나 쥐들의 찍찍거리는 소리와는 확연히 다릅니다. 발소리는 너무나 일정하며 규칙적입니다. 분명 인간의 발소리입니다. 하지만 다행히도 이러한 보고는 아직 극히 일부 구역에 국한되어 있습니다."
+ nf_metro.4.a:0 "들쥐 떼보다 더 골치 아픈 문제가 생겼군."
+
+ nf_metro.5.t:0 "분열된 제국"
+ nf_metro.5.d:0 "스토르테베커(Stortebeker)를 제국으로 복귀시키지 않겠다는 우리의 결정에 반발하여, 그는 남쪽에 자신만의 독자적인 기지를 세웠습니다. 거리와 수많은 장애물 탓에 이전부터 통신 상태가 좋지 않았지만, 이제는 모든 연락망이 완전히 끊겨버렸습니다. 제 4제국의 권위가 도전받고 있습니다."
+ nf_metro.5.a:0 "상관없다. 혼자서 어디 잘해보라고 하지."
+
+ nf_metro.6.t: "공업의 발흥"
+ nf_metro.6.d: "산업 기반이 확장됨에 따라 에너지 소비량도 급격히 증가했습니다. 기술자 역과 제작 시설들이 더 많은 전력을 요구하고 있습니다. 전력 수급에 차질이 생기지 않도록 에너지 흐름을 안정적으로 유지해야 합니다. 새로운 발전 시설을 확충하거나, 인근 정거장들과 전력을 거래하는 등 대책을 마련해야 할 것입니다."
+ nf_metro.6.a: "명심하겠다."

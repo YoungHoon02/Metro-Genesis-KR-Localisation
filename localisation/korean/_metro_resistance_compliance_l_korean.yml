@@ -1,0 +1,12 @@
+﻿l_korean:
+ METRO_compliance_30: "보조 길잡이"
+ METRO_compliance_45: "확보된 보관고"
+ METRO_compliance_60: "세금 징수"
+ METRO_compliance_75: "제한적 모병"
+ METRO_compliance_90: "점령지 협력"
+
+ METRO_resistance_30: "체제 전복 활동"
+ METRO_resistance_45: "반란 위협"
+ METRO_resistance_60: "적극적인 적대 행위"
+ METRO_resistance_75: "사보타주"
+ METRO_resistance_90: "봉기!"

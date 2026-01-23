@@ -1,0 +1,20 @@
+﻿l_korean:
+
+ TRT_power_balance:0 "베니스의 영향력"
+ TRT_default_left_side:0 "오르가니자치야"
+ TRT_default_right_side:0 "드루진니키"
+ TRT_mid_range:0 "베니스의 권력 다툼 중!"
+
+ TRT_left_side_range:0 "오르가니자치야의 우세"
+ TRT_middle_left_side_range:0 "오르가니자치야의 지배적 영향력"
+ TRT_far_left_side_range:0 "오르가니자치야의 완전한 통제"
+
+ TRT_right_side_range:0 "드루진니키의 영향력"
+ TRT_middle_right_side_range:0 "드루진니키의 지배적 영향력"
+ TRT_far_right_side_range:0 "드루진니키의 완전한 통제"
+
+ TRT_increase_mob_low:0 "공포 분위기 조성"
+ TRT_increase_mob_high:0 "무력 시위"
+ 
+ TRT_increase_cit_low:0 "범죄 조직의 통치 규탄"
+ TRT_increase_cit_high:0 "조직원 공격"

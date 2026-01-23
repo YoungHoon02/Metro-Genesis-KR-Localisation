@@ -1,0 +1,78 @@
+﻿l_korean:
+ kalininskaya:0 "칼리닌 연맹"
+ kalininskaya_desc:0 "칼리닌스카야 선을 통제하고 있습니다. 이 연맹은 메트로의 다른 지역과는 달리 비교적 평화로운 구역에 위치해 있어, 메트로 전역을 휩쓰는 투쟁의 불길에서 멀리 떨어져 있습니다. 유일한 잠재적 위험은 이따금 발생하는 이상 현상뿐입니다.\n\n평화롭고 근면한 이들의 대다수는 단순 노동자로 구성되어 있으며, 모든 시민이 각자의 위치에서 활발히 근로에 종사하고 있습니다."
+
+ KAL_young_confederation:0 "신생 연맹"
+ KAL_young_confederation_desc:0 "메트로의 외곽, §YKalininskaya 선§! 끝자락에 자리 잡은 이 연맹은 메트로의 평화로운 구역을 점유하고 있습니다. 가끔 나타나는 약탈자 무리나 이상 현상을 제외하면, 나머지 메트로를 괴롭히는 수많은 갈등과 충돌은 이들의 문전에서 멀리 떨어져 있습니다."
+
+ KAL_peaceful_economy:0 "평화로운 경제"
+ KAL_peaceful_economy_desc:0 "상대적으로 평화로운 환경 덕분에 §YKalininskaya§!의 경제는 주로 국내 생산에 집중되어 있습니다. 무기 제작소가 부족하다고 해서 이들을 게으르다고 오해하지 마십시오. §YKalininskaya§!의 주민들은 매우 근면하며, 모든 시민이 어떤 형태로든 생산 활동에 참여하고 있습니다."
+
+ KAL_anomalies:0 "이상 현상"
+ KAL_anomalies_desc:0 "칼리닌 연맹이 직면한 가장 큰 문제는 터널 곳곳에서 발견되는 이상 현상입니다. §YPerovo§! 근처에서 발생하는 '용의 숨결'이라 불리는 자연 발화 현상과, §YAviamotornaya§! 인근 터널을 지나는 호기심 많은 여행자들을 죽음으로 유혹하는 더욱 신비로운 '세이렌의 노래'가 그 예입니다."
+
+ KAL_the_mad_king:0 "광인의 횡설수설"
+ KAL_the_mad_king_desc:0 "연맹의 거주자 중에는 §YPerovo§! 역에 은둔하며 사는 의심스러운 인물이 한 명 있습니다. 역 주민들 사이에서 미친놈 취급을 받는 그의 헛소리에 따르면, 그는 100년 전 러시아를 통치했던 로마노프 왕조의 직계 후손이라고 스스로를 믿고 있습니다. 그는 제4정치기술론과 신러다이트 운동의 교리를 결합하여, §CLiberalism(자유주의)§!, §RMarxism(마르크스주의)§!, §gFascism(파시즘)§!을 합성하고 '사악한' 기술을 거부하는 지하 유토피아를 건설하겠다는 기괴한 철학을 내세우고 있습니다.\n\n사람들은 마땅히 그의 헛소리를 웃어넘기고 무시하며, 그 불쌍한 노인에게 동정심을 보이고 지나칩니다. 하지만 언젠가 사람들은 그의 이상에 귀를 기울이게 될지도 모릅니다. 연맹의 실수와 결점이 드러나기 시작한다면 분명 그렇게 될 것입니다."
+
+ KAL_anarchist_rumors:0 "무정부주의자들의 유언비어"
+ KAL_anarchist_rumors_desc:0 "칼리닌 연맹은 내부로부터의 위협에 직면해 있습니다. 구라이폴레 공화국의 무정부주의자들이 퍼뜨리는 악의적인 소문과 거짓 정보가 민중 사이에 퍼지고 있기 때문입니다. 이 은밀한 유언비어 유포는 정부에 대한 신뢰를 약화시키고 배신과 불안정에 대한 공포를 조장하고 있습니다. 망상이 확산됨에 따라, 연맹 지도부는 소문에 대응하고 대중의 신뢰를 회복하며 인민의 결속을 재확인하기 위해 끊임없이 노력해야 합니다."
+
+ KAL_news:0 "칼리닌 회보"
+ KAL_news_desc:0 "연맹의 번잡한 중심지에서 '칼리닌 회보'는 민중의 확고한 목소리 역할을 하고 있습니다. 뉴스와 정보의 주요 원천인 이 공신력 있는 신문은 여론을 형성하고 오보에 대응하며, 연맹 시민들 사이의 단결력과 회복 탄력성을 배양하는 데 중요한 역할을 합니다."
+
+ KAL_news2:0 "칼리닌 회보"
+ KAL_news2_desc:0 "연맹의 번잡한 중심지에서 '칼리닌 회보'는 민중의 확고한 목소리 역할을 하고 있습니다. 뉴스와 정보의 주요 원천인 이 공신력 있는 신문은 여론을 형성하고 오보에 대응하며, 연맹 시민들 사이의 단결력과 회복 탄력성을 배양하는 데 중요한 역할을 합니다."
+
+ KAL_news_cost:0 "생산비용 상승"
+ KAL_news_cost_desc:0 ""
+
+ KAL_peace:0 "무제한 외교"
+ KAL_peace_desc:0 "우리는 더 넓은 메트로를 향해 외교적, 정치적으로 문을 열기로 결정했습니다. 이러한 전략적 전환은 새로운 동맹을 맺고 국제적 유대를 강화하며 정치적 협력을 도모하여, 연맹에 새로운 참여와 기회의 시대를 열어줄 것입니다."
+
+ KAL_nonpeace:0 "외교적 고립"
+ KAL_nonpeace_desc:0 "우리는 외교적, 정치적 고립 입장을 채택하여 국제 업무에서 물러나고 외부와의 많은 유대를 끊기로 결정했습니다. 이러한 내부 지향적 정책은 외국 세력의 영향으로부터 연맹을 보호하고 국가 안보를 강화하며 자급자족을 도모하기 위함입니다. 시선을 내부로 돌림으로써 우리는 자원을 통합하고 내부 결속을 강화하고자 합니다."
+
+ KAL_payments_from_hanza:0 "한자로부터의 상납금"
+ KAL_payments_from_hanza_desc:0 ""
+
+ KAL_anarchist_counterattack:0 "선전 전략 역공"
+ KAL_반란자_counterattack_desc:0 ""
+
+ KAL_army_modernization:0 "군 현대화 개혁"
+ KAL_army_modernization_desc:0 ""
+
+ KAL_army_modernization2:0 "현대화된 군대"
+ KAL_army_modernization2_desc:0 ""
+
+ KAL_weaponsmith_specialists:0 "무기 제조 장인들"
+ KAL_무기장_전문가_설명:0 ""
+
+ KAL_biggest_little_army_in_the_east:0 "동부 최대의 소국군"
+ KAL_biggest_little_arme_in_the_east_desc:0 ""
+
+ KAL_mad_king_2:0 "광인 왕"
+ KAL_mad_king_2_desc:0 ""
+
+ KAL_attack_the_pechatniki:0 "페차트니키를 향한 성전"
+ KAL_attack_the_pechatniki_desc:0 ""
+
+ KAL_attack_the_hanza:0 "한자를 향한 성전"
+ KAL_attack_the_hanza_desc:0 ""
+
+ KAL_levies:0 "솔의 징집병"
+ KAL_levies_desc:0 ""
+
+ KAL_the_light_shines_on_the_metro:0 "메트로에 비치는 광명"
+ KAL_the_light_shines_on_the_metro_desc:0 ""
+
+ KAL_rule_thru_fear:0 "공포 정치"
+ KAL_rule_thru_fear_desc:0 ""
+
+ KAL_white_army:0 "러시아 백군"
+ KAL_white_army_desc:0 ""
+
+ KAL_okhrana:0 "오크라나"
+ KAL_okhrana_desc:0 ""
+
+ KAL_death_to_the_reds:0 "적군에게 죽음을"
+ KAL_death_to_the_reds_desc:0 ""

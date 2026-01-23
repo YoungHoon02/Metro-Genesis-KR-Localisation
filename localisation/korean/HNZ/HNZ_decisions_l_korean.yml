@@ -1,0 +1,156 @@
+﻿l_korean:
+  HNZ_passport_enforcement: "여권 시스템 강제"
+  HNZ_passport_enforcement_desc: "통합 여권 식별 시스템을 통해 환상선을 통과하는 모든 인원을 철저히 감시하고 통제합니다."
+  HNZ_enforce_passports: "여권 강제 통제"
+  HNZ_enforce_passport_tooltip: "인접한 역들이 연맹의 여권 시스템 도입에 협조하면 §Y20§! £pol_power_icon 정치력을 획득합니다."
+
+## External Relations ##
+  HNZ_external_relations: "대외 관계"
+
+  HNZ_pressure_reich_open_trade: "제국(Reich)에 무역 개방 압박"
+  HNZ_pressure_reich_open_trade_desc: "제국은 전쟁 전의 귀중한 기술을 대량으로 보유하고 있지만, 외부 세계와 거의 소통하지 않는 폐쇄적인 고립주의 경제 체제를 유지하고 있습니다. 그들의 군세는 강력하지만, 붉은 라인과의 끝없는 소모전 속에 있는 제국은 우리 연맹을 적으로 돌리지 않으려면 우리의 요구에 굴복하는 어려운 선택을 해야 할 것입니다."
+
+  HNZ_reich_peaceful_trade_resources: "제국과의 자원 무역"
+
+  HNZ_reich_peaceful_trade_guns: "제국과의 무기 무역"
+
+  HNZ_reich_treaty: "제국과의 조약"
+  HNZ_reich_treaty_desc: "제국이 '레벤스라움(생존 공간)'에 대한 야망을 품고 요새화된 역에서 전쟁을 준비하는 것은 누구나 아는 사실입니다. 우리가 그들에게 제한적인 통행권을 제공하는 것은 어떨까요? 폴리스와 우리 연맹의 영향권에서 떨어진 곳에 그들의 지분을 인정해주는 대신, 제국을 든든한 무역 파트너이자 붉은 라인을 견제할 강력한 동맹으로 활용하는 것입니다."
+
+  HNZ_southern_reclamation_authority: "서던 라인 재건청 설립"
+  HNZ_establish_southern_reclamation_authority: "재건청 설립 절차 진행"
+
+## Production Shift ##
+
+  HNZ_mandates: "중앙 집권 칙령"
+  HNZ_mandates_desc: "연맹의 이사회는 경제적 효율성과 산업 생산성을 극대화하기 위해 각 역에 강력한 칙령을 하달할 권한이 있습니다."
+  HNZ_shift_in_effect: "§Y교대제 조정§!이 이미 시행 중입니다."
+  HNZ_mandate_production_shift_increase: "생산 교대 확대"
+  HNZ_mandate_production_shift_increase_desc: "할당된 생산 목표를 달성하기 위해 근로 시간을 연장해야 합니다. 노동자들은 야간 근무에 강제로 투입되겠지만, 연맹의 수요를 충족하기 위해서는 필수적인 조치입니다."
+  HNZ_mandate_production_shift_decrease: "생산 교대 단축"
+  HNZ_mandate_production_shift_decrease_desc: "장시간 노동과 저임금으로 인한 노동자들의 불만이 극에 달해 있습니다. 일시적인 근무 시간 단축으로 노동자들의 피로를 완화할 수 있으나, 이는 곧바로 산업 생산량의 감소로 이어질 것입니다."
+  HNZ_shift_change_cost_bullet_tt: "§Y교대제 조정§! 비용이 §Y250§! £bullet_icon 증가했습니다."
+  HNZ_subsidies_in_effect: "§Y상인 보조금§!이 이미 지급되고 있습니다."
+  HNZ_mandate_trader_subsidies: "상인 보조금 지원"
+  HNZ_mandate_trader_subsidies_desc: "관세 인하 또는 정부 지출을 통해 상인들을 지원함으로써 그들이 환상선 너머의 시장에서도 경쟁력을 가질 수 있도록 돕습니다."
+  HNZ_subsidies_cost_tt: "§Y상인 보조금§! 비용이 §Y250§! £bullet_icon 증가했습니다."
+  HNZ_mandate_technician_subsidies: "기술자 보조금 지원"
+  HNZ_mandate_technician_subsidies_desc: "전문 기술 인력들에게 추가적인 자원과 식량을 제공하여 장비 생산과 연구 속도를 가속화합니다."
+  HNZ_gunsmith_subsidies_cost_tt: "§Y기술자 보조금§! 비용이 §Y250§! £bullet_icon 증가했습니다."
+  HNZ_mandate_diplomatic_grands: "외교적 자금 지원"
+  HNZ_권고_외교_대사_설명: "주변 역장들의 지지를 확보하거나 외교적 우위를 점하기 위한 기금을 할당합니다."
+  HNZ_mandate_mobilization: "강제 징집 칙령"
+  HNZ_mandate_mobilization_desc: "메트로의 위협에 대응하기 위해 모든 가용 인력을 연맹군으로 징집합니다."
+  HNZ_mandate_mobilization_2: "보충병 징집"
+  HNZ_mandate_mobilization_2_desc: "전선 유지와 병력 보충을 위해 추가적인 징집을 실시합니다."
+  HNZ_mandate_placate_station_autonomy: "자치역 회유"
+  HNZ_권력_조용히_메트로_자율성_설명: "자치권을 주장하는 역들의 반발을 잠재우기 위해 정치적 보상을 제안하거나 세금을 감면합니다."
+  HNZ_mandate_tax_rebates: "특별 세금 환급"
+  HNZ_세금환급규정설명: "연맹 시민들의 충성도를 높이고 경제 활력을 불어넣기 위해 세금 환급을 실시합니다."
+  HNZ_encourage_developments: "역 시설 현대화 촉진"
+  HNZ_encourage_developments_desc: "산업 중심 역들의 인프라를 보강하고 시설을 현대화하도록 장려합니다."
+  ## Depreciate
+  HNZ_production_shift: "생산 전환"
+
+  HNZ_shift_increase: "생산 교대 증가"
+  HNZ_shift_increase_desc: "생산량 확대를 위해 근무 할당량을 늘립니다. 노동자들의 휴식 시간은 줄어들겠지만 연맹의 금고는 채워질 것입니다."
+  shift_increment_tt: "생산 교대 확대 비용: §Y15§! £pol_power_icon"
+
+  HNZ_shift_decrease: "생산 교대 단축"
+  HNZ_shift_decrease_desc: "노동자들의 극심한 피로와 불만을 해소하기 위해 근무 시간을 줄입니다. 인력 효율은 높아지겠지만 총 생산량은 감소할 것입니다."
+  shift_subtract_increment_tt: "생산 교대 단축 비용: §Y15§! £pol_power_icon"
+
+  HNZ_shift_industrial_reforms: "산업 안전 개혁"
+  HNZ_shift_industrial_reforms_desc: "작업장 안전 규정을 다시 법제화하여 정비합니다. 이는 장기적인 숙련도 유지에 도움이 됩니다."
+
+  HNZ_privatize_industrial_sectors: "산업 부문 사유화"
+  HNZ_privatize_industrial_sectors_desc: "노후화된 국영 시설을 민간에 매각하여 운영 효율성을 꾀합니다."
+  HNZ_appropriation_in_effect: "산업 부문 재배치 효과가 이미 적용 중입니다."
+  reappropriate_subtract_sectors_tt: "산업 부문 재배치 수치 §Y10§! 감소 (£pol_power_icon)"
+
+  HNZ_reappropriate_sectors: "산업 부문 재배치"
+  HNZ_reappropriate_sectors_desc: "한지 연맹의 경제는 자유 시장을 존중하지만, 핵심 무역로와 거점 역들의 주요 산업 시설은 반드시 연맹 행정부의 직접적인 통제 하에 두어야 합니다."
+  reappropriate_sectors_tt: "산업 부문 재배치 비용 §Y20§! 증가 (£pol_power_icon)"
+
+  HNZ_extend_station_administration: "메트로 행정부 확장"
+  HNZ_extend_station_administration_desc: "무능한 관리들을 연맹의 이념을 지지하는 유능한 관료들로 교체하여 행정적 효율성을 강화합니다."
+  extend_administration_length_tt: "행정부 확장 비용 §Y20§! 증가 (£pol_power_icon)"
+
+## Scavenge the Surface ##
+  HNZ_scavenging_decisions: "지상 탐사 및 수색"
+
+  scavenge_for_tooling: "공업용 부품 수색"
+  scavenge_resources: "가용 자원 탐색"
+  
+  HNZ_subvert_eco: "[FROM.GetName]의 경제권 교란"
+  HNZ_subvert_pol: "[FROM.GetName]의 정치권력 무력화"
+  HNZ_pull_puppet: "[FROM.GetName]을 연맹의 속국으로 포섭"
+  HNZ_mobilise: "[FROM.GetName] 군대 동원"
+
+## Agendas Decisions ## 
+  HNZ_agenda_failure: "제시된 의제를 달성하지 못하면 정치적 타격을 입게 되며, 현 행정부에 대한 상류층의 불만이 증폭되어 심각한 위기를 초래할 것입니다!"
+
+  HNZ_agendas: "한자 이사회의 의제"
+  HNZ_agendas_desc: "메트로가 통합된 후 §Y환상선(Ring Line)§!의 권력과 영향력은 급격히 증가했습니다. 그러나 우리 연맹은 개별 역들이 공동 방위와 이익을 위해 느슨하게 결합된 형태입니다. 중앙 집권화를 통해 모든 역이 수도 [HNZ.capital.GetName]의 지시에 절대적으로 복종하게 만드는 것은 결코 쉬운 일이 아닙니다.\n\n이사회가 제시한 §Y의제§!를 기한 내에 완료하면 상인 연합과 관료 집단의 강력한 지지를 얻어 연맹의 권위를 공고히 할 수 있습니다.\n\n현재 £political_authority_texticon §O정치적 권위§! :  £political_authority_texticon §O[?HNZ_political_authority]§!\n\n의제 달성을 통해 확보한 권위를 소모하여 연맹 전체에 적용되는 강력한 보너스를 획득할 수 있습니다."
+
+  HNZ_mission_defensive_priority: "방어 우선 의제"
+  HNZ_mission_defensive_priority_desc: "환상선은 메트로의 모든 인적, 물적 교류의 중심이며 연맹을 지탱하는 생명선입니다. 우리는 선로를 침범하는 그 어떤 위협도 사전에 차단할 수 있는 완벽한 방어 체계를 구축해야 합니다."
+
+  HNZ_mission_defence_condition: "§Y지하 방어 시설§! 또는 §Y철조망§! §C10§!개 건설"
+
+  HNZ_mission_economic_priority: "경제 우선 의제"
+  HNZ_mission_economic_priority_desc: "한자 연맹의 진정한 힘은 총포가 아닌 압도적인 경제력에서 나옵니다. 우리는 경제 제재와 금수 조치를 통해 적대적인 세력들을 우리 앞에 무릎 꿇릴 수 있습니다."
+
+  HNZ_mission_neutrality_priority: "중립 유지 의제"
+  HNZ_mission_neutrality_priority_desc: "연맹은 경제적, 정치적으로 메트로 최고의 권력을 보유하고 있습니다. 붉은 라인의 세력은 제한적이며, 우리 한자는 누구도 건드릴 수 없는 거인입니다. 메트로의 세력 균형을 아슬아슬하게 유지하는 것이 우리의 지배력을 지속시키는 전략입니다."
+ 
+  HNZ_mission_neutrality_condition: "의제 기간 동안 메트로 긴장도를 높이는 행위(전쟁 선포 등)를 삼가고 중립적인 위치를 고수하십시오."
+
+  HNZ_mission_military_priority: "군사력 강화 의제"
+  HNZ_mission_military_priority_desc: "강력한 경제력 뒤에는 이를 뒷받침할 메트로 최대 규모의 정규군이 있어야 합니다. 로긴오프 정부를 위협하는 불온한 움직임을 감시하고 즉각 대응할 수 있는 화력을 확보하십시오."
+
+  HNZ_mission_military_condition: "§Y60§!개 이상의 보병 대대를 편성하거나, 총 병력을 §Y1,500§!명 이상 확보하십시오."
+
+  HNZ_mission_armament_priority: "군비 도약 의제"
+  HNZ_mission_armament_priority_desc: "한자 연맹군은 실전에 자주 투입되지는 않지만, 메트로에서 가장 정예화된 장비를 갖추어야 합니다. 연맹의 막대한 부를 투입하여 다른 역들은 꿈도 꾸지 못할 최고급 무기와 탄약을 보급하십시오."
+  HNZ_infantry_equipment_priority: "군대에 §Y보병 장비 400개§! 보급\n\n"
+  HNZ_support_equipment_priority: "군대에 §Y지원 장비 40개§! 보급\n\n"
+  HNZ_flamethrower_equipment_priority: "군대에 §Y화염방사기 40개§! 보급\n\n"
+  HNZ_explosive_equipment_priority: "군대에 §Y폭발물 장비 40개§! 보급\n\n"
+  HNZ_gatling_equipment_priority: "군대에 §Y개틀링 건 40개§! 보급\n\n"
+
+  HNZ_mission_reclaimation_priority: "지구 재건 의제"
+  HNZ_미션_재획_우선순위_설명: "메트로의 버려진 구역을 정화하고 연맹의 질서 아래 다시 편입시켜 생존 공간을 확장하십시오."
+
+  HNZ_mission_research_priority: "기술 혁신 의제"
+  HNZ_mission_research_priority_desc: "전쟁 전의 고등 기술을 복원하고 새로운 메트로 환경에 적응하는 신기술을 연구하여 과학적 우위를 점하십시오."
+
+  HNZ_mission_draisine_priority: "기갑 드레진 생산 의제"
+  HNZ_mission_draisine_priority_desc: "선로 위의 기사단이 될 강력한 드레진 부대를 육성하십시오. 우리의 기갑 전력은 그 어떤 보병 부대보다 강력한 돌파력을 제공할 것입니다."
+  HNZ_rail_cart_equipment_priority: "군대에 §Y드레진(Rail Cart) 35대§! 이상 보유\n\n"
+  HNZ_rail_car_equipment_priority: "군대에 §Y무장 드레진(Rail Car) 35대§! 이상 보유\n\n"
+  HNZ_rail_panzer_equipment_priority: "군대에 §Y레일 판저(Rail Panzer) 35대§! 이상 보유\n\n"
+
+  HNZ_mission_mutant_purge_priority: "돌연변이 박멸 의제"
+  HNZ_mission_mutant_purge_priority_desc: "메트로의 안전을 위협하는 끔찍한 괴물들을 소탕하고 터널의 안녕을 보장하십시오."
+
+  HNZ_mission_mutant_purge_condition: "의제 기간 동안 연맹의 국경이 §R돌연변이§! 또는 §R야만 세력§!과 접하지 않도록 전선을 유지하십시오."
+
+  HNZ_political_authority_1_cost: "§Y1§!£political_authority_texticon §O[?HNZ_political_authority]§!"
+  HNZ_political_authority_1_cost_blocked: "§R1§!£political_authority_texticon §O[?HNZ_political_authority]§!"
+
+  HNZ_mission_spend_authority_eco_law: "경제 정책에 영향력 행사"
+  HNZ_mission_spend_authority_pol: "정치 구조에 영향력 행사"
+  HNZ_mission_spend_authority_eco: "상인 계급의 지지 확보"
+
+  HNZ_expand_influence_category: "독수리의 날개 아래"
+  HNZ_expand_influence_category_desc: "한자의 독수리는 평화를 보장합니다. 우리의 번영을 방해하는 자들에겐 오직 힘의 질서만이 존재할 뿐입니다."
+  HNZ_expand_influence: "[FROM.GetName]을 적대 세력으로부터 탈환"
+
+  HNZ_annex_puppet_category: "연맹 영토 확장"
+  HNZ_annex_puppet_category_desc: "확장. 착취. 모든 위협을 멸절하라."
+  HNZ_annex_puppet: "메트로 [From.GetName]를 합병하라"
+  HNZ_already_annexing_station: "공화국 확장을 이미 진행 중입니다"
+
+  HNZ_war_committee_category: "전쟁 계획 부서"
+  HNZ_전쟁위원회_분류설명: ""

@@ -1,0 +1,59 @@
+﻿l_english:
+  
+  _spartan_representative:0 "Representative of Interests"
+  _spartan_scientist:0 "Scientist"
+  _spartan_recruiter:0 "Recruiter"
+  _spartan_quartermaster:0 "Quartermaster"
+  _spartan_technician:0 "Technician"
+  _spartan_drill_instructor:0 "Drill Sergeant"
+  _spartan_surgeon:0 "Shotgun Surgeon"
+  _spartan_topside_surveyor:0 "Expert Stalker"
+  _spartan_sniper:0 "Sniper"
+  _spartan_doctrine_theorist:0 "Theorist"
+
+  SPT_MILLER_NAME:0 "Melnikov"
+  SPT_MILLER_DESC:0 "§9«He was serious, attentive, and even here, in this quiet, well-lit station, he gave the impression of being ready to face danger, of never being caught off guard.»§!\n\nA man of complexities and contrasts; Demanding, sometimes harsh, furiously practical, serious and focused, he seems at first glance to embody the ideal Stalker. Beneath the veil of the perfect soldier however lies the true makings of a hero. Melnik does not dare leave a wounded man behind if there is a glimmer he could be saved; his natural authority can reorganize a small squad gripped by fear in a flash. Everyone who knows Colonel Melnik regards him with a mixture of fear and admiration."
+  _SPT_miller_country_leader_trait: "The Colonel"
+
+  SPT_HUNTER_NAME:0 "Hunter"
+
+ ### Advisors ###
+
+  _SPT_miller_trait:0 "Harsh Leader"
+  _SPT_hunter_trait:0 "if its hostile, you kill it"
+  _SPT_ulman_trait:0 "People's Officer"
+  _SPT_yermak_trait:0 "Hanseatic Engineer"
+  _SPT_tokarev_trait:0 "Expert Weaponsmith"
+  _SPT_anna_trait:0 "Renowned Sniper"
+  _SPT_stepan_trait:0 "Demolitions Expert"
+  _SPT_vladimir_trait:0 "Head Quartermaster"
+  _SPT_tomilin_trait:0 "Experienced Squad Leader"
+  _SPT_idiot_trait:0 "Colonel's Philosopher"
+  SPT_polis_advisor_1:0 "Tikhon Bogdanov"
+  SPT_polis_advisor_2:0 "Yegor Kuznetsov"
+  PLS_spartan_advisor_1:0 "Luki Koslov"
+  PLS_spartan_advisor_2:0 "Stanislov Opiisiv"
+  SPT_arbat_advisor_1:0 "Rodion Antonov"
+  SPT_korneyev: "Lieutenant Korneyev"
+  _SPT_korneyev_trait: "Indomitable Defender"
+  SPT_ulman:0 "Ulman"
+  SPT_yermak:0 "Yermak"
+  SPT_tokarev:0 "Tokarev"
+  SPT_anna:0 "Anna"
+  SPT_stepan:0 "Stepan"
+  SPT_vladimir:0 "Vladimir"
+  SPT_tomilin:0 "Tomilin"
+  SPT_idiot:0 "Idiot"
+
+ ### Party ###
+  SPT_community_party:0 "The Order"
+  SPT_community_party_long:0 "The Order of Sparta"
+
+  SPT_council_party:0 "The Order"
+  SPT_council_party_long:0 "The Order of Sparta"
+
+  SPT_dictatorial_party:0 "Hunter's Clique"
+  SPT_dictatorial_party_long:0 "Hunter's Clique"
+
+  SPT_oligarch_party:0 "The Order"
+  SPT_oligarch_party_long:0 "The Order of Sparta"

@@ -1,0 +1,30 @@
+﻿l_korean:
+ upgrade_agency_capacity:0 "정보국 부서 확충"
+ upgrade_agency_capacity_desc:0 "정보국에 새로운 부서를 신설하고 규모를 확장합니다."
+
+ upgrade_spy_capacity:0 "요원 포섭 한도 증대"
+ upgrade_spy_capacity_desc:0 "현장에서 활동할 수 있는 가용 요원의 수를 늘립니다."
+
+ upgrade_encryption:0 "암호화 역량 강화"
+ upgrade_encryption_desc:0 "통신 및 데이터 암호화 체계를 강화하여 적의 첩보 활동으로부터 정보를 보호합니다."
+
+ upgrade_decryption:0 "해독 역량 강화"
+ upgrade_decryption_desc:0 "적의 암호화된 통신을 분석하고 해독하는 속도를 개선합니다."
+
+ upgrade_secret_police:0 "비밀경찰 효율 개선"
+ upgrade_secret_police_desc:0 "내부 보안 및 반동 분자 척결을 위해 비밀경찰의 조직력을 정비합니다."
+
+ upgrade_discrete_operations:0 "은밀한 특수 작전"
+ upgrade_discrete_operations_desc:0 "추적을 회피하고 정보 노출을 최소화하며 은밀하게 작전을 수행합니다."
+
+ upgrade_forceful_approach:0 "강압적 정보 탈취"
+ upgrade_forceful_approach_desc:0 "강력한 물리적 수단과 적극적인 심문을 동원하여 적의 기밀을 탈취합니다."
+
+ upgrade_explosive_capacities:0 "폭파 및 파괴 공작"
+ upgrade_explosive_capacities_desc:0 "적의 주요 전략 시설을 무력화하기 위한 전문 폭파 공작 역량을 강화합니다."
+
+ upgrade_espionage_ability:0 "간첩 활동 역량 강화"
+ upgrade_espionage_ability_desc:0 "요원들의 은신 및 정보 수집 능력을 전반적으로 향상합니다."
+
+ upgrade_death_before_dishonor:0 "불명예보다 죽음을"
+ upgrade_death_before_dishonor_desc:0 "요원이 체포될 경우 자결을 선택하도록 교육하여 조직의 비밀 누설을 원천 차단합니다."

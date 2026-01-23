@@ -1,0 +1,2 @@
+﻿l_korean:
+ alert_lack_of_power_delayed_header: "에너지 부족으로 인한 지연 헤더: 메트로 에너지 | £out_of_power_texticon 에너지가 부족합니다 \n산업은 $PERCENTAGE|.0H%$ 에너지 수요를 충족하는 것으로 나타났습니다. 다음과 같은 효과가 있습니다:"

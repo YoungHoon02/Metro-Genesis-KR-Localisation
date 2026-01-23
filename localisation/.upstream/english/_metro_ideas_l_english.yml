@@ -1,0 +1,95 @@
+﻿l_english:
+ savage_industry: "Technophopes"
+ savage_industry: "This society abhors civilization and the 'machine people', completely rejecting any concept of technological progress or industrial proficiency outside few, key select toolmakers and artisans."
+
+ backwards_industry: "Deficient Industry"
+ backwards_industry_desc: "The lack of a proper industrial base has kept the need for electricity to a minimal, although this station struggles to meet the manufacturing demands of its populace.\n\nOwning §Y15 Factories§! or more shall remove this §YNational Spirit§!."
+ backwards_industry_countdown: "Increasing Energy Consumption"
+
+ poor_and_backwards: "Impoverished"
+ poor_and_backwards_desc: "Even the mould-soaked tiles and ceramic artwork lacing the station walls are being yanked away to be sold for meagre bullets in order to keep this station from eating the elderly, or devolving into full-scale barbarism."
+ giant_enemy_spider: "Dark Spider"
+ giant_enemy_spider_desc: "An evil presence lurks in the tunnels leading to Trubnaya. So maligned and sinister infact that many from Dostoyevskaya would prefer risking travel across the surface naked and unmasked, than venturing forth through the depths."
+
+ metro_ruins:0 "Metro Ruins"
+ metro_ruins_desc:0 "Untold miles of tracks, a myriad of countless winding and weaving passageways which penetrate into the dark recesses of the earth. decrepit darkness suffocating with forgotten beasts and the restless souls of the damned. This is now your home."
+
+ hanza_redline_war:0 "Legacy of the Hanza-Redline War"
+ hanza_redline_war_desc:0 "The bloodiest conflict the entire Metro has seen since the apocalypse. The war was fought between the §YHanseatic League§!, and the §BAnti-Communist Coalition§! as a means to suppress the ever growing might and power of the §RSokolnicheskaya§! Line. The war quickly devolved into utter carnage; back and forth engagements, guerilla warfare, Entire stations and tunnels littered with towers of corpses. One side would take control of a station, only for them to be pushed back later that very same day. Slowly the war grew tiresome, exhausting the metro of resources and its population. Citizens of both sides grew agitated and exhausted from the war. It was clear that neither side would achieve victory. Whilst the true victor can be argued to be the §YHanza§! - as their interests to contain the §RRed Line§! and completely subjugate the §YKoltsevaya line§! was achieved, it is clear to see the scars of that horrific conflict still permeates the denizens of the metro.\n\n It will take a while before our citizens are willing to join the military."
+
+ metro_thump_in_the_night: "Thump in the Night"
+ metro_thump_In_the_night_desc: "Separated on the §YArbatsko-Pokrovskaya Line§! from the rest of the Metro, these isolated communities are the complete mercy from mutant, bandit and worse threats alike. Making unification between stations an impossibly arduous feat."
+ metro_thump_in_the_night_modifier: "\nRestricted §RTrade§! and §RBorder Laws§!. §Y[GWC.GetFlag][GWC.GetName]§! Must no longer pose a threat to our society to remove this National Spirit!\n"
+ 
+ ### Tech Ideas
+ 
+ tech_punch_press_1: "Basic Punch Presses"
+ tech_punch_press_2: "Mediocre Punch Presses"
+ tech_punch_press_3: "Good Punch Presses" 
+ tech_punch_press_4: "Advanced Punch Presses"
+
+ ## Scavenging Rewards ## 
+
+ scavenging_eq_gun_production_buff:0 "Gun Production schematics"
+ scavenging_eq_gun_production_buff_desc:0 ""
+
+ scavenging_eq_gun_stat_buff:0 "Military-Grade Ammo Cache"
+ scavenging_eq_gun_stat_buff_desc:0 ""
+
+ scav_reward_eq_spec_ops_production_buff:0 "Polymer-Fiber Rolls"
+ scav_reward_eq_spec_ops_production_buff_desc:0 ""
+
+ scav_reward_eq_spec_ops_stat_buff:0 "Gas-Mask Crates"
+ scav_reward_eq_spec_ops_stat_buff_desc:0 ""
+
+ scav_reward_eq_flamethrower_production_buff:0 "propellant storage barrels"
+ scav_reward_eq_flamethrower_production_buff_desc:0 ""
+
+ scav_reward_eq_flamethrower_stat_buff:0 "Gasoline Storage Tanks"
+ scav_reward_eq_flamethrower_stat_buff_desc:0 ""
+
+ scav_reward_eq_gatling_production_buff:0 "Barrel Assembly Kits"
+ scav_reward_eq_gatling_production_buff_desc:0 ""
+
+ scav_reward_eq_gatling_stat_buff:0 "Aim compensator stockpile"
+ scav_reward_eq_gatling_stat_buff_desc:0 ""
+
+ scav_reward_eq_explosive_production_buff:0 "Launcher Adaptor storage"
+ scav_reward_eq_explosive_production_buff_desc:0 ""
+
+ scav_reward_eq_explosive_stat_buff:0 "High-Explosive Pills"
+
+ scav_reward_resource_scrap_timed_idea:0 "Scrap Deposit"
+ scav_reward_resource_scrap_timed_idea_desc:0 ""
+
+ scav_reward_resource_alloys_timed_idea:0 "Alloy Deposit"
+ scav_reward_resource_alloys_timed_idea_desc:0 ""
+
+ scav_reward_resource_electronics_timed_idea:0 "Electronics Deposit"
+ scav_reward_resource_electronics_timed_idea_desc:0 ""
+
+ scav_reward_resource_components_timed_idea:0 "Component Stash"
+ scav_reward_resource_components_timed_idea_desc:0 ""
+
+ scav_reward_resource_chemicals_timed_idea:0 "Chemical Stash"
+ scav_reward_resource_chemicals_timed_idea_desc:0 ""
+
+ ## Flamethrower Ban System ## 
+
+ flamethrower_restriction_ban:0 "Imposed Flamethrower Restrictions"
+ flamethrower_restriction_ban_desc:0 "Whilst the usage of §YFlamethrowers§! themselves are not inherently banned, the use of them against fellow human combatants is looked heavily down upon.\nSeeing heavy usage during the §C@HNZHanza - @REDRed Line War§! on either side, the treaty of §Y[361.GetName]§! forbade the usage of Flamethrowers as a means to wage warfare on any large scale."
+
+ flamethrower_ban: "\nAs a participant in this treaty, our §YFlamethrower§! research speed is §RRestricted!§!\n"
+ lifting_flamethrower_restriction_ban: "\nNations will respond §RNegatively§! to lifting the restrictions!\n\n"
+
+ GENERIC_inexperienced_military_4: "Inexperienced Engineers"
+ GENERIC_inexperienced_military_4_desc: "Placed on the Eastern Metro, the relative safety and security has cultivated stations geard to civil production and food, rather than tools of war. With the adverse effect of competent engineers and gunsmiths being a sorely desired skillset in the East."
+
+ GENERIC_inexperienced_military_3: "Lacking Technical Staff"
+ GENERIC_inexperienced_military_3_desc: ""
+
+ GENERIC_inexperienced_military_2: "Flimsy Technical Skill"
+ GENERIC_inexperienced_military_2_desc: ""
+
+ GENERIC_inexperienced_military_1: "Burgeoning Engineers"
+ GENERIC_inexperienced_military_1_desc: ""

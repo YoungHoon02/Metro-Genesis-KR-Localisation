@@ -1,0 +1,75 @@
+﻿l_korean:
+  custom_diff_strong_rch:0 "@RCH 제4제국 강화 @RCH"
+  custom_diff_strong_hnz:0 "@HNZ 한자 동맹 강화 @HNZ"
+  custom_diff_strong_red:0 "@RED 붉은 라인 강화 @RED"
+  custom_diff_strong_pls:0 "@PLS 폴리스 강화 @PLS"
+  custom_diff_strong_spt:0 "@SPT 레인저스 강화 @SPT"
+  custom_diff_strong_gwc:0 "@GWC 웜의 야만적인 식인종들 강화 @GWC"
+  custom_diff_strong_isl:0 "@ISL 북부 칼리파국 강화 @ISL"
+  custom_diff_strong_sat:0 "@SAT 사탄주의자들 강화 @SAT"
+
+  RULE_RANDOM_EVENTS_GOOD:0 "긍정적 무작위 이벤트"
+  RULE_RANDOM_EVENTS_GOOD_ENABLED:0 "활성화"
+  RULE_RANDOM_EVENTS_GOOD_ENABLED_DESC:0 "메트로에 드물게 찾아오는 긍정적인 무작위 이벤트가 활성화됩니다."
+  RULE_RANDOM_EVENTS_GOOD_DISABLED:0 "비활성화"
+  RULE_RANDOM_EVENTS_GOOD_DISABLED_DESC:0 "긍정적인 무작위 이벤트가 발생하지 않습니다. 생존은 더욱 가혹해질 것입니다."
+
+  RULE_RANDOM_EVENTS_BAD:0 "부정적 무작위 이벤트"
+  RULE_RANDOM_EVENTS_BAD_ENABLED:0 "활성화"
+  RULE_RANDOM_EVENTS_BAD_ENABLED_DESC:0 "메트로의 가혹한 현실을 보여주는 부정적 무작위 이벤트가 활성화됩니다."
+  RULE_RANDOM_EVENTS_BAD_DISABLED:0 "비활성화"
+  RULE_RANDOM_EVENTS_BAD_DISABLED_DESC:0 "부정적인 무작위 이벤트가 발생하지 않습니다."
+
+  disable_reclamation_mechanic:0 "규칙 설정: £trigger_no 파괴된 주를 복구할 수 있습니다."
+
+  RCH_APRIL_FOOLS_TREE: "@RCH 만우절 트리"
+  RCH_APRIL_FOOLS_TREE_DISABLED: "비활성화"
+  RCH_APRIL_FOOLS_TREE_DISABLED_DESC: "지기스문트 슈타인하우저는 '디 글록케(Die Glocke)'를 타고 메트로를 영원히 떠날 것입니다."
+  RCH_APRIL_FOOLS_TREE_ENABLED: "활성화"
+  RCH_APRIL_FOOLS_TREE_ENABLED_DESC: "제국이 기묘하고 공포스러운 사건들의 소용돌이에 휘말리게 됩니다."
+
+  PREVENT_WAR_HOSTILITIES: "£trigger_no §R[RUI.GetName]에게 전쟁을 선포할 수 없습니다.§!"
+  HUMAN_ONLY: "£trigger_no §R문명 국가들만 외교를 수행할 수 있습니다.§!"
+
+	RED_AI_BEHAVIOR: "@RED 붉은 라인 성향"
+	RULE_OPTION_RED_KORBUT: "코르부트"
+	RULE_OPTION_RED_KORBUT_DESC: "코르부트와 NKVD가 붉은 라인을 장악하고 철권통치를 펼칠 것입니다."
+	RULE_OPTION_RED_MAXIM: "안드레이의 결의"
+	RULE_OPTION_RED_MAXIM_DESC: "안드레이가 생존하여, 사회주의의 영광스러운 새 시대로 붉은 라인을 계속 이끌 것입니다."
+	RULE_OPTION_RED_MOSKVIN: "모스크빈 파벌"
+	RULE_RED_MOSKVIN_DESC: "마크심 모스크빈이 붉은 라인의 명목상 통치권을 장악할 것입니다."
+	RULE_OPTION_RED_PAVEL: "파벨"
+	RULE_RED_PAVEL_DESC: "파벨 모로조프가 붉은 라인을 장악할 것입니다."
+	
+	HNZ_AI_BEHAVIOR: "@HNZ 한자 동맹 성향"
+	RULE_OPTION_HNZ_LOGINOV: "로기노프"
+	RULE_OPTION_HNZ_LOGINOV_DESC: "로기노프가 의장직을 유지하며 현상 유지를 꾀할 것입니다."
+	RULE_OPTION_HNZ_INVISIBLE_OBSERVERS: "러시아 연방 국방 위원회"
+	RULE_OPTION_HNZ_INVISIBLE_OBSERVERS_DESC: "보이지 않는 관찰자들이 정체를 드러내 메트로를 하나로 묶고 다가오는 위협에 대비할 것입니다."
+	
+	RCH_AI_BEHAVIOR: "@RCH 제4제국 성향"
+	RULE_OPTION_RCH_FUHRER: "총통"
+	RULE_OPTION_RCH_FUHRER_DESC: "예브게니 페트로비치가 제국 내 경쟁자들을 누르고 절대권력을 행사할 것입니다."
+	RULE_OPTION_RCH_KREIPP: "크라이프"
+	RULE_OPTION_RCH_KREIPP_DESC: "지도자가 지상에서 귀환한 후, 제국의 광신적인 종파가 권력을 찬탈할 것입니다."
+
+	EUR_AI_BEHAVIOR: "@EUR 유럽 성향"
+	RULE_OPTION_EUR_CAESAR: "Veni, Vidi, Vici"
+	RULE_OPTION_EUR_CAESAR_DESC: "과거의 영광에 대한 광기 어린 집착과 권력욕이 로마를 비참한 현실 속에 다시 불러낼 것입니다."
+	RULE_OPTION_EUR_AMSEL: "동방의 향수"
+	RULE_OPTION_EUR_AMSEL_DESC: "독일 파벌들이 통제권을 쥐고 사회적 평등과 집단화를 강요할 것입니다. 평화나 자비는 사치일 뿐이며, 권력의 철퇴가 모든 것을 끝낼 것입니다."
+
+	ARB_AI_BEHAVIOR: "@ARB 아르바트 연합 성향"
+	RULE_OPTION_ARB_HANZA: "한자 협력"
+	RULE_OPTION_ARB_HANZA_DESC: "@ARB 아르바트가 생존을 위해 한자 동맹과 더욱 밀착할 것입니다."
+	RULE_OPTION_ARB_MUSLIM: "이슬람의 발흥"
+	RULE_OPTION_ARB_MUSLIM_DESC: "카프카스 공동체가 주도권을 잡고, 박해받는 소수 민족들에게 위태로운 안식처를 제공할 것입니다."
+	RULE_OPTION_ARB_PLS: "스파르타 연대"
+	RULE_OPTION_ARB_PLS_DESC: "@ARB 아르바트가 폴리스와 결속하며, @SPT 스파르타 오더의 레인저들을 적극 지원할 것입니다."
+	RULE_OPTION_ARB_STALKER: "스토커 구역"
+	RULE_OPTION_ARB_STALKER_DESC: "@ARB 아르바트는 스토커들의 최후의 보루가 될 것입니다. 스토커들에 의해, 스토커들을 위해 운영되는 정거장으로 남습니다."
+
+	#-- In Game Rules --#
+
+	disable_scavenging_flag:0 "폐품 회수 비활성화"
+	enable_scavenging_rule:0 "£trigger_no 지표면 폐품 회수 임무를 수행할 수 있습니다."

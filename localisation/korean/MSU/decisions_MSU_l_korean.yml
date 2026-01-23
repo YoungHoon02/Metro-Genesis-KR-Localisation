@@ -1,0 +1,8 @@
+﻿l_korean:
+  MSU_sparrow_hills_decision_category: "모스크바 강 위의 다리"
+  MSU_expand_into_sparrow_hills: "[288.GetName] 원정"
+  MSU_expand_into_sparrow_hills_desc: "[301.GetName] 너머로 나아갈 수 있는 특별 허가가 떨어졌습니다. [ROOT.Leader.GetName] 장관은 스토커 소분대가 보로비요비 고리로 원정을 떠나는 것을 승인했습니다."
+  MSU_defend_sparrow_hills: "머나먼 다리"
+  MSU_defend_sparrow_hills_desc: "이제 [288.GetName]이 우리의 통제하에 들어왔으므로, 다리 초입에 영구적인 주둔지를 구축하기 위한 자원을 할당해야 합니다. 이를 통해 다리 건너편에서 올 수 있는 잠재적인 위협을 차단할 수 있을 것입니다."
+  MSU_launch_border_skirmish: "국경 교전 수행"
+  MSU_launch_border_skirmish_desc: "장벽 너머에 실제로 누군가가 거주하고 있다는 사실이 밝혀진 이상, 우리에게 남은 선택지는 오직 하나뿐입니다."
