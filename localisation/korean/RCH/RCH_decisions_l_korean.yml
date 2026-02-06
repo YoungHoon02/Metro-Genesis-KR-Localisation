@@ -6,9 +6,9 @@
  RCH_hitsquad_oob_tt:0 "§Y사비올롭스카야 선발 침공군으로 활약할 3개 사단을 생성합니다.§!"
 
  RCH_depose_category:0 "퓌러에 대항하는 음모"
- RCH_assassination_plus:0 "이것은 §B퓌러§!를 축출할 확률을 §G증가§!시킵니다!§!"
- RCH_assassination_plus_large:0 "이것은 §B퓌러§!를 축출할 확률을 §G크게 증가§!시킵니다!§!"
- RCH_assassination_minus:0 "이것은 §B퓌러§!를 축출할 확률을 §R감소§!시킵니다!§!"
+ RCH_assassination_plus:0 "이것은 §G증가§!하여 §B퓌러§!를 축출할 확률을 높입니다!"
+ RCH_assassination_plus_large:0 "이것은 §G증가§!하여 §B퓌러§!를 축출할 확률을 §7크게 증가§!시킵니다!"
+ RCH_assassination_minus:0 "이것은 §R감소§!하여 §B퓌러§!를 축출할 확률을 낮춥니다!"
 
  RCH_depose_category_desc:0 "우리는 신속하게 §R퓌러§!를 축출해야 합니다. 비겁한 독재자를 처리한 후, 우리만의 정부를 세우기 시작할 것입니다. §C크라이프§!를 위하여! \n \n \n \n§R쿠데타 확률: [ROOT.GetRCH_assassination]%§!"
 

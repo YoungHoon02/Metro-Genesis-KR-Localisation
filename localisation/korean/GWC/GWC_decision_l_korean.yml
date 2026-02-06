@@ -21,7 +21,7 @@
 
   ### LR Related Stuff ##
   GWC_LR_infiltration:0 "§Y[FROM.GetNameDef]§! 침투"
-  GWC_infiltration:0 "만약 §Y[FROM.GetNameDef]§!의 첩보망 강도가 §Y15%§!를 넘으면, 그들에게 §R적대적§! 행위를 가할 수 있습니다.\n첩보망 강도가 §Y50%§!를 넘으면, 우리는 §Y상당한§! 전복 능력을 갖추게 됩니다."
+  GWC_infiltration:0 "만약 §Y15%§!를 넘는 첩보망 강도가 §Y[FROM.GetNameDef]§!에 구축되면, 그들에게 §R적대적§! 행위를 가할 수 있습니다.\n그러나 §Y첩보망 강도§!가 [FROM.GetName]에서 §Y50%§!를 넘으면, 우리는 §Y상당한§! 전복 능력을 갖추게 됩니다."
   GWC_infiltration_minor:0 "어둠 속의 목소리가 들리기 시작합니다."
   GWC_infiltration_considerable:0 "우리의 영향력이 이교도들의 일상 깊숙이 스며들었습니다."
 

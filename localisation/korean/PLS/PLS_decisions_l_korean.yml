@@ -5,7 +5,7 @@
   pls_council_main_icon_tt:0 "[GetParliamentSeatName] - [GetParliamentPartyName]"
   pls_council_seat_text:0 "좌석 [?temp_seat|Y0]"
   pls_council_member_text:0 "[GetParliamentPartyName] - [?pls_council_seat_array^pls_council_member_index]석"
-  pls_council_modify_button_tt:0 "§GCtrl+클릭§!하여 [GetParliamentPartyName]의 의석을 §Y5§!석 추가\n§GShift+클릭§!하여 [GetParliamentPartyName]의 의석을 §Y5§!석 제거"
+  pls_council_modify_button_tt:0 "§GCtrl+클릭§!하여 §Y5§!석을 [GetParliamentPartyName]에 추가\n§GShift+클릭§!하여 §Y5§!석을 [GetParliamentPartyName]에서 제거"
   party_1_text:0 "§G지지!§!"
   party_2_text:0 "§R반대!§!"
 

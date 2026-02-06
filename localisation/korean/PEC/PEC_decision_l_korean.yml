@@ -1,6 +1,6 @@
 ﻿l_korean:
  military_inefficiency_tooltip: "\n현재 군사 역량: §Y[?military_current_threshold]§!\n필요 군사 역량: §Y[?military_competency_threshold]§!"
- military_current_threshold_increase: "군사 역량 §Y1 증가§!\n"
+ military_current_threshold_increase: "§Y증가§! 군사 역량을 §Y1§! 만큼 높입니다.\n"
  military_inexperience_category: "기술 역량 강화"
  military_inexperience_category_desc: "우리는 지금까지 상비군을 강화하기 위해 수입에 너무 많이 의존해 왔습니다. 현재 메트로의 평화로운 구역에 자리를 잡고는 있지만, 이 안전함이 영원히 지속되지는 않을 것입니다.\n\n그저 파이프를 몇 번 두드린다고 해서 이웃 역들이 우리 솜씨를 부러워하지는 않을 것입니다. 군사적 효율성을 높이기 위해 뼈를 깎는 노력을 기울여야 합니다."
  inexperience_hire_technicians: "전문가 고용"

@@ -22,7 +22,7 @@
 
  TRT_increase_flooding_protection_cost:0 "\n§g이§! §Y결정§! §g을 사용할 때마다 비용이 증가합니다!§!"
  TRT_increase_flooding_protection_duration:0 "\n§g이§! §Y결정§! §g을 사용할 때마다 지속 시간이 증가합니다!§!\n"
- TRT_increase_preparation_level:0 "\n§g준비량이§! §R10§! §g만큼 증가합니다.§!\n"
+ TRT_increase_preparation_level:0 "\n§g준비량이§! §Y증가§! §g하여§! §R10§!§g만큼§!.\n"
 
  TRT_countdown_to_flood_timer_event:0 "홍수 카운트다운"
 

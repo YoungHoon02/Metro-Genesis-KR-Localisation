@@ -1,7 +1,7 @@
 ﻿l_korean:
 
  VDN_factionalism_category:0 "권력 균형"
- VDN_factionalism_category_desc:0 "여섯 개의 정치, 경제, 사회적 파벌이 연합의 인구 통계를 구성하고 있습니다. 당신이 지지하는 집단이 소외되지 않도록 관리하는 동시에, 반대 세력이 주도권을 잡지 못하도록 경계해야 합니다.\n \n§상인 영향력: [ROOT.GetVDN_Trade_Influence]§!\n \n§1자본가 영향력: [ROOT.GetVDN_Capitalist_Influence]§!\n \n§O외국인 영향력: [ROOT.GetVDN_Foreign_Influence]§!\n \n§7군부 영향력: [ROOT.GetVDN_Military_Influence]§!\n \n§8일반인 영향력: [ROOT.GetVDN_Commonfolk_Influence]§!\n \n§3정치인 영향력: [ROOT.GetVDN_Politician_Influence]§!"
+ VDN_factionalism_category_desc:0 "여섯 개의 정치, 경제, 사회적 파벌이 연합의 인구 통계를 구성하고 있습니다. 당신이 지지하는 집단이 소외되지 않도록 관리하는 동시에, 반대 세력이 주도권을 잡지 못하도록 경계해야 합니다.\n \n§C상인 영향력: [ROOT.GetVDN_Trade_Influence]§!\n \n§1자본가 영향력: [ROOT.GetVDN_Capitalist_Influence]§!\n \n§O외국인 영향력: [ROOT.GetVDN_Foreign_Influence]§!\n \n§7군부 영향력: [ROOT.GetVDN_Military_Influence]§!\n \n§8일반인 영향력: [ROOT.GetVDN_Commonfolk_Influence]§!\n \n§3정치인 영향력: [ROOT.GetVDN_Politician_Influence]§!"
  
  VDN_fund_traders:0 "상인 자금 지원"
  VDN_fund_traders2:0 "카라반 후원"
@@ -13,17 +13,17 @@
  VDN_give_local_autonomy:0 "지방 자치권 부여"
  VDN_give_local_autonomy2:0 "군 지도부 규탄"
  
- vdn_trade_plus:0 "이 명령은 §G상인§!들의 영향력을 §G증가§!시킬 것입니다!"
- vdn_capitalist_plus:0 "이 명령은 §G자본가§!들의 영향력을 §G증가§!시킬 것입니다!"
- vdn_foreign_plus:0 "이 명령은 §G외국인§!들의 영향력을 §G증가§!시킬 것입니다!"
- vdn_army_plus:0 "이 명령은 §G군부§!의 영향력을 §G증가§!시킬 것입니다!"
- vdn_commonfolk_plus:0 "이 명령은 §G일반인§!들의 영향력을 §G증가§!시킬 것입니다!"
- vdn_politician_plus:0 "이 명령은 §G정치인§!들의 영향력을 §G증가§!시킬 것입니다!"
- vdn_trade_minus:0 "이 명령은 §R상인§!들의 영향력을 §R감소§!시킬 것입니다!"
- vdn_capitalist_minus:0 "이 명령은 §R자본가§!들의 영향력을 §R감소§!시킬 것입니다!"
- vdn_army_minus:0 "이 명령은 §R군부§!의 영향력을 §R감소§!시킬 것입니다!"
- vdn_commonfolk_minus:0 "이 명령은 §R일반인§!들의 영향력을 §R감소§!시킬 것입니다!"
- vdn_politician_minus:0 "이 명령은 §R정치인§!들의 영향력을 §R감소§!시킬 것입니다!"
+ vdn_trade_plus:0 "이 명령은 §G증가§!하여 §C상인§!들의 영향력을 높일 것입니다!"
+ vdn_capitalist_plus:0 "이 명령은 §G증가§!하여 §1자본가§!들의 영향력을 높일 것입니다!"
+ vdn_foreign_plus:0 "이 명령은 §G증가§!하여 §O외국인§!들의 영향력을 높일 것입니다!"
+ vdn_army_plus:0 "이 명령은 §G증가§!하여 §7군부§!의 영향력을 높일 것입니다!"
+ vdn_commonfolk_plus:0 "이 명령은 §G증가§!하여 §8일반인§!들의 영향력을 높일 것입니다!"
+ vdn_politician_plus:0 "이 명령은 §G증가§!하여 §3정치인§!들의 영향력을 높일 것입니다!"
+ vdn_trade_minus:0 "이 명령은 §R감소§!하여 §C상인§!들의 영향력을 낮출 것입니다!"
+ vdn_capitalist_minus:0 "이 명령은 §R감소§!하여 §1자본가§!들의 영향력을 낮출 것입니다!"
+ vdn_army_minus:0 "이 명령은 §R감소§!하여 §7군부§!의 영향력을 낮출 것입니다!"
+ vdn_commonfolk_minus:0 "이 명령은 §R감소§!하여 §8일반인§!들의 영향력을 낮출 것입니다!"
+ vdn_politician_minus:0 "이 명령은 §R감소§!하여 §3정치인§!들의 영향력을 낮출 것입니다!"
  vdn_army_high:0 "이 중점을 완료하려면 §7군부§!의 영향력이 높아야 합니다!"
  
  

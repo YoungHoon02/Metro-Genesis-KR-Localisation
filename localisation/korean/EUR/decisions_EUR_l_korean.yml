@@ -19,10 +19,8 @@
  EUR_decision_add_dictatorial_low: "독재 지지율 소폭 증가"
  EUR_decision_add_dictatorial_med: "독재 지지율 보통 증가"
  EUR_decision_add_dictatorial_high: "독재 지지율 대폭 증가"
-
- EUR_decision_hostile_industry: "강제 노동 착취"
  EUR_decision_hostile_display: "무력 과시"
- EUR_decision_add_slavery_industry: "산업 현장에 노예 투입"
+ EUR_decision_add_slavery_industry: "강제 노동 착취"
 
  EUR_purchase_arms_category: "군비 도입"
 
