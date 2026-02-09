@@ -1,7 +1,71 @@
 ﻿l_korean:
+ ### Laws ###
+ RED_standing_army:0 "상비군"
+ RED_standing_army_desc:0 "돌연변이와 적을 막아낼 수 있는 제대로 조직된 상비군. 혁명과 붉은 라인의 이익을 수호할 수 있다."
+
+ RED_forced_conscription:0 "강제 징병"
+ RED_forced_conscription_desc:0 "다가올 분쟁과 충돌의 시대에는 모두가 조국의 부름에 응해 그 곁에서 복무해야 한다. 원하든 원치 않든. 다가오는 폭풍 속에서 집과 가족을 지키기 위해 총과 총검을 들고 전장으로 내몰린다."
+
+ RED_mandatory_service:0 "의무 복무"
+ RED_mandatory_service_desc:0 "전쟁이 다가온다. 붉은 라인을 파괴하려는 자들에 맞서 모두가 하나의 깨지지 않는 방패로 서야 한다. 우리는 함께 선다, 함께 싸운다."
+
+ RED_blood_for_the_rodnaya:0 "§R혁명을 위한 피!§!"
+ RED_blood_for_the_rodnaya_desc:0 "적은 우리 역에 닿기도 전에 자기 피에 익사할 것이다! 후퇴 없다. 항복 없다. 한 치도 내주지 않는다. 붉은 라인을 위하여!"
+
+ #### Ideas ####
+
+ RED_exhausted_economy:0 "피폐한 경제"
+
+ RED_recovering_economy:0 "회복하는 경제"
+
+ RED_four_year_plan:0 "경제 산업화"
+
+ RED_total_mobilization:0 "총동원"
+
+ RED_war_socialism_stale:0 "쇠락한 전시 사회주의"
+ RED_war_socialism_stale_desc:0 ""
+
+ RED_demobilizing_economy:0 "동원 해제 경제"
+ RED_demobilizing_economy_desc:0 ""
+
+ RED_new_economic_plan:0 "신경제 계획"
+ RED_new_economic_plan_desc:0 ""
+
+ RED_planned_economy:0 "계획 경제"
+ RED_planned_economy_desc:0 ""
+
+ RED_mobilising_economy:0 "동원 경제"
+ RED_mobilising_economy_desc:0 ""
+
  RED_war_socialism:0 "전시 사회주의"
- RED_war_social socialism_desc:0 "전시 사회주의 체제 아래, 붉은 라인은 모든 자원과 노동력을 중앙으로 집중시켜 진행 중인 분쟁을 지원하며, 어떤 대가를 치르더라도 군의 필요를 충족시킵니다."
- RED_proletarian_mobilization:0 "프롤레타리아 동원"
- RED_proletarian_mobilization_desc:0 "우리는 붉은 라인의 노동자들에게 군대와 공장에 합류할 것을 호소합니다. 우리의 이상을 수호하기 위해 신체 건강한 모든 동지들을 동원합니다."
- RED_state_controlled_economy:0 "국가 통제 경제"
- RED_state_controlled_economy_desc:0 "국가는 경제에 대한 완전한 통제권을 유지하며, 붉은 라인의 집단적 이익을 위해 생산과 분배를 직접 관리합니다."
+ RED_war_socialism_desc:0 ""
+
+ RED_army_ransacking:0 "군대 수탈"
+ RED_army_ransacking_desc:0 ""
+
+ RED_heavy_produce_requisition:0 "중량 생산물 징발"
+ RED_heavy_produce_requisition_desc:0 ""
+
+ RED_produce_requisition:0 "생산물 징발"
+ RED_produce_requisition_desc:0 ""
+
+ RED_station_requisition:0 "역 생산물 수용"
+ RED_station_requisition_desc:0 ""
+
+ RED_export_requisition:0 "수출 중점"
+ RED_export_requisition_desc:0 ""
+
+ RED_outsider_dependency:0 "외부인 의존"
+ RED_outsider_dependency_desc:0 ""
+
+ RED_civics_support_army_pilfering:0 "군대 착복"
+ RED_civics_support_army_pilfering_desc:0 ""
+
+ RED_civics_support_requisition_share:0 "징발 배분"
+ RED_civics_support_requisition_share_desc:0 ""
+
+ RED_civics_support_cartridge_pay:0 "탄약 수당"
+ RED_civics_support_cartridge_pay_desc:0 ""
+
+ RED_civics_support_state_support:0 "국가 지원"
+ RED_civics_support_state_support_desc:0 ""

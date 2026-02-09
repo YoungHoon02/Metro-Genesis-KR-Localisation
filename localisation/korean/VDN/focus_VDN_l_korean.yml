@@ -171,7 +171,7 @@ VDN_the_silk_road:0 "메트로의 실크로드"
 VDN_the_silk_road_desc:0 "우리 연합을 가로지르는 무역로를 고대 실크로드처럼 거대하고 안전하게 구축합니다."
 
 VDN_fortis_fortune:0 "포르티스 포르투나 아디우바트"
-VDN_fortis_fortitude_desc:0 "행운은 용감한 자를 돕는 법입니다. 우리는 두려움 없이 미래를 향해 전진할 것입니다."
+VDN_fortis_fortune_desc:0 "행운은 용감한 자를 돕는 법입니다. 우리는 두려움 없이 미래를 향해 전진할 것입니다."
 
 VDN_unraidable_caravans:0 "불침의 호송대"
 VDN_unraidable_caravans_desc:0 "어떠한 도적이나 돌연변이도 감히 넘볼 수 없는 철통 같은 방어력을 갖춘 카라반을 운영합니다."
@@ -333,7 +333,7 @@ VDN_outwards_into_sukharevskaya:0 "수하레프스카야로 나감"
 VDN_outwards_into_sukharevskaya_desc:0 ""
 
 VDN_the_darkness_of_turgenevskaya:0 "투르겐에프스카야의 어둠"
-VDN_터겐예프스카야의 어둠_설명:0 ""
+VDN_the_darkness_of_turgenevskaya_desc:0 ""
 
 VDN_war_on_crime:0 "범죄에 대한 전쟁"
 VDN_war_on_crime_desc:0 ""

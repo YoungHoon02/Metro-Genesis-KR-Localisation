@@ -1050,7 +1050,7 @@
  encryption_tech_research:2 "£research_speed_encryption_texticon  암호화 연구 속도"
  
  FACTORED_BY:0 "$VALUE|+%$ 증가 요인"
- DECYPTION_TOTAL_BASE:0 "$VALUE|+0$"
+ DECRYPTION_TOTAL_BASE:0 "총 기본 값: $VALUE|+.0$"
  MODIFIER_LEGITIMACY_FACTOR:0 "£occupation_cost_gain_texticon  합법성 획득"
  MODIFIER_COMPLIANCE_GAIN_ADD:0 "£compliance_gain_texticon  일일 순응도 획득"
  MODIFIER_ENEMY_SPY_NETWORK_GROWTH:0 "£spy_network_gain_enemy_texticon  적 스파이 네트워크 성장"

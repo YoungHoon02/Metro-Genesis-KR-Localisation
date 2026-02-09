@@ -26,9 +26,6 @@
 
 
  GWC_blowgun_1:0 "바람총 제작"
- GWC_blowgun_1_desc:0 "지하의 재료들을 활용해 효과적인 바람총을 만드는 공정을 확립합니다."
- GWC_blowgun_2:0 "강화된 바람총"
- GWC_blowgun_2_desc:0 "치명적인 촉을 장착하여 살상력을 극대화합니다."
 
  GWC_infiltrated_trade_stall:0 "습격당한 상단"
  GWC_infiltrated_trade_stall_desc:0 "우리 무역용 수레들이 정체모를 위협에게 공격받았습니다. 인간이나 짐승의 흔적은 전혀 없었으며, 마치 다른 무언가의 소행인 듯합니다. 상단은 당분간 우리 영토를 지나가는 것을 꺼리고 있습니다."
@@ -172,14 +169,9 @@
 
 
  GWC_blowguns:0 "바람총"
- GWC_blowguns_desc:0 "원거리에서 소리 없이 적을 무력화할 수 있는 우리의 주력 무기입니다."
  GWC_blowguns_1:0 "기본형 바람총"
- GWC_blowguns_1_desc:0 "가장 단순한 형태의 바람총이지만, 전사의 숙련도에 따라 치명적인 무기가 됩니다."
  GWC_blowguns_2:0 "전투용 바람총"
- GWC_blowguns_2_desc:0 "더 길고 정교하게 제작되어 사거리와 명중률을 높였습니다."
 
  GWC_espionage_1:0 "첩보 활동"
- GWC_espionage_1_desc:0 "어둠 속에 숨어 이교도들의 동태를 살피고 기회를 엿봅니다."
  GWC_espionage_2:0 "어둠 속의 은신"
- GWC_espionage_2_desc:0 "그림자와 하나가 되어 누구에게도 들키지 않고 적진 깊숙이 침투합니다."
 

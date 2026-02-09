@@ -1,17 +1,266 @@
 ﻿l_korean:
- RED_paranoia:0 "피해망상"
- RED_paranoia_desc:0 "내부의 위협과 배신에 대한 막심 모스크빈 총서기의 가중되는 피해망상은 붉은 라인 전역에 공포와 의심의 분위기를 조성했습니다."
- RED_the_politburo:0 "정치국"
- RED_the_politburo_desc:0 "정치국은 붉은 라인의 최고 의사 결정 기구입니다. 국가와 혁명에 관한 주요 결정은 정치국 위원들에 의해 이곳에서 이루어집니다."
- RED_war_communism:0 "전시 공산주의"
- RED_war_communism_desc:0 "혁명의 생존을 보장하기 위해 국가는 모든 경제 활동을 완전히 통제하며, 그 무엇보다 군사적 필요를 최우선으로 삼습니다."
- RED_industrial_expansion:0 "산업 확장"
- RED_industrial_expansion_desc:0 "붉은 라인의 산업 역량을 확장하고 현대화하기 위해 대대적인 노력을 기울이고 있습니다. 우리의 역들은 생산의 요새로 거듭나고 있습니다."
- RED_scavenging_expeditions:0 "잔해 수색 원정"
- RED_scavenging_expeditions_desc:0 "스토커와 군인들로 구성된 특수팀이 정기적으로 지상에 파견되어 전쟁 전의 귀중한 기술과 자원을 수색합니다."
- RED_military_drills:0 "군사 훈련"
- RED_military_drills_desc:0 "우리 병사들이 적들로부터 혁명을 수호하기 위해 항상 준비된 상태를 유지하도록 집중적인 교육과 훈련을 실시하고 있습니다."
- RED_tight_security:0 "엄중한 보안"
- RED_tight_security_desc:0 "적대 세력의 요원들에 의한 침투와 파괴 공작을 방지하기 위해 모든 붉은 라인 역에 엄격한 보안 조치가 시행되었습니다."
- RED_revolutionary_spirit:0 "혁명 정신"
- RED_revolutionary_spirit_desc:0 "혁명의 불꽃이 우리 인민의 가슴 속에 밝게 타오르고 있습니다. 이는 그들이 미래를 위해 더 열심히 일하고 더 용감하게 싸우도록 고취합니다."
+
+ communist_fascist_aggression: "공산주의와 파시즘의 충돌"
+ communist_fascist_aggression_desc: "붉은 라인과 제국은 끝없는 전쟁의 막다른 골목에 갇혀 서로를 물어뜯고 있다. 결말은 오직 하나뿐이다.\n\n§R하나가 남으면 다른 하나는 쓰러진다...§!"
+ 
+ red_line:0 "붉은 라인"
+ red_line_desc:0 "§R붉은 라인의 민중은 필요하다면 레닌과 서기장의 이상을 지키기 위해 기꺼이 죽을 것이다!§!\n\n"
+
+ RED_disintegrating_military:0 "붕괴하는 군대"
+ RED_disintegrating_military_desc:0 "우리 군은 산산조각났다. 불과 십 년도 되지 않은 한자-붉은 라인 전쟁으로 소진되어 있다. 붉은 깃발을 지키려면 새 총과 신병이 아니라, 위에서부터의 전면 개편이 필요하다.\n\n"
+
+ RED_exhausted_economy_tt:0 "피폐한 경제"
+ RED_exhausted_economy_tt_desc:0 "자본주의 돼지 한자와의 «승리»에도 불구하고 우리의 경제는 폐허다. 옛 소련 같은 진정한 공업 거인이 되려면 먼저 이 상처를 돌봐야 한다!\n"
+
+ RED_mutinies:0 "군 내부 반란"
+ RED_mutinies_desc:0 "재앙적인 §2한자-붉은 라인 전쟁§!의 여파는 §Y붉은 라인§! 군사 체계 깊숙이 퍼져 있다. 많은 병사들이 불평하며 불만을 드러낸다. 그들 중 많은 이들은 안드레이가 §Y한자§!라는 자본주의 돼지들과 화해하며 레닌과 마르크스주의의 이상을 등 뒤에서 찔렀다고 믿는다. 군의 전면 개편에는 시간이 필요하며, 반드시 이뤄져야 한다."
+
+ revolutionist_plot_1:0 "혁명가들의 음모"
+ revolutionist_plot_1_desc:0 "속삭임과 그림자 같은 대화가 붉은 라인의 현재 «무골» 지도부를 몰아낼 계획을 말한다. 많은 역의 관료들은 비웃지만, 자기 그림자를 불안하게 바라본다. 음모가 거짓이든 진실이든 드러나기 전까지 누구도 믿을 수 없다.\n\n이 국가 정신을 제거하려면 §R굴라이폴레 공화국§!이 존재해선 안 된다!\n또는..."
+
+ RED_intra_stational_socialism: "역내 사회주의"
+ RED_intra_stational_socialism_desc: "현재 붉은 라인은 «한 노선에서 사회주의 건설» 정책을 따른다. §2한자-붉은 라인 전쟁§! 동안 소콜니체스카야가 겪은 교착 이후 영구 혁명은 배경으로 밀려났지만, 궁극적 목표는 사회주의 기치 아래 메트로 전체를 해방하는 것이다."
+ RED_intra_stational_socialism_tt: "규칙 설정: £trigger_no 자원병 파견 가능."
+
+ RED_intra_stational_socialism_reformed: "전세계 사회주의"
+
+ RED_fragmented_military:0 "분열된 군대"
+ RED_fragmented_military_desc:0 "§C한자-붉은 라인§! 전쟁 동안 §Y붉은 라인§! 병력은 얇게 찢겼고, 소통 부재와 미흡한 통합 계획이 허영에 찬 군 지휘부의 득세를 낳았다. 그들의 전설과 전과는 실제 성과보다 더 유명하다. 그들은 이제 §Y붉은 라인§!의 고위 지휘부를 장악했다. 이 비대한 지휘부를 잘라내는 일은 거대한 고통이 될 것이며, 그들의 권력은 날마다 비대해지고 곪아간다."
+
+ RED_bastion_of_socialism_idea:0 "사회주의의 보루"
+ RED_bastion_of_socialism_idea_desc:0 "§C중앙 메트로 지휘부§!의 썩은 시체 위에서, §R소콜니체스카야 선§! 위에서 태어난 §Y소련§!의 유산, 그 힘과 위엄. 선로의 정면과 건축물에 깃든 소비에트 영광의 기운은 사회주의 향수의 물결을 불러일으켰다. 사회주의 유토피아를 향한 새로운 시작이다."
+
+ RED_reforming_military:0 "군 개혁"
+ RED_reforming_military_desc:0 "우리 군은 아직 제 힘을 보이지 못했다. 부패한 고위 참모진은 과두파로 가득하며, 그들은 군을 이용해 사익을 지키고 용감한 병사들을 의지에 반해 움직이게 한다. 이는 허용될 수 없다. 우리 군은 자랑스러운 붉은 군대의 후계자다. 군을 개혁해 과두파를 지우고 우리의 자부심을 해방하겠다."
+
+ RED_commanders_short_supply:0 "지휘관 부족"
+ RED_commanders_short_supply_desc:0 "군을 해방하자 지휘관 부족이 드러났다. 시간이 지나면 이 문제는 해결될 것이며, 연방을 위해 목숨을 바칠 용감한 지휘관들이 나타날 것이다."
+
+ RED_generals_siphoning_manpower:0 "인력 유출"
+ RED_generals_siphoning_manpower_desc:0 "군은 위태로운 상황에 있다. 병사들이 과두파 반역자들의 세력으로 넘어가고 있다. 너무 늦기 전에 이 문제를 해결해야 한다."
+
+ RED_soldiers_siphoning_equipment:0 "장비 유출"
+ RED_soldiers_siphoning_equipment_desc:0 "참모진의 과두파가 현대 장비 대부분을 자신의 충성 부대에 넘기고 있다. 이 상태가 계속되면 과두파의 힘은 정부와 맞설 정도로 커질 것이다..."
+
+ RED_de_kulakization:0 "쿨락 제거"
+ RED_de_kulakization_desc:0 "연방이 지키는 평등을 되찾으려면 쿨락 계급을 파괴해야 한다. 그들의 재산을 몰수해 민중에게 재분배할 것이다."
+
+ RED_economy_improve_line:0 "소콜니체스카야 개선"
+ RED_economy_improve_line_desc:0 ""
+
+ RED_economy_improve_living:0 "생활 여건 개선"
+ RED_economy_improve_living_desc:0 "더 건강한 식량 생산과 더 나은 의약품을 위한 연구에 투자를 늘리면, 연방의 생활 여건은 빠르게 나아질 것이다. 이 어두운 메트로에서 더 살기 좋은 곳이 될 것이다."
+
+ RED_mushroom_revolt:0 "버섯 반란"
+ RED_mushroom_revolt_desc:0 "우리 노동자들은 조종당하고 있다. 우리가 그들을 지키려 한다는 것과 연방이 그들 곁에 있다는 것을 보여줘야 한다."
+
+ RED_protests:0 "대규모 시위"
+ RED_protests_desc:0 "사람들이 역을 점거해 역간 이동과 무역이 마비되고 있다. 반혁명이 시작되기 전에 이 문제를 해결해야 한다..."
+
+ RED_military_mutinies:0 "군부 반란"
+ RED_military_mutinies_desc:0 "과두파가 힘을 이용해 군을 조종하며 연방에 맞서게 하고 있다. 우리의 개혁은 그들의 반감을 샀고, 그들은 쿠데타를 준비한다. 혁명을 파괴할 힘을 쌓기 전에 이를 막아야 한다. 전우들의 통제권을 되찾고, 반역자들을 처벌하라..."
+
+ RED_military_mutinies_2:0 "약해지는 군부 반란"
+ RED_military_mutinies_2_desc:0 "우리의 조치로 과두파는 힘을 잃고 있다. 우리는 병사들의 신뢰를 되찾고 있으며, 몇 달 안에 반역자들을 처벌할 것이다."
+
+ RED_military_mutinies_3:0 "붕괴하는 군부 반란"
+ RED_military_mutinies_3_desc:0 "우리는 병사들의 신뢰를 되찾았다. 그들은 부패한 참모진에 맞서 반란을 일으키고 있다. 지금이 전우들을 돕고 연방을 해치려 한 놈들을 없앨 순간이다."
+
+ RED_mass_protests:0 "대중 시위"
+ RED_mass_protests_desc:0 "민중은 적들에게 조종되어 연방에 맞서고 있다. 그들의 잘못을 보여줘야 한다. 받아들이지 않으면 강제로 받아들이게 하겠다..."
+
+ RED_staff_purge_idea:0 "참모단 숙청"
+ RED_staff_purge_idea_desc:0 "우리는 마침내 과두파의 통제에서 용감한 군을 해방했다. 그러나 그 대가로 사라진 과두파의 빈자리를 메울 장군이 부족하다. 참모단이 회복되기까지 시간이 걸리겠지만, 그날이 오면 소련은 누구도 막을 수 없다."
+
+ RED_polis_treaty_2:0 "제2차 폴리스 조약"
+ RED_polis_treaty_2_desc:0 ""
+
+ RED_militarization_scale_back: "군사화 축소"
+ RED_workers_councils: "노동자 평의회"
+
+ RED_sovkhozes_farms:0 "소프호즈"
+ RED_sovkhozes_farms_desc:0 "소프호즈는 콜호즈보다 작은 농장이다. 소프호즈도 국가에 종속되지만 인력이 적게 들어 더 저렴했다. 이 농장을 도입하면 인구의 필요를 충족하면서도 콜호즈보다 공간을 덜 차지할 수 있다."
+
+ RED_kolkhozes_farm:0 "콜호즈"
+ RED_kolkhozes_farm_desc:0 "콜호즈는 1929년에 만들어진 국가 관리 집단 농장으로, 여러 농부들이 한 농장에서 곡물을 생산했다. 이 농장을 도입하면 인구에 필요한 식량을 충분히 생산하고 다른 역에 수출할 수도 있지만, 다른 부문 개발을 위한 공간이 줄고 소프호즈보다 지출이 커진다."
+
+ RED_quotas_production:0 "생산 할당"
+ RED_quotas_production_desc:0 "생산 할당은 우리의 생존에 필수다. 이것이 없다면 군과 민중의 필요를 충족할 수 없고, 결국 거대한 재앙으로 이어질 것이다. 생산 할당이 미움받더라도 지금은 필요하다..."
+
+ RED_cutting_edge:0 "최첨단 개발"
+ RED_cutting_edge_desc:0 "연방이 살아남으려면 연구진이 생산 방식과 전쟁 기계에서 혁신해야 한다. 우리의 기술이 메트로에서 가장 정교해지도록 만들겠다."
+
+ RED_socialist_radio_idea:0 "사회주의 라디오"
+ RED_socialist_radio_idea_desc:0 "이 어두운 시대에 민중은 의욕을 잃고 있다. 그들이 보는 것은 죽음과 끝없는 생존 싸움뿐이다. 하지만 모스크바 메트로 라디오 체계를 복구할 수 있다면, 사회주의 메시지를 전파해 잠시나마 희망과 살아갈 이유를 줄 수 있다."
+
+ RED_socialist_radio_2_idea:0 "라디오 캠페인"
+ RED_socialist_radio_2_idea_desc:0 "우리 정부는 강하지만 아직 충분하지 않다. 혁명을 확장하려면 모스크바 메트로의 다른 이념을 견디고 제거할 수 있는 정부가 필요하다. 이를 위해 다양한 라디오 캠페인을 통해 민중의 충성을 강화하겠다. 소련의 후계자로서 혁명을 위해 모든 것을 하겠다."
+
+ RED_propaganda_tune_radio:0 "라디오 선전"
+ RED_propaganda_tune_radio_desc:0 "선전은 소련 역사에서 핵심 역할을 했다. 사람들에게 혁명을 위해 일하고 싸우도록 동기를 부여했기 때문이다. 소련의 후계자가 되려면 사회주의 선전을 숙달해야 한다. 그것이 미래로 가는 첫걸음이다."
+
+ RED_propaganda_tune_radio_relations:0 "소련의 공적"
+ RED_propaganda_tune_radio_relations_desc:0 "소련의 업적은 의심할 여지가 없다. 나치즘을 파괴하고 세계와 인류를 구원했다. 우리는 민중에게 연방이 무엇을 이뤘고 왜 지금도 서 있는지 보여줘야 한다..."
+
+ RED_propaganda_tune_radio_subversion:0 "라디오 전복"
+ RED_propaganda_tune_radio_subversion_desc:0 "라디오를 이용해 적들의 의도를 민중에게 알릴 수 있다. 연방을 둘러싼 위협을 보여주고, 연방을 지키려면 먼저 공격해야 한다는 것을 가르쳐야 한다."
+
+ RED_project_soviet_ism:0 "소비에트 향수 계획"
+ RED_project_soviet_ism_desc:0 "이 어두운 분위기와 방사능, 세상의 위험은 민중의 사기를 갉아먹는다. 소련의 황금기를 보여준다면 새로운 세계에 대한 희망을 줄 수 있다. 황금빛 붉은 새 세계에 대한 희망이다."
+
+ RED_prioritise_art_and_culture_big:0 "예술 장려"
+ RED_prioritise_art_and_culture_big_desc:0 "이 어두운 시대에 민중은 세상의 잔혹함에서 벗어날 거리조차 없다. 우리는 예술을 자극해 그들에게 숨 돌릴 공간을 줘야 한다. 그리고 이를 통해 민중의 사기를 끌어올릴 수 있다..."
+
+ RED_prioritise_art_and_culture_small:0 "예술 지원금"
+ RED_prioritise_art_and_culture_small_desc:0 "예술은 매우 큰 효과를 보였다. 더 많은 자금을 예술에 돌려 민중의 마음을 얻어야 한다."
+
+ RED_conscription_reforms:0 "징병 개혁"
+ RED_conscription_reforms_desc:0 "메트로를 통일하려면 군 수요를 채울 충분한 인력이 필요하다. 선전과 경제적 보상을 통해 남자들이 군에 입대하도록 독려하겠다."
+
+ RED_adaptable_force:0 "유연한 전력"
+ RED_adaptable_force_desc:0 "이 어두운 세계에서 연방을 지키려면 모든 적 전술에 대응하고 그에 맞는 공격을 마련할 수 있는 군이 필요하다."
+
+ RED_gun_production_boost:0 "화력 증강"
+ RED_gun_production_boost_desc:0 "증강된 군대에 비해 양질의 장비가 부족하다는 사실이 드러났다. 소련의 후계자로서 우리는 모든 병사를 우리 병기고의 가장 진보한 총으로 무장시켜야 한다. 충분한 노력이 있다면 가능하다."
+
+ RED_coordination_efforts:0 "협동 전략"
+ RED_coordination_efforts_desc:0 "조율되지 않은 군은 약한 군이다. 우리 군은 완벽한 협동으로 작전을 수행해 최소한의 위험으로 적을 섬멸할 것이다. 선조들의 실수를 되풀이하지 않겠다..."
+
+ RED_outside_volunteers:0 "외부 자원병"
+ RED_outside_volunteers_desc:0 "메트로의 사람들은 혁명의 진짜 모습을 보았다. 인류를 위한 투쟁이다. 그들은 연방이 진정한 혁명의 메시지를 퍼뜨리도록 돕기 위해 군에 합류하고 있다."
+
+ RED_recruitment_campaigns:0 "모병 캠페인"
+ RED_recruitment_campaigns_desc:0 "조국은 자식들에게 자신들의 것을 되찾으라 부르고 있다. 이 부름을 외면할 수 없다. 남자들은 군에 합류해 메트로부터 소련의 땅을 되찾아야 한다. 조국은 자식들이 살아 있으며 자신을 구할 준비가 되었음을 볼 것이다."
+
+ RED_human_waves:0 "인해 전술"
+ RED_human_waves_desc:0 "붉은 라인의 특징은 많은 인구와 수많은 적이다. 우리는 이 인구를 이용해 대규모 군을 만들고, 적을 수로 압도해 그들을 꺾고 연방을 지켜야 한다."
+
+ RED_heroic_deeds:0 "영웅적 업적"
+ RED_heroic_deeds_desc:0 "우리의 용감한 병사들만이 연방을 파괴하려는 메트로의 공포들을 막아낼 수 있다. 병사들은 적을 막기 위해 모든 것을 할 것이며, 필요하다면 소련을 위해 죽을 것이다..."
+
+ RED_ura_uraa:0 "우라 우라"
+ RED_ura_uraa_desc:0 "적군은 약해졌다. 방어의 영웅들이 자신을 희생해 이 상황을 만들었다. 이제 복수할 때다. 공격하라! 우라!"
+
+ RED_flamethrowers:0 "화염방사기"
+ RED_flamethrowers_desc:0 "화염방사기는 메트로에서 유용한 무기임이 증명되었다. 전장의 좁은 공간과 불꽃의 강력한 공격이 이 무기의 가치를 키운다. 메트로 최고의 화염방사기를 개발해 혁명의 불꽃을 보여주자."
+
+ RED_army_maxims:0 "군대용 막심"
+ RED_army_maxims_desc:0 "개틀링 기관총은 제대로 쓰이면 대대를 궤멸시킬 수 있는 강력한 무기다. 우리는 전쟁에서 이 무기 개발에서 적에게 뒤처질 수 없다. 연방의 힘을 적들에게 보여줘야 한다."
+
+ RED_spec_ops_hardness:0 "특수부대 장비 개선"
+ RED_spec_ops_hardness_desc:0 "특수부대는 메트로 전쟁에서 가장 중요한 요소 중 하나가 되었다. 진압 임무부터 공격 임무까지, 그들은 유용하며 전쟁 승리에 핵심이다. 특수부대는 연방의 심장처럼 빛나야 한다."
+
+ RED_technicians_1_idea:0 "기술자 공예"
+ RED_technicians_1_idea_desc:0 "연방의 모든 병사가 메트로에서 가장 진보한 장비로 무장할 수 있도록 최고의 무기 생산을 끌어올릴 것이다. 기술자들은 이 힘들지만 불가능하지 않은 임무의 책임을 질 것이다."
+
+ RED_technicians_2_idea:0 "기술자 숙련"
+ RED_technicians_2_idea_desc:0 "시간이 흐를수록 기술자들은 소련을 위한 최고의 무기를 더 빠르고 효율적으로 만드는 방법을 개발한다."
+
+ RED_technicians_3a_idea:0 "기술자 지식"
+ RED_technicians_3a_idea_desc:0 "대부분의 기술자들은 이미 무기 제작의 전문가다. 더 빠르고 효율적인 생산 라인이 개발되었고, 우리 군은 그 혜택을 받고 있다."
+
+ RED_technicians_3b_idea:0 "기술자 인내"
+ RED_technicians_3b_idea_desc:0 "연방의 기술자들은 메트로 전체에서 가장 생산적이고 효율적이다. 군의 수요를 채울 수 있는 무기를 갖추었으니, 혁명의 승리는 그 어느 때보다 가깝다."
+
+ RED_frontline_aggressive:0 "공세 작전"
+ RED_frontline_aggressive_desc:0 "이제 제국이 무너질 때다. 더 강한 군을 이용해 그들의 군을 섬멸하고, 그들의 얼굴에 절망이 차오르는 것을 보게 하겠다."
+
+ RED_frontline_defensive:0 "방어적 진격"
+ RED_frontline_defensive_desc:0 "강한 군을 가졌더라도 제국의 군에 대한 대비는 필요하다. 우리는 강력한 방어 진지를 구축하면서 안전하게 전진할 것이다. 과거의 실수를 되풀이하지 않겠다..."
+
+ RED_frontline_reinforce:0 "증원 조율"
+ RED_frontline_reinforce_desc:0 "효율적인 증원은 적의 심장을 향한 진격을 이어가고 전선을 유지하는 열쇠다."
+
+ RED_frontline_AT:0 "대전차포"
+ RED_frontline_AT_desc:0 "메트로에서도 전차는 전쟁 진격의 핵심 요소로 남아 있다. 이 고철 괴물과 싸울 수 있는 무기로 보병을 무장시켜야 한다."
+
+ RED_fight_against_fascism:0 "파시즘과의 투쟁"
+ RED_fight_against_fascism_desc:0 "1922년 소련의 탄생 이후 파시스트들은 언제나 그것을 파괴하려 했다. 영원한 적은 끝까지 우리를 추격했다. 지금 여기서 끝내야 한다. 다시는 돌아오지 못하게 하라. 새 세계에는 과거의 병이 필요 없다."
+
+ RED_aggressive_containment:0 "공세적 봉쇄"
+ RED_aggressive_containment_desc:0 "소련이 제3제국을 길들였듯, 우리는 제4제국 군을 길들일 것이다..."
+
+ RED_MSU_battering_rams:0 "공성추"
+ RED_MSU_battering_rams_desc:0 ""
+
+ RED_hit_squads:0 "지상 저격수"
+ RED_hit_squads_desc:0 "특수부대는 저격에 유리한 위치를 식별하고 전투에서 이를 활용하도록 훈련받을 것이다. 이는 본 전투 이전에 적을 약화시키기 위한 것이며, 소련의 최첨단 저격소총을 완벽히 다루는 법도 포함된다."
+
+ RED_radio_jamming:0 "무전 교란"
+ RED_radio_jamming_desc:0 "전장에 무전 교란기를 도입하면서 우리 부대의 연결이 끊겼고, 이는 작전 계획 시 효율을 떨어뜨렸다. 또한 공격과 방어 결정을 내릴 때 참모진의 효율도 낮아졌다."
+
+ RED_special_research:0 "소비에트 과학국의 탄생"
+ RED_special_research_desc:0 "기술 발전은 메트로 내 세력의 올바른 작동에 필수다. 그것은 군과 산업 효율을 좌우한다. 우리는 소비에트 과학국을 설립해 소련이 메트로 최정상에 서도록 하겠다."
+
+ RED_special_research_volunteers:0 "비자발적 지원자"
+ RED_special_research_volunteers_desc:0 "연방의 기술 개발 노력에는 인구가 반드시 참여해야 한다. 우리는 유능한 인재를 찾아 강제로 소비에트 과학국에 참여시키겠다."
+
+ RED_special_research_volunteers_breakthrough:0 "과학적 돌파"
+ RED_special_research_volunteers_breakthrough_desc:0 "징집 통로의 설립으로 많은 남자들이 병사보다 과학자가 되기를 택했다. 이는 과학국에는 성공이지만 군에는 완전한 실패다."
+
+ RED_special_research_funding:0 "특별 연구 자금"
+ RED_special_research_funding_desc:0 "소비에트 과학국의 자금을 확충하면 장비와 방법이 개선되어 신제품과 무기 개발의 효율이 높아질 것이다."
+
+ RED_special_research_funding_breakthrough:0 "소비에트 과학국의 돌파"
+ RED_special_research_funding_breakthrough_desc:0 "과학국에 대한 우리의 노력은 결실을 보기 시작했다. 중요한 연구 붐이 시작되며, 메트로 과학의 정상으로 우리를 끌어올릴 것이다."
+
+ NKVD_secret_police_1:0 "은밀한 경찰 조직"
+ NKVD_secret_police_1_desc:0 "새로운 영토를 얻으면서 새로운 필요가 생겼다. 다른 이념을 가진 역들을 통제할 수 있는 경찰이 연방의 생존에 필수다."
+
+ NKVD_secret_police_2:0 "비밀 경찰 조직"
+ NKVD_secret_police_2_desc:0 "연방을 안전하게 지키려면 민중을 통제해야 한다. 사회의 전복 요소가 연방을 파괴하기 전에 제거할 수 있는 비밀 경찰을 만들겠다."
+
+ NKVD_administration_roles:0 "엔카베데 행정 직책"
+ NKVD_administration_roles_desc:0 "연방 내부에서 더 많은 권력을 행사하려면 행정 부문에서 가장 중요한 직책을 장악해야 한다."
+
+ RED_nkvd_anti_corruption_force:0 "반부패 부대"
+ RED_nkvd_anti_corruption_force_desc:0 "사회주의 사회의 큰 병은 언제나 부패였다. 연방의 존속을 보장하려면 부패를 싸워 제거할 수 있는 부대를 만들어야 한다."
+
+ RED_nkvd_spy_networks:0 "첩보망"
+ RED_nkvd_spy_networks_desc:0 "엔카베데는 오랫동안 첩보 활동으로 알려졌다. 이제 소련을 지키기 위해 우리의 진정한 잠재력을 활용할 때다."
+
+ RED_building_the_world_for_tomorrow:0 "내일의 세계를 위한 건설"
+ RED_building_the_world_for_tomorrow_desc:0 "이 어두운 세계는 새 세계의 토대가 세워질 자리다. 우리를 기다리는 황금 세계를 맞이할 준비를 해야 한다."
+
+ RED_for_the_world_tomorrow:0 "내일의 세계를 위하여"
+ RED_for_the_world_tomorrow_desc:0 "이 어두운 세계를 재건할 수 있는 존재는 우리뿐이다. 옛 기술을 회복하는 것이 첫걸음이다. 괴물이 없는 세계, 지상에서 살 수 있는 세계, 모두에게 안전한 식량이 있는 세계. 어제를 통해 우리는 내일의 세계를 산다."
+
+ RED_spy_networks:0 "첩보망"
+ RED_spy_networks_desc:0 "첩보 기술의 발전은 소련의 방어에 필수다. 우리는 적이 공격하기 전에 발견해 먼저 파괴할 것이다."
+
+ RED_terror:0 "대숙청"
+ RED_terror_desc:0 "스탈린이 그랬듯, 연방을 감염시키고 파괴로 이끈 적들을 제거할 것이다."
+
+ RED_lenin_fist:0 "레닌의 주먹"
+ RED_lenin_fist_desc:0 "메트로에서도 전차는 현대전의 중요한 전력임이 증명되었다. 우리는 메트로의 모든 역에 도달할 수 있는 전차를 개발해 연방의 메시지를 적들에게 전파할 것이다."
+
+ RED_cult_of_personality_idea:0 "개인 숭배"
+ RED_cult_of_personality_idea_desc:0 "우리는 지도자를 소련의 최고 영웅으로 기릴 것이다. 제국과 한자의 발톱에서 연방을 구했고, 메트로와 곧 세상까지 지켜낸 존재로..."
+
+ RED_NKVD_court_martial_roles:0 "엔카베데 군법 직책"
+ RED_NKVD_court_martial_roles_desc:0 "군 참모진의 최대 효율을 보장하기 위해, 엔카베데 요원을 군 내부에 배치해 모든 명령이 변함없이 집행되도록 하겠다..."
+
+ NKVD_military_units_buff:0 "엔카베데 통합 노력"
+ NKVD_military_units_buff_desc:0 "군과 엔카베데의 통합은 군을 통해 권력을 공고히 하는 최선의 방법이다. 이는 연방 내 우리의 지배를 보장할 것이다."
+
+ RED_heroes_of_the_workforce:0 "노동 영웅"
+ RED_heroes_of_the_workforce_desc:0 "공산주의가 무엇을 위해 싸우는지 잊어선 안 된다. 노동계급은 언제나 공산주의의 핵심이었다. 이제 연방이 홀로 서 있으니 그들을 잊어선 안 된다. 노동 영웅들이 새 세계를 세울 도구를 만들 것이다."
+
+ RED_heroes_of_the_reconstruction:0 "재건 영웅"
+ RED_heroes_of_the_reconstruction_desc:0 "메트로는 처참한 상태다. 전쟁은 어두운 역들에 혼란과 파괴를 가져왔다. 소련의 지위가 굳어졌으니, 민중이 메트로를 재건하도록 장려하겠다. 재건 영웅들은 이 황폐한 구멍에 희망과 빛을 가져올 것이다."
+
+ RED_heroes_of_the_revolution:0 "소련 영웅"
+ RED_heroes_of_the_revolution_desc:0 "연방의 모든 위협을 물리친 지금, 이를 가능하게 한 용감한 이들을 잊어선 안 된다. 그들은 새 세계의 토대를 만든 소련 영웅으로 기억될 것이다."
+
+ RED_the_loyal_conscript: "충성스러운 징집병"
+
+ RED_gun_production_boost_kuznetsky_most: "표준화된 설계 도식"
+ RED_gun_production_boost_kuznetsky_most_desc: ""
+
+ RED_LR_transmission_data: "라디오 침투"
+ RED_LR_transmission_data_desc: ""
+
+ RED_kuznetsky_technicians_assistance: "쿠즈네츠키의 동조"
+ RED_kuznetsky_technicians_assistance_desc: "§Y[KUZ.GetFlag][KUZ.GetName]§!의 시민들은 혁명의 깃발에 깊은 동정을 품고 있으며, 종종 우리 대의를 진전시키기 위해 도움을 보냅니다. §Y[KUZ.GetFlag][KUZ.GetName]§!이 우리 영향권에 있는 한, 그들은 계속해서 우리 기술자들을 지원할 것입니다."
+
+ RED_NKVD_reformed: "개혁된 체키스트들"

@@ -36,7 +36,7 @@
  KAL_payments_from_hanza_desc:0 ""
 
  KAL_anarchist_counterattack:0 "선전 전략 역공"
- KAL_반란자_counterattack_desc:0 ""
+KAL_anarchist_counterattack_desc:0 ""
 
  KAL_army_modernization:0 "군 현대화 개혁"
  KAL_army_modernization_desc:0 ""
@@ -45,10 +45,10 @@
  KAL_army_modernization2_desc:0 ""
 
  KAL_weaponsmith_specialists:0 "무기 제조 장인들"
- KAL_무기장_전문가_설명:0 ""
+ KAL_weaponsmith_specialists_desc:0 ""
 
  KAL_biggest_little_army_in_the_east:0 "동부 최대의 소국군"
- KAL_biggest_little_arme_in_the_east_desc:0 ""
+ KAL_biggest_little_army_in_the_east_desc:0 ""
 
  KAL_mad_king_2:0 "광인 왕"
  KAL_mad_king_2_desc:0 ""

@@ -97,4 +97,95 @@
 
  EUR_kill_GWC:0 "정복자"
 
- europe_rising_rome_sentiment:0 "고조되는 반의회 정서"
+europe_rising_rome_sentiment:0 "고조되는 반의회 정서"
+
+ sabotaged_industry_despot:0 "파괴된 산업"
+ sabotaged_industry_despot2:0 "파괴된 산업"
+
+ italian_majority_3:0 "이탈리아인 다수"
+
+ nova_roma:0 "노바 로마"
+
+ ad_glorium_idea:0 "아드 글로리움"
+ for_europa_idea:0 "유로파를 위하여"
+
+ united_army_europe:0 "통합 군대"
+ united_army_europe_fascist:0 "통합 군대"
+ united_army_europe_democrat:0 "통합 군대"
+
+ pax_romana_1:0 "로마의 평화"
+ pax_romana_2:0 "로마의 평화"
+ pax_romana_3:0 "로마의 평화"
+
+ buff_against_hanza:0 "한자 반대 군대"
+
+ rome_slavery_1:0 "노예제"
+ rome_slavery_2:0 "노예제"
+
+ europe_red_army:0 "인민 해방군"
+
+ europe_red_army_2:0 "인민 해방군"
+
+ remain_centralized:0 "분산 상태 유지"
+
+ brit_economy_1:0 "유럽의 총탄 경제"
+ brit_economy_2:0 "유럽의 총탄 경제"
+ brit_economy_3:0 "유럽의 총탄 경제"
+ brit_economy_4:0 "유럽의 총탄 경제"
+ brit_economy_5:0 "유럽의 총탄 경제"
+
+ commie_mutiny:0 "반란"
+ sabotaged_industry_community:0 "파괴된 산업"
+
+ EUR_mikhail:0 "미하일 이바노프"
+ _red_europe_mil_advisor:0 "붉은 라인 군사 고문"
+
+ EUR_french_crow:0 "프랑스의 까마귀"
+
+ eur_com_equality:0 "진정한 평등"
+
+ steam_engines: "증기 기관"
+ steam_engines_desc: ""
+
+ EUR_industry_militarized: "군사화된 산업"
+ EUR_industry_militarized_desc: ""
+
+ EUR_occupation_woe_to_the_vanquished: "패자에게 재앙이 있으리라"
+ EUR_occupation_woe_to_the_vanquished_desc: "정복당한 우리는 다시 정복한다."
+
+ EUR_old_world_blues_leader: "구세계 블루스"
+ EUR_old_world_blues_leader_desc: ""
+
+ ## DDR Larp!
+
+ EUR_europa_is_RED: "유럽의 미래"
+ EUR_europa_is_RED_desc: ""
+
+ EUR_mandatory_conscription_service: "필수 징병 복무"
+ EUR_mandatory_conscription_service_desc: ""
+
+ EUR_stasi: "슈타지를 창설한다"
+ EUR_stasi_desc: ""
+
+ EUR_DDR_education: "독일화"
+ EUR_DDR_education_desc: ""
+
+ EUR_german_or_ELSE: "독일 아니면 끝장!"
+ EUR_german_or_ELSE_desc: ""
+
+ EUR_stasi_networks: "은밀한 조직망"
+ EUR_stasi_networks_desc: ""
+
+ EUR_5_year_plan: "5년 계획"
+ EUR_5_year_plan_desc: ""
+
+ EUR_diversity_is_weakness: "다양성 속 약점"
+ EUR_diversity_is_weakness_desc: "§Y유로파§!는 서로 다른 언어와 문화의 미시사회로 나뉜 §Y유럽인§! 집단입니다.\n§Y제2차 파리 코뮌§!은 핵공격 직후 세 개의 고립된 역을 장악하고 서로를 하나로 묶으려 무자비하게 시도했지만 자신의 자만심 속에서 완전히 실패했습니다. 그 붕괴 이후로 각 역 간 차이는 더욱 깊어졌습니다."
+ EUR_diversity_is_weakness_2: "우리를 묶는 유대"
+ EUR_diversity_is_weakness_2_desc: ""
+ EUR_diversity_is_weakness_shared_identity: "집단 정체성"
+ EUR_diversity_is_weakness_shared_identity_desc: ""
+ EUR_diversity_is_weakness_intergration: "응집적 통합"
+ EUR_diversity_is_weakness_intergration_desc: ""
+ EUR_RD_talents: "우리 자체 연구개발 위원회"
+ EUR_RD_talents_desc: ""

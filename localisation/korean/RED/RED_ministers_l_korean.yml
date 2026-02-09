@@ -1,17 +1,116 @@
 ﻿l_korean:
- RED_maxim_moskvin:0 "막심 모스크빈"
- RED_maxim_moskvin_desc:0 "막심 모스크빈은 붉은 라인의 총서기입니다. 그는 강력한 지도력과 혁명에 대한 확고한 헌신으로 잘 알려져 있습니다."
- RED_andrey_moskvin:0 "안드레이 모스크빈"
- RED_andrey_moskvin_desc:0 "안드레이 모스크빈은 실용적이고 유능한 지도자입니다. 그는 붉은 라인의 현대화와 내부 안정을 꾀하고 있습니다."
- RED_pavel_morozov:0 "파벨 모로조프"
- RED_pavel_morozov_desc:0 "파벨 모로조프는 붉은 라인 군부의 하급직부터 차근차근 올라온 헌신적인 장교입니다. 전략적 명석함과 충성심으로 유명합니다."
- RED_vladimir_korbut:0 "블라디미르 코르부트"
- RED_vladimir_korbut_desc:0 "블라디미르 코르부트는 붉은 라인 정보부의 고위 관리입니다. 내부 보안 유지와 반대 세력 척결을 전문으로 합니다."
- RED_leonid_moskvin:0 "레오니드 모스크빈"
- RED_leonid_moskvin_desc:0 "레오니드 모스크빈은 붉은 라인의 핵심 인물입니다. 국가의 자급자족을 보장하기 위해 경제 및 산업 계획 수립에 깊이 관여하고 있습니다."
- RED_partisan_commander:0 "파르티잔 지휘관"
- RED_partisan_commander_desc:0 "게릴라전과 파괴 공작에 숙련된 이 지휘관은 붉은 라인의 비정규군을 이끌고 적들을 공격합니다."
- RED_revolutionary_agitator:0 "혁명 선동가"
- RED_revolutionary_agitator_desc:0 "민중을 고취하는 카리스마 넘치는 연설가입니다. 혁명적 열풍을 일으켜 인민들이 붉은 라인에 충성하도록 만듭니다."
- RED_nkvd_officer:0 "NKVD 장교"
- RED_nkvd_officer_desc:0 "붉은 라인 내부의 질서와 보안 유지를 담당합니다. 이 장교는 내부 위협을 식별하고 무력화하는 데 특화되어 있습니다."
+
+	### Military Advisors ###
+
+	RED_former_komsomol:0 "전직 콤소몰"
+	RED_industrialist:0 "산업가"
+	RED_gosplan:0 "고스플란 이론가"
+
+	RED_police_chief:0 "경찰청장"
+	RED_propaganda_minister:0 "선전부 장관"
+	RED_regimental_instructor:0 "훈련 교관"
+
+	### Donator Exclusives ###
+
+	RED_sergei:0 "한자-붉은 라인 전쟁의 영웅"
+	RED_sergei_name:0 "세르게이 안토노프"
+	RED_sergei_desc:0 "§Y한자-붉은 라인 전쟁§!에서 뛰어난 전공을 세운 영웅인 세르게이는, §Y한자§!와 §Y아르바트§! 병력이 반격으로 §Y레닌 도서관§!에서 §R붉은 라인§! 병력을 차단한 뒤 적진 한복판에 고립되었습니다. 지휘관을 잃은 세르게이는 분대를 재정비해 §Y연합§! 병력을 돌파하고 §R붉은 군대§! 본대와 합류했습니다. 다가오는 총탄 속으로 직접 돌격해 단독으로 §Y12§!명을 쓰러뜨린 공로로 그는 용기와 담력에 대한 훈장을 받았습니다. 진정한 모범 병사입니다."
+  
+	RED_hero_of_the_revolution:0 "혁명의 영웅"
+	RED_hero_of_the_revolution_bendito:0 "벤디토 폰 라스펠"
+	RED_hero_of_the_revolution_desc:0 "레닌은 훌륭한 지도자였어. 나머지는 다 쓰레기였지..."
+
+	### ANDREY ###
+
+	RED_andrey_moskvin:0 "안드레이 모스크빈"
+	RED_ANDREY_MOSKVIN_DESC:0 "§9«이 혁명적 필요성은 여전히 역겹다. 나는 유혈을 싫어한다.. 하지만 높은 목표를 이루기 위해서라면...»§!\n\n일리치의 끈기와 교활함을 물려받은 그는 진정한 볼셰비키 혁명가의 길을 따라 공산주의 향수를 붉은 라인에, 나아가 메트로 전체에 되살렸다. 그의 차분한 손길과 강철 같은 눈썹 아래 공산주의의 불꽃이 타올라 모스크바 사람들은 현재의 고난을 견디기 위해 러시아 과거의 영광을 바라보게 되었다. 프롤레타리아는 그를 열렬히 찬양한다. 그의 통치를 진심으로 사랑해서든, 총구 끝의 예의에서든. 모스크빈은 마지막 모스크바인이 숨을 거둘 때까지 레닌의 완강한 의지가 꺼지지 않게 할 것이다."
+ 
+	RED_andrey_war_support:0 "혁명의 상징"
+	RED_andrey_stability:0 "강경 레닌주의자"
+	RED_champion_of_the_proletariat:0 "프롤레타리아의 옹호자"
+	RED_champion_of_the_party:0 "당의 옹호자"
+	RED_andrey_just_and_fair:0 "정의로운 통치자"
+  
+	### MAXIM ### 
+
+	RED_moskvin:0 "막심 모스크빈"
+	RED_moskvin_desc:0 "러시아의 영광스럽지만 음울한 사회주의 과거를 지닌 전 §R붉은 군대§! 장교입니다. 그는 해체되기 전의 짧은 §G중앙 메트로 지휘부§!에 합류했습니다. 그의 정치 경력은 의무가 아니라 맏형 §Y안드레이§! 때문이었습니다. §Y안드레이§!가 §R붉은 라인§!을 세우고 이끈 업적은 §Y모스크빈§!에게 깊은 증오를 남겼습니다. 형의 타고난 매력과 지성, 무엇보다 성공 뒤에 가려져 그는 그늘로 밀려났습니다. 그럼에도 §R붉은 라인§! 민중에게 사랑받고 존경받는 인물입니다. 경멸과 질투가 뒤섞인 감정은 해가 갈수록 곪아갔습니다. 그럼에도 모스크빈의 전쟁 지식과 과거 경력은 쓸모가 있습니다. 그는 형처럼 «민중의 영웅»은 아니지만, 차분한 강인함과 완고한 자신감을 지니고 있습니다.\n\n§R툴팁은 믿지 마라. 모스크빈은 중점이나 이벤트로만 제거할 수 있다§!"
+  
+	RED_maxim_1a:0 "군사 고문"
+	RED_maxim_1b:0 "군 지휘관"
+
+	maxim_resolute:0 "불굴"
+	RED_chief_of_the_force_trait:0 "군 최고지휘관"
+	RED_inheritor_of_secretary_trait:0 "서기장 계승자"
+	RED_head_the_politburo_trait:0 "정치국 수장"
+
+	RED_unquestioned_general_secretary_trait:0 "붉은 라인 총서기"
+
+	### KORBUT ###
+
+	RED_korbut:0 "체슬라프 코르부트"
+	RED_korbut_desc:0 "§Y케이지비§! 의장 겸 §R붉은 라인§! §Y지식인층§!의 수장입니다. 교활하고 신중한 코르부트는 하층에서부터 올라와 그 자리에 올랐습니다. §R!붉은 라인§!에서 가장 중요한 인물 중 하나가 되었으며, 냉혹하고 비도덕적인 성정으로 반대파를 잔혹하게 탄압하는 재능을 지녔습니다. 그의 조작적 장악력, 은밀한 책략, 거대한 야망은 끝이 없습니다.\n\n§R툴팁은 믿지 마라. 코르부트는 중점이나 이벤트로만 제거할 수 있다§!"
+  
+	### GENERALS ###
+
+	RED_kovshov:0 "빅토르 코브쇼프"
+	RED_viktor_kovshov:0 "빅토르 코브쇼프"
+	RED_yury_terekhov:0 "유리 테레호프"
+	RED_georgy_rozhestvensky:0 "게오르기 로제스트벤스키"
+	RED_mikhail_korbut:0 "미하일 코르부트"
+	RED_cheslav_mihaylovich:0 "체슬라프 미하일로비치"
+	RED_Yurik_velikov:0 "유리크 벨리코프"
+	RED_Valerian_Grabovoi:0 "발레리안 그라보보이"
+	RED_Keskil_Nagibin:0 "케스킬 나기빈"
+	RED_vinogradov:0 "비노그라도프"
+	RED_vinogradov_trait:0 "가차없는 돌격가"
+	RED_aslan_kostoyev:0 "아슬란 코스토예프"
+	RED_minister_council_advisor:0 "수석 고문"
+
+	### Ministers ### 
+
+	RED_minister_of_economics:0 "경제 장관"
+	RED_stepan_markelov:0 "경제 장관"
+	RED_stepan_markelov_1:0 "경제 장관 §CI§!"
+	RED_stepan_markelov_2:0 "경제 장관 §CII§!"
+	RED_stepan_markelov_3:0 "경제 장관 §CIII§!"
+	RED_stepan_markelov_4:0 "경제 장관 §CIV§!"
+
+	RED_minister_of_foreign_affairs:0 "외무 장관"
+	RED_milan_melikhov:0 "외무 장관 §CI§!"
+	RED_milan_melikhov_2:0 "외무 장관 §CII§!"
+	RED_milan_melikhov_3:0 "외무 장관 §CIII§!"
+
+	RED_minister_of_defence:0 "국방 장관"
+	RED_vasily_petrov:0 "국방 장관 §CI§!"
+	RED_vasily_petrov_2:0 "국방 장관 §CII§!"
+	RED_vasily_petrov_3:0 "국방 장관 §CIII§!"
+
+	RED_minister_of_reclamation:0 "복구 장관"
+	RED_fyodor_akimov:0 "복구 장관 §CI§!"
+	RED_fyodor_akimov_2:0 "복구 장관 §CII§!"
+	RED_fyodor_akimov_3_resource:0 "복구 장관 §CIII§!"
+	RED_fyodor_akimov_3_construction:0 "복구 장관 §CIII§!"
+
+	RED_minister_of_domestics:0 "내무 장관"
+	RED_arkady_antonov:0 "내무 장관 §CI§!"
+	RED_arkady_antonov_2:0 "내무 장관 §CII§!"
+	RED_arkady_antonov_3:0 "내무 장관 §CIII§!"
+
+	RED_minister_of_labour:0 "노동 장관"
+	RED_yevgeny_nikiforov:0 "노동 장관 §CI§!"
+	RED_yevgeny_nikiforov_2:0 "노동 장관 §CI§!"
+	RED_yevgeny_nikiforov_3:0 "노동 장관 §CIII§!"
+
+	### Other ###
+
+	RED_golovkin:0 "이론가"
+	_RED_golovkin:0 "역사 재현가"
+
+	## 
+
+	RED_luzhkov:0 "도미니크 루즈코프"
+	RED_luzhkov_trait:0 "전략보다 병참"
+
+	RED_ukolov:0 "예브게니 우콜로프"
+	RED_ukolov_trait:0 "드레지나 지휘관"

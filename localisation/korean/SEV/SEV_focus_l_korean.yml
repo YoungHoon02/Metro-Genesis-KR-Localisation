@@ -126,7 +126,7 @@
  SEV_elite_tunnel_guards_desc:0 ""
 
  SEV_fund_military_research:0 "군사 연구를 지원하라"
- SEV_군사연구비설명:0 ""
+ SEV_fund_military_research_desc:0 ""
 
  SEV_recruitment_drives:0 "징집 공세"
  SEV_recruitment_drives_desc:0 ""

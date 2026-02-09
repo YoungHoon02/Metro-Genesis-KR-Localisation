@@ -98,3 +98,417 @@
  
  EUR_manufacture_our_own_weapons: "자체 무기 생산"
  EUR_manufacture_our_own_weapons_desc: "이제 계획을 실행에 옮겨 우리가 설계한 사양 그대로 무기를 생산해야 합니다."
+
+ ##  Random TT
+
+  EUR_hitting_a_brick_wall: "벽을 마주하다"
+  EUR_hitting_a_brick_wall_desc: ""
+
+  EUR_ready_ourselves: "스스로를 준비한다"
+  EUR_ready_ourselves_desc: ""
+
+  EUR_untouchable: "손댈 수 없는 존재"
+  EUR_untouchable_desc: ""
+
+  EUR_death_by_attrition: "소모전의 죽음"
+  EUR_death_by_attrition_desc: ""
+
+  EUR_waited_too_long: "너무 오래 기다렸다..."
+  EUR_waited_too_long_desc: ""
+
+  EUR_ready_to_take: "가져갈 준비가 되었다"
+  EUR_ready_to_take_desc: ""
+
+  EUR_militia_fighters: "민병대 전사들"
+  EUR_militia_fighters_desc: ""
+
+  EUR_stake_our_claim: "권리를 주장하다"
+  EUR_stake_our_claim_desc: ""
+
+  EUR_schulz_speech: "슐츠의 연설"
+  EUR_schulz_speech_desc: ""
+
+  EUR_defend_our_people: "국민을 지켜라"
+  EUR_defend_our_people_desc: ""
+
+  EUR_hanza_business_deal: "한자 무역 계약"
+  EUR_hanza_business_deal_desc: ""
+
+  EUR_commonwealth_army_preparations: "연방군 준비"
+  EUR_commonwealth_army_preparations_desc: ""
+
+  EUR_commonwealth_army_preparations_2: "연방군 준비 확대"
+  EUR_commonwealth_army_preparations_2_desc: ""
+
+  EUR_commonwealth_army_preparations_3: "연방을 위하여!"
+  EUR_commonwealth_army_preparations_3_desc: ""
+
+  EUR_negotiations_with_ARB: "이웃과의 협상"
+  EUR_negotiations_with_ARB_desc: ""
+
+  EUR_a_purpose: "한 목적"
+  EUR_a_purpose_desc: ""
+
+  EUR_a_hub_of_science: "과학의 중심"
+  EUR_a_hub_of_science_desc: ""
+
+  EUR_a_hub_of_trade: "무역 중심"
+  EUR_a_hub_of_trade_desc: ""
+
+  EUR_a_hub_of_science_2: "과학 발전 I"
+  EUR_a_hub_of_science_2_desc: ""
+
+  EUR_a_hub_of_trade_2: "무역 협상 I"
+  EUR_a_hub_of_trade_2_desc: ""
+
+  EUR_a_hub_of_science_3: "과학 발전 II"
+  EUR_a_hub_of_science_3_desc: ""
+
+  EUR_a_hub_of_trade_3: "무역 협상 II"
+  EUR_a_hub_of_trade_3_desc: ""
+
+  EUR_a_hub_of_science_4: "과학 발전 III"
+  EUR_a_hub_of_science_4_desc: ""
+
+  EUR_a_hub_of_trade_4: "무역 협상 III"
+  EUR_a_hub_of_trade_4_desc: ""
+
+  EUR_weapons_research: "무기 연구"
+  EUR_weapons_research_desc: ""
+
+  EUR_industry_research: "산업 연구"
+  EUR_industry_research_desc: ""
+
+  EUR_armor_research: "연구 슬롯"
+  EUR_armor_research_desc: ""
+
+  EUR_more_resources: "자원 수색 I"
+  EUR_more_resources_desc: ""
+
+  EUR_more_resources_2: "자원 수색 II"
+  EUR_more_resources_2_desc: ""
+
+  EUR_more_resources_3: "자원 수색 III"
+  EUR_more_resources_3_desc: ""
+
+  perfect_for_a_heavy: "중기관총 병사에게 완벽한 보너스"
+
+  EUR_further_industrial_drive: "산업 추진 심화"
+  EUR_further_industrial_drive_desc: ""
+
+  EUR_powerhouse_of_the_west: "서방의 산업 심장"
+  EUR_powerhouse_of_the_west_desc: ""
+
+  EUR_standardize_armaments: "장비 표준화"
+  EUR_standardize_armaments_desc: ""
+
+  EUR_joint_arms_works: "공동 무기 생산"
+  EUR_joint_arms_works_desc: ""
+
+  EUR_i_came: "§OVeni§!"
+  EUR_i_came_desc: ""
+
+  EUR_i_saw: "§OVidi§!"
+  EUR_i_saw_desc: ""
+
+  EUR_i_conquered: "§OVici§!"
+  EUR_i_conquered_desc: ""
+
+  EUR_equip_our_forces: "군대를 갖추다"
+  EUR_equip_our_forces_desc: ""
+
+  EUR_rome_in_sight: "로마가 보인다"
+  EUR_rome_in_sight_desc: ""
+
+  EUR_my_rome: "나의 로마..."
+  EUR_my_rome_desc: "마침내... 내 군단도 마침내 로마를 품게 될 것이다!"
+
+  EUR_militarized_industries: "군사화된 산업"
+  EUR_militarized_industries_desc: "로마는 고대에서 가장 군사화된 독재국 중 하나였고 황금 독수리 아래 수만의 충성스러운 군단이 행진했습니다. 사하라의 모래부터 영국의 바람 부는 섬들까지, 로마는 태양 아래 모든 것이었습니다.\n\n지금 인간은 땅속으로 밀려나며 퇴보하고 있지만, 새로운 질서가 일어날 것입니다. 강인한 정신과 엄정한 이상으로 이루어진 새로운 로마가 일어날 때, 우리는 지표면을 되찾고 옛것의 모습을 닮은 새 세상을 건설할 것입니다."
+
+  EUR_crossing_the_rubicon: "루비콘을 건너다"
+  EUR_crossing_the_rubicon_desc: "율리우스 카이사르는 루비콘 강을 넘어서며 제국 내에서 내전을 시작했습니다. 그가 돌이킬 수 없는 결심을 내렸듯, 우리도 여기서 결단을 내립니다. 우리는 아르바트 역을 점령하고 우리의 것을 되찾아 유린할 것입니다."
+
+  EUR_take_what_is_ours: "우리의 것을 되찾다"
+  EUR_take_what_is_ours_desc: ""
+
+  EUR_dagger_to_the_heart: "심장에 단검"
+  EUR_dagger_to_the_heart_desc: ""
+
+  EUR_rome_ready_RED: "붉은 라인 대비 태세"
+  EUR_rome_ready_RED_desc: ""
+
+  EUR_rome_war_RED: "붉은 라인을 정복하다"
+  EUR_rome_war_RED_desc: ""
+
+  EUR_rome_ready_RCH: "제국 대비 태세"
+  EUR_rome_ready_RCH_desc: ""
+
+  EUR_rome_war_RCH: "제국을 정복하다"
+  EUR_rome_war_RCH_desc: ""
+
+  EUR_glorify_rome: "로마를 찬미하다"
+  EUR_glorify_rome_desc: ""
+
+  EUR_bianachis_coup: "비아나치의 쿠데타"
+  EUR_bianachis_coup_desc: ""
+
+  EUR_ad_glorium: "영광을 향하여!"
+  EUR_ad_glorium_desc: ""
+
+  EUR_a_pax_romana: "파스 로마나"
+  EUR_a_pax_romana_desc: "파스 로마나, 즉 로마의 평화는 제국이 광대한 영토를 확보한 시기였습니다. 그 어느 국가도 도전하지 못했고 유례없는 평화와 번영이 제국을 가득 채웠습니다. 우리의 존재를 확보하려면 내부와 외부의 위협을 모두 제거해야 합니다."
+
+  EUR_old_world_blues: "구세계의 침울함"
+  EUR_old_world_blues_desc: ""
+
+  EUR_woe_to_the_vanquished: "패자에게 재앙을"
+  EUR_woe_to_the_vanquished_desc: "전장에서 패한 자들은 온전히 우리의 군단에 예속됩니다. 관용과 정의의 권리는 그들의 패배로 인해 희생되었습니다."
+
+  rome_slaves_in_workforce_tt: "다른 §Y기관§!에 §Y노예제§!를 통합하는 결정을 잠금 해제합니다."
+ 
+  EUR_military_display: "군사 시위"
+  EUR_military_display_desc: ""
+
+  EUR_riots_against_the_council: "의회 반대 폭동"
+  EUR_riots_against_the_council_desc: ""
+
+  EUR_expose_council_members: "의회 의원 폭로"
+  EUR_expose_council_members_desc: ""
+
+  EUR_sabotage_industry: "산업 사보타주"
+  EUR_sabotage_industry_desc: ""
+
+  EUR_lessons_from_history: "역사에서 배우다"
+  EUR_lessons_from_history_desc: ""
+
+  EUR_hostile_displays: "적대적 시위"
+  EUR_hostile_displays_desc: ""
+
+  EUR_inspire_nationalism: "국가주의 고무"
+  EUR_inspire_nationalism_desc: ""
+
+  EUR_rise_of_the_workers: "노동자들의 부상"
+  EUR_rise_of_the_workers_desc: ""
+
+  EUR_mimic_roman_institutions: "로마 제도를 모방하다"
+  EUR_mimic_roman_institutions_desc: ""
+
+  EUR_the_centurions_might: "백인대의 위력"
+  EUR_the_centurions_might_desc: ""
+
+  EUR_united_independence: "통합된 독립"
+  EUR_united_independence_desc: ""
+
+  EUR_a_military_state: "군사 국가"
+  EUR_a_military_state_desc: ""
+
+  EUR_for_europa: "유로파를 위하여"
+  EUR_for_europa_desc: ""
+
+  EUR_jumpstart_the_industry: "산업을 급가속하다"
+  EUR_jumpstart_the_industry_desc: ""
+
+  EUR_united_army: "통합군"
+  EUR_united_army_desc: ""
+
+  EUR_the_great_worm_cult_realised: "큰 벌레 신봉자의 위협을 인지하라"
+  EUR_the_great_worm_cult_realised_desc: ""
+
+  EUR_dispose_ideas_of_rome: "로마 사상을 떨쳐내다"
+  EUR_dispose_ideas_of_rome_desc: ""
+
+  EUR_rome_slaves_in_workforce: "노동력의 노예"
+  EUR_rome_slaves_in_workforce_desc: ""
+
+  EUR_militarise_the_society: "사회를 군사화하다"
+  EUR_militarise_the_society_desc: ""
+
+  EUR_legions: "군단"
+  EUR_legions_desc: ""
+
+  EUR_nationalist_militias: "국가주의 민병대"
+  EUR_nationalist_militias_desc: ""
+
+  EUR_united_militias: "통합 민병대"
+  EUR_united_militias_desc: ""
+
+  EUR_improve_living_conditions: "생활 여건 개선"
+  EUR_improve_living_conditions_desc: ""
+
+  EUR_industrialise_rome: "로마를 산업화하다"
+  EUR_industrialise_rome_desc: ""
+
+  EUR_militarise_roman_industry: "로마 산업을 군사화하다"
+  EUR_militarise_roman_industry_desc: ""
+
+  EUR_the_might_of_rome: "로마의 위력"
+  EUR_the_might_of_rome_desc: ""
+
+  EUR_all_roads_lead_to_rome: "모든 길은 로마로 통한다"
+  EUR_all_roads_lead_to_rome_desc: ""
+
+  EUR_core_GWC: "큰 벌레 신봉자 영토 통합"
+  EUR_core_GWC_Desc: ""
+
+  EUR_war_HNZ: "한자와의 전쟁"
+  EUR_war_HNZ_desc: ""
+
+  EUR_kill_every_last_one: "모두 몰살하라"
+  EUR_kill_every_last_one_desc: ""
+
+ 
+  ### DDR ###
+
+  EUR_sieze_the_means_of_production: "생산 수단 장악"
+  EUR_sieze_the_means_of_production_desc: ""
+
+  EUR_sieze_the_means_of_armament: "무기 생산 수단 장악"
+  EUR_sieze_the_means_of_armament_desc: ""
+
+  EUR_follow_in_their_footsteps: "그들의 발자국을 따르다"
+  EUR_follow_in_their_footsteps_desc: ""
+
+  EUR_threats_to_the_cause: "대의에 대한 위협"
+  EUR_threats_to_the_cause_desc: ""
+
+  EUR_clear_the_infestations: "감염 지역 정리"
+  EUR_clear_the_infestations_desc: ""
+
+  EUR_people_of_europa: "유로파의 민중"
+  EUR_people_of_europa_desc: ""
+
+  EUR_rearmament: "재무장"
+  EUR_rearmament_desc: ""
+
+  EUR_devout_workers: "신념에 충실한 노동자"
+  EUR_devout_workers_desc: ""
+
+  EUR_meat_for_the_grinder: "도살장의 고기"
+
+  EUR_commie_war_ARB: "아르바트스카야와의 전쟁"
+  EUR_commie_war_ARB_desc: ""
+
+  EUR_commie_war_HNZ: "철제 독수리를 정복하다"
+  EUR_commie_war_HNZ_desc: ""
+
+  EUR_slave_army: "노예 군대"
+
+  EUR_cementing_our_place: "입지를 굳히다"
+  EUR_cementing_our_place_desc: ""
+
+  redline_advisors_europa: "§Y붉은 라인§! 고문단을 확보할 수 있게 됩니다."
+
+  EUR_central_committee: "중앙위원회"
+
+  EUR_ostalgie: "오스타르기"
+  EUR_ostalgie_desc: "사회주의에 대한 향수를 뜻하는 단어가 존재합니다. 오스타르기, 즉 향수. 우리 공동체에서 동독 시절을 기억하는 이는 드물지만, 많은 독일인과 유럽인은 안정을 갈망합니다.\n\n"
+
+  EUR_rising_dissent: "불안한 반발"
+  EUR_rising_dissent_desc: ""
+
+  EUR_mutinies_in_the_army: "군대 내 반란"
+  EUR_mutinies_in_the_army_desc: ""
+
+  EUR_workers_uprising: "노동자 봉기"
+  EUR_workers_uprising_desc: ""
+
+  EUR_a_new_era: "새 시대"
+  EUR_a_new_era_desc: ""
+
+  EUR_peoples_liberation_army: "비밀 행진"
+  EUR_peoples_liberation_army_desc: ""
+
+  EUR_reforms_in_the_military: "군사 개혁"
+  EUR_reforms_in_the_military_desc: ""
+
+  EUR_invite_RED_advisors: "붉은 라인 고문 초빙"
+  EUR_invite_RED_advisors_desc: ""
+
+  EUR_improve_red_army: "NVA 재건"
+  EUR_improve_red_army_desc: ""
+
+  EUR_forge_a_new_path: "새 길을 단조하다"
+  EUR_forge_a_new_path_desc: ""
+
+  EUR_adopt_soviet_ideals: "소비에트 이념 수용"
+  EUR_adopt_soviet_ideals_desc: ""
+
+  EUR_invite_RED_volunteers: "붉은 라인 자원병 초빙"
+  EUR_invite_RED_volunteers_desc: ""
+
+  EUR_true_eqaulity: "진정한 평등"
+  EUR_true_eqaulity_desc: ""
+
+  EUR_purge_western_ideals: "서구 이념 정화"
+  EUR_purge_western_ideals_desc: ""
+
+  EUR_the_rail_unity: "철도 단결"
+  EUR_the_rail_unity_desc: ""
+
+  EUR_a_part_of_something_larger: "더 큰 무엇의 일부"
+  EUR_a_part_of_something_larger_desc: ""
+
+  EUR_the_true_threat: "진짜 위협"
+  EUR_the_true_threat_desc: ""
+
+  EUR_make_our_own_weapons: "우리만의 무기 제작"
+  EUR_make_our_own_weapons_desc: ""
+
+  EUR_one_chain_one_aim: "한 줄기, 한 목적..."
+  EUR_one_chain_one_aim_desc: "국가는 확립된 이상과 국민 그리고 그 이상을 지키는 사명감으로 묶여 있습니다. 비천한 작업자의 손에서 역장까지, 모두는 같은 집단 사슬에 묶여 있습니다. 평화를 유지하고 공유된 보편적 목표를 향해 나아가도록 서로 서약해야 합니다. 그 목표로부터 사명은 끊임없이 강요되고, 목적은 본능이 될 것입니다."
+
+  EUR_reeducation_1: "독일어... 아니면 §RELSE!§!"
+  EUR_reeducation_1_desc: "러시아어, 프랑스어, 벨기에어, 그리고 수많은 다른 언어들이 [EUR.GetName] 아래에 존재합니다. 그중에서도 독일어가 가장 뿌리깊게 남아 있습니다. 모든 문화는 평등하지만, 어떤 문화는 다른 문화보다 더 우위에 있습니다. 우리는 프랑스어와 러시아어는 허용하되, 독일어... 우리의 독일어는 무엇보다 우대받을 것입니다."
+
+  EUR_reeducation_2: "복종은 §Y의무§!이다"
+  EUR_reeducation_2_desc: "이곳에서 기차는 기둥을 만들기 위해 짓뭉개졌습니다. 개인은 무의미합니다. 질서 아래 모두는 평등합니다."
+
+  EUR_reeducation_3: "문화적 동화"
+  EUR_reeducation_3_desc: "거지들은 기도합니다, 그들의 가난이 보장되기를. 하지만 미래의 아이들이 그럴 필요는 없을 것입니다. 그들은 삶이 투쟁임을 배우고, 자라면 그들이 무엇과 싸우고 있는지 알게 될 것입니다."
+
+  EUR_reeducation_4: "미래는 지금이다, 노인네!"
+  EUR_reeducation_4_desc: "종말이 질서의 의지를 꺾지 못했습니다. 재에서 불사조가 솟듯, 훈육은 잿더미에서 피어납니다. 붉은 여명의 뒤에 핑크빛 석양이 떠오릅니다."
+  EUR_unlock_last_two_tech_tier: "마지막 두 교육 계층을 잠금 해제합니다."
+
+  EUR_reimplement_secret_police: "비밀경찰 재편"
+  EUR_reimplement_secret_police_desc: ""
+
+  EUR_liberate_all_peoples: "모든 민족을 해방한다"
+  EUR_liberate_all_peoples_desc: ""
+
+  EUR_establis_stasi: "슈타지 창설"
+  EUR_establis_stasi_desc: ""
+
+  EUR_improve_red_army_2: "노동계급 전투 집단"
+  EUR_improve_red_army_2_desc: ""
+
+  EUR_europan_nation: "재건된 고향"
+  EUR_europan_nation_desc: "그들은 불가능하다고 했습니다! 러시아는 길들일 수도 정복할 수도 없을 것이라 했지만, 우리는 해냈습니다. 매서운 겨울과 동상 속에서 새로운 국가가 솟아났습니다. 얼음이 녹고 우리가 땅속에서 다시 나온다면, 나머지 러시아는 우리 차지가 될 것입니다. 하나의 국가, 유로파 국가."
+
+  EUR_our_weapon_of_scales: "대규모 무장"
+  EUR_our_weapon_of_scales_desc: ""
+
+  EUR_RED_emulate_chekists: "NKVD를 모방하다"
+  EUR_RED_emulate_chekists_desc: ""
+
+  EUR_affront_to_germans: "독일에 대한 도전"
+  EUR_affront_to_germans_desc: ""
+
+  EUR_affront_to_germans_1: "재교육"
+  EUR_affront_to_germans_1_desc: ""
+
+  EUR_establis_stasi_2: "무시민-제로"
+  EUR_establis_stasi_2_desc: ""
+
+  EUR_centralized_planning_2: "중앙 계획"
+  EUR_centralized_planning_2_desc: ""
+
+  EUR_centralized_planning: "국영 기업 정식화"
+  EUR_centralized_planning_desc: ""
+
+  EUR_seeking_out_talents: "이민자 선별"
+  EUR_seeking_out_talents_desc: ""
+
+  EUR_seeking_out_talents_2: "전담 작업실"
+  EUR_seeking_out_talents_2_desc: ""

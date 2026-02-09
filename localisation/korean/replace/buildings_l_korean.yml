@@ -91,14 +91,12 @@
 
  triage_hub: "응급의료소"
  triage_hub_desc: "이 건물은 부상병들을 평가하고 필요한 치료를 제공하는 장소입니다."
- triage_hub_plural: "응급의료소"
  modifier_production_speed_triage_hub_factor: "§Y$triage_hub$§! 건설 속도"
  modifier_production_speed_triage_hub_factor_desc: "§Y$triage_hub$§! 건설 속도를 수정합니다."
 
  improvised_minefield: "급조폭발물 함정"
  improvised_minefield_desc: "급조된 지뢰 지대입니다. 쉽게 파괴됩니다."
  modifier_production_speed_improvised_minefield_factor: "§Y급조폭발물 함정§! 건설 속도"
- improvised_minefield_desc_plural: "급조폭발물 함정"
  modifier_production_speed_improvised_minefield_factor_desc: "§Y$improvised_minefield$§! 건설 속도를 수정합니다."
 
  bunker: "가시선"
