@@ -16,28 +16,28 @@
   army_experience_decisions_cost_text: "[?temp_army_experience_cost|Y.0] £experience_neutral_texticon"
   army_experience_decisions_cost_text_blocked: "[?temp_army_experience_cost|R.0] £experience_neutral_texticon"
 
- flamethrower_restriction_treaty:0 "메트로 화기 제한 조약"
- flamethrower_restriction_treaty_abandon_enforce:0 "조약 이수 강제"
+ flamethrower_restriction_treaty:0 "메트로 화염 병기 제한 조약"
+ flamethrower_restriction_treaty_abandon_enforce:0 "조약 준수 강제"
  flamethrower_restriction_treaty_abandon_enforce_desc:0 ""
 
- flamethrower_restriction_treaty_abandon_brute_force:0 "협정 공식 파기"
+ flamethrower_restriction_treaty_abandon_brute_force:0 "조약 무효 선언"
  flamethrower_restriction_treaty_abandon_brute_force_desc:0 "이 협정은 자본주의자들의 소굴인 한자 동맹이 메트로 주민들을 자신들의 입맛대로 부리기 위해 만든 족쇄에 불과합니다. 우리는 더 이상 저들의 탐욕스러운 간섭을 용납하지 않을 것입니다!"
  
- flamethrower_restriction_treaty_abandon:0 "약속 폐기"
- flamethrower_restriction_treaty_abandon_desc:0 "높으신 분들은 우리가 어둠 속에서 불꽃을 일으키는 것을 두려워하는 모양입니다. 하지만 생존을 위해서는 무엇이든 해야 합니다!\n\n§g조약을 파기하는 세력이 늘어날수록, 관련 결정을 내리는 데 드는 비용이§! §G감소§!합니다."
+ flamethrower_restriction_treaty_abandon:0 "조약 파기"
+ flamethrower_restriction_treaty_abandon_desc:0 "권력자들은 우리를 진흙 속에 처박아 자연의 폭력 앞에 무력하게 만들려 하지만, 우리는 더 이상 이를 용납하지 않을 것입니다!\n\n§g조약을 파기하는 세력이 늘어날수록, 관련 결정을 내리는 데 드는 비용이§! §G감소§!합니다."
 
- flamethrower_restriction_treaty_abandon_silently:0 "비공식 조약 탈퇴"
+ flamethrower_restriction_treaty_abandon_silently:0 "조약 몰래 파기"
  flamethrower_restriction_treaty_abandon_silently_desc:0 "전쟁의 포화가 지하 세계를 뒤덮기 시작하면, 누가 조용히 화염방사기를 꺼냈는지 신경 쓸 겨를도 없을 것입니다. 혼란이 가중되면 한자 동맹도 더 시급한 문제에 집중하느라 우리를 눈여겨보지 못할 것입니다."
 
- flamethrower_restrictions_timer_until_reapply:0 "한자 동맹의 요구 수용"
+ flamethrower_restrictions_timer_until_reapply:0 "한자 동맹의 요구에 굴복"
  flamethrower_restrictions_timer_until_reapply_desc:0 "당분간은 조약 파기를 시도할 수 없습니다."
 
- flamethrower_restriction_ban_backdown:0 "한자 동맹의 압력에 굴복"
+ flamethrower_restriction_ban_backdown:0 "한자 동맹의 요구에 굴복"
 
- sanctity_of_life:0 "인간의 존엄성"
+ sanctity_of_life:0 "생명의 신성함"
  sanctity_of_life_desc: ""
 
- military_signing: "모병 활동"
+ military_signing: "용병 모집"
  military_signing_desc: ""
 
  allow_creation_faction:0 "진영 결성"
@@ -55,7 +55,7 @@
  warfare_drastic_measures:0 "전시 극단 조치"
 
  draw_short_straws:0 "의용군 제비뽑기"
- draw_short_straws_desc:0 "전쟁의 위협이 눈앞에 닥친 지금, 우리는 극단적인 조치를 취해야만 합니다. 정거장에서 사지가 멀쩡한 이들을 모아 제비뽑기를 실시하십시오. 짧은 막대를 뽑은 자들은 가문의 영광 대신 총을 들고 전선으로 향해야 할 것입니다. 비정한 수단이지만, 우리의 집을 지키기 위한 필요악입니다."
+ draw_short_straws_desc:0 "전쟁의 위협이 눈앞에 닥친 지금, 우리는 극단적인 조치를 취해야만 합니다. 정거장에서 사지가 멀쩡한 이들을 모아 제비뽑기를 실시하십시오. 짧은 막대를 뽑은 자들은 전투에 투입되어야 할 것입니다. 비정한 수단이지만, 우리의 집을 지키기 위한 필요악입니다."
 
  siphon_equipment:0 "산업 물자의 군수 전용"
  siphon_equipment_desc:0 "전쟁이 길어지면서 물자가 바닥나고 있습니다. 민간 산업에서 사용되던 모든 자원을 긁어모아 무기 제작에 투입하십시오. 조악하게 개조된 총이라도 총알만 나간다면 전력에 도움이 될 것입니다."
@@ -73,7 +73,7 @@
  give_back_to_the_people_desc:0 "오랜 고통에 지친 주민들을 위해 하루 동안의 휴식을 허용하십시오. 오늘만큼은 배불리 먹고 마시며 전쟁의 공포를 잊게 해주어야 합니다. 내일의 전투를 위한 잠시 동안의 평화입니다."
 
  give_back_to_the_people_2: "사회 안전망 투자"
- give_back_to_the_people_2_desc: "다양한 복지 방안들이 논의되고 있습니다. 자원을 주민들에게 공평하게 분배하여 사회적 안정감을 높여야 합니다. 작은 배려가 시민들의 충성심을 이끌어내는 법입니다."
+ give_back_to_the_people_2_desc: "창고에 남아도는 총알이 있습니다. 이것을 주민들에게 공평하게 나눠주는 것은 어떨까요? 작은 선물이지만 주민들의 충성심을 얻는 데 큰 도움이 될 것입니다."
 
  construction_renovations:0 "거점 시설 개보수"
  construction_renovations_desc:0 "방치된 자재들을 활용하여 정거장의 기초 인프라를 개선하고 구조적 안정성을 강화하십시오. 더 튼튼한 요새가 우리의 생존을 보장할 것입니다."
@@ -83,8 +83,8 @@
   command_power_5: "£command_power §Y5§!"
   command_power_5_blocked: "£command_power §R5§!"
 
-  command_power_10: "명령력 £command_power §Y10§!"
-  command_power_10_blocked: "명령력 £command_power §R10§!"
+  command_power_10: "£command_power §Y10§!"
+  command_power_10_blocked: "£command_power §R10§!"
 
   command_power_15: "£command_power §Y15§!"
   command_power_15_blocked: "£command_power §R15§!"
@@ -114,8 +114,8 @@
   army_experience_5: "£army_experience §Y5§!"
   army_experience_5_blocked: "£army_experience §R5§!"
 
-  army_experience_10: "군대 경력 £army_experience §Y10§!"
-  army_experience_10_blocked: "군대 경력 £army_experience §R10§!"
+  army_experience_10: "£army_experience §Y10§!"
+  army_experience_10_blocked: "£army_experience §R10§!"
 
   army_experience_15: "£army_experience §Y15§!"
   army_experience_15_blocked: "£army_experience §R15§!"
@@ -126,26 +126,26 @@
   army_experience_25: "£army_experience §Y25§!"
   army_experience_25_blocked: "£army_experience §R25§!"
 
-  army_experience_30: "군대 경력 £army_experience §Y30§!"
-  army_experience_30_blocked: "군대 경력 £army_experience §R30§!"
+  army_experience_30: "£army_experience §Y30§!"
+  army_experience_30_blocked: "£army_experience §R30§!"
 
   army_experience_40: "£army_experience §Y40§!"
   army_experience_40_blocked: "£army_experience §R40§!"
 
-  army_experience_50: "군대 경력 £army_experience §Y50§!"
-  army_experience_50_blocked: "군대 경력 £army_experience §R50§!"
+  army_experience_50: "£army_experience §Y50§!"
+  army_experience_50_blocked: "£army_experience §R50§!"
 
   army_experience_100: "£army_experience §Y100§!"
   army_experience_100_blocked: "£army_experience §R100§!"
 
 
 
-  allow_to_conduct_war_operations:0 "전쟁 작전 수행을 허용합니다. £political_power_texticon §YDecisions§!를 통해 군대를 강화할 수 있습니다."
+  allow_to_conduct_war_operations:0 "일련의 £political_power_texticon §Y결정§!을 활성화하여 군대를 개선할 수 있습니다."
   ONE_TIME_DECISION_TT: "\n이 £political_power_texticon §YDecisions§!는 §ROne-Time§! 능력입니다."
   military_theory_committee:0 "군사 이론위원회"
   military_theory_committee_desc: ""
 
-  establish_military_committee:0 "군사위원회를 수립하라"
+  establish_military_committee:0 "군사위원회 수립"
 
   hold_exercise_routines:0 "운동 루틴"
 
@@ -161,4 +161,4 @@
   conduct_r_and_d_desc:0 "우리에겐 고도의 정밀 기기를 테스트할 깨끗한 실험실 따위는 없습니다. 새로운 프로토타입의 성능을 검증할 유일한 방법은, 그것을 전장의 군인들에게 직접 맡겨 어둠 속에서 시험하게 하는 것뿐입니다."
 
   train_the_troops:0 "신병 집체 교육"
-  train_the_troops_desc:0 "전장에 투입되기 전, 신병들에게 기본적인 화기 취급 요령과 터널 생존술을 엄격히 교육합니다."
+  train_the_troops_desc:0 ""
