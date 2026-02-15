@@ -2,26 +2,26 @@
  tunnel: "터널"
  tunnel_desc: ""
 
- flooded_tunnel_modifier: "침수 터널"
- flooded_tunnel_modifier_desc: "터널은 물로 잠기면서 여행과 전투가 어렵다"
+ flooded_tunnel_modifier: "침수된 터널"
+ flooded_tunnel_modifier_desc: "이 터널은 물에 잠겨 이동과 전투가 어렵다"
 
- flooded_station_modifier: "침수역"
- flooded_station_modifier_desc: "이 역은 물로 침수되어 여행과 전투가 어렵다"
+ flooded_station_modifier: "침수된 역"
+ flooded_station_modifier_desc: "이 역은 물에 잠겨 이동과 전투가 어렵다"
 
- anomaly_tunnel_modifier: "이상 현상 터널"
- anomaly_tunnel_modifier_desc: "과학적 이해를 넘어선 이상 현상이다. 이곳에서 전투는 어렵다, 심지어 쥐조차도 이곳에 발을 들이지 않는다"
+ anomaly_tunnel_modifier: "이상 현상이 있는 터널"
+ anomaly_tunnel_modifier_desc: "우리의 과학적 이해를 넘어선 기이한 현상이다. 쥐조차 발을 들이지 않을 정도로, 이곳에서의 전투는 어렵다"
 
- anomaly_station_modifier: "역겨운 현상이 있는 기지"
- anomaly_station_modifier_desc: "우리 과학의 이해를 넘는 이상한 현상이다. 이곳에서 싸우기는 어렵다, 심지어 쥐조차 여기서 발을 들이지도 않는다"
+ anomaly_station_modifier: "이상 현상이 있는 역"
+ anomaly_station_modifier_desc: "우리의 과학적 이해를 넘어선 기이한 현상이다. 쥐조차 발을 들이지 않을 정도로, 이곳에서의 전투는 어렵다"
 
- infested_tunnel_modifier: "괴물이 무성한 터널"
- infested_tunnel_modifier_desc: "이 터널은 악취가 나는 괴물을 가득히 차 있다. 우리의 소유로 만들기 전에 이들을 모두 없애야 한다"
+ infested_tunnel_modifier: "괴물이 들끓는 터널"
+ infested_tunnel_modifier_desc: "이 터널에는 흉악한 돌연변이들이 들끓고 있다. 우리 것으로 만들기 전에 원정대를 보내 모든 괴물을 제거해야 한다"
 
- infested_station_modifier: "감염된 기지"
- infested_station_modifier_desc: "이 기지는 더러운 변형체에 의해 감염되어 있다. 우리는 그들을 제거하기 위해 임무를 파견해야 한다"
+ infested_station_modifier: "괴물이 들끓는 역"
+ infested_station_modifier_desc: "이 역에는 흉악한 돌연변이들이 들끓고 있다. 우리 것으로 만들기 전에 원정대를 보내 모든 괴물을 제거해야 한다"
 
  radiation_tunnel_modifier: "방사능 오염된 터널"
- radiation_tunnel_modifier_desc: "표면에서 방사능이 유입된다. 토끼와 같은 독성 슬러지와 고기가 바닥을 뒤덮고 있다. 이 지경에 장기간 싸우는 것은 자살 행위이다."
+ radiation_tunnel_modifier_desc: "표면에서 방사능이 유입된다. 독성 슬러지와 끈적한 오물이 바닥을 뒤덮고 있다. 이 버림받은 곳에서 장기간 싸우는 것은 자살 행위이다."
 
- radiation_station_modifier: "방사능 오염된 기지"
- radiation_station_modifier_desc: "표면에서 방사능이 새어나오고, 토양에 독성 슬러지와 유독한 고기가 널려 있다. 이 지경을 장기간 싸우는 것은 자살 행위이다."
+ radiation_station_modifier: "방사능 오염된 역"
+ radiation_station_modifier_desc: "표면에서 방사능이 유입된다. 독성 슬러지와 유독한 오물이 바닥을 뒤덮고 있다. 이 버림받은 곳에서 장기간 싸우는 것은 자살 행위이다."
