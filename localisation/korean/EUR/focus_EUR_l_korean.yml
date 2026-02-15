@@ -101,6 +101,102 @@
 
  ##  Random TT
 
+
+EUR_hitting_a_brick_wall_tt: "§Yvictory point§!를 제외한 주 내 모든 지역에 §G1§! §Y철조망§!을 추가합니다!"
+EUR_hitting_a_brick_wall_tt_2: "§Yvictory point§!를 제외한 주 내 모든 지역에 §G2§! §Y철조망§!을 추가합니다!"
+f_a_p_tt: "다른 §Y국가§!로부터 §Y장비§!를 구매할 수 있는 결정을 잠금 해제합니다!"
+EUR_tt_1_2: "새로운 §Y사단 설계도§!를 추가하고 해당 설계도의 §Y사단§! §G3§!개를 부여합니다."
+i_b_tt: "버프를 얻기 위해 §Y국가 예산§!을 증액하는 결정을 잠금 해제합니다"
+
+political_support_system_not_integrated_yet: "§R곧 출시§!"
+EUR_flag_coming_soon: "§R곧 출시§!"
+
+## Coming Soon
+
+EUR_italian_influence: "쿠데타"
+EUR_italian_influence_desc: ""
+
+EUR_british_influence: "영국 중개인들"
+EUR_british_influence_desc: "§R곧 출시§!"
+
+## Political tree no specific
+
+EUR_start_of_political_reform: "우리의 운명"
+EUR_start_of_political_reform_desc: "현재 상태로는 이 나라가 살아남지 못할 것입니다. 우리는 운명을 선택하고 무엇이 될 것인지를 결정해야 합니다..."
+
+EUR_foreign_arms_purchase: "외국 무기 구매"
+EUR_foreign_arms_purchase_desc: "군사 대비 태세를 높이고 다른 국가들과의 관계를 개선하기 위해 그들로부터 무기를 구매할 수 있습니다"
+
+EUR_democratic_reforms: "민주주의 개혁"
+EUR_democratic_reforms_desc: "민주주의적으로 국가를 개혁함으로써 의회와 집단주의 이념의 인기를 높일 수 있습니다"
+
+EUR_remove_undesirables_from_council: "의회에서 «바람직하지 않은 자»를 제거"
+EUR_remove_undesirables_from_council_desc: "의회에서 원치 않는 인물들을 제거함으로써 과두제와 독재적 이념의 인기를 높일 수 있습니다"
+
+EUR_increase_budget: "예산 증액"
+EUR_increase_budget_desc: "특정 서비스의 예산을 증액함으로써 우리 국가의 해당 측면을 개선할 수 있습니다"
+
+## Remain centralized
+
+EUR_remain_centralized: "분권화 유지"
+EUR_remain_centralized_desc: "정치적 평등을 유지하는 것이 우리 국가에 도움이 될 수 있습니다. 우리는 다양하며 모든 사람의 의견을 수렴해야 합니다"
+
+EUR_settle_the_majorities: "다수파 진정시키기"
+EUR_settle_the_majorities_desc: "효율적인 국가가 되기 전에 더 우세하고 활동적인 국가적 다수파를 진정시켜야 합니다"
+
+EUR_head_of_council: "의회 의장"
+EUR_head_of_council_desc: "의회의 저명한 인사가 수상 의장이라는 아이디어를 제안했습니다"
+
+EUR_promote_immigration: "이민 장려"
+EUR_promote_immigration_desc: "이민을 장려하면 인구가 증가하고 따라서 군사 인력도 증가합니다"
+
+EUR_industrial_reforms: "산업 개혁"
+EUR_industrial_reforms_desc: "산업적으로 국가를 개혁함으로써 더 나은 국가가 될 수 있습니다"
+
+EUR_gwc_rehabilitation: "큰 벌레 신봉자 재활"
+EUR_gwc_rehabilitation_desc: "신봉자들을 처벌하기보다 개혁하는 데 노력을 집중한다면 그들을 우리 사회의 더 나은 구성원으로 만들 수 있습니다."
+
+EUR_the_schulz_project: "슐츠 프로젝트"
+EUR_the_schulz_project_desc: "슐츠 총독은 우리 산업을 완전히 개혁할 프로젝트를 추진하는 데 점점 더 집요해지고 있습니다."
+
+EUR_bolster_national_ideals: "국가주의 이념 강화"
+EUR_bolster_national_ideals_desc: "권력을 유지하고 다수를 만족시키기 위해, 통제 가능한 환경에서 국가주의가 번영하도록 허용할 수 있습니다."
+
+EUR_equal_party_representation: "평등한 정당 대표"
+EUR_equal_party_representation_desc: "유럽의 모든 정당은 선거 제도에서 진정하고 평등한 대표권을 가질 자격이 있습니다!"
+
+EUR_lessons_from_the_reds: "혁명은 §R붉다!§!"
+EUR_lessons_from_the_reds_desc: ""
+
+EUR_lessons_from_the_reds_2: "먼지가 가라앉다"
+EUR_lessons_from_the_reds_2_desc: "우리는 투쟁에서 승리했습니다. 하지만 영향력을 확대하기 위한 전쟁은 여전히 진행 중입니다! 원래 혁명을 이끌었던 원수는 지도자 자리를 맡기를 꺼리며, 대신 우리 혁명군을 지휘하는 것을 선호합니다. 그는 훨씬 젊고 국가를 관리할 능력이 있는 사람에게 서기장 직위를 수여하기를 원합니다."
+
+EUR_tackle_the_problem_general: "문제에 정면으로 대처하라"
+EUR_tackle_the_problem_general_desc: ""
+
+EUR_a_european_union: "유럽 연합"
+EUR_a_european_union_desc: ""
+
+EUR_by_blood_and_bullets: "피와 총탄으로"
+EUR_by_blood_and_bullets_desc: " "
+
+EUR_by_words_and_wisdom: "말과 지혜로"
+EUR_by_words_and_wisdom_desc: ""
+
+EUR_preempt_the_threat: "위협을 선제하다"
+EUR_preempt_the_threat_desc: " "
+
+EUR_wait_it_out: "상황을 지켜보다"
+EUR_wait_it_out_desc: ""
+
+EUR_industrial_powerhouse: "산업 강국"
+EUR_industrial_powerhouse_desc: ""
+
+EUR_combined_efforts: "통합된 노력"
+EUR_combined_efforts_desc: ""
+
+EUR_industrial_powerhouse2: "더 위대한 산업 강국"
+EUR_industrial_powerhouse2_desc: ""
   EUR_hitting_a_brick_wall: "벽을 마주하다"
   EUR_hitting_a_brick_wall_desc: ""
 

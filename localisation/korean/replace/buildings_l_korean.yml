@@ -108,7 +108,7 @@
  bunker2: "모래주머니 배치"
  bunker2_plural: "모래주머니 배치"
  bunker2_desc: "이 건물은 공격자에 대해 $VALUE|+%0$의 공격 페널티를 부과합니다. 다중 방향으로 공격하면 요새 효과가 감소합니다."
- modifier_production_speed_bunker2_factor: "§YSandbag Emplacement§! 건설 속도"
+ modifier_production_speed_bunker2_factor: "§Y모래주머니 배치§! 건설 속도"
  modifier_production_speed_bunker2_factor_desc: "§Y모래주머니 배치$§! 건설 속도를 수정합니다."
 
 
